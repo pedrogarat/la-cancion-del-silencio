@@ -1,8 +1,8 @@
 {
-  "title": "LA GUERRA DE LA HERENCIA",
-  "subtitle": "EL ABISMO DEL POLO SUR",
-  "director": "Equipo Creativo",
-  "author": "Antigravity & Autor",
+  "title": "LA CANCIÓN DEL SILENCIO",
+  "subtitle": "CRÓNICA DE LA AMENAZA Y MISIÓN L1",
+  "director": "Pedro Garat & Equipo Creativo",
+  "author": "Pedro Garat",
   "coverImage": "cover.png",
   "chaptersMeta": [
     {
@@ -25,29 +25,11 @@
     },
     {
       "id": 3,
-      "title": "Capítulo 3: El Cadete Cósmico",
-      "act": "Acto II: La Carrera Contrarreloj",
-      "pov": "Protagonista Principal",
-      "location": "Laboratorio Subterráneo",
-      "readTime": "8 min",
-      "povImage": "img/char_protagonista.png"
-    },
-    {
-      "id": 4,
-      "title": "Capítulo 4: El Enjambre de Reconocimiento",
-      "act": "Acto II: La Carrera Contrarreloj",
-      "pov": "Aliado / Co-Protagonista",
-      "location": "Órbita Marciana / Sala de Control",
-      "readTime": "8 min",
-      "povImage": "img/char_protagonista.png"
-    },
-    {
-      "id": 5,
-      "title": "Capítulo 5: La Batalla del Abismo Sur",
-      "act": "Acto III: El Juicio del Abismo",
-      "pov": "Protagonista / Aliado",
-      "location": "Abismo Polar (100.000 km)",
-      "readTime": "10 min",
+      "title": "Capítulo 3: La Sala Dos",
+      "act": "Acto I: La Semilla y el Tejido Silencioso",
+      "pov": "Dr. Jean-Luc Girard / Dra. Sarah Lin / Dr. Thomas Wright",
+      "location": "Midtown East, Manhattan, Nueva York (Hotel Millennium)",
+      "readTime": "15 min",
       "povImage": "img/char_protagonista.png"
     }
   ]

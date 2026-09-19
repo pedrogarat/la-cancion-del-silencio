@@ -1,6 +1,6 @@
-# Proyecto de Novela Interactiva
+# La Canción del Silencio
 
-Este espacio de trabajo contiene el lector web oficial y la infraestructura de desarrollo para tu nueva novela interactiva, con diseño adaptativo, control de temas visuales, reproductor de audiolibro y ambiente sonoro.
+Novela de suspense científico y cósmico. Espacio de trabajo oficial con manuscritos, desgloses, generadores de PDF editoriales y lector web interactivo.
 
 ---
 
