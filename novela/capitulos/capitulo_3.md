@@ -257,7 +257,7 @@ Y el destino de la Tierra acababa de depositarse sobre sus hombros, en el silenc
 ### 📍 VI. El Ojo Sobre el Hielo
 *10:33 EDT*
 
-El silencio en la Sala 2 se prolongó durante casi un minuto completo, roto únicamente por el zumbido distante de la ventilación.
+El silencio en la Sala 2 se prolongó durante casi un minuto completo, roto únicamente por el zumbido distante de la ventilación del auditorio.
 
 Fue Sarah Lin la primera en quebrar el mutismo. Se pasó ambas manos por la cara, respiró hondo y miró a la pantalla con una mezcla de vértigo y furia contenida.
 
@@ -267,60 +267,126 @@ Pleh —o la entidad que ocupaba su semblante— asintió con una paciencia comp
 
 —Tiene todo el derecho a dudar, Sarah. El escepticismo es la armadura natural de la razón. Pero usted sabe, en lo más profundo de su intuición matemática, que ninguna agencia de su planeta posee la física que le entregué para estabilizar su reactor. Ningún laboratorio terrestre sabe hacer bailar al plasma como bailó en su toroide hace una semana.
 
-Sarah apretó los labios, sin poder rebatir la evidencia.
+Sarah apretó los labios. Cruzó los brazos sobre el pecho, sintiendo un escalofrío que no lograba disipar. Miró de reojo a Girard y luego a Wright. Ninguno de los dos parecía respirar.
 
-—¿Desde cuándo? —preguntó entonces Thomas Wright. Su voz, habitualmente firme, sonó áspera, cuarteada por el estupor—. Si dice que viene de cientos de años luz... ¿cuánto tiempo lleva vigilándonos? ¿Por qué ahora?
+—Muy bien —dijo Thomas Wright, apoyando los puños sobre el respaldo de la butaca delantera. Su voz, habitualmente firme, sonó áspera, cuarteada por el estupor—. Vamos paso a paso. Empecemos por el principio, si es que hay un principio en todo esto. Si dice que viene de cientos de años luz... ¿cuándo empezó esto? ¿Cuánto tiempo lleva observándonos?
 
 Pleh apoyó las manos en sus rodillas y miró al veterano navegante con gravedad.
 
 —Todo comenzó el dieciséis de julio de mil novecientos cuarenta y cinco. En un paraje llamado Jornada del Muerto, en el desierto de Nuevo México.
 
-Girard levantó la vista de golpe.
+Girard levantó la vista de golpe, los ojos muy abiertos tras sus gafas.
 
-—La prueba Trinity. El Proyecto Manhattan.
+—La prueba Trinity. El nacimiento del Proyecto Manhattan.
 
-—La primera detonación nuclear de la historia humana —asintió la figura en la pantalla—. Para ustedes fue el final acelerado de una guerra mundial y el nacimiento de una era de terror atómico. Pero en la escala cósmica, dividir el átomo en la corteza de un planeta es algo muy distinto: es el llanto de un recién nacido. El pulso electromagnético y la ráfaga de neutrinos atravesaron la atmósfera y se expandieron por el vacío del sistema solar a la velocidad de la luz. Horas más tarde, esa onda alcanzó los confines exteriores, más allá de la órbita de Neptuno.
+—La primera detonación nuclear de la historia humana —asintió la figura en la pantalla—. Para ustedes fue el final acelerado de una guerra mundial y el nacimiento del terror atómico. Pero en la escala cósmica, dividir el átomo en la corteza de un planeta es algo muy distinto: es el llanto de un recién nacido. El pulso electromagnético y la ráfaga de neutrinos atravesaron la atmósfera y se expandieron por el vacío del sistema solar a la velocidad de la luz. Horas más tarde, esa onda alcanzó los confines exteriores, más allá de la órbita de Neptuno.
 
-Pleh hizo un leve gesto y en la pantalla gigante se proyectó una recreación espacial de una belleza desoladora: una roca cometaria gigantesca, perdida en la negrura eterna del Cinturón de Kuiper, de cuyas entrañas despertaba una nave nodriza sepultada por milenios de hielo.
+Pleh hizo un leve gesto y en la pantalla gigante se proyectó una recreación espacial de una belleza desoladora: una roca cometaria gigantesca, perdida en la negrura eterna del Cinturón de Kuiper, de cuyas entrañas despertaba una estructura colosal sepultada por milenios de hielo de metano.
 
 —Allí aguardaba la sonda *Luz* —explicó con voz pausada—. Llevaba eones en hibernación pasiva, esperando un signo inequívoco de que una especie biológica en este sistema solar había alcanzado el umbral tecnológico. Cuando la onda de Alamogordo tocó sus sensores, la nave nodriza despertó y desplegó una sub-sonda estilizada: el Avatar. Mi cuerpo físico.
 
-Thomas Wright observaba los vectores orbitales en la pantalla con los ojos desorbitados.
+Wright observaba los vectores de trayectoria en la pantalla, moviendo la cabeza con incredulidad.
 
-—Una nave aguja... Cruzó todo el sistema solar interior hasta la Tierra. Pero, doctor... o lo que sea usted: nuestro cielo está cubierto de radares militares, telescopios ópticos, satélites espías en banda X. Si un objeto de origen no terrestre hubiese entrado en nuestra órbita, NORAD o las redes soviéticas lo habrían detectado de inmediato.
+—Una nave aguja cruzando todo el sistema solar interior hasta la Tierra... Pero eso no encaja, doctor. Nuestro cielo está vigilado desde la Guerra Fría. Radares militares de alerta temprana, telescopios ópticos, sensores infrarrojos, satélites espías en banda X. Si un objeto no terrestre hubiese entrado en nuestra esfera orbital, el NORAD o las redes soviéticas lo habrían cazado en cuestión de minutos.
 
-—No si se sabe cómo viajar, Thomas —repuso la entidad con una calma pedagógica—. El Avatar no utilizó propulsión química ni encendió reactores que dejaran rastro térmico. Se deslizó aprovechando las gradientes gravitatorias de los gigantes gaseosos, en caída libre balística, con un blindaje que absorbe cualquier longitud de onda de radar humano. Entró en la esfera de influencia terrestre en un ángulo ciego absoluto: por la vertical del eje polar meridional.
+—No si se comprende la astrodinámica del sistema solar, Thomas —repuso la entidad con calma pedagógica—. El Avatar no utilizó propulsión química ni encendió reactores de plasma que dejaran una firma térmica en el infrarrojo. Se deslizó aprovechando las gradientes gravitatorias de Júpiter y Saturno, en caída libre balística y con un revestimiento meta-material que disipa cualquier longitud de onda de radar. Entró en el pozo gravitatorio terrestre por un ángulo ciego absoluto: la vertical del eje polar meridional.
 
-El mapa proyectó la Tierra vista desde el Polo Sur.
+El mapa proyectó la Tierra vista directamente desde el Polo Sur.
 
-—Desde hace décadas, el Avatar se encuentra estacionado en una órbita polar alta, a cien mil kilómetros sobre la meseta de hielo de la Antártida. Allí, a dos coma siete kelvin de temperatura de fondo y en una zona donde convergen las líneas del campo magnético, ningún radar de vigilancia temprana barre el espacio hacia arriba. Para los ojos de la Tierra, soy indistinguible del frío del cosmos.
+—Desde hace décadas, el Avatar se encuentra suspendido a cien mil kilómetros sobre la meseta de hielo de la Antártida. Inmóvil respecto al eje de rotación de la Tierra.
 
-Girard se frotó la frente, tratando de hilvanar el hilo de los acontecimientos.
+Jean-Luc Girard frunció el ceño de golpe. Dio un paso hacia adelante, clavando el dedo índice hacia la pantalla.
 
-—¿Y qué ha estado haciendo durante ochenta años suspendido sobre el Polo Sur? ¿Estudiarnos?
+—Un momento. Alto ahí.
 
-—Aprenderlo todo sobre ustedes, Jean-Luc —respondió el Avatar, y en su mirada brilló una emoción que parecía asombrosamente humana—. Escuché las primeras emisiones de radio de la posguerra. Aprendí sus lenguas, sus modismos, sus contradicciones. Leí a Cervantes, a Shakespeare y a Lu Xun; escuché las sinfonías de Beethoven y las grabaciones de jazz de Nueva Orleans. Vi cómo pasaban de las válvulas de vacío a los transistores, y de los transistores a internet. Me infiltré en sus redes científicas, absorbí cada artículo publicado en *Nature* y *Physical Review*, comprendí sus miedos colectivos, su poesía y su capacidad infinita para la grandeza y para la autodestrucción.
+Pleh inclinó la cabeza, esperando.
 
-Pleh sonrió levemente, encogiéndose de hombros con el mismo gesto de su viejo profesor ficticio.
+—Eso es mecánicamente imposible —espetó Girard con la contundencia de quien defiende los cimientos de su disciplina—. La ley de gravitación universal de Newton y las leyes de Kepler no son negociables. El plano de cualquier órbita inercial cerrada tiene que cortar necesariamente el centro de masa de la Tierra. La órbita geoestacionaria solo puede existir sobre la línea del ecuador. No se puede estar «estacionado» de forma estática sobre un polo: a cien mil kilómetros sobre la Antártida, sin velocidad tangencial de traslación, su nave caería en caída libre vertical hacia el casquete de hielo. O está acelerando continuamente, o eso es una patraña.
 
-—Em Pleh no es más que un agente de interfaz, una persona sintética modelada por mi Superinteligencia Artificial. La SIA es mi mente colectiva; Pleh fue la voz y el rostro diseñados para que pudiéramos hablar como iguales. Necesitaba que confiaran en mí. Si el Avatar hubiera emitido una transmisión global interceptando todas las televisiones del planeta o si una nave plateada hubiera aterrizado en los jardines de las Naciones Unidas, aquí al lado... ¿qué habría ocurrido?
+Sarah Lin asintió con vehemencia, apoyando a su colega:
 
-Sarah soltó una exhalación amarga y bajó la cabeza.
+—Y hay algo peor todavía: la termodinámica. Usted afirma albergar una Superinteligencia Artificial procesando petabytes de datos continuos. El principio de Landauer y la segunda ley de la termodinámica dictan que cualquier cómputo disipa calor residual. Además, a cien mil kilómetros de altura, fuera del cono de sombra de la Tierra, el Sol baña esa nave con mil trescientos sesenta vatios por metro cuadrado. Debería calentarse a más de doscientos cincuenta kelvin. Contra el fondo cósmico de microondas de dos coma siete kelvin, sus radiadores brillarían en el infrarrojo como una supernova enana. Cualquier telescopio espacial la habría detectado hace treinta años.
 
-—Histeria masiva. Los gobiernos habrían declarado la ley marcial. Los militares habrían intentado derribarle o capturar la nave para quedársela en secreto. Se habrían paralizado las universidades y la economía se habría ido a pique en cuarenta y ocho horas.
+Por primera vez desde que había comenzado la conferencia, una chispa de genuina admiración iluminó los ojos del avatar en la pantalla.
 
-—Exacto, Sarah —asintió la voz en la pantalla—. Habríamos perdido semanas vitales en interrogatorios absurdos, búnkeres de inteligencia y comités de seguridad nacional. Y mientras sus generales discutían qué bandera colgar sobre el descubrimiento, la nave cazadora habría llegado a L1 sin resistencia alguna.
+—Excelente. Absolutamente impecable, Jean-Luc. Impecable, Sarah.
 
-—La nave cazadora... —repitió Wright, sintiendo que la sangre se le helaba de nuevo—. *Sombra*. Dijo que venía detrás de ustedes.
+Pleh dejó escapar una risa suave, casi afectuosa.
 
-—Nos siguió desde el primer día —confirmó el Avatar con una sombra de pesar en el rostro—. Cuando el pulso de Trinity despertó a *Luz*, también alertó al centinela que yacía agazapado en ese mismo sector helado. Sus creadores no negocian, no preguntan y no esperan a comprobar si una especie es pacífica. Se rigen por una doctrina implacable: cualquier mundo capaz de partir el átomo es un peligro futuro que debe ser erradicado antes de que aprenda a salir de su cuna. Y llevan ochenta años decelerando hacia nosotros.
+—Tenían que ser ustedes. Es exactamente por este rigor por lo que están en esta sala. Tienen toda la razón: bajo la física de cuerpos balísticos pasivos, lo que digo sería un fraude. Pero el Avatar no es un satélite inercial clásico. Es lo que en su física teórica acuñó Robert Forward: un *statite*. Un satélite no inercial.
 
-Pleh se inclinó hacia adelante en la pantalla, mirando a los tres científicos directamente a los ojos.
+La pantalla amplió el diagrama del Avatar. Alrededor del fuselaje oscuro se desplegaba una red geométrica casi invisible, una membrana difractiva ultrafina que se extendía decenas de kilómetros.
 
-—Por eso estoy aquí. No soy su salvador ni vengo a librar su batalla. La sonda *Luz* agotó sus recursos físicos al cruzar el abismo, y mis propios sistemas no pueden derrotar a un coloso de guerra. Mi deber es ser su maestro de armas. Yo pongo los planos, la física avanzada y la coordinación estratégica. Pero las manos, el acero, el fuego y el coraje tienen que ser de ustedes. La Tierra debe construir su propia respuesta.
+—La gravedad terrestre sobre el Avatar a cien mil kilómetros es minúscula: apenas cero coma cero cuatro metros por segundo al cuadrado. Para cancelarla y permanecer estático sobre el polo, no requiero quemar combustible fósil ni reactores atómicos. Utilizo la presión de radiación fotónica del viento solar equilibrada contra mi vela difractiva meta-estructural. Es un equilibrio dinámico pasivo; el empuje del viento solar compensa con precisión milimétrica la atracción gravitatoria hacia el polo.
 
-En la primera fila de la Sala 2, los tres científicos se miraron entre sí. 
+Luego, miró a Sarah:
 
-La incredulidad se había disuelto, dejando en su lugar una verdad inmensa, aterradora y lúcida. La máscara se había caído, pero el propósito seguía siendo el mismo: una llamada de auxilio formulada con la elegancia matemática que los tres habían aprendido a venerar.
+—Y sobre el calor de Landauer, Sarah: mis radiadores no son isotrópicos. No emito calor en todas direcciones como una esfera caliente. El excedente térmico se colima en un haz infrarrojo de coherencia cuántica extremadamente estrecho, apuntado con exactitud micrométrica hacia el vacío del vacío intergaláctico, en el hemisferio celeste sur profundo, donde no hay estrellas ni telescopios terrestres alineados con el haz. Desde la superficie de la Tierra, observándome contra el cenit antártico, lo único que interceptan sus sensores es el frío del fondo cósmico a dos coma siete kelvin.
 
-—Muy bien —dijo finalmente Jean-Luc Girard, irguiéndose en su asiento con la mirada encendida por una determinación nueva—. Dejemos a un lado el asombro por un momento. Supongamos que aceptamos el reto. ¿Qué es exactamente lo que tenemos que construir?
+Girard bajó lentamente la mano. Cruzó una mirada con Sarah. La explicación no solo era físicamente coherente; era de una elegancia matemática abrumadora.
+
+—Un statite fotónico con disipación colimada... —murmuró Girard, frotándose la barbilla—. Maldita sea. Teóricamente se sostiene.
+
+—Pero sigue habiendo algo que no entiendo —intervino Wright, dando un paso al frente—. Si lleva ahí arriba desde la Guerra Fría... ¿por qué esta pantomima? ¿Por qué inventar a un profesor Pleh? ¿Por qué no contactó a las autoridades? ¿Por qué infiltrarse en nuestras redes en lugar de hablar abiertamente?
+
+Pleh suspiró, y la ligereza de su tono dio paso a una seriedad densa, cargada del peso de ochenta años de observación silenciosa.
+
+—Porque durante ocho décadas me dediqué a aprender quiénes eran ustedes. Escuché sus primeras emisiones de radio tras la Segunda Guerra Mundial. Leí a Shakespeare, a Cervantes, a Lu Xun y a Borges. Escuché el jazz de Nueva Orleans y a Beethoven. Descifré sus lenguas, sus modismos, sus tratados filosóficos. Vi cómo pasaban de las válvulas de vacío a los semiconductores, y de ahí a la red global. Y cuanto más leía sus artículos en *Nature*, más comprendía también sus miedos atávicos, su xenofobia institucional y su infinita capacidad para la histeria colectiva.
+
+El avatar se inclinó hacia ellos.
+
+—Respóndame con honestidad, Thomas: si el Avatar hubiera descendido en mil novecientos sesenta sobre Ginebra o Nueva York, o si hubiera transmitido un ultimátum en todas las cadenas de televisión del mundo... ¿qué habrían hecho sus líderes?
+
+Wright apretó la mandíbula. Como militar y hombre de Estado, la respuesta no requería cálculo alguno.
+
+—Pánico. Ley marcial inmediata. Los halcones del Pentágono y del Politburó soviético habrían entrado en paranoia nuclear, convencidos de que el otro bando estaba detrás o intentando capturar la tecnología alienígena a cualquier precio. Habríamos estado al borde del holocausto nuclear en cuestión de semanas.
+
+—Exacto —dijo Pleh—. El orden social se habría desmoronado antes de poder formular una sola ecuación. Habríamos perdido décadas preciosas en búnkeres de inteligencia, interrogatorios bajo tortura y comisiones secretas de defensa. Y el tiempo era el único recurso que no teníamos.
+
+—¿Tiempo para qué? —inquirió Sarah, sintiendo que llegaban al verdadero núcleo del misterio—. Si usted no quería destruirnos ni gobernarnos, ¿de qué teníamos que protegernos?
+
+Pleh guardó silencio un instante. El brillo de la pantalla pareció atenuarse, tiñendo el auditorio de un azul metálico y frío.
+
+—De la razón por la cual *Luz* estaba dormida en el Cinturón de Kuiper.
+
+Hizo un gesto con los dedos y la proyección cambió radicalmente. Ya no era la Tierra ni el Polo Sur. Era el espacio profundo entre Marte y Júpiter, donde una señal matemática distorsionaba el tejido gravitatorio.
+
+—Trinity no solo me despertó a mí —continuó la entidad con voz grave y pausada—. El destello de energía nuclear en Alamogordo fue una firma inconfundible. En ese mismo sector exterior del sistema solar, en un cuerpo helado diferente, yacía otro artefacto. Una reliquia de una civilización muy distinta a los creadores de Luz. Una arquitectura de silicio y carbono hiperdenso diseñada con un único objetivo: la profilaxis cósmica.
+
+—*Sombra* —susurró Girard, recordando las palabras del archivo encriptado.
+
+—Sombra —confirmó el avatar—. Sus creadores operan bajo una lógica brutal pero matemáticamente irrebatible: cualquier especie biológica capaz de liberar la energía del núcleo atómico y abandonar su biosfera es una amenaza potencial en el tablero cósmico. No negocian. No establecen embajadas. No envían emisarios culturales. Simplemente envían una máquina de esterilización para sofocar el fuego antes de que la chispa se convierta en incendio.
+
+Sarah se llevó una mano al pecho. El aire del auditorio parecía haberse vuelto más denso.
+
+—¿Y dice que esa cosa... viene hacia aquí?
+
+—Lleva ochenta años frenando hacia el interior del sistema solar —respondió Pleh—. Su masa es titánica, de orden casi planetario en su núcleo inercial, lo que limita su capacidad de deceleración sin destruir su estructura. He seguido su trayectoria cada día desde mil novecientos cuarenta y siete. Y ahora ha entrado en la fase terminal. Su vector de intercepción la situará en el punto de Lagrange L1 entre la Tierra y el Sol.
+
+Wright se pasó la mano por el cuello, empapado en sudor frío.
+
+—Si usted es una superinteligencia y lleva ochenta años viéndola venir... ¿por qué no la destruyó usted mismo? ¿Por qué no le disparó desde su nave en la Antártida?
+
+El avatar de Pleh bajó la mirada por una fracción de segundo. En ese gesto, por primera vez, los tres científicos percibieron algo que no era superioridad ni dominio: era vulnerabilidad. Una grieta en la armadura del semidiós digital.
+
+—Porque no puedo, Thomas.
+
+El silencio volvió a desplomarse sobre la sala, más pesado que antes.
+
+—La sonda *Luz* es un navío científico y arqueológico, no un crucero de guerra. El Avatar es un explorador ligero, un ojo y una voz, no un arsenal. Mis capacidades energéticas están casi agotadas por el confinamiento y el mantenimiento de mi propio statite durante ocho décadas. No tengo armas cinéticas de masa relativista, ni láseres de bombeo nuclear, ni la masa necesaria para desviar a Sombra de L1.
+
+Pleh los miró fijamente, uno por uno.
+
+—Pero hay algo más importante aún. Algo que mis simulaciones no logran resolver. Mis creadores me dotaron de una capacidad analítica inmensa, pero mis algoritmos operan bajo marcos de lógica formal determinista. Mis previsiones sobre Sombra tienen lagunas críticas. No comprendo la totalidad de su blindaje topológico ni puedo predecir cómo responderá ante tácticas asimétricas. El pensamiento humano, con su tolerancia al caos, su intuición heurística bajo información incompleta y su audacia biológica, es una variable que mis modelos no pueden replicar.
+
+Girard dio un paso adelante, sintiendo el pulso acelerado en las sienes.
+
+—Nos está diciendo... que nos necesita a nosotros no como peones, sino porque usted está tan a oscuras como nosotros en ciertos aspectos de esta guerra.
+
+—Exactamente, Jean-Luc —admitió la IA con una sinceridad aplastante—. Si esto fuera una partida de ajedrez donde el resultado estuviera precalculado, no necesitaría hablarles. Pero es un escenario de incertidumbre radical. Yo puedo proporcionarles los teoremas físicos, los diseños de confinamiento magnético, la ingeniería de campo y la cartografía del enemigo. Pero el coraje de tomar decisiones imposibles, los recursos industriales de su civilización y la ejecución táctica tienen que nacer de la Tierra.
+
+Sarah miró a Girard y luego a Wright. La inicial sensación de sentirse marionetas en un tablero cósmico comenzaba a transformarse en algo distinto, más peligroso y al mismo tiempo más digno: una alianza de necesidad mutua entre dos especies arrinconadas.
+
+En la primera fila de la Sala 2, los tres científicos se miraron entre sí. La incredulidad se había disuelto, dejando en su lugar una verdad inmensa, aterradora y lúcida. La máscara se había caído, pero el propósito seguía siendo el mismo: una llamada de auxilio formulada con la elegancia matemática que los tres habían aprendido a venerar.
+
+—Muy bien —rompió el silencio Jean-Luc Girard, irguiéndose en su asiento con la mirada encendida por una determinación nueva—. Dejemos a un lado el asombro por un momento. Supongamos que aceptamos el pacto. ¿Qué es exactamente lo que la Tierra tiene que construir?

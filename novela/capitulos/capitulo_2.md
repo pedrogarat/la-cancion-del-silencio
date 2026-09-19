@@ -228,6 +228,6 @@ En Boston, Sarah Lin contemplaba los registros del plasma incandescente, deseand
 
 En Darmstadt, Thomas Wright archivaba los datos de vuelo de la sonda, con la satisfacción del navegante que ha descubierto a un maestro insospechado.
 
-A cada uno de ellos, por separado, aquel hombre sencillo les había regalado una solución deslumbrante y una propuesta amistosa, planteada con la naturalidad de quien sugiere un café entre colegas. Ninguno de los tres sabía de la existencia de los otros dos; cada uno creía ser el depositario de una complicidad personal y exclusiva con una mente prodigiosa.
+A cada uno de ellos, aquel hombre sencillo les había regalado una solución deslumbrante y una propuesta amistosa, planteada con la naturalidad de quien sugiere un café entre colegas. Ninguno de los tres sabía de la existencia de los otros dos; cada uno creía ser el depositario de una complicidad personal y exclusiva con una mente prodigiosa.
 
 La semilla estaba sembrada. Y cuando llegase el momento de aquella charla, ninguno de ellos dudaría en acudir.
