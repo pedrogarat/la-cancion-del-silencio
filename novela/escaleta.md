@@ -1,26 +1,29 @@
-# Escaleta Oficial: El Laberinto de Acero (5 Capítulos)
+# Escaleta de 3 Actos y Estructura Narrativa: La Guerra de la Herencia
 
-## Capítulo 1: El Muro entre las Plantas
-- **POV:** Leo Vance
-- **Ubicación:** Vestíbulo del Hotel Vanderbilt Tower / Cabina Express 3 (Planta 66-67).
-- **Resumen:** Encuentro casual en el vestíbulo entre Leo y Marcus. El ascensor se detiene violentamente entre las plantas 66 y 67. Intentos infructuosos de llamar al intercomunicador. Al forzar las puertas frontales, descubren un muro de hormigón ciego.
+## 📍 ACTO I: El Destello Atómico y la Advertencia Polar
+- **Capítulo 1: El Amanecer de Alamogordo (16 de julio de 1945):**
+  - *Conflicto:* En la madrugada de la prueba *Trinity*, científicos, militares y políticos ultiman los detalles del "Gadget" bajo una tormenta en el desierto. Tensión máxima y debate moral: ¿un arma para salvar vidas y poner fin a la guerra, o la condena definitiva de la humanidad?
+  - *Desarrollo:* La detonación atómica ilumina el desierto con la fuerza de mil soles. Mientras en la Tierra celebran el éxito, la radiación electromagnética y los isótopos artificiales escapan al espacio: en la Nube de Oort, la sonda de A despierta y eyecta al Avatar hacia el Polo Sur; a escasa distancia, la sonda cazadora de B registra el despertar de A y activa sus motores hacia el interior del Sistema Solar.
+- **Capítulo 2: Los Tres Hilos del Ilusionista (Dr. Em Pleh):**
+  - *Conflicto:* Tres de las mentes más influyentes de la ciencia aplicada internacional se encuentran al borde del fracaso en sus respectivos proyectos: el **CERN** (Ginebra) encallado en el ruido espectral de partículas, el **MIT** (Boston) incapaz de contener el plasma en su tokamak de fusión, y la **ESA/JPL** (Darmstadt) perdiendo una misión interplanetaria por una deriva orbital no corregible.
+  - *Desarrollo:* De forma aparentemente fortuita, un investigador independiente llamado **Dr. Em Pleh** se cruza en el camino de cada uno de ellos por separado a través de foros especializados, repositorios de código y correos académicos. Sin pedir reconocimientos ni financiación, Pleh entrega soluciones matemáticas de una elegancia sobrehumana que desatascan los proyectos de inmediato.
+  - *Resolución:* Pleh no menciona en ningún momento a la Civilización B ni la amenaza inminente de Sombra; su único objetivo es consolidar una autoridad y confianza técnica incuestionable en tres pilares clave de la tecnología terrestre. Al final del capítulo, los tres científicos consideran a Pleh como el mayor genio vivo de la física, sin sospechar que los tres hilos convergen en una máquina extraterrestre en órbita polar.
 
-## Capítulo 2: La Escotilla y la Segunda Cabina
-- **POV:** Marcus Holt / Leo Vance
-- **Ubicación:** Techo del ascensor / Cabina adyacente.
-- **Resumen:** Marcus aúpa a Leo al techo. Con la luz del móvil divisan una puerta lejana en el hueco, pero Leo no logra abrirla solo. Al bajar, el ascensor se desplaza horizontalmente. Las puertas se abren a la cabina de otro ascensor atrapado con Elena en su interior.
+---
 
-## Capítulo 3: La Geometría Imposible
-- **POV:** Elena Ruiz / Leo Vance
-- **Ubicación:** Entramado de cabinas flotantes.
-- **Resumen:** Los tres atrapados descubren que las cabinas se mueven en un puzzle tridimensional. Cruzar entre módulos exige saltos sincronizados y análisis de patrones geométricos.
+## 📍 ACTO II: La Caída del Escudo y el Gran Caos
+- **Capítulo 3: La Asfixia de L1 y el Silencio Magnético:**
+  - *Conflicto:* La semilla de B llega a L1 y despliega una telaraña superconductora de 50 km. Su campo magnético inverso colisiona con el terrestre por interferencia destructiva y apaga la magnetosfera.
+  - *Desarrollo:* Las brújulas pierden el rumbo, satélites de telecomunicaciones y GPS se funden y las auroras desaparecen. El secreto salta por los aires: los gobiernos deben confesar la invasión en cadena mundial. Se abre la ventana límite de 6 a 8 meses antes de que la atmósfera sea devorada por la radiación solar.
+- **Capítulo 4: El Mundo en Llamas y el Despegue Límite:**
+  - *Conflicto:* Histeria masiva, saqueos y crisis energética global amenazan con impedir el ensamblaje final de la misión de rescate en Cabo Cañaveral y Wenchang.
+  - *Desarrollo:* Bajo toques de queda y con un cielo enfermizo, el cohete interplanetario despega con el Módulo de Retorno Digital (MRD) y el Módulo de Ataque Analógico (MAA) en un viaje de 21 días hacia el Sol.
 
-## Capítulo 4: La Prensa de Metal
-- **POV:** Leo Vance
-- **Ubicación:** Intersección entre la Cabina 3 y la Cabina 7.
-- **Resumen:** Una transición crítica entre cabinas sufre un fallo estructural de movimiento. Marcus se sacrifica sosteniendo los marcos para que Leo y Elena crucen. El mecanismo aplasta trágicamente a Marcus en una sangrienta escena gore. Leo y Elena son arrojados al suelo bañados en sangre.
+---
 
-## Capítulo 5: El Vacío y las Cuentas Pendientes
-- **POV:** Leo Vance / Elena Ruiz
-- **Ubicación:** La Inmensidad Penumbrosa.
-- **Resumen:** La cabina final abre sus puertas a un espacio diáfano y negro. Avanzan a ciegas con la batería del teléfono hasta quedarse a oscuras y sin cobertura. Agotados y moribundos, entablan una conversación profunda repasando lo hecho y lo no hecho en sus vidas antes de fallecer.
+## 📍 ACTO III: En el Corazón del Enjambre y el Renacer de la Tierra
+- **Capítulo 5: El Muro de Lorentz y el Efecto Quench:**
+  - *Conflicto:* A 10.000 km de L1, el Muro de Lorentz fríe cualquier microchip. Los dos astronautas analógicos deben pilotar con válvulas mecánicas, periscopios de cuarzo y toberas hidráulicas hasta el núcleo de la telaraña.
+  - *Desarrollo:* Disparan el cañón Máser cargado de ruido cuántico directo al procesador de B. Se induce el Efecto Quench: la estructura superconductora enemiga colapsa en una supernova térmica de plasma.
+  - *Resolución:* La magnetosfera terrestre se restaura. El módulo digital rescata a los tripulantes analógicos a la deriva y la humanidad es certificada por el Avatar como la digna heredera de la civilización cósmica.
+

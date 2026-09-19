@@ -1,10 +1,17 @@
-# Biografías Detalladas de Personajes
+# Biografías y Lore Extendido
 
-## Leo Vance
-Nacido en Boston, Leo creció inmerso en la resolución de acertijos de lógica y la informática. Su frágil salud física lo mantuvo alejado de los deportes intensos, enfocando su energía en la comprensión de estructuras complejas. Su visita al rascacielos neoyorquino era para una reunión de consultoría rutinaria.
+## Protagonista Principal
+Orígenes, motivaciones pasadas y contradicciones clave que saldrán a la luz durante la historia. Sus decisiones en los capítulos iniciales definirán la trayectoria del conflicto.
 
-## Marcus Holt
-Nativo de Brooklyn, Marcus dedicó doce años al cuerpo de rescate urbano de Nueva York. Acostumbrado a situaciones de alto peligro, posee un instinto de protección férreo hacia los demás. Tras la muerte de un compañero en un derrumbe años atrás, juró no volver a dejar a nadie atrás.
+## Coprotagonista / Aliado
+Experiencia previa, habilidades técnicas o pragmáticas y la razón por la que sus intereses convergen con el protagonista.
 
-## Elena Ruiz
-Fotógrafa de arquitectura nacida en Madrid y residente en Nueva York. Elena había subido al edificio horas antes para capturar las vistas de la planta superior para una revista digital, quedando atrapada cuando la primera anomalía aisló los ascensores.
+## El Avatar de la Civilización A ("Dr. Em Pleh")
+* **Naturaleza Originaria:** Servidor cuántico y sonda autónoma de la Civilización A, estacionada a 100.000 km sobre el Polo Sur terrestre en hibernación pasiva desde hace 500.000 años, despertada por el flash isotópico de Trinity en 1945.
+* **El "Caballo de Troya Sociológico":** Para liderar a la humanidad sin desencadenar cuarentenas militares ni histeria global, concibe la identidad del **Dr. Em Pleh** ("Help Me" al revés). Reescribe retroactivamente los registros del MIT, Caltech, repositorios de arXiv y Wayback Machine, simulando 25 años de carrera científica impecable en física de plasma e interferometría.
+* **Presencia en Videollamadas:** Mediante el secuestro invisible de enlaces descendentes de satélites militares, sostiene videoconferencias con la NASA, DARPA y la ESA con latencia cero. El avatar biométrico incluye microgestos de fatiga, tensión de mandíbula, parpadeo por cansancio ocular y respuestas dialécticas con sarcasmo académico. Los comités humanos creen estar ante un genio excéntrico y solitario; en realidad están ante una superinteligencia interestelar.
+
+## La Vanguardia de la Civilización B ("La Semilla de L1 / Sombra")
+Fuerzas de caza y erradicación autónomas enviadas por la Civilización B para purgar civilizaciones emergentes mediante el despliegue de una telaraña superconductora en L1 que anula el dipolo magnético de la Tierra.
+
+

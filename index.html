@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LIFT | Novela Interactiva</title>
-    <meta name="description" content="Lector oficial de LIFT. Una novela corta claustrofóbica y trágica de Pedro Garat y Antigravity AI.">
+    <title>NUEVA NOVELA | Novela Interactiva</title>
+    <meta name="description" content="Lector oficial para la nueva novela interactiva creada con Antigravity AI.">
     
     <!-- Fuentes de Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -31,8 +31,8 @@
                 <div class="brand">
                     <span class="brand-logo">⚡</span>
                     <div class="brand-text">
-                        <span class="brand-title">LIFT</span>
-                        <span class="brand-subtitle">EL LABERINTO DEL ABISMO</span>
+                        <span class="brand-title">NUEVA NOVELA</span>
+                        <span class="brand-subtitle">EL COMIENZO DE LA AVENTURA</span>
                     </div>
                 </div>
             </div>
@@ -87,12 +87,12 @@
         <aside id="sidebar" class="sidebar">
             <div class="sidebar-header">
                 <div class="sidebar-cover">
-                    <img src="cover.png" alt="Portada de LIFT" class="sidebar-cover-img">
+                    <img src="cover.png" alt="Portada de la Novela" class="sidebar-cover-img">
                 </div>
                 <div class="sidebar-info">
-                    <h3>LIFT</h3>
-                    <p class="sidebar-author">Dirección: <strong>Pedro Garat</strong></p>
-                    <p class="sidebar-stats" id="sidebar-stats-text">5 Capítulos &bull; ~12 Páginas &bull; ~3.500 Palabras</p>
+                    <h3>NUEVA NOVELA</h3>
+                    <p class="sidebar-author">Autor: <strong>Tu Nombre</strong></p>
+                    <p class="sidebar-stats" id="sidebar-stats-text">3 Capítulos &bull; ~3 Páginas &bull; ~500 Palabras</p>
                 </div>
                 <button id="btn-close-sidebar" class="close-btn" aria-label="Cerrar">&times;</button>
             </div>
@@ -114,17 +114,17 @@
                 <div id="chapter-banner" class="chapter-banner">
                     <div class="banner-header-grid">
                         <div id="chapter-vignette" class="chapter-vignette">
-                            <img id="chapter-vignette-img" src="img/char_leo.png" alt="Retrato POV del personaje">
+                            <img id="chapter-vignette-img" src="img/char_protagonista.png" alt="Retrato POV del personaje">
                         </div>
                         <div class="banner-text-box">
-                            <div id="chapter-act-badge" class="act-badge">Acto I: El Atrapamiento</div>
+                            <div id="chapter-act-badge" class="act-badge">Acto I: Planteamiento</div>
                             <h1 id="chapter-main-title" class="chapter-title">Cargando novela...</h1>
                         </div>
                     </div>
                     
                     <div class="meta-row">
-                        <span id="meta-pov" class="meta-item">👁️ POV: Leo Vance</span>
-                        <span id="meta-location" class="meta-item">📍 Vanderbilt Tower, Nueva York</span>
+                        <span id="meta-pov" class="meta-item">👁️ POV: Protagonista Principal</span>
+                        <span id="meta-location" class="meta-item">📍 Ubicación Inicial</span>
                         <span id="meta-readtime" class="meta-item">⏱️ 5 min</span>
                         <span id="meta-pages" class="meta-item">📄 ~2.5 páginas</span>
                         <button id="btn-listen-chapter" class="audiobook-quick-listen-btn" title="Escuchar este capítulo en la sección Audiolibro">
@@ -264,7 +264,7 @@
     <div id="modal-escaleta" class="modal-overlay hidden">
         <div class="modal-box modal-large glass">
             <div class="modal-header">
-                <h3>🗺️ Escaleta del Argumento (5 Capítulos)</h3>
+                <h3>🗺️ Escaleta del Argumento</h3>
                 <button class="close-btn" onclick="closeModal('modal-escaleta')">&times;</button>
             </div>
             <div class="modal-body">
@@ -284,7 +284,7 @@
             </div>
             <div class="modal-body">
                 <div class="search-input-wrapper">
-                    <input type="text" id="global-search-input" placeholder="Escribe un personaje o concepto (ej. Leo, Marcus, Elena, Ascensor)...">
+                    <input type="text" id="global-search-input" placeholder="Escribe un personaje, concepto o palabra clave...">
                 </div>
                 <div id="search-results-list" class="search-results-list">
                     <p class="search-placeholder">Introduce al menos 2 caracteres para comenzar a buscar.</p>
@@ -319,8 +319,8 @@
                     </div>
 
                     <div class="ab-track-info">
-                        <h4 id="ab-track-title">Capítulo 1: El Espejismo del Orden</h4>
-                        <p id="ab-track-meta">Acto I &bull; POV: Cole Vance &bull; Silicon Valley</p>
+                        <h4 id="ab-track-title">Capítulo 1: El Despertar</h4>
+                        <p id="ab-track-meta">Acto I &bull; POV: Protagonista Principal &bull; Ubicación Inicial</p>
                     </div>
 
                     <!-- Selector de Pista / Capítulo / Biografías -->
@@ -371,10 +371,9 @@
                         <div class="ab-setting-item">
                             <label for="ab-vocal-profile">Perfil Vocal & Tono de Personaje:</label>
                             <select id="ab-vocal-profile" class="ab-select-input">
-                                <option value="dramatic" selected>🎭 Narrador de Thriller (Grave, sombrío, pausado)</option>
-                                <option value="leo">👤 POV Leo Vance (Analítico, perspicaz)</option>
-                                <option value="marcus">👤 POV Marcus Holt (Grave, firme, protector)</option>
-                                <option value="elena">👤 POV Elena Ruiz (Expresiva, emotiva)</option>
+                                <option value="dramatic" selected>🎭 Narrador Teatral (Grave, sombrío, pausado)</option>
+                                <option value="protagonist">👤 POV Protagonista Principal</option>
+                                <option value="ally">👤 POV Coprotagonista / Aliado</option>
                             </select>
                         </div>
 
@@ -399,10 +398,10 @@
                                 <label for="ab-soundscape-preset">Soundscape / Ambiente:</label>
                                 <select id="ab-soundscape-preset" class="ab-select-input">
                                     <option value="auto" selected>📍 Adaptativo (Ubicación)</option>
-                                    <option value="tower">🏙️ Vanderbilt Tower NY</option>
-                                    <option value="shaft">⚙️ Hueco de Ascensor</option>
-                                    <option value="matrix">⚡ Matriz de Cabinas</option>
-                                    <option value="void">🌌 El Vacío Infinito</option>
+                                    <option value="ambient1">🏙️ Ambiente Urbano / Exterior</option>
+                                    <option value="ambient2">⚙️ Interior / Tensión</option>
+                                    <option value="ambient3">⚡ Misterio / Suspenso</option>
+                                    <option value="ambient4">🌌 Atmósfera Intensa</option>
                                 </select>
                             </div>
                         </div>

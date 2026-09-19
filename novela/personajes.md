@@ -1,42 +1,56 @@
-# Ficha de Personajes y Reglas del Mundo: LIFT
+# Ficha de Personajes y Códex de la Novela
 
-## Reglas Físicas y del Mundo
+## 🎭 Elenco Principal
 
-1. **El Edificio:** Un histórico y masivo rascacielos de Nueva York (Vanderbilt Tower). Las primeras 65 plantas responden a la arquitectura convencional; a partir de la planta 66, la geometría de los huecos de ascensor se altera de forma inverosímil.
-2. **Las Cabinas:** Módulos de acero e iluminación LED que se desplazan en ejes no cartesianos (vertical, horizontal y diagonal) acoplándose entre sí.
-3. **El Entorno Final:** Una masa de oscuridad absoluta, diáfana, sin paredes detectables ni cobertura electromagnética.
-
----
-
-## Personajes Principales
-
-### 1. Leo Vance (El Débil y Listo)
-![Leo Vance](img/char_leo.png)
-
-- **Inspiración Visual:** Tobey Maguire (rasgos finos, mirada inteligente, contextura frágil y delgada, gafas de montura discreta).
-- **Rol:** Analista de datos / Paleógrafo informático.
-- **Aspecto Físico:** Delgado, frágil, tez pálida, propenso al agotamiento físico rápido y al asma de esfuerzo.
-- **Personalidad:** Observador meticuloso, deductivo, sereno bajo presión intelectual, empático.
-- **Función Narrativa:** Descifra la lógica de las cabinas y conduce el diálogo introspectivo en el desenlace.
+### 👤 Protagonista Principal
+- **Rol:** Protagonista / Perspectiva Central (POV)
+- **Perfil:** Mente observadora, reflexiva y motivada por un conflicto interno clave.
+- **Arquetipo:** El buscador de respuestas ante lo inesperado.
+- **Relaciones:** Eje central de la narrativa y puente entre la Sonda Avatar y la humanidad.
 
 ---
 
-### 2. Marcus Holt (El Fuerte y Decidido)
-![Marcus Holt](img/char_marcus.png)
-
-- **Inspiración Visual:** John Goodman (presencia imponente, corpóreo, hombros muy anchos, rostro noble y bondadoso pero resuelto y curtido).
-- **Rol:** Instructor de rescate y ex-bombero.
-- **Aspecto Físico:** Corpulento, de gran envergadura muscular, manos anchas y curtidas por el trabajo pesado.
-- **Personalidad:** Resuelto, protector, de convicciones éticas profundas, desinteresado por su propia seguridad si puede salvar a otros.
-- **Función Narrativa:** Ejecuta la fuerza bruta necesaria para abrir compuertas y aupar a Leo. Muere de forma sangrienta en el Capítulo 4 al sacrificarse por sus compañeros.
+### 👤 Aliado / Co-Protagonista
+- **Rol:** Coprotagonista / Apoyo Práctico
+- **Perfil:** Carácter decidido, pragmático y orientado a la acción o estrategia de defensa.
+- **Arquetipo:** El guardián o estratega.
+- **Relaciones:** Contrapunto dinámico con el protagonista en momentos de alta tensión.
 
 ---
 
-### 3. Elena Ruiz (La Chica Atrapada)
-![Elena Ruiz](img/char_elena.png)
+### 🤖 El Avatar de la Civilización A / "Dr. Em Pleh"
+- **Rol:** Tutor Sintético / Sonda de Contacto de la Civilización A / Director Científico Encubierto
+- **Identidad Operativa en la Tierra:** **Dr. Em Pleh** (acrónimo/anagrama invertido de *"Help Me"*). Diseñado como un "Caballo de Troya sociológico".
+- **Perfil y Fachada:** Académico brillante de unos cincuenta y tantos años, con ligero aspecto de fatiga visual, voz grave con acento neutro internacional, asimetrías faciales calibradas para proyectar rigor y un carácter asocial pero pragmático y categórico.
+- **Naturaleza Real:** Servidor cuántico y procesador asimétrico de la SIA de A, estacionado a 100.000 km en la vertical del Polo Sur terrestre.
+- **Objetivo:** Sortear los filtros burocráticos y militares de la humanidad para liderar en tiempo real la concepción, ingeniería y construcción del **Módulo de Ataque Analógico (MAA)** y el **Módulo de Retorno Digital (MRD)** sin provocar el pánico masivo antes de tiempo.
+- **Arquetipo:** El Mentor Cósmico Invisible / El Ilusionista Técnico.
 
-- **Inspiración Visual:** Sofía Vergara (cabello oscuro y ondeado, expresión expresiva y cautivadora, silueta atlética pero elegante).
-- **Rol:** Fotógrafa urbana y diseñadora.
-- **Aspecto Físico:** Estatura media, ropa práctica para trabajo de campo, cámara profesional colgada al cuello.
-- **Personalidad:** Resiliente, emocionalmente transparente, observadora visual.
-- **Función Narrativa:** Introduce la sospecha de la anomalía espacial al haber estado atrapada previamente en otra cabina flotante. Acompaña a Leo en el trágico viaje final.
+---
+
+### 👾 La Vanguardia Silenciadora (Civilización B)
+- **Rol:** Antagonista Colectivo / Sondas de Exterminio Preventivo
+- **Perfil:** Entidades autónomas genocidas que aplican el *Teorema del Exterminio Preventivo*.
+- **Arquetipo:** La Fuerza Inexorable / Depredador Pragmático.
+
+---
+
+## 🏛️ El Trío de Autoridad Científica (Los Conquistados por Pleh)
+
+### 🔬 Dr. Jean-Luc Girard (CERN - Ginebra)
+- **Cargo:** Director de Análisis Espectral de Datos y Criogenia en el Gran Colisionador de Hadrones (LHC / experimento CMS).
+- **Personalidad:** Metódico, cartesiano, obsesivo con la pureza empírica y escéptico radical ante afirmaciones sin respaldo matemático.
+- **Conflicto en Cap. 2:** Un ruido térmico/cuántico inexplicable en los detectores criogénicos a punto de forzar el cierre de su línea de investigación. Pleh le entrega anónimamente un filtro espectral no lineal que limpia la señal al 100%.
+
+### ⚡ Dra. Sarah Lin (MIT - Cambridge, EE.UU.)
+- **Cargo:** Investigadora Principal en Dinámica de Fluidos Magnetohidrodinámicos (MHD) en el *Plasma Science and Fusion Center* (PSFC).
+- **Personalidad:** Ambiciosa, brillante, directa, forjada en la presión de conseguir fusión nuclear neta antes de que se agoten los fondos privados.
+- **Conflicto en Cap. 2:** El plasma de su tokamak sufre inestabilidades de borde que perforan el confinamiento magnético en milisegundos. Un pre-print y un intercambio por correo con Pleh le entregan la solución geométrica exacta que estabiliza el plasma.
+
+### 🛰️ Dr. Thomas Wright (ESA / ESOC - Darmstadt)
+- **Cargo:** Ingeniero Jefe de Astrodinámica y Navegación de Espacio Profundo en el Centro Europeo de Operaciones Espaciales.
+- **Personalidad:** Veterano templado de las misiones espaciales europeas, protector celoso de la seguridad de vuelo de sondas multimillonarias.
+- **Conflicto en Cap. 2:** Una sonda de espacio profundo sufre un error de telemetría y deriva gravitacional que amenaza con estrellarla o perderla en el vacío. Pleh somete un parche de código al repositorio de la misión que reorienta la trayectoria usando presión de radiación pasiva con coste cero de combustible.
+
+
+

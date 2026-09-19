@@ -1,0 +1,54 @@
+{
+  "title": "LA GUERRA DE LA HERENCIA",
+  "subtitle": "EL ABISMO DEL POLO SUR",
+  "director": "Equipo Creativo",
+  "author": "Antigravity & Autor",
+  "coverImage": "cover.png",
+  "chaptersMeta": [
+    {
+      "id": 1,
+      "title": "Capítulo 1: El Amanecer de Alamogordo (Trinity, 1945)",
+      "act": "Acto I: El Destello Atómico y la Advertencia Polar",
+      "pov": "Dr. David Miller / J. Robert Oppenheimer",
+      "location": "Jornada del Muerto, Alamogordo (Nuevo México)",
+      "readTime": "12 min",
+      "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 2,
+      "title": "Capítulo 2: Los Tres Hilos del Ilusionista",
+      "act": "Acto I: La Semilla y el Tejido Silencioso",
+      "pov": "Dr. Jean-Luc Girard (CERN) / Dra. Sarah Lin (MIT) / Dr. Thomas Wright (ESA)",
+      "location": "Ginebra (CERN) - Boston (MIT) - Darmstadt (ESA)",
+      "readTime": "12 min",
+      "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 3,
+      "title": "Capítulo 3: El Cadete Cósmico",
+      "act": "Acto II: La Carrera Contrarreloj",
+      "pov": "Protagonista Principal",
+      "location": "Laboratorio Subterráneo",
+      "readTime": "8 min",
+      "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 4,
+      "title": "Capítulo 4: El Enjambre de Reconocimiento",
+      "act": "Acto II: La Carrera Contrarreloj",
+      "pov": "Aliado / Co-Protagonista",
+      "location": "Órbita Marciana / Sala de Control",
+      "readTime": "8 min",
+      "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 5,
+      "title": "Capítulo 5: La Batalla del Abismo Sur",
+      "act": "Acto III: El Juicio del Abismo",
+      "pov": "Protagonista / Aliado",
+      "location": "Abismo Polar (100.000 km)",
+      "readTime": "10 min",
+      "povImage": "img/char_protagonista.png"
+    }
+  ]
+}

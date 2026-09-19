@@ -1,18 +1,18 @@
-# Génesis y Dirección Creativa: LIFT
+# Génesis del Proyecto y Visión de la Nueva Novela
 
-> **Dirección Creativa y Producción:** Pedro Garat  
-> **Co-Creación Narrativa y Asistencia Técnica:** Antigravity AI  
-> **Formato:** Relato Corto en 5 Capítulos  
-> **Género:** Thriller Claustrofóbico / Terror Psicológico & Surrealista / Drama Trágico  
+## 🎯 Premisa Global
+Esta es la estructura base para tu nueva novela interactiva. Todo el diseño estético, la tipografía adaptable, el control de temas, los sonidos ambientales y la experiencia de lectura están preparados para albergar tu nueva historia.
 
 ---
 
-## 1. Núcleo Dramático y Filosofía
+## 🎨 Principios Estéticos y Narrativos
+1. **Ritmo Directo y Envolvente:** Escenas concisas y diálogos afilados que mantienen el interés del lector.
+2. **Ambiente Inmersivo:** Uso de temas visuales (Obsidian, Parchment, Midnight, Emerald) y ambiente sonoro para acompañar la lectura.
+3. **Desglose de Coherencia:** Cada capítulo incluye su ficha de escena y control de coherencia para seguir los arcos de personajes y ritmo dramático.
 
-***LIFT*** explora la fragilidad de la rutina urbana y la ilusión de control en los grandes símbolos del progreso humano. Lo que comienza como una parada técnica ordinaria en el ascensor de un emblemático rascacielos neoyorquino (Vanderbilt Tower) degenera rápidamente en un laberinto geométricamente imposible.
+---
 
-### Conflictos Clave:
-1. **La Coexistencia Físico-Intelectual:** La dinámica entre Leo (inspirado en Tobey Maguire, la mente perspicaz pero el cuerpo débil) y Marcus (inspirado en John Goodman, la fuerza física y la determinación protectora).
-2. **La Deshumanización del Espacio:** El paso de una máquina cotidiana (un ascensor) a un rompecabezas mortal e impredecible.
-3. **El Sacrificio Visceral:** La muerte brutal e insalvable de Marcus como catalizador del horror y la pérdida.
-4. **El Examen Final de la Existencia:** El contrapunto entre el caos violento del laberinto y la paz trágica del vacío final, donde Leo y Elena (inspirada en Sofía Vergara) enfrentan sus cuentas pendientes antes de morir.
+## 🛠️ Método de Trabajo en Pareja (Autor + Antigravity AI)
+- **Fase 1: Escaleta de 3 Actos:** Define la estructura macro en `novela/escaleta.md`.
+- **Fase 2: Ficha de Personajes:** Registra roles y biografías en `personajes.md` y `biografias.md`.
+- **Fase 3: Redacción por Capítulos:** Redacta en `novela/capitulos/capitulo_X.md` y actualiza la web ejecutando `node build-novel-data.js`.

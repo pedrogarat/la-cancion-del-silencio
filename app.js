@@ -118,9 +118,13 @@ document.addEventListener('DOMContentLoaded', () => {
             const bSub = document.querySelector('.brand-subtitle');
             const sbTitle = document.querySelector('.sidebar-info h3');
             const sbStats = document.getElementById('sidebar-stats-text');
+            const sbAuthor = document.querySelector('.sidebar-author');
             if (bTitle && NOVEL_DATA.title) bTitle.textContent = NOVEL_DATA.title;
             if (bSub && NOVEL_DATA.subtitle) bSub.textContent = NOVEL_DATA.subtitle.toUpperCase();
             if (sbTitle && NOVEL_DATA.title) sbTitle.textContent = NOVEL_DATA.title;
+            if (sbAuthor && (NOVEL_DATA.author || NOVEL_DATA.director)) {
+                sbAuthor.innerHTML = `Autor: <strong>${NOVEL_DATA.author || NOVEL_DATA.director}</strong>`;
+            }
             if (sbStats && NOVEL_DATA.totalChapters) {
                 sbStats.innerHTML = `${NOVEL_DATA.totalChapters} Capítulos &bull; ~${NOVEL_DATA.totalPages} Páginas &bull; ${NOVEL_DATA.totalWords.toLocaleString()} Palabras`;
             }
