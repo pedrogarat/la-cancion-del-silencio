@@ -135,6 +135,16 @@ document.addEventListener('DOMContentLoaded', () => {
             if (sbStats && NOVEL_DATA.totalChapters) {
                 sbStats.innerHTML = `${NOVEL_DATA.totalChapters} Capítulos &bull; ~${NOVEL_DATA.totalPages} Páginas &bull; ${NOVEL_DATA.totalWords.toLocaleString()} Palabras`;
             }
+
+            // Sello de Fecha y Hora de Compilación
+            if (NOVEL_DATA.lastUpdated) {
+                const brandLastUpdated = document.getElementById('brand-last-updated');
+                const sidebarLastUpdated = document.getElementById('sidebar-last-updated');
+                const readerLastUpdated = document.getElementById('reader-last-updated');
+                if (brandLastUpdated) brandLastUpdated.textContent = `Actualizado: ${NOVEL_DATA.lastUpdated}`;
+                if (sidebarLastUpdated) sidebarLastUpdated.textContent = NOVEL_DATA.lastUpdated;
+                if (readerLastUpdated) readerLastUpdated.textContent = NOVEL_DATA.lastUpdated;
+            }
         }
         try { renderSidebarList(); } catch(e) { console.error('Error in renderSidebarList:', e); }
         try { renderCodexAndEscaleta(); } catch(e) { console.error('Error in renderCodexAndEscaleta:', e); }

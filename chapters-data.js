@@ -5,6 +5,8 @@ const NOVEL_DATA = {
   "director": "Pedro Garat + Antigravity",
   "author": "Pedro Garat + Antigravity",
   "coverImage": "cover.png",
+  "lastUpdated": "19/09/2026, 21:53:35",
+  "buildTimestamp": "2026-09-19T19:53:35.259Z",
   "totalChapters": 3,
   "totalWords": 12168,
   "totalPages": "44.2",

@@ -32,6 +32,7 @@
                     <span class="brand-logo">⚡</span>
                     <div class="brand-text">
                         <span class="brand-title">LA CANCIÓN DEL SILENCIO</span>
+                        <span id="brand-last-updated" class="brand-last-updated" style="font-size: 0.65rem; color: #38bdf8; font-family: 'JetBrains Mono', monospace; display: block; margin-top: 1px; opacity: 0.9;">Cargando versión...</span>
                     </div>
                 </div>
             </div>
@@ -77,6 +78,7 @@
                     <h3>LA CANCIÓN DEL SILENCIO</h3>
                     <p class="sidebar-author">Autor: <strong>Pedro Garat + Antigravity</strong></p>
                     <p class="sidebar-stats" id="sidebar-stats-text">3 Capítulos &bull; ~3 Páginas &bull; ~500 Palabras</p>
+                    <p class="sidebar-build-info" style="font-size: 0.72rem; color: var(--text-muted, #94a3b8); margin-top: 6px; font-family: 'JetBrains Mono', monospace;">🔄 Actualizado: <strong id="sidebar-last-updated" style="color: #38bdf8;">-</strong></p>
                 </div>
                 <button id="btn-close-sidebar" class="close-btn" aria-label="Cerrar">&times;</button>
             </div>
@@ -156,6 +158,11 @@
                         <span class="arrow">→</span>
                     </button>
                 </nav>
+
+                <!-- Sello de Última Actualización Visible al Final del Capítulo -->
+                <div class="reader-build-stamp" style="text-align: center; margin: 2.5rem 0 1.5rem 0; padding: 1rem; border-top: 1px solid var(--border-color, rgba(255,255,255,0.08)); font-size: 0.78rem; color: var(--text-muted, #94a3b8); font-family: 'JetBrains Mono', monospace;">
+                    <span>⚡ <em>La Canción del Silencio</em> &bull; Última compilación sincronizada: <strong id="reader-last-updated" style="color: #38bdf8;">-</strong></span>
+                </div>
             </div>
         </main>
 
@@ -435,7 +442,7 @@
     </div>
 
     <!-- Cargar Datos y Lógica de la App (con control de versión para forzar actualización en móviles) -->
-    <script src="chapters-data.js?v=1.1"></script>
-    <script src="app.js?v=1.1"></script>
+    <script src="chapters-data.js?v=2.0"></script>
+    <script src="app.js?v=2.0"></script>
 </body>
 </html>

@@ -83,12 +83,25 @@ if (fs.existsSync(capitulosDir)) {
   });
 }
 
+const now = new Date();
+const formattedDate = new Intl.DateTimeFormat('es-ES', {
+  day: '2-digit',
+  month: '2-digit',
+  year: 'numeric',
+  hour: '2-digit',
+  minute: '2-digit',
+  second: '2-digit',
+  timeZone: 'Europe/Madrid'
+}).format(now);
+
 const novelData = {
   title: metaConfig.title || "NUEVA NOVELA",
   subtitle: metaConfig.subtitle || "EL COMIENZO DE LA AVENTURA",
   director: metaConfig.director || "Tu Nombre",
   author: metaConfig.author || "Tu Nombre",
   coverImage: metaConfig.coverImage || "cover.png",
+  lastUpdated: formattedDate,
+  buildTimestamp: now.toISOString(),
   totalChapters: chapters.length,
   totalWords: chapters.reduce((acc, c) => acc + c.words, 0),
   totalPages: chapters.reduce((acc, c) => acc + parseFloat(c.pages), 0).toFixed(1),
