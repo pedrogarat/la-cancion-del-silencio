@@ -221,10 +221,16 @@ body {
 }
 
 .brand-subtitle {
-    font-size: 0.7rem;
-    color: var(--accent-cyan);
-    letter-spacing: 0.5px;
-    text-transform: uppercase;
+    display: none !important;
+}
+
+/* Ocultar herramientas de desarrollo y fichas internas */
+#btn-open-codex,
+#btn-open-escaleta,
+#btn-open-genesis,
+.scene-fiche-card,
+#scene-fiche {
+    display: none !important;
 }
 
 .chapter-pill {

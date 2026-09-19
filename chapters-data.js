@@ -1,9 +1,9 @@
 // Archivo generado automáticamente para LA CANCIÓN DEL SILENCIO
 const NOVEL_DATA = {
   "title": "LA CANCIÓN DEL SILENCIO",
-  "subtitle": "CRÓNICA DE LA AMENAZA Y MISIÓN L1",
-  "director": "Pedro Garat & Equipo Creativo",
-  "author": "Pedro Garat",
+  "subtitle": "EL COMIENZO DE LA AVENTURA",
+  "director": "Pedro Garat + Antigravity",
+  "author": "Pedro Garat + Antigravity",
   "coverImage": "cover.png",
   "totalChapters": 3,
   "totalWords": 11105,

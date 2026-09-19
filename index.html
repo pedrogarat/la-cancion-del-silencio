@@ -32,34 +32,18 @@
                     <span class="brand-logo">⚡</span>
                     <div class="brand-text">
                         <span class="brand-title">LA CANCIÓN DEL SILENCIO</span>
-                        <span class="brand-subtitle">CRÓNICA DE LA AMENAZA Y MISIÓN L1</span>
                     </div>
                 </div>
             </div>
 
             <div class="header-center">
-                <span id="header-chapter-indicator" class="chapter-pill">Capítulo 1 de 5</span>
+                <span id="header-chapter-indicator" class="chapter-pill">Capítulo 1 de 3</span>
             </div>
 
             <div class="header-right">
                 <button id="btn-open-search" class="icon-btn" title="Buscar en la novela (Ctrl+F)">
                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
                     <span class="btn-label">Buscar</span>
-                </button>
-                
-                <button id="btn-open-codex" class="icon-btn" title="Ver Personajes y Lore">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/></svg>
-                    <span class="btn-label">Personajes</span>
-                </button>
-
-                <button id="btn-open-escaleta" class="icon-btn" title="Ver Escaleta de 3 Actos">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
-                    <span class="btn-label">Escaleta</span>
-                </button>
-
-                <button id="btn-open-genesis" class="icon-btn" onclick="openModal('modal-genesis')" title="Génesis y Dirección del Proyecto (Pedro Garat)">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
-                    <span class="btn-label">Génesis</span>
                 </button>
 
                 <button id="btn-open-settings" class="icon-btn" title="Ajustes de Lectura">
@@ -90,8 +74,8 @@
                     <img src="cover.png" alt="Portada de la Novela" class="sidebar-cover-img">
                 </div>
                 <div class="sidebar-info">
-                    <h3>NUEVA NOVELA</h3>
-                    <p class="sidebar-author">Autor: <strong>Tu Nombre</strong></p>
+                    <h3>LA CANCIÓN DEL SILENCIO</h3>
+                    <p class="sidebar-author">Autor: <strong>Pedro Garat + Antigravity</strong></p>
                     <p class="sidebar-stats" id="sidebar-stats-text">3 Capítulos &bull; ~3 Páginas &bull; ~500 Palabras</p>
                 </div>
                 <button id="btn-close-sidebar" class="close-btn" aria-label="Cerrar">&times;</button>
@@ -132,8 +116,8 @@
                         </button>
                     </div>
 
-                    <!-- Acordeón de la Ficha de Escena (desplegable opcional) -->
-                    <details class="scene-fiche-card" id="scene-fiche">
+                    <!-- Acordeón de la Ficha de Escena (oculto) -->
+                    <details class="scene-fiche-card" id="scene-fiche" style="display: none !important;">
                         <summary class="fiche-summary">
                             <span>📋 Ver Ficha de la Escena y Control de Coherencia</span>
                             <span class="chevron">▼</span>

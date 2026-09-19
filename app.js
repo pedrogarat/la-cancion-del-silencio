@@ -120,10 +120,17 @@ document.addEventListener('DOMContentLoaded', () => {
             const sbStats = document.getElementById('sidebar-stats-text');
             const sbAuthor = document.querySelector('.sidebar-author');
             if (bTitle && NOVEL_DATA.title) bTitle.textContent = NOVEL_DATA.title;
-            if (bSub && NOVEL_DATA.subtitle) bSub.textContent = NOVEL_DATA.subtitle.toUpperCase();
+            if (bSub) {
+                if (NOVEL_DATA.subtitle && NOVEL_DATA.subtitle.trim()) {
+                    bSub.textContent = NOVEL_DATA.subtitle.toUpperCase();
+                } else {
+                    bSub.style.display = 'none';
+                }
+            }
             if (sbTitle && NOVEL_DATA.title) sbTitle.textContent = NOVEL_DATA.title;
-            if (sbAuthor && (NOVEL_DATA.author || NOVEL_DATA.director)) {
-                sbAuthor.innerHTML = `Autor: <strong>${NOVEL_DATA.author || NOVEL_DATA.director}</strong>`;
+            if (sbAuthor) {
+                const authorName = NOVEL_DATA.author || NOVEL_DATA.director || 'Pedro Garat + Antigravity';
+                sbAuthor.innerHTML = `Autor: <strong>${authorName}</strong>`;
             }
             if (sbStats && NOVEL_DATA.totalChapters) {
                 sbStats.innerHTML = `${NOVEL_DATA.totalChapters} Capítulos &bull; ~${NOVEL_DATA.totalPages} Páginas &bull; ${NOVEL_DATA.totalWords.toLocaleString()} Palabras`;
