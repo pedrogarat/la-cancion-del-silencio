@@ -90,9 +90,9 @@
 ---
 
 ## 📍 Escena 8: La Respuesta de la Tierra
-- **Tiempo:** 11:10 - 11:30 h (con pausa previa y sesión técnica intensiva).
+- **Tiempo:** 11:10 - 11:30 h (con sesión hermética de dos horas).
 - **Acción:**
   - Girard pide una esperanza: saber si hay forma de evitar la catástrofe.
-  - Pleh confirma que existe una posibilidad: un contra-dispositivo teórico en L1 para neutralizar la interferencia enemiga.
-  - **Exposición del plan defensivo (narrado pasivamente):** Durante dos horas de cálculos febriles, Pleh despliega la arquitectura de la misión (sin detallar al lector los secretos técnicos de diseño). Los tres científicos quedan exhaustos y sobrecogidos por la audacia de la solución.
+  - Pleh confirma que existe una posibilidad teórica para neutralizar la interferencia en L1.
+  - **Exposición del plan defensivo (narrado pasivamente y hermético para el lector):** A puerta cerrada, Pleh expone las líneas maestras de su estrategia. Los tres científicos comprueban que hay una salida real, quedando exhaustos y convencidos, sin que el lector conozca aún ningún detalle de diseño ni componentes.
   - **La instrucción final:** Pleh anuncia que deben ir de inmediato a la sede de las Naciones Unidas a hablar con el Secretario General. Ante la incredulidad de Sarah y Girard por los filtros diplomáticos imposibles, Pleh les pide que caminen hacia el East River y confíen en él.

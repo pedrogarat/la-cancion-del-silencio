@@ -371,23 +371,23 @@ Fue Girard quien rompió la quietud, dando un paso al frente hacia el estrado:
 
 Pleh sostuvo la mirada de los tres con una firmeza inquebrantable:
 
-—Existe una posibilidad. Un contra-dispositivo teórico. Un escudo activo capaz de posicionarse en el punto L1 para neutralizar la interferencia enemiga antes de que logre acoplarse con el núcleo de la Tierra.
+—Existe una posibilidad. Un plan defensivo teórico para neutralizar la interferencia en L1 antes de que sea irreversible.
 
-—Pero construir esa defensa exigirá lo mejor de la ciencia de su mundo y la mayor proeza de cooperación de su historia. No podemos perder la calma. Descansen diez minutos. Tomen aire, beban agua y despejen la mente. Y cuando vuelvan a sentarse en esas butacas... les mostraré los planos de la respuesta de la Tierra.
+—Pero construir esa defensa exigirá lo mejor de la ciencia de su mundo y la mayor proeza de cooperación de su historia. No podemos perder la calma. Descansen diez minutos. Tomen aire, beban agua y despejen la mente. Y cuando vuelvan a sentarse en esas butacas... les mostraré la respuesta de la Tierra.
 
 ---
 
-Durante las dos horas siguientes, el silencio de la Sala 2 se transformó en una vorágine de ecuaciones, diagramas esquemáticos y simulaciones termodinámicas proyectadas a una escala jamás vista en ningún laboratorio de la Tierra.
+Durante las dos horas siguientes, el silencio de la Sala 2 dio paso a una sesión tan hermética como absorbente.
 
-Pleh no dejó un solo parámetro al azar. Con una paciencia pedagógica implacable, desplegó ante los tres científicos la arquitectura conceptual de un contra-dispositivo teórico de una audacia aterradora: una misión espacial dividida en dos fases complementarias, diseñada no para librar una batalla cinética convencional, sino para inducir un colapso electromagnético en el propio corazón de la estructura enemiga en L1. Girard comprobaba los balances criogénicos en su bloc de notas con la mano temblorosa; Sarah devoraba las ecuaciones de confinamiento plasmático con la mirada encendida, asombrada ante la elegancia con que se resolvían paradojas que llevaban medio siglo atascadas; y Wright asentía en silencio, calculando ventanas de transferencia orbital, empujes y masas en el límite mismo de lo que la industria aeroespacial humana era capaz de construir.
+A puerta cerrada, Pleh expuso ante los tres científicos las líneas maestras de su plan: una estrategia de una audacia sobrecogedora que desafiaba los límites de todo lo que la humanidad había intentado jamás. En la sala no hubo discursos grandilocuentes; solo el pase continuo de esquemas y modelos que Girard, Lin y Wright examinaban con una concentración febril, asimilando que, por primera vez desde el inicio de la mañana, no estaban atrapados en un callejón sin salida.
 
-Era un plan tan monumental como desesperado. Una proeza al filo del abismo que desbordaba cualquier presupuesto nacional y cualquier tratado militar conocido.
+Era una empresa titánica, al filo de lo imposible, pero matemáticamente coherente.
 
-Cuando la última simulación se desvaneció en la pantalla gigante, los tres científicos permanecieron clavados en sus butacas, física y emocionalmente exhaustos, asimilando la magnitud del desafío.
+Cuando la pantalla gigante volvió a quedar en penumbra, los tres científicos permanecieron en sus asientos, física y emocionalmente exhaustos tras el torrente de datos.
 
 Pleh los miró desde el estrado virtual con un semblante de una serenidad tajante:
 
-—Ahora ya conocen el camino. Saben que no es una quimera matemática; es una solución física real. Pero nosotros cuatro solos no podemos fundir un solo kilogramo de metal ni ensamblar una tobera en el vacío. Necesitamos el poder industrial, logístico y político de las grandes potencias coordinadas como una sola especie. Y ahora... tenemos que ir a las Naciones Unidas. Debemos hablar de inmediato con el Secretario General.
+—Ahora ya conocen el camino. Saben que no es una quimera; es una solución real. Pero nosotros cuatro solos no podemos mover un solo engranaje. Necesitamos el poder industrial, logístico y político de las grandes potencias coordinadas como una sola especie. Y ahora... tenemos que ir a las Naciones Unidas. Debemos hablar de inmediato con el Secretario General.
 
 Sarah abrió los ojos de par en par, incorporándose con un gesto incrédulo:
 
