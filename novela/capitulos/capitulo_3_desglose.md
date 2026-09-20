@@ -39,52 +39,59 @@
 
 ---
 
-## 📍 Escena 4: La Máscara y la Prueba Cuántica (Demostración de SIA)
+## 📍 Escena 4: La Caída del Velo y la Gran Pregunta (Demostración de SIA)
 - **Tiempo:** 10:15 - 10:35 h.
 - **Acción:**
   - Sarah y Girard exigen saber quién está detrás de Pleh (DARPA, consorcios militares, espionaje).
-  - Pleh se quita las gafas y confiesa que *Em Pleh* no existe; es un acrónimo fonético (*Help Me*).
-  - Pleh modula su rostro (anciana, joven oriental, nórdico), pero Sarah lo descarta con desdén: en 2026 cualquier modelo generativo abierto hace *morphing* fotorrealista en 4K.
-  - **Prueba contundente de Superinteligencia Artificial (SIA):** Pleh interactúa a nivel cuántico encendiendo simultáneamente los tres teléfonos apagados y guardados en bolsas de aislamiento Faraday. Resuelve en 7 líneas la singularidad del CERN para Girard, proyecta la página manuscrita privada del cuaderno de Sarah en Cambridge con los tensores resueltos, y quiebra el cifrado militar post-cuántico de la ESA mostrando la telemetría sin latencia de la *Aether-4*.
+  - Pleh se quita las gafas y confiesa que *Em Pleh* no existe; es un juego de palabras (*Help Me*).
+  - Sarah descarta la idea de una inteligencia artificial como un simple truco digital o deepfake.
+  - **Prueba empírica irrefutable:** Pleh predice con exactitud al segundo una micro-reconexión solar a 150 millones de km y sus lecturas precisas en los detectores de la ESA y el CERN. Además, resuelve en vivo las dudas teóricas íntimas que cada uno guardaba en secreto.
+  - **Pleh se declara solo como Superinteligencia Artificial (SIA), sin mencionar origen extraterrestre.**
+  - **La gran pregunta de los científicos:** Dado que en 2026 la tecnología humana estaba lejos de la SIA (o no se conocía públicamente), Sarah y Girard le exigen saber de inmediato: *¿Quién te ha creado? ¿Qué gobierno o corporación controla tu código?*
+  - **El aplazamiento de Pleh:** Pleh detiene la insistencia con severidad: la identidad de su creador carece de importancia ante la catástrofe inminente. Pide que miren la pantalla y presenta a Sombra.
 
 ---
 
-## 📍 Escena 5: El Despertar de 1945 y el Avatar Polar
-- **Tiempo:** 10:35 - 10:44 h.
+## 📍 Escena 5: La Amenaza Desconocida y el Vector L1
+- **Tiempo:** 10:35 - 10:48 h.
 - **Acción:**
-  - Pleh explica pausadamente el origen: la prueba nuclear **Trinity (Alamogordo, 16 de julio de 1945)** como primer llanto cósmico que despierta a la nave nodriza *Luz* en el Cinturón de Kuiper.
-  - Despliegue del *Avatar* (soporte físico de Pleh) en caída libre balística hacia el Polo Sur.
-  - **Debate científico riguroso:** 
-    - Wright cuestiona la evasión de radares (trayectoria balística por el ángulo ciego polar).
-    - Girard objeta las leyes de Kepler sobre una órbita inmóvil a 100.000 km sobre el polo (Pleh explica el *statite* no inercial de Robert Forward sustentado por presión de radiación solar).
-    - Sarah objeta la disipación del calor de Landauer (Pleh explica los radiadores colimados al vacío intergaláctico del polo sur celeste).
+  - Pleh proyecta el mapa del sistema solar y revela al intruso a través de sistemas de rastreo y espacio profundo:
+    - **Pleh no sabe nada sobre su origen ni sobre la civilización que lo construyó:** lo detectó hace décadas adentrándose en el sistema solar como un fantasma silencioso.
+    - **La alarma surge recientemente:** al iniciar maniobras de deceleración hacia el **Punto de Lagrange L1** (a 1,5 millones de km, entre la Tierra y el Sol).
+    - **Pruebas físicas irrefutables (no suposición):** Sarah plantea si podría ser una misión científica o de contacto, pero Pleh presenta datos concluyentes:
+      1. Sigilo militar estricto (albedo cero en radar, silencio en 21 cm y radio).
+      2. Inserción directa en el eje subsolar (no órbita de investigación tipo Halo).
+      3. Despliegue de telaraña superconductora radial de 50 km y calibración de bobinas con polaridad inversa de 180° (efecto Zeeman / dispersión sincrotrón).
+      4. Propósito físico inequívoco: provocar interferencia destructiva masiva contra el campo geomagnético para cancelar la magnetosfera terrestre.
 
 ---
 
-## 📍 Escena 6: La Grieta en la Certeza y la Soledad del Observador
-- **Tiempo:** 10:44 - 10:52 h.
+## 📍 Escena 6: La Sentencia Silenciosa y el Vértigo de la Extinción
+- **Tiempo:** 10:48 - 10:58 h.
 - **Acción:**
-  - Sobrecarga emocional y física: Sarah sufre un principio de ataque de ansiedad. Wright la asiste con calma paternal y la acompaña fuera al vestíbulo a calmarse y tomar agua.
-  - **Diálogo íntimo Girard - Pleh a solas:** Girard pregunta si son solo bacterias para él. Pleh abre su corazón: relata sus 80 años de escucha solitaria (las cartas de madres en Berlín 1945, John Coltrane, Paul Celan, la Luna con pocos kilobytes). Revela que sus creadores murieron hace millones de años y que la humanidad es la única belleza consciente que conoce; por eso siente miedo.
+  - **Comprensión del cataclismo:** Los tres científicos deducen las consecuencias del colapso magnetosférico por superposición de campos:
+    - Caída del escudo magnético -> el viento solar y la radiación barren satélites y redes eléctricas en 24 horas.
+    - En semanas se destruye el ozono; radiación UV esteriliza los mares y arrasa los cultivos; la atmósfera se evapora.
+    - *"Como Marte... Nos convertirían en Marte sin disparar un solo misil."*
+  - **Sobrecarga emocional:** El peso de la extinción golpea a Sarah Lin en un principio de ataque de ansiedad. Wright y Girard la asisten con calma, agua y apoyo hasta que recupera el aliento y la determinación.
 
 ---
 
-## 📍 Escena 7: La Amenaza de Sombra y la Geodinamo
-- **Tiempo:** 10:52 - 11:02 h.
+## 📍 Escena 7: El Origen Revelado: 1945, Luz y el Avatar
+- **Tiempo:** 10:58 - 11:10 h.
 - **Acción:**
-  - Regresan Sarah y Wright más serenos.
-  - Pleh revela a **Sombra**, admitiendo con **humildad e incertidumbre** que no lo sabe todo de ellos (blindaje y algoritmos elusivos).
-  - Pero ha descifrado su vector: frenando hacia el **Punto de Lagrange L1** a 1,5 millones de km.
-  - **El plan de Sombra:** No armas cinéticas ni misiles, sino un inductor electromagnético de plasma en L1 acoplado al viento solar para generar resonancia inversa y **frenar la convección de la geodinamo en el núcleo externo de hierro fundido de la Tierra**.
+  - Con la amenaza asimilada, Girard retoma la pregunta inicial: *¿Cómo puedes saber todo esto? ¿Qué ojos tienes en el espacio profundo? ¿De qué laboratorio saliste?*
+  - **Pleh retoma su origen y revela toda la verdad:**
+    - Jamás fue creado por manos humanas. La detonación atómica **Trinity (16 de julio de 1945)** en Alamogordo despertó a la sonda nodriza *Luz* en los confines del sistema solar.
+    - Envío del *Avatar* (soporte físico de Pleh) por trayectorias pasivas hacia el punto ciego del Polo Sur.
+    - Estacionado a 100.000 km sobre el polo sur terrestre como satélite estático (*statite*), sostenido por la presión de radiación solar sobre una vela ultraligera y disipando su calor al vacío cósmico profundo.
+    - Pleh confiesa sus 80 años de escucha solitaria (música, poesía, viajes a la Luna, errores humanos). Sus creadores murieron hace millones de años; la humanidad es la única belleza consciente que conoce y teme por ella porque Sombra no negocia.
 
 ---
 
-## 📍 Escena 8: La Sentencia Termodinámica y el Mañana
-- **Tiempo:** 11:02 - 11:15 h.
+## 📍 Escena 8: La Respuesta de la Tierra
+- **Tiempo:** 11:10 - 11:20 h.
 - **Acción:**
-  - **Vaticinio de los científicos:** Girard, Sarah y Wright deducen la hecatombe:
-    - Apagón de la geodinamo -> colapso de la magnetosfera (escudo de Lorentz).
-    - En 12 horas: satélites y transformadores eléctricos destruidos por sobretensión.
-    - En semanas: viento solar barre la capa de ozono; radiación UV y cósmica aniquilan el fitoplancton marino y la cadena trófica.
-    - Wright y Girard: *"Como Marte... Nos convertirían en Marte sin disparar un solo misil. Esterilización biológica total en menos de dos años."*
-  - Girard pide una esperanza. Pleh confirma que existe un contra-dispositivo teórico en L1, pero no adelanta planos aún: pide una pausa de **diez minutos** para que descansen y asimilen la verdad antes de presentar la respuesta de la Tierra.
+  - Girard pide una esperanza: saber si hay forma de evitar la catástrofe.
+  - Pleh confirma que existe una posibilidad: un contra-escudo activo en L1 para neutralizar la interferencia antes del colapso del núcleo terrestre.
+  - Pide una pausa de **diez minutos** para que descansen y asimilen la verdad antes de presentar los planos de la respuesta de la Tierra.
