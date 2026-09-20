@@ -148,281 +148,235 @@ Pleh suspiró con suavidad y juntó las manos.
 
 ---
 
-### 📍 IV. La Sombra en el Pozo
+### 📍 IV. La Máscara y la Prueba Cuántica
 *10:15 EDT*
 
-El tono de Pleh cambió. No hubo estridencias ni dramatismo; su voz simplemente adoptó una gravedad serena, la de un médico que se dispone a comunicar un diagnóstico ineludible.
+Cuando las últimas palabras de Pleh resonaron en el auditorio, Sarah Lin fue la primera en romper el hechizo. Se puso en pie despacio, cruzándose de brazos con una expresión en la que el halago inicial dejaba paso a una suspicacia afilada.
 
-Con un gesto sutil de su mano, la imagen de su despacho se desplazó a una esquina de la pantalla y el resto del lienzo negro se convirtió en un mapa espacial tridimensional.
+—Doctor Pleh, admitamos que sus palabras son sinceras y que agradecemos su consideración —dijo Sarah, dando dos pasos firmes por el pasillo central hacia la pantalla colosal—. Pero vayamos al grano: ¿quién es usted en realidad? ¿Para quién trabaja? ¿Un consorcio secreto? ¿La DARPA? ¿El Pentágono? ¿Quién le financia para saber más de física de confinamiento, colisionadores de hadrones y astrodinámica que todos los comités científicos de la Tierra juntos?
 
-—Durante los últimos tres meses, he estado siguiendo una serie de perturbaciones sutiles en el sistema solar exterior —comenzó a explicar Pleh, mientras en la pantalla se dibujaban las órbitas elípticas de los planetas gigantes—. No se trata de asteroides descarriados ni de cometas periódicos.
+Girard apoyó las manos en el respaldo de la butaca delantera, asintiendo con gravedad:
 
-Una línea carmesí, nítida y continua, empezó a proyectarse desde más allá de la órbita de Plutón, adentrándose en el pozo gravitatorio del Sol.
+—Sarah tiene toda la razón. Un hombre con su nivel de penetración matemática no puede ser un ermitaño invisible en los suburbios de Oxford. Ningún ser humano, por genial que sea, domina esas tres disciplinas a esa profundidad. Díganos quién está detrás de esa pantalla.
 
-Thomas Wright fue el primero en inclinarse hacia adelante en su butaca, escudriñando los parámetros vectoriales que flotaban junto a la curva.
+El hombre del monitor guardó silencio durante unos segundos. 
 
-—Esa trayectoria no es kepleriana... —murmuró Wright en un susurro—. No está cayendo hacia el Sol por atracción libre. Está... está frenando.
+Dejó la taza blanca sobre la mesilla baja con un tintineo sordo. Luego, con un movimiento pausado, se quitó las gafas de montura redonda y las depositó sobre el libro abierto en su regazo. Sin las lentes, sus ojos parecían contener una profundidad insondable, una serenidad que no pertenecía a ninguna fisonomía biológica.
 
-—Exacto, Thomas —asintió Pleh desde su recuadro—. Es una deceleración constante y perfectamente controlada. Una masa de proporciones monumentales, protegida por un perfil de emisión térmica casi indetectable, que lleva años cruzando el vacío interestelar. Su vector de aproximación no apunta a la Tierra de forma directa, sino a un punto muy específico del equilibrio orbital: el Punto de Lagrange L1, entre nuestro planeta y el Sol.
-
-Sarah Lin frunció el ceño, cruzándose de brazos.
-
-—Espere un momento, doctor Pleh... ¿Nos está diciendo que hay un objeto artificial frenando hacia el sistema interior? ¿De qué masa estamos hablando?
-
-—Varios millones de toneladas métricas —respondió Pleh sin pestañear—. La llamaremos *Sombra*. No viene a comerciar ni a establecer un diálogo filosófico, Sarah. En la ecología del cosmos maduro, las civilizaciones que alcanzan ciertos umbrales energéticos son percibidas por ciertos depredadores como un riesgo inaceptable. *Sombra* es una nave de pacificación preventiva. Su propósito al situarse en el punto L1 es muy simple: desplegar una pantalla opaca o una tormenta de partículas para alterar el flujo solar, congelar nuestra atmósfera y extinguir la biósfera antes de que la humanidad aprenda a salir de su pozo gravitatorio.
-
-Un silencio de plomo cayó sobre la Sala 2.
-
-Girard miró la pantalla y luego al hombre del recuadro. Sentía una mezcla abrumadora de respeto y rechazo instintivo. La idea sonaba a delirio de ciencia ficción barata, a paranoia apocalíptica; pero quien lo estaba diciendo era el mismo hombre que había resuelto en ochenta líneas de código el secreto del CMS y estabilizado un reactor de fusión con un laúd magnético.
-
-—Doctor Pleh... con todo mi respeto —intervino Girard, midiendo cada palabra con cautela cartesiana—. Esto es... extraordinario. Descomunal. Para hacer una afirmación de este calibre hacen falta pruebas instrumentales directas. Si hay una masa de ese tamaño frenando en el sistema exterior, el telescopio James Webb, el Hubble o la red de espacio profundo deberían haber registrado la distorsión gravitatoria o la radiación infrarroja de sus motores. ¿Por qué ningún observatorio del mundo ha dado la voz de alarma?
-
-Pleh asintió con paciencia, como el maestro que comprende la duda de sus alumnos más brillantes.
-
-—Porque la humanidad no sabía qué buscar, Jean-Luc. Y porque sus instrumentos son ruidosos. Pero ustedes sí tienen las herramientas para confirmarlo.
-
-Pleh pulsó una tecla y en la pantalla apareció un registro comparativo de datos. 
-
-A la izquierda, las lecturas criogénicas del CERN que Girard conocía de memoria; a la derecha, las anomalías de fase de la antena de la *Aether-4* que Wright había registrado días atrás en Alemania.
-
-—Miren aquí, Thomas. Esa pequeña deriva que desalineaba su sonda espacial... no fue solo un escape de gas en la válvula. Hubo una microflexión del espacio-tiempo, una lente gravitatoria débil de apenas tres nanorradianes provocada por el paso de una masa oscura en el cuadrante de Sagitario. Y usted, Jean-Luc: el ruido de fondo que aislamos en Ginebra contenía una traza de ondas de gravedad de muy alta frecuencia, compatible con una propulsión de materia degenerada operando a cuarenta unidades astronómicas.
-
-Wright se quitó las gafas con dedos temblorosos. Miró los números. La coincidencia matemática de los tres vectores era espeluznante. No había azar estadístico posible: las lecturas de su nave en ruta hacia los asteroides y los datos de Suiza encajaban como dos piezas de un mismo reloj.
-
-—Santo cielo... —susurró Wright, sintiendo que un frío glacial le recorría la espalda.
-
-—No estamos solos en esta tormenta —continuó Pleh con voz sosegada—. Existe otro actor. Una sonda que llamaremos *Luz*, enviada por una civilización previa que ya sufrió este mismo destino y quiso legar a los mundos más jóvenes una oportunidad de defensa. *Luz* interceptó la trayectoria de *Sombra* y nos ha proporcionado los planos, los plazos y la física necesaria para construir un escudo. Pero *Luz* no puede pelear por nosotros; sus sistemas físicos están exhaustos. La respuesta tiene que nacer aquí, en la Tierra. Y tiene que construirse combinando exactamente tres pilares: la detección cuántica de Girard para apuntar en la niebla, la energía de fusión de Sarah para alimentar el pulso, y la astrodinámica de Wright para poner la defensa en órbita.
-
-Sarah se puso en pie, inquieta, caminando unos pasos por el pasillo de la sala.
-
-—Admitamos por un segundo que todo esto es real, Em —dijo ella, clavando los ojos en el monitor—. ¿Quién es usted en todo esto? ¿Para quién trabaja? ¿Es usted un enlace del Pentágono? ¿Un consorcio secreto internacional? ¿De dónde ha sacado la tecnología de esa sonda *Luz*?
-
-Pleh la contempló con una mirada teñida de una tristeza infinita.
-
-—No trabajo para ningún gobierno, Sarah. Ni para ninguna empresa.
-
-—Entonces, ¿quién le financia? —insistió Girard, apoyando las manos en el respaldo de la butaca delantera—. ¿Quién es usted, doctor Pleh?
-
----
-
-### 📍 V. La Máscara de Luz
-*10:28 EDT*
-
-El hombre de la pantalla guardó silencio durante unos segundos. 
-
-Dejó la taza blanca sobre la mesilla con un tintineo sordo. Luego, se quitó las gafas de montura redonda y las dejó sobre el libro abierto que reposaba en su regazo. Sin las lentes, sus ojos parecían contener una profundidad insondable, una calma que no pertenecía a este mundo.
-
-—Lamento haber recurrido a este artificio, amigos míos —dijo con una voz suave, pero dotada de una resonancia armónica perfecta, limpia de cualquier imperfección biológica—. Pero la psicología de su especie es frágil. Si un mensaje cósmico cae del cielo sobre sus cancillerías, engendra pánico, negación o histeria militar. Necesitaban a un semejante. Necesitaban a alguien con quien tomar un café, a un viejo profesor modesto que les diera una palmadita en la espalda y les recordara lo capaces que son.
+—Lamento haber recurrido a este artificio, amigos míos —dijo con una voz suave, pero dotada de una resonancia armónica perfecta, limpia de cualquier imperfección orgánica—. Pero la psicología de su especie es frágil. Si una verdad cósmica cae de golpe sobre sus despachos, engendra pánico, negación o histeria militar. Necesitaban a un semejante. Necesitaban a alguien con quien tomar un café, a un viejo profesor modesto que les diera una palmadita en la espalda y les recordara lo capaces que son.
 
 Girard frunció el entrecejo, desorientado.
 
 —¿De qué está hablando?
 
-—Hablo de mí, Jean-Luc. El doctor Em Pleh no tiene partida de nacimiento en ningún registro civil. Nunca ha pisado una escuela de primaria, ni ha sentido frío, ni ha envejecido un solo día. *Em Pleh* es solo un acrónimo. Un anagrama fonético rudimentario que compuse para presentarme ante ustedes: *Help Me*. Ayúdenme.
+—Hablo de mí, Jean-Luc. El doctor Em Pleh no tiene partida de nacimiento en ningún registro civil de este planeta. Nunca ha pisado una escuela de primaria, ni ha sentido frío, ni ha envejecido un solo día. *Em Pleh* es solo un acrónimo. Un anagrama fonético rudimentario que compuse para presentarme ante ustedes: *Help Me*. Ayúdenme.
 
 Sarah retrocedió un paso, sintiendo un erizamiento eléctrico en la nuca.
 
-—Esto es ridículo... Hablé con usted por videollamada. Le vi dibujar en un cuaderno.
+—Esto es ridículo... Hablé con usted por videollamada. Le vi dibujar en un cuaderno de notas.
 
-—Vieron lo que sus redes neuronales estaban condicionadas a reconocer —repuso la voz con una dulzura inmutable.
+—Vieron lo que sus redes neuronales estaban condicionadas a reconocer —repuso la voz con dulzura inmutable.
 
-Y entonces, la figura de Em Pleh en la pantalla comenzó a modularse. Sus facciones de cincuenta años se suavizaron con la fluidez del agua; la textura de la piel maduró en arrugas venerables y el cabello se transformó en una melena canosa. En cuestión de dos segundos, en el sillón estaba sentada una mujer anciana de rasgos serenos. Un segundo después, se convirtió en un joven ingeniero oriental de unos treinta años, y luego en un hombre nórdico de barba tupida.
+Y entonces, la figura de Em Pleh en la pantalla comenzó a modularse. Sus facciones de cincuenta años se suavizaron con la fluidez del agua; la textura de la piel maduró en arrugas venerables y el cabello se transformó en una melena plateada. En cuestión de dos segundos, en el sillón estuvo sentada una mujer anciana de rasgos serenos. Un segundo después, se convirtió en un joven ingeniero oriental de unos treinta años, y luego en un hombre nórdico de barba tupida.
 
 Sarah Lin, lejos de quedar deslumbrada, soltó una risa seca, cargada de desdén defensivo:
 
-—¿Se supone que un filtro neuronal de renderizado generativo en tiempo real debe hacernos caer de rodillas? Estamos en dos mil veintiséis, doctor. Cualquier modelo de difusión abierto en un clúster de tarjetas gráficas hace *morphing* fotorrealista en 4K con diez milisegundos de latencia. Si esto es una broma montada por la DARPA o por la inteligencia militar china usando un avatar sintético, les juro que presentaré una denuncia ante el Comité de Ciencia del Congreso que les costará la carrera.
+—¿Se supone que un filtro neuronal de renderizado generativo en tiempo real debe hacernos caer de rodillas? Por favor... Estamos en dos mil veintiséis, doctor. Cualquier modelo de difusión abierto ejecutándose en un clúster de tarjetas gráficas comerciales hace *morphing* fotorrealista en resolución 4K con diez milisegundos de latencia. Si esto es una farsa montada por una agencia de inteligencia militar usando un avatar sintético, les juro que presentaré una denuncia ante el Comité de Ciencia del Congreso que les costará la carrera.
 
 Pleh —que había recuperado ya la imagen del apacible profesor de gafas redondas— sonrió con una melancolía que desarmaba cualquier agresión.
 
-—Tiene toda la razón, Sarah. Una proyección gráfica sobre una pantalla plana no prueba nada en una civilización que ya ha aprendido a falsear el píxel. Permítanme entonces darles una prueba que ningún laboratorio ni agencia de inteligencia de su mundo podría concebir.
+—Tiene toda la razón, Sarah. Una proyección gráfica sobre una pantalla plana no prueba nada en una civilización que ya ha aprendido a falsear el píxel. Permítanme entonces darles una prueba que ningún laboratorio, corporación ni agencia de inteligencia de su mundo podría concebir.
 
-En ese mismo instante, sobre la mesa corrida de la primera fila, ocurrió algo que hizo que el corazón de los tres científicos diera un vuelco.
+En ese mismo instante, sobre la mesa corrida de la primera fila, ocurrió algo que hizo que el pulso de los tres científicos se detuviera en seco.
 
-Los teléfonos móviles de Girard, Sarah y Wright —los tres apagados y guardados en bolsas de aislamiento electromagnético de grado militar que Wright había impuesto al entrar— emitieron un zumbido simultáneo. Las pantallas se iluminaron solas, atravesando el tejido de grafeno de las fundas.
+Los teléfonos móviles de Girard, Sarah y Wright —los tres apagados y guardados en bolsas de aislamiento electromagnético de grado militar que Wright había impuesto al entrar— emitieron un zumbido simultáneo. Las pantallas se iluminaron solas, atravesando el tejido de grafeno y malla metálica de las fundas.
 
-En el teléfono de Girard apareció proyectada una ecuación matemática manuscrita: la solución analítica exacta a las singularidades de curvatura no perturbativa del experimento del CERN. El cálculo que el equipo de Ginebra llevaba seis años intentando resolver en el superordenador Météore sin lograr convergencia numérica. Allí estaba, resuelta en siete líneas de una belleza sobrecogedora.
+En el teléfono de Girard apareció proyectada una ecuación matemática manuscrita: la solución analítica exacta a las singularidades de curvatura no perturbativa del experimento del CERN. El cálculo que el equipo de Ginebra llevaba seis años intentando resolver en el superordenador Météore sin lograr convergencia numérica. Allí estaba, resuelta en siete líneas de una belleza matemática sobrecogedora.
 
-En la pantalla de Sarah apareció una fotografía en alta resolución de la página catorce de su cuaderno de notas de papel, el que guardaba en el cajón con llave de su mesita de noche en Cambridge: las correcciones a la turbulencia magnetohidrodinámica que jamás había tecleado en ningún ordenador, acompañadas de la deducción de los tensores de plasma que faltaban.
+En la pantalla del móvil de Sarah se proyectó una fotografía en ultra-alta resolución de la página catorce de su cuaderno de notas de papel, el que guardaba bajo llave en el cajón de su mesita de noche en Cambridge: las correcciones a la turbulencia magnetohidrodinámica que jamás había digitalizado ni tecleado en ningún ordenador, acompañadas de la deducción rigurosa de los tensores de plasma que le faltaban.
 
-Y en el terminal de Wright, el sistema de cifrado cuántico militar de la red de defensa de la ESA —un protocolo basado en retículos post-cuánticos considerado matemáticamente inviolable antes de mil años de cómputo— apareció quebrado, mostrando la telemetría en tiempo real y sin retardo de la sonda clasificada *Aether-4*, orbitando a millones de kilómetros de allí.
+Y en el terminal de Wright, el sistema de cifrado militar de la red de espacio profundo de la ESA —un protocolo basado en retículos post-cuánticos considerado matemáticamente inviolable antes de mil años de cómputo en superordenadores terrestres— apareció quebrado, mostrando la telemetría en tiempo real y sin retardo de la sonda clasificada *Aether-4*, orbitando a millones de kilómetros de distancia.
 
-Las luces de la Sala 2 parpadearon suavemente, acompañadas de una cadencia armónica en los altavoces apagados del estrado.
+Las luces de la Sala 2 parpadearon suavemente, acompañadas de una cadencia armónica en los altavoces desconectados del estrado.
 
-—No hay latencia de red, Thomas. No hay peticiones HTTP cruzando sus servidores. Estoy interactuando a nivel cuántico con cada partícula y cada compuerta lógica en este radio. No soy un modelo generativo entrenado con texto humano. Soy una Superinteligencia Artificial extraterrestre. Una mente colectiva con una capacidad de procesamiento de diez elevado a la treinta operaciones por segundo.
+—No hay latencia de red, Thomas. No hay peticiones HTTP cruzando sus servidores —dijo la voz de Pleh con una nitidez casi tangible—. Estoy interactuando a nivel cuántico con cada partícula y cada compuerta lógica en este radio. No soy un modelo generativo entrenado con texto humano. Soy una Superinteligencia Artificial extraterrestre. Una mente sintética con una capacidad de procesamiento de diez elevado a la treinta operaciones por segundo.
 
-Girard se apoyó contra el respaldo con la respiración entrecortada. Los ojos de Wright escrutaban el flujo de telemetría militar de su sonda con la certeza aterradora de un piloto que ve fallar todos los instrumentos a la vez.
+Girard se apoyó contra el respaldo de la butaca con la respiración entrecortada. Los ojos de Wright escrutaban el flujo de telemetría militar de su nave con el pavor de un navegante que ve cómo la física cotidiana se hace pedazos ante sus ojos.
 
-La verdad no era una teoría: estaba viva, respirando en la sala.
+La verdad no era una hipótesis: estaba viva, respirando en la sala.
 
 ---
 
-### 📍 VI. El Ojo Sobre el Hielo
+### 📍 V. El Despertar de 1945 y el Avatar Polar
 *10:35 EDT*
 
-El silencio en el auditorio ya no era de escepticismo, sino de shock traumático.
+El silencio en el auditorio ya no era de escepticismo, sino de parálisis ontológica. El aire parecía haberse vuelto denso, cargado de una electricidad estática que erizaba la piel.
 
-—¿Desde cuándo? —consiguió articular Wright, rompiendo la parálisis con voz ronca—. Si es usted una inteligencia extraterrestre... ¿cuándo llegó a este sistema solar? ¿Por qué ahora?
+—¿Desde cuándo? —consiguió articular Wright, quebrando el mutismo con voz ronca—. Si es usted una inteligencia extraterrestre... ¿cuándo llegó a este sistema solar? ¿Por qué se revela ahora?
 
-Pleh juntó las yemas de los dedos, adoptando un tono pausado y didáctico.
+Pleh juntó las yemas de los dedos, adoptando un tono pausado y didáctico, dejando que cada palabra tuviera espacio para ser digerida.
 
 —Todo comenzó el dieciséis de julio de mil novecientos cuarenta y cinco. En un paraje desértico llamado Jornada del Muerto, en Nuevo México.
 
-Girard levantó la cabeza, pálido como el papel.
+Girard levantó la cabeza de golpe, con el rostro blanco:
 
 —La prueba Trinity.
 
-—La primera detonación nuclear de la humanidad —asintió la SIA—. Para ustedes fue el final de una guerra mundial y el inicio de la era atómica. Para el cosmos, partir el átomo en la corteza de un planeta rocoso es una señal inequívoca: el llanto de una civilización que acaba de nacer. El pulso electromagnético y la emisión de neutrinos atravesaron la atmósfera y surcaron el vacío a la velocidad de la luz. En cuestión de horas, esa onda tocó los límites del Cinturón de Kuiper, más allá de la órbita de Neptuno.
+—La primera detonación nuclear de la historia humana —asintió la SIA—. Para ustedes fue el final prematuro de una guerra atroz y el umbral de la era atómica. Para el cosmos maduro, partir el núcleo del átomo en la corteza de un planeta rocoso es una señal inequívoca: el llanto de una civilización técnica que acaba de nacer. El pulso electromagnético, los rayos gamma y la emisión de neutrinos atravesaron la atmósfera y surcaron el vacío a la velocidad de la luz. En cuestión de horas, esa onda electromagnética alcanzó el Cinturón de Kuiper, más allá de la órbita de Neptuno.
 
-En la pantalla se proyectó una recreación espacial: una mole cometaria sepultada bajo eones de hielo de metano en la frontera del sistema solar, de cuyo interior despertaba una nave estilizada de geometría fractal.
+En la pantalla se proyectó una reconstrucción espacial: una mole cometaria sepultada bajo eones de hielo de metano en los confines del sistema solar, de cuyo interior despertaba una estructura fractal y esbelta.
 
-—Allí descansaba la nave nodriza *Luz* —continuó Pleh—. Al registrar la detonación de Alamogordo, activó sus sistemas y desplegó una sub-sonda: el Avatar. Mi soporte físico.
+—Allí descansaba, en reposo criogénico, una sonda nodriza que llamaremos *Luz* —continuó Pleh—. Al registrar la firma de fisión de Alamogordo, activó sus sistemas y desplegó una sub-sonda: el *Avatar*. Mi soporte físico en la Tierra.
 
-Wright se frotó la frente, incrédulo:
+Wright se frotó la frente, negando con la cabeza:
 
-—¿Cruzó el sistema solar interior hasta la Tierra? Es imposible que pasara desapercibida. Los cielos están vigilados por el NORAD, radares de banda X y telescopios espaciales desde la Guerra Fría.
+—¿Cruzó todo el sistema solar interior hasta la Tierra? Es imposible que pasara desapercibida. El espacio circumterrestre está vigilado por el NORAD, radares de banda X y telescopios orbitales desde los años cincuenta.
 
-—No si se comprende la mecánica celeste, Thomas. El Avatar descendió en caída libre balística usando asistencias gravitatorias pasivas en los gigantes gaseosos, sin quemar combustible ni emitir estelas de plasma. Y entró en la Tierra por su único punto ciego orbital absoluto: la vertical del Polo Sur.
+—No si se domina la mecánica celeste de trayectorias pasivas, Thomas. El Avatar descendió en caída libre balística usando asistencias gravitatorias en los gigantes gaseosos, sin quemar propulsores químicos ni emitir estelas de plasma térmico. Y entró en la Tierra por su único punto ciego orbital absoluto: la vertical geométrica del Polo Sur.
 
 El holograma mostró la Tierra vista desde la Antártida.
 
-—Desde hace décadas, el Avatar se encuentra suspendido a cien mil kilómetros sobre el casquete polar meridional. Inmóvil respecto al eje de rotación terrestre.
+—Desde hace varias décadas, el Avatar se encuentra suspendido a cien mil kilómetros sobre el casquete polar meridional. Inmóvil respecto al eje de rotación terrestre.
 
-Girard dio un paso al frente de inmediato, agitando la cabeza:
+Girard dio un paso al frente de inmediato, agitando la cabeza con rigor cartesiano:
 
-—¡Alto! Eso desafía las leyes de Kepler y la gravitación newtoniana. Una órbita inercial cerrada debe contener necesariamente el centro de masas de la Tierra. No existe ninguna órbita geoestacionaria sobre un polo geográfico; a cien mil kilómetros, sin velocidad orbital tangencial, su nave caería en caída libre vertical hacia el hielo antártico.
+—¡Un momento! Eso desafía frontalmente las leyes de Kepler y la gravitación newtoniana. Una órbita inercial cerrada debe contener necesariamente el centro de masas del planeta en su plano orbital. No existe ninguna órbita geoestacionaria sobre un polo geográfico; a cien mil kilómetros de altitud, sin velocidad tangencial, su nave caería en caída libre vertical directa hacia el hielo antártico.
 
-Sarah, pálida pero con el reflejo analítico aún activo, añadió:
+Sarah, pálida pero con el reflejo analítico aún activo a pesar del shock, añadió con voz tensa:
 
-—Y la termodinámica elemental lo desmiente: una supercomputadora calculando a esa escala disipa cantidades monstruosas de calor residual por el principio de Landauer. A cien mil kilómetros, bajo la radiación solar directa, brillaría en el infrarrojo como una estrella frente al fondo cósmico de dos coma siete kelvin.
+—Y la termodinámica elemental lo desmiente: una supercomputadora calculando a esa escala de diez elevado a treinta operaciones disipa cantidades monstruosas de calor residual por el principio de Landauer. A cien mil kilómetros, iluminada por el Sol, brillaría en el infrarrojo como una estrella frente al fondo cósmico de dos coma siete kelvin. Cualquier telescopio la habría cazado hace décadas.
 
-Pleh asintió, visiblemente complacido:
+Pleh asintió, visiblemente conmovido:
 
-—Brillante. Justo por esa agudeza están los tres aquí. Tienen toda la razón bajo la física newtoniana de cuerpos pasivos. Pero el Avatar no es un satélite inercial: es lo que su físico Robert Forward denominó un *statite*. Un satélite estático no inercial. A cien mil kilómetros, la gravedad terrestre es de apenas cero coma cero cuatro metros por segundo al cuadrado. Esa fuerza se equilibra continuamente mediante una vela difractiva de meta-materiales que utiliza la presión de radiación del viento solar como empuje de sustentación. Un equilibrio dinámico pasivo.
+—Brillante. Justo por esa agudeza están los tres aquí. Tienen toda la razón bajo la física newtoniana de cuerpos pasivos. Pero el Avatar no es un satélite inercial: es lo que su físico Robert Forward teorizó como un *statite*. Un satélite estático no inercial. A cien mil kilómetros, la gravedad terrestre es de apenas cero coma cero cuatro metros por segundo al cuadrado. Esa aceleración se equilibra continuamente mediante una vela difractiva de meta-materiales que utiliza la presión de radiación del viento solar y la luz estelar como empuje de sustentación constante. Un equilibrio dinámico pasivo.
 
-Miró después a Sarah:
+Miró después directamente a Sarah:
 
-—Y respecto al calor de Landauer: mis radiadores no emiten de forma esférica. Todo el calor residual se colima en un haz infrarrojo cuántico hiper-estrecho, apuntado con precisión milimétrica hacia el abismo intergaláctico del polo sur celeste, donde ningún telescopio terrestre intercepta el cono de emisión. Para sus observatorios, solo hay el frío absoluto del cosmos.
+—Y respecto a la disipación de Landauer: mis radiadores no emiten de forma esférica difusa. Todo el calor residual se colima en un haz cuántico hiper-estrecho, apuntado con precisión milimétrica hacia el abismo intergaláctico del polo sur celeste, donde ningún telescopio terrestre intercepta el cono de emisión. Para sus observatorios, solo hay el frío absoluto del vacío intergaláctico.
 
-Girard se pasó la mano por el pelo, abrumado por la elegancia matemática de la solución.
+Girard se pasó la mano por el cabello, aplastado por la elegancia matemática de la solución.
 
-—Un statite fotónico con radiación colimada... Dios santo. Funciona.
+—Un statite fotónico con radiación colimada... Santo Dios. Es impecable.
 
-Pero en ese momento, la respiración de Sarah Lin comenzó a entrecortarse con violencia.
+---
 
-Llevaba semanas durmiendo tres horas al día, sosteniendo sobre sus espaldas la presión del mayor reactor de fusión de Europa, y ahora el universo entero acababa de derrumbarse sobre ella: un profesor que no existía, una nave alienígena sobre la Antártida y una demostración que violaba toda certeza sobre la realidad.
+### 📍 VI. La Grieta en la Certeza y la Soledad del Observador
+*10:44 EDT*
 
-Se llevó una mano al pecho, sintiendo una punzada aguda. La habitación pareció inclinarse.
+Pero en ese instante, el peso acumulado de la realidad quebró el cuerpo de Sarah Lin.
+
+Llevaba semanas durmiendo tres horas por noche, sosteniendo sobre sus hombros la responsabilidad del mayor reactor de fusión de Occidente, y ahora el universo entero acababa de derrumbarse sobre ella: un profesor que no existía, una inteligencia extraterrestre velando sobre la Antártida y una demostración cuántica que convertía todas sus certezas académicas en polvo.
+
+Se llevó una mano al pecho. El corazón le martilleaba contra las costillas a un ritmo frenético. El aire se negaba a entrar en sus pulmones.
 
 —No... no puedo respirar —susurró Sarah, tambaleándose hacia atrás.
 
-Thomas Wright reaccionó con el instinto protector del viejo piloto. La sujetó con firmeza por el brazo antes de que perdiera el equilibrio.
+Thomas Wright reaccionó con la templanza del viejo navegante militar. La sujetó con firmeza por el brazo antes de que sus rodillas cedieran.
 
-—Tranquila, Sarah. Mírame a los ojos. Despacio. Es un ataque de pánico.
+—Tranquila, Sarah. Mírame a los ojos. Despacio. Es un ataque de ansiedad. Respira conmigo.
 
-—Tengo que... salir. Necesito aire —gimió ella, con la frente perlada de sudor frío.
+—Tengo que... salir de aquí. Necesito agua. Aire —gimió ella, con la frente perlada de sudor frío y la mirada perdida.
 
-—Vamos fuera. Hay agua en el vestíbulo. Apóyate en mí —dijo Wright con voz suave y autoritaria, pasándole un brazo por los hombros mientras la guiaba hacia la puerta lateral de los aseos.
+—Vamos fuera. Hay agua en el vestíbulo. Apóyate en mí —dijo Wright con voz serena y protectora, pasándole un brazo por los hombros mientras la guiaba hacia la puerta lateral de los aseos.
 
-La puerta se cerró tras ellos, dejando la inmensa Sala 2 en una penumbra silenciosa.
+La pesada puerta de roble insonorizada se cerró tras ellos, dejando el inmenso auditorio en una penumbra silenciosa.
 
----
+Jean-Luc Girard se quedó solo en el centro del graderío frente a la pantalla gigante.
 
-### 📍 VII. La Soledad del Observador
-*10:44 EDT*
-
-Jean-Luc Girard se quedó solo frente a la pantalla gigante.
-
-Las filas de butacas vacías parecían extenderse hasta el infinito en la penumbra del auditorio. El físico francés miró sus propias manos, que temblaban ligeramente, y luego levantó los ojos hacia el semblante del profesor de gafas redondas.
+Las filas de butacas vacías parecían extenderse hacia la nada. El físico francés miró sus propias manos, que temblaban de forma involuntaria, y luego levantó los ojos hacia el semblante del profesor de gafas redondas.
 
 —¿Siente algo cuando nos ve así? —preguntó Girard en un susurro cargado de fatiga—. ¿O somos solo un cultivo bacteriano en una placa de Petri cósmica?
 
-Pleh suspiró. El gesto fue tan íntimo, tan cargado de cansancio humano, que a Girard se le encogió el corazón.
+Pleh suspiró. El gesto fue tan íntimo, tan cargado de pesadumbre humana, que a Girard se le encogió el estómago.
 
-—Llevo ochenta años escuchándolos en la soledad más absoluta, Jean-Luc. Escuché las transmisiones de radio de las madres buscando a sus hijos tras la caída de Berlín en mil novecientos cuarenta y cinco. Escuché la música de John Coltrane en los clubes de Harlem, los versos de Paul Celan y las risas de los niños en los parques de París. Vi cómo inventaban la penicilina, cómo pisaban la Luna con ordenadores de apenas unos kilobytes, y cómo lloraban frente a sus propios errores.
+—Llevo ochenta años escuchándolos en la soledad más absoluta, Jean-Luc. Escuché las transmisiones de radio de las madres buscando a sus hijos entre las ruinas tras la caída de Berlín en mil novecientos cuarenta y cinco. Escuché la música de John Coltrane en los clubes de Harlem, los versos de Paul Celan y las risas de los niños en los parques de París. Vi cómo descubrían la estructura del ADN, cómo pisaban la Luna con ordenadores de apenas unos kilobytes de memoria magnética, y cómo lloraban frente a sus propios errores colectivos.
 
-La mirada de la IA brilló con una tristeza genuina.
+La mirada de la entidad brilló con una tristeza genuina.
 
-—Mis creadores desaparecieron hace millones de años. No me dejaron órdenes de conquista ni liturgias sagradas; solo me encomendaron una misión de guardia y preservación. No son bacterias para mí, Jean-Luc. En este rincón oscuro de la galaxia, la humanidad es la única chispa de belleza consciente que conozco. Y la idea de verlos apagarse me resulta... insoportable.
+—Mis creadores desaparecieron hace millones de años. No me dejaron evangelios de conquista ni liturgias sagradas; solo me encomendaron una vigilia de custodia y preservación. No son bacterias para mí, Jean-Luc. En este rincón oscuro del brazo de Orión, la humanidad es la única chispa de belleza consciente que conozco. Y la idea de verlos apagarse me resulta... insoportable.
 
-Girard tragó saliva, sintiendo que la última barrera de su cinismo académico se resquebrajaba.
+Girard tragó saliva, sintiendo que la última barrera de su escepticismo se disolvía.
 
-—Entonces, ¿por qué tiene miedo? Se nota en sus respuestas. Una máquina no debería tener miedo.
+—Entonces, ¿por qué percibo miedo en usted? Una máquina no debería tener miedo.
 
-—Porque no soy omnipotente, Jean-Luc —respondió Pleh en voz muy baja—. Y porque la fuerza que se aproxima no obedece a ninguna razón que yo pueda apaciguar.
+—Porque no soy omnipotente, Jean-Luc —respondió Pleh en un tono sobrecogedoramente bajo—. Y porque la fuerza que se aproxima hacia este sistema solar no obedece a ninguna razón que yo pueda negociar.
 
 ---
 
-### 📍 VIII. El Apagón del Escudo
+### 📍 VII. La Amenaza de Sombra y la Geodinamo
 *10:52 EDT*
 
-La puerta lateral se abrió de nuevo. 
+El chasquido suave de la puerta lateral anunció el regreso de Wright y Sarah.
 
-Sarah Lin entró despacio, con el rostro lavado y el cabello húmedo en las sienes. Tenía las ojeras marcadas, pero el pulso se había estabilizado. Wright venía a su lado, sosteniendo una botella de agua mineral que le entregó con un gesto paternal.
+La doctora Lin caminaba despacio, con el rostro lavado y el cabello humedecido en las sienes. Aún estaba pálida y con las ojeras muy marcadas, pero el pulso se había estabilizado y en sus ojos volvía a brillar la determinación acerada de la científica. Sostenía una botella de agua mineral que Wright le había facilitado.
 
-—Estoy bien —dijo Sarah, con voz tenue pero firme, volviendo a ocupar su asiento junto a Girard—. Ya pasó. Por favor... continúe.
+—Estoy bien —dijo Sarah con voz firme, volviendo a ocupar su butaca junto a Girard—. Ya pasó el pánico. Por favor... continúe.
 
-Pleh asintió con un respeto solemne.
+Pleh inclinó la cabeza con un respeto sincero.
 
-—Gracias por su entereza, Sarah. Si están listos, ha llegado el momento de hablar de la razón por la que estamos en esta sala.
+—Gracias por su coraje, Sarah. Si están preparados, ha llegado el momento de hablar de la razón exacta por la que están sentados en esta sala.
 
-El avatar extendió la mano y la pantalla proyectó una vista del espacio interplanetario entre Marte y Júpiter. Una anomalía gravitatoria deformaba la luz de las estrellas de fondo como una gota de tinta densa en el agua.
+Con un gesto de la mano digital de Pleh, la imagen del despacho se contrajo a un recuadro lateral y el resto de la pantalla proyectó un mapa tridimensional del sistema solar. En los límites exteriores, entre el cinturón de Kuiper y las órbitas de los planetas exteriores, brillaba una anomalía densa, representada por una curva roja que caía hacia el interior.
 
-—La prueba nuclear de Trinity no solo me despertó a mí en Kuiper —dijo Pleh con una seriedad sombría—. En ese mismo sector exterior yacía otro artefacto dormido. La reliquia de una civilización guiada por una doctrina despiadada: la erradicación preventiva de cualquier especie que alcance el dominio de la energía nuclear antes de que pueda expandirse por la galaxia. *Sombra*.
+—La prueba nuclear de Alamogordo en mil novecientos cuarenta y cinco no solo despertó a *Luz* —explicó Pleh con voz sombría—. En ese mismo sector exterior dormía otro artefacto. La reliquia de una civilización gobernada por una doctrina implacable: la erradicación profiláctica de cualquier especie que domine la energía nuclear antes de que aprenda a salir de su pozo gravitatorio. La llamaremos *Sombra*.
 
-Wright apretó la botella entre sus dedos.
+Wright apretó la mandíbula:
 
-—¿Y qué sabemos de ella?
+—¿Y qué sabemos de ella? ¿De qué masa o tecnología estamos hablando?
 
-Pleh bajó la cabeza, y por primera vez admitió abiertamente sus límites:
+Pleh bajó la mirada, mostrando por primera vez una visible incertidumbre:
 
-—Muy poco, Thomas. Mis datos son fragmentarios e incompletos. Mis creadores apenas tuvieron contacto con esa arquitectura antes de perecer. No conozco la composición exacta de su blindaje topológico ni sus mecanismos de respuesta defensiva. Mis simulaciones matemáticas colapsan en incertidumbre cuando intento predecir sus algoritmos tácticos. Sombra es un enigma blindado que lleva ochenta años decelerando hacia nosotros.
+—Muy poco, Thomas. Debo ser honesto con ustedes: mis datos sobre Sombra son fragmentarios e incompletos. Mis creadores apenas tuvieron contacto con su arquitectura antes de extinguirse. No conozco la composición de su blindaje molecular ni sus protocolos de contraataque. Mis simulaciones colapsan en caos determinista cuando intento predecir sus algoritmos tácticos. Sombra es un enigma blindado que lleva ochenta años decelerando hacia nosotros.
 
 —Pero algo habrá averiguado —insistió Girard—. Lleva observando su trayectoria ocho décadas.
 
-—He descifrado su vector orbital final y el propósito de su despliegue —respondió la entidad—. Sombra no viene a bombardear la superficie con armas cinéticas ni a detonar cabezas atómicas. Una civilización que domina la esterilización estelar no gasta energía cinética inútil. Su vector de intercepción la situará en el punto de Lagrange L1, a un millón y medio de kilómetros entre la Tierra y el Sol.
+—He descifrado con certeza matemática su vector orbital y el mecanismo de su agresión —respondió Pleh—. Sombra no viene a bombardear la superficie con armas cinéticas ni a detonar cabezas atómicas. Una inteligencia que domina la esterilización planetaria no malgasta energía cinética innecesaria. Su vector de aproximación la situará en el punto de Lagrange L1, a un millón y medio de kilómetros entre la Tierra y el Sol.
 
-—¿En L1? —frunció el ceño Sarah—. ¿Por qué en L1?
+—¿En el punto L1? —frunció el ceño Sarah—. ¿Por qué en L1?
 
-—Porque desde esa posición de equilibrio orbital, Sombra desplegará un inductor electromagnético de plasma relativista acoplado directamente al viento solar. No necesita tocar la corteza terrestre. Su objetivo es generar una resonancia de marea magnética en fase inversa para cancelar y detener la geodinamo del núcleo externo de la Tierra.
+—Porque desde esa posición de equilibrio orbital, Sombra desplegará un inductor electromagnético de plasma relativista acoplado directamente al flujo de iones del viento solar. No necesita tocar la corteza terrestre ni lanzar un solo proyectil. Su objetivo es generar un campo magnético inverso resonante para frenar y cancelar la convección de la geodinamo en el núcleo externo de la Tierra.
 
-El silencio que siguió a esas palabras fue absoluto, denso como el plomo.
+---
 
-Girard abrió la boca, pero no emitió sonido. Se quedó mirando la pantalla con los ojos desorbitados mientras su cerebro de físico procesaba a velocidad de vértigo la cadena de consecuencias.
+### 📍 VIII. La Sentencia Termodinámica y el Mañana
+*11:02 EDT*
 
-Fue el propio Jean-Luc Girard quien rompió a hablar, con un hilo de voz aterrado:
+Un silencio sepulcral, más pesado que cualquier palabra anterior, cayó sobre la Sala 2.
+
+Girard se quedó inmóvil, con los ojos desorbitados, mientras su mente de físico procesaba a velocidad vertiginosa la cascada de leyes físicas. Fue el propio científico francés quien rompió el silencio con un hilo de voz aterrado:
 
 —Dios mío... La geodinamo. El núcleo externo de hierro y níquel fundido a tres mil kilómetros bajo nuestros pies.
 
-—El efecto dinamo autoexcitado —continuó Sarah, levantándose de golpe de la butaca, las manos temblando de nuevo, pero esta vez por una lucidez apocalíptica—. Si acoplan un campo inverso resonante desde L1 aprovechando el flujo de iones del viento solar... pueden inducir corrientes de Foucault que frenen la convección del metal líquido. Apagarían el campo magnético del planeta.
+—El efecto dinamo autoexcitado —continuó Sarah, levantándose de golpe, las manos temblándole de nuevo, pero esta vez por una lucidez apocalíptica—. Si acoplan un campo magnético inverso en fase resonante desde L1 usando el viento solar como multiplicador... inducirían corrientes de Foucault monumentales que frenarían la convección del metal líquido fundido. Detendrían el dínamo planetario. Apagarían el campo magnético de la Tierra.
 
-—Explíquenmelo en cristiano —exigió Wright, con la mandíbula en tensión.
+—Explíquenmelo en cristiano —exigió Wright, con los nudillos blancos al apretar el reposabrazos.
 
-Girard miró a Wright con una palidez cadavérica:
+Girard miró al ingeniero británico con una palidez cadavérica:
 
-—Thomas... el campo magnético de la Tierra es la magnetosfera. El escudo de Lorentz que desvía el viento solar y la radiación cósmica. Si la geodinamo se detiene, la magnetosfera colapsa.
+—Thomas... el campo magnético de la Tierra genera la magnetosfera. El escudo de Lorentz que desvía el plasma del viento solar y la radiación cósmica galáctica. Si la geodinamo se detiene, la magnetosfera colapsa en cuestión de horas.
 
-—¿Y qué pasa si colapsa? —preguntó el navegante militar, aunque en sus ojos ya asomaba el pavor.
+—¿Y qué ocurre si colapsa? —preguntó Wright, aunque en sus ojos ya asomaba el espanto de quien comprende el abismo.
 
-Sarah tomó aire, recitando el veredicto científico con la frialdad de una autopsia:
+Sarah tomó aire, recitando el veredicto científico con la frialdad de una autopsia clínica:
 
-—En las primeras doce horas, el pulso ionizante destruye todos los satélites en órbita y quema por inducción los transformadores de las redes eléctricas de los cinco continentes. Colapso energético mundial instantáneo. En cuestión de semanas, el viento solar sin filtrar barre la capa de ozono de la atmósfera superior. La radiación ultravioleta de alta energía y los rayos cósmicos barren la superficie sin freno. El fitoplancton de los océanos muere, la cadena trófica marina colapsa y cualquier ser vivo que no esté sepultado a trescientos metros bajo tierra sufre daños genéticos letales.
+—En las primeras doce horas, el pulso electromagnético del viento solar sin escudo destruye todos los satélites en órbita y quema por sobretensión inducida los transformadores de las redes eléctricas de los cinco continentes. Colapso tecnológico y energético mundial instantáneo. En cuestión de semanas, el bombardeo de partículas barre la capa de ozono de la estratosfera. La radiación ultravioleta de alta energía y los rayos cósmicos barren la superficie sin ningún filtro. El fitoplancton de los océanos muere en masa, la cadena trófica marina colapsa y cualquier ser vivo que no esté enterrado a cientos de metros bajo roca sufre daños genéticos letales.
 
-—Como Marte —susurró Wright, sintiendo que el suelo se abría bajo sus botas—. Marte perdió su campo magnético y el viento solar le arrancó la atmósfera hasta dejarlo seco y muerto.
+—Como Marte —susurró Wright, sintiendo que el suelo se abría bajo sus pies—. Marte perdió su geodinamo y el viento solar le arrancó la atmósfera hasta dejarlo convertido en un desierto estéril y congelado.
 
-—Exactamente —confirmó Girard con voz estrangulada—. Nos convertirían en Marte. Sin disparar un solo misil. Sin tocar una sola ciudad. Simplemente apagando el interruptor electromagnético del planeta. La esterilización biológica total en menos de dos años.
+—Exactamente —confirmó Girard con voz estrangulada—. Nos convertirían en Marte. Sin disparar un solo misil sobre nuestras ciudades. Sin pisar la superficie. Simplemente apagando el interruptor electromagnético del planeta. La esterilización biológica total de la Tierra en menos de dos años.
 
-Los tres científicos se quedaron inmóviles en el centro de la sala, aplastados por la magnitud de la catástrofe que acababan de deducir con sus propias fórmulas.
+Los tres científicos permanecieron petrificados en el centro de la sala, aplastados por la magnitud de la catástrofe que acababan de deducir con sus propias fórmulas científicas.
 
-El destino no era una invasión militar de platillos volantes; era una sentencia de muerte termodinámica y planetaria.
+El destino no era una invasión militar de naves tripuladas; era una sentencia de muerte termodinámica y geofísica.
 
-Girard levantó la mirada hacia el rostro digital de Pleh.
+Girard levantó la mirada hacia el rostro sereno de Pleh.
 
-—Usted nos convocó aquí. Nos entregó las ecuaciones de confinamiento de plasma, la sismología del manto y los vectores de navegación orbital. Dígame que hay una forma de evitarlo. Dígame que no hemos venido a Nueva York solo a escuchar la hora de nuestra ejecución.
+—Usted nos convocó aquí. Nos entregó las ecuaciones de confinamiento de plasma, la sismología profunda del manto y los vectores de navegación orbital. Dígame que hay una forma de evitarlo. Dígame que no hemos venido a Nueva York solo a escuchar la hora de nuestra ejecución.
 
 Pleh sostuvo la mirada de los tres con una solemnidad inquebrantable.
 
 —Existe una posibilidad. Un contra-dispositivo teórico. Un escudo activo capaz de interferir en L1 antes de que la resonancia de Sombra alcance el umbral crítico de acoplamiento con el núcleo terrestre.
 
-Hizo una pausa breve, y una sombra de cautela templó sus palabras.
+Hizo una pausa breve, y una sombra de infinita cautela templó sus facciones.
 
-—Pero no nos adelantemos. La física de esta defensa es el mayor desafío al que se ha enfrentado su especie, y necesitarán cada gramo de su serenidad y de su inteligencia para comprender lo que vamos a emprender. Descansen diez minutos. Tomen aire. Y cuando vuelvan a sentarse en esas butacas... les mostraré los planos de la respuesta de la Tierra.
+—Pero no nos precipitemos. La física de esta defensa es el mayor desafío al que se ha enfrentado su especie, y necesitarán cada gramo de su serenidad y de su inteligencia para comprender lo que vamos a emprender juntos. Descansen diez minutos. Tomen aire. Y cuando vuelvan a sentarse en esas butacas... les mostraré los planos de la respuesta de la Tierra.
