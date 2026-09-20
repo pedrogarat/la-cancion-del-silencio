@@ -373,6 +373,28 @@ Pleh sostuvo la mirada de los tres con una firmeza inquebrantable:
 
 —Existe una posibilidad. Un contra-dispositivo teórico. Un escudo activo capaz de posicionarse en el punto L1 para neutralizar la interferencia enemiga antes de que logre acoplarse con el núcleo de la Tierra.
 
-Hizo una pausa breve y respiró hondo, como si compartiera el inmenso peso del destino humano:
-
 —Pero construir esa defensa exigirá lo mejor de la ciencia de su mundo y la mayor proeza de cooperación de su historia. No podemos perder la calma. Descansen diez minutos. Tomen aire, beban agua y despejen la mente. Y cuando vuelvan a sentarse en esas butacas... les mostraré los planos de la respuesta de la Tierra.
+
+---
+
+Durante las dos horas siguientes, el silencio de la Sala 2 se transformó en una vorágine de ecuaciones, diagramas esquemáticos y simulaciones termodinámicas proyectadas a una escala jamás vista en ningún laboratorio de la Tierra.
+
+Pleh no dejó un solo parámetro al azar. Con una paciencia pedagógica implacable, desplegó ante los tres científicos la arquitectura conceptual de un contra-dispositivo teórico de una audacia aterradora: una misión espacial dividida en dos fases complementarias, diseñada no para librar una batalla cinética convencional, sino para inducir un colapso electromagnético en el propio corazón de la estructura enemiga en L1. Girard comprobaba los balances criogénicos en su bloc de notas con la mano temblorosa; Sarah devoraba las ecuaciones de confinamiento plasmático con la mirada encendida, asombrada ante la elegancia con que se resolvían paradojas que llevaban medio siglo atascadas; y Wright asentía en silencio, calculando ventanas de transferencia orbital, empujes y masas en el límite mismo de lo que la industria aeroespacial humana era capaz de construir.
+
+Era un plan tan monumental como desesperado. Una proeza al filo del abismo que desbordaba cualquier presupuesto nacional y cualquier tratado militar conocido.
+
+Cuando la última simulación se desvaneció en la pantalla gigante, los tres científicos permanecieron clavados en sus butacas, física y emocionalmente exhaustos, asimilando la magnitud del desafío.
+
+Pleh los miró desde el estrado virtual con un semblante de una serenidad tajante:
+
+—Ahora ya conocen el camino. Saben que no es una quimera matemática; es una solución física real. Pero nosotros cuatro solos no podemos fundir un solo kilogramo de metal ni ensamblar una tobera en el vacío. Necesitamos el poder industrial, logístico y político de las grandes potencias coordinadas como una sola especie. Y ahora... tenemos que ir a las Naciones Unidas. Debemos hablar de inmediato con el Secretario General.
+
+Sarah abrió los ojos de par en par, incorporándose con un gesto incrédulo:
+
+—¿Cómo? ¿A la ONU? ¿Pretendes que nos plantemos en la sede de las Naciones Unidas a exigir una audiencia con el Secretario General como si fuéramos turistas extraviados? La agenda de ese hombre está blindada con meses de antelación. Ni un jefe de Estado entra en su despacho sin previo aviso.
+
+—Y aunque lográramos franquear el primer puesto de guardia —añadió Girard, con el ceño fruncido y la voz tomada—, nos tomarían por un trío de académicos delirantes antes de que pudiéramos abrir la boca.
+
+Pleh sonrió levemente, con esa calma sobrehumana que desarmaba cualquier objeción:
+
+—Dejen la burocracia en mis manos, amigos míos. Pónganse los abrigos, salgan a la calle y caminen hacia el East River. Y, sobre todo... confíen en mí.
