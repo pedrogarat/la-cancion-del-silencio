@@ -164,6 +164,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         try { setupEventListeners(); } catch(e) { console.error('Error in setupEventListeners:', e); }
         try { updateProgressBar(); } catch(e) { console.error('Error in updateProgressBar:', e); }
+        try { checkForRemoteUpdates(); } catch(e) { console.error('Error in checkForRemoteUpdates:', e); }
     }
 
     // --- MANEJADOR DE EVENTOS GENERAL ---
@@ -246,6 +247,77 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Atajos de teclado
         document.addEventListener('keydown', handleKeyboardShortcuts);
+
+        // Botones de Forzar Recarga Anti-Caché en Móviles
+        const btnHeaderRefresh = document.getElementById('btn-header-refresh');
+        const brandLastUpdated = document.getElementById('brand-last-updated');
+        const btnSidebarRefresh = document.getElementById('btn-sidebar-refresh');
+        const btnFooterRefresh = document.getElementById('btn-footer-refresh');
+
+        [btnHeaderRefresh, brandLastUpdated, btnSidebarRefresh, btnFooterRefresh].forEach(btn => {
+            if (btn) {
+                btn.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    forceRefreshCache();
+                });
+            }
+        });
+
+        // Detectar cuando el usuario vuelve a la pestaña en el móvil
+        document.addEventListener('visibilitychange', () => {
+            if (document.visibilityState === 'visible') {
+                checkForRemoteUpdates();
+            }
+        });
+        window.addEventListener('focus', checkForRemoteUpdates);
+    }
+
+    // --- CONTROL DE ACTUALIZACIÓN ANTI-CACHÉ EN MÓVILES ---
+    function forceRefreshCache() {
+        const cleanUrl = window.location.origin + window.location.pathname + '?refresh=' + Date.now();
+        window.location.href = cleanUrl;
+    }
+
+    function checkForRemoteUpdates() {
+        try {
+            fetch('version.json?t=' + Date.now(), { cache: 'no-store' })
+                .then(res => {
+                    if (!res.ok) return null;
+                    return res.json();
+                })
+                .then(data => {
+                    if (!data || !data.buildTimestamp) return;
+                    const localBuild = NOVEL_DATA.buildTimestamp ? new Date(NOVEL_DATA.buildTimestamp).getTime() : 0;
+                    const remoteBuild = new Date(data.buildTimestamp).getTime();
+                    // Si el servidor tiene una versión más nueva por al menos 5 segundos
+                    if (remoteBuild > localBuild + 5000) {
+                        showUpdateToast(data.lastUpdated);
+                    }
+                })
+                .catch(() => {});
+        } catch(e) {}
+    }
+
+    function showUpdateToast(lastUpdatedText) {
+        if (document.getElementById('update-notification-toast')) return;
+        const toast = document.createElement('div');
+        toast.id = 'update-notification-toast';
+        toast.className = 'update-notification-toast';
+        toast.innerHTML = `
+            <span>🚀 <strong>Texto actualizado disponible</strong> (${lastUpdatedText || 'Nueva versión'})</span>
+            <button id="btn-toast-reload">Actualizar ahora</button>
+        `;
+        document.body.appendChild(toast);
+        const reloadBtn = document.getElementById('btn-toast-reload');
+        if (reloadBtn) reloadBtn.addEventListener('click', forceRefreshCache);
+    }
+
+    // Desregistrar cualquier service worker residual
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.getRegistrations().then(registrations => {
+            for (let r of registrations) r.unregister();
+        }).catch(() => {});
     }
 
     // --- CARGA DE PREFERENCIAS ---

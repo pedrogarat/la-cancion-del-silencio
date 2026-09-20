@@ -94,6 +94,8 @@ const formattedDate = new Intl.DateTimeFormat('es-ES', {
   timeZone: 'Europe/Madrid'
 }).format(now);
 
+const buildId = now.getTime();
+
 const novelData = {
   title: metaConfig.title || "NUEVA NOVELA",
   subtitle: metaConfig.subtitle || "EL COMIENZO DE LA AVENTURA",
@@ -102,6 +104,7 @@ const novelData = {
   coverImage: metaConfig.coverImage || "cover.png",
   lastUpdated: formattedDate,
   buildTimestamp: now.toISOString(),
+  buildId: buildId,
   totalChapters: chapters.length,
   totalWords: chapters.reduce((acc, c) => acc + c.words, 0),
   totalPages: chapters.reduce((acc, c) => acc + parseFloat(c.pages), 0).toFixed(1),
@@ -116,5 +119,27 @@ const novelData = {
 const outputContent = `// Archivo generado automáticamente para ${novelData.title}\nconst NOVEL_DATA = ${JSON.stringify(novelData, null, 2)};\n`;
 
 fs.writeFileSync(path.join(projectRoot, 'chapters-data.js'), outputContent, 'utf-8');
-console.log(`Successfully updated chapters-data.js for ${novelData.title} with ${chapters.length} chapter(s)!`);
+
+// Generar version.json para auto-detección y recarga sin caché en móviles
+const versionInfo = {
+  buildId: buildId,
+  buildTimestamp: novelData.buildTimestamp,
+  lastUpdated: formattedDate,
+  totalChapters: novelData.totalChapters,
+  totalWords: novelData.totalWords
+};
+fs.writeFileSync(path.join(projectRoot, 'version.json'), JSON.stringify(versionInfo, null, 2), 'utf-8');
+
+// Actualizar hash de cache-busting en index.html
+const indexPath = path.join(projectRoot, 'index.html');
+if (fs.existsSync(indexPath)) {
+  let indexHtml = fs.readFileSync(indexPath, 'utf-8');
+  indexHtml = indexHtml.replace(/href="style\.css(\?v=[^"]*)?"/g, `href="style.css?v=${buildId}"`);
+  indexHtml = indexHtml.replace(/src="chapters-data\.js(\?v=[^"]*)?"/g, `src="chapters-data.js?v=${buildId}"`);
+  indexHtml = indexHtml.replace(/src="app\.js(\?v=[^"]*)?"/g, `src="app.js?v=${buildId}"`);
+  fs.writeFileSync(indexPath, indexHtml, 'utf-8');
+  console.log(`Cache-busting query strings updated in index.html with v=${buildId}`);
+}
+
+console.log(`Successfully updated chapters-data.js and version.json for ${novelData.title} with ${chapters.length} chapter(s)!`);
 

@@ -1439,3 +1439,93 @@ body.focus-mode .reader-container { padding-top: 2rem; }
     }
 }
 
+/* ==========================================================================
+   CONTROLES DE ACTUALIZACIÓN INMEDIATA Y ANTI-CACHÉ
+   ========================================================================== */
+.brand-last-updated {
+    cursor: pointer;
+    transition: color var(--transition-fast);
+}
+.brand-last-updated:hover {
+    color: #67e8f9 !important;
+    text-decoration: underline;
+}
+
+.btn-mini-refresh {
+    background: rgba(56, 189, 248, 0.12);
+    border: 1px solid rgba(56, 189, 248, 0.4);
+    color: #38bdf8;
+    border-radius: 6px;
+    font-size: 0.68rem;
+    padding: 2px 7px;
+    cursor: pointer;
+    line-height: 1.2;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-family: var(--font-code);
+    font-weight: 600;
+    transition: all var(--transition-fast);
+    touch-action: manipulation;
+}
+.btn-mini-refresh:hover {
+    background: rgba(56, 189, 248, 0.25);
+    border-color: #38bdf8;
+    box-shadow: 0 0 10px rgba(56, 189, 248, 0.3);
+}
+.btn-mini-refresh:active {
+    transform: scale(0.94);
+    background: rgba(56, 189, 248, 0.4);
+}
+
+.update-notification-toast {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(15, 23, 42, 0.96);
+    border: 1px solid #38bdf8;
+    box-shadow: 0 10px 30px rgba(0, 240, 255, 0.35);
+    border-radius: 9999px;
+    padding: 10px 20px;
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    font-family: var(--font-ui);
+    font-size: 0.88rem;
+    color: #f8fafc;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    animation: toastSlideUp 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+    max-width: 90vw;
+}
+.update-notification-toast button {
+    background: #38bdf8;
+    color: #090c15;
+    font-weight: 700;
+    border: none;
+    border-radius: 9999px;
+    padding: 6px 16px;
+    cursor: pointer;
+    font-size: 0.82rem;
+    font-family: var(--font-ui);
+    transition: all 0.15s ease;
+    white-space: nowrap;
+}
+.update-notification-toast button:active {
+    transform: scale(0.95);
+    background: #0ea5e9;
+}
+
+@keyframes toastSlideUp {
+    from {
+        opacity: 0;
+        transform: translate(-50%, 20px);
+    }
+    to {
+        opacity: 1;
+        transform: translate(-50%, 0);
+    }
+}
+

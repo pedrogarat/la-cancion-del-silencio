@@ -5,13 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>LA CANCIÓN DEL SILENCIO | Novela Interactiva</title>
     <meta name="description" content="Lector oficial de la novela La Canción del Silencio.">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     
     <!-- Fuentes de Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
     
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v=1789890705259">
 </head>
 <body>
     <!-- Barra de progreso superior de lectura -->
@@ -32,7 +35,10 @@
                     <span class="brand-logo">⚡</span>
                     <div class="brand-text">
                         <span class="brand-title">LA CANCIÓN DEL SILENCIO</span>
-                        <span id="brand-last-updated" class="brand-last-updated" style="font-size: 0.65rem; color: #38bdf8; font-family: 'JetBrains Mono', monospace; display: block; margin-top: 1px; opacity: 0.9;">Cargando versión...</span>
+                        <div class="brand-version-container" style="display: flex; align-items: center; gap: 6px; margin-top: 2px;">
+                            <span id="brand-last-updated" class="brand-last-updated" title="Toca para forzar recarga de versión fresca" style="font-size: 0.65rem; color: #38bdf8; font-family: 'JetBrains Mono', monospace; display: block; opacity: 0.9; cursor: pointer;">Cargando versión...</span>
+                            <button id="btn-header-refresh" class="btn-mini-refresh" title="Forzar recarga sin caché en este dispositivo" aria-label="Recargar versión fresca">🔄</button>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -79,6 +85,7 @@
                     <p class="sidebar-author">Autor: <strong>Pedro Garat + Antigravity</strong></p>
                     <p class="sidebar-stats" id="sidebar-stats-text">3 Capítulos &bull; ~3 Páginas &bull; ~500 Palabras</p>
                     <p class="sidebar-build-info" style="font-size: 0.72rem; color: var(--text-muted, #94a3b8); margin-top: 6px; font-family: 'JetBrains Mono', monospace;">🔄 Actualizado: <strong id="sidebar-last-updated" style="color: #38bdf8;">-</strong></p>
+                    <button id="btn-sidebar-refresh" class="btn-mini-refresh" style="margin-top: 8px; padding: 5px 10px; font-size: 0.72rem; width: 100%; justify-content: center;" title="Forzar recarga del texto más reciente">🔄 Forzar recarga de versión</button>
                 </div>
                 <button id="btn-close-sidebar" class="close-btn" aria-label="Cerrar">&times;</button>
             </div>
@@ -162,6 +169,9 @@
                 <!-- Sello de Última Actualización Visible al Final del Capítulo -->
                 <div class="reader-build-stamp" style="text-align: center; margin: 2.5rem 0 1.5rem 0; padding: 1rem; border-top: 1px solid var(--border-color, rgba(255,255,255,0.08)); font-size: 0.78rem; color: var(--text-muted, #94a3b8); font-family: 'JetBrains Mono', monospace;">
                     <span>⚡ <em>La Canción del Silencio</em> &bull; Última compilación sincronizada: <strong id="reader-last-updated" style="color: #38bdf8;">-</strong></span>
+                    <div style="margin-top: 8px;">
+                        <button id="btn-footer-refresh" class="btn-mini-refresh" style="padding: 5px 14px; font-size: 0.75rem;" title="Recargar última versión">🔄 Forzar recarga de texto fresco</button>
+                    </div>
                 </div>
             </div>
         </main>
@@ -442,7 +452,7 @@
     </div>
 
     <!-- Cargar Datos y Lógica de la App (con control de versión para forzar actualización en móviles) -->
-    <script src="chapters-data.js?v=2.0"></script>
-    <script src="app.js?v=2.0"></script>
+    <script src="chapters-data.js?v=1789890705259"></script>
+    <script src="app.js?v=1789890705259"></script>
 </body>
 </html>
