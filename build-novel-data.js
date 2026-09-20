@@ -30,6 +30,7 @@ const biografiasText = fs.existsSync(path.join(novelaDir, 'biografias.md')) ? fs
 const escaletaText = fs.existsSync(path.join(novelaDir, 'escaleta.md')) ? fs.readFileSync(path.join(novelaDir, 'escaleta.md'), 'utf-8') : '';
 const genesisText = fs.existsSync(path.join(novelaDir, 'genesis.md')) ? fs.readFileSync(path.join(novelaDir, 'genesis.md'), 'utf-8') : '';
 const notasCientificasText = fs.existsSync(path.join(novelaDir, 'notas_cientificas.md')) ? fs.readFileSync(path.join(novelaDir, 'notas_cientificas.md'), 'utf-8') : '';
+const recapitulacionText = fs.existsSync(path.join(novelaDir, 'recapitulacion.md')) ? fs.readFileSync(path.join(novelaDir, 'recapitulacion.md'), 'utf-8') : '';
 
 const chapters = [];
 
@@ -113,6 +114,7 @@ const novelData = {
   escaletaRaw: escaletaText,
   genesisRaw: genesisText,
   notasCientificasRaw: notasCientificasText,
+  recapitulacionRaw: recapitulacionText,
   chapters: chapters
 };
 
