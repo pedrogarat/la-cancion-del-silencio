@@ -44,7 +44,7 @@ Ramos se quedó solo unos instantes. Miró la esfera de su reloj de pulsera: mar
 ### 📍 II. La Soberbia Cinética y la Termodinámica
 *Sala de Crisis B-4, Subsuelo de la ONU, 10:20 EDT*
 
-El aire en el búnker subterráneo olía a sudor acumulado, ozono de servidores sobrecalentados y colillas apagadas en vasos de plástico.
+El aire en el búnker subterráneo era denso y viciado: una mezcla agria de café frío abandonado en vasos de papel, la sequedad metálica de la ventilación forzada y el sudor rancio de sesenta personas atrapadas en una vigilia sin ventanas.
 
 Alrededor de la mesa táctica de acero y pantallas táctiles, la atmósfera era de una hostilidad eléctrica. A un lado se sentaban los delegados militares de los Estados Unidos —encabezados por el general Marcus Vance, un hombre de mandíbula cuadrada del Estado Mayor Conjunto, y la vicesecretaria de Defensa para el Espacio—; enfrente, la delegación militar china, liderada por el almirante Chen Wei, de la Fuerza de Apoyo Estratégico del Ejército Popular de Liberación; y a un costado, los representantes de la Unión Europea y el enlace militar ruso.
 
