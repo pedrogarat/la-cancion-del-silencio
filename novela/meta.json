@@ -49,6 +49,15 @@
       "location": "Hotel Millennium Hilton One UN Plaza / Sala B-4 ONU, Nueva York",
       "readTime": "12 min",
       "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 6,
+      "title": "Capítulo 6: La Cámara del Silencio",
+      "act": "Acto II: La Caída del Escudo y el Gran Caos",
+      "pov": "Consejo de Seguridad de la ONU / Dr. Thomas Wright / Dr. Em Pleh",
+      "location": "Cámara del Consejo de Seguridad, Sede de las Naciones Unidas, Nueva York",
+      "readTime": "15 min",
+      "povImage": "img/char_protagonista.png"
     }
   ]
 }
