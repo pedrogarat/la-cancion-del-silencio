@@ -181,7 +181,7 @@ Luego, se volvió hacia la pantalla de Pleh y hacia los tres científicos:
 
 Ramos apoyó ambas palmas sobre la mesa de caoba, inclinándose hacia ellos:
 
-—Ustedes tres son la cúspide de la ciencia en sus respectivas áreas: el CERN en Europa, el MIT en América y la navegación de espacio profundo en la ESA. Y usted, doctor Pleh... usted tiene un conocimiento que supera todo lo que nuestra especie ha concebido jamás. Por la autoridad extraordinaria que me confiere la Carta de las Naciones Unidas para situaciones de riesgo existencial inminente, les otorgo en este mismo acto el mandato de constituirse como el **Comité Científico Director para la Defensa de L1**.
+—Ustedes tres son la cúspide de la ciencia en sus respectivas áreas: el CERN en Europa, el MIT en América y la navegación de espacio profundo en la ESA. Y usted, doctor Pleh... usted tiene un conocimiento que supera todo lo que nuestra especie ha concebido jamás. Por la autoridad extraordinaria que me confiere la Carta de las Naciones Unidas para situaciones de riesgo existencial inminente, les otorgo en este mismo acto el mandato de constituirse como el **Comité Científico Director**.
 
 Girard tragó saliva, sintiendo el inmenso peso de la responsabilidad sobre sus hombros:
 
@@ -193,20 +193,28 @@ Pleh asintió despacio desde la pantalla:
 
 —Es la decisión correcta, señor Secretario General. Necesitaremos a los mejores especialistas del planeta trabajando en un único objetivo: concebir y construir un dispositivo capaz de viajar a L1 y neutralizar ese campo magnético antes de que se vuelva irreversible. Una misión de contraataque que desafiará todas las leyes de la ingeniería espacial humana.
 
-—Empiecen a redactar los requerimientos de esa misión de inmediato —ordenó Ramos, mirando su reloj con urgencia—. Tienen seis horas antes de que comiencen a llegar los embajadores permanentes a la sede subterránea. El destino de la Tierra depende de lo que ustedes cuatro pongan sobre esa mesa.
+—Empiecen a redactar los requerimientos de esa misión de inmediato —ordenó Ramos, consultando su cronómetro con apremio antes de girarse hacia su jefe de gabinete—. Activen el protocolo de apoyo logístico y cobertura prioritaria para el Comité. Necesito que el servicio de transmisiones y seguridad despeje y blinde la Sala de Crisis Subterránea B-4; equipen tres terminales dedicadas con enlace satelital directo a espacio profundo y un canal continuo con el doctor Pleh. Tienen tres horas para dejarla inexpugnable.
+
+El Secretario General volvió su mirada hacia los tres científicos, atenuando un ápice la dureza de su gesto:
+
+—Nadie puede verlos merodeando por los pasillos de la sede mientras llegan las delegaciones diplomáticas. Les hemos asignado suites reservadas justo enfrente, en el *Millennium Hilton New York One UN Plaza*... Irónicamente, el mismo edificio donde esta mañana empezó todo. Cruzarán escoltados. Tienen hasta las cuatro de la tarde para instalarse, asearse y asimilar esto. A las 16:00 horas en punto, los quiero de vuelta en la nueva sala de crisis. A partir de ese minuto, no volverán a ver la luz del sol hasta que tengamos un plan viable que presentar al Consejo.
+
+Pleh asintió despacio desde la pantalla antes de desvanecer su señal:
+
+—Aprovechen esas tres horas. A las cuatro de la tarde comenzará el diseño de la misión.
 
 ---
 
-Veinte minutos más tarde, las pesadas puertas de cristal de la sede de la ONU volvieron a abrirse para dejar salir a Girard, Sarah y Wright.
+Veinte minutos más tarde, las pesadas puertas de cristal de la sede de la ONU volvieron a abrirse para dejar salir a Girard, Sarah y Wright bajo la discreta vigilancia de dos agentes de seguridad diplomática de paisano.
 
-El sol de la una de la tarde brillaba en lo alto, proyectando sombras cortas sobre la Plaza de las Naciones Unidas. Al otro lado de la reja perimetral, la Primera Avenida bullía de actividad: los autobuses urbanos descargaban pasajeros, los mensajeros en bicicleta zigzagueaban entre el tráfico denso y los turistas se fotografiaban sonrientes junto al monumento a la no violencia de la pistola con el cañón anudado.
+El sol de la una de la tarde brillaba en lo alto, proyectando sombras cortas sobre la Plaza de las Naciones Unidas mientras cruzaban la explanada en dirección a la imponente torre acristalada del Millennium Hilton. Al otro lado de la reja perimetral, la Primera Avenida bullía de actividad ajena y frenética: los autobuses urbanos descargaban oficinistas apresurados, los mensajeros en bicicleta zigzagueaban entre el tráfico denso y los turistas se fotografiaban sonrientes junto a la escultura de la pistola con el cañón anudado.
 
-El mundo seguía girando, brillante, bullicioso y cálido, completamente ajeno a la sentencia de muerte que acababa de rubricarse en los confines del espacio interplanetario.
+El mundo seguía girando, brillante, bullicioso y cálido, completamente ignorante de la sentencia de muerte que acababa de rubricarse en los confines del espacio interplanetario.
 
-Sarah Lin se detuvo junto a la acera, levantando la mirada hacia el cielo despejado. Por primera vez en su vida, la luz del Sol no le pareció una fuente de vida y energía, sino el resplandor de una hoguera titánica esperando a que el escudo invisible cayera para devorarlos a todos.
+Sarah Lin se detuvo un instante al pie de los escalones que conducían a la entrada del hotel, levantando la mirada hacia el cielo azul y despejado. Por primera vez en su vida, la luz del Sol no le pareció una fuente de vida y energía, sino el resplandor de una hoguera titánica esperando a que el escudo invisible cayera para devorarlos a todos.
 
-—Ocho meses... —susurró, con un hilo de voz que apenas compitió con el rumor de los motores—. Solo tenemos ocho meses para construir un milagro.
+—Ocho meses... —susurró, con un hilo de voz que apenas compitió con el rumor de los motores en la avenida—. Solo tenemos ocho meses para construir un milagro.
 
-Thomas Wright colocó una mano firme y protectora sobre el hombro de la joven astrofísica, mirando hacia el horizonte del East River con la serenidad de quien ha aceptado su destino:
+Thomas Wright se colocó a su lado, contemplando la fachada de cristal del One UN Plaza antes de mirar a su compañera con una templanza firme pero serena:
 
-—Entonces no perdamos un solo segundo, Sarah. El doctor Pleh nos está esperando en la red... y tenemos una nave que inventar.
+—Entonces subamos a esas habitaciones, Sarah. A las cuatro de la tarde se acabaron las treguas... y tenemos una nave que inventar.

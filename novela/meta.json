@@ -31,6 +31,24 @@
       "location": "Midtown East, Manhattan, Nueva York (Hotel Millennium)",
       "readTime": "15 min",
       "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 4,
+      "title": "Capítulo 4: El Vértigo de las Naciones",
+      "act": "Acto II: La Caída del Escudo y el Gran Caos",
+      "pov": "Dr. Jean-Luc Girard / Dra. Sarah Lin / Dr. Thomas Wright",
+      "location": "Sede de las Naciones Unidas, Nueva York",
+      "readTime": "15 min",
+      "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 5,
+      "title": "Capítulo 5: El Ancla Humana",
+      "act": "Acto II: La Caída del Escudo y el Gran Caos",
+      "pov": "Dr. Jean-Luc Girard / Dra. Sarah Lin / Dr. Thomas Wright",
+      "location": "Hotel Millennium Hilton One UN Plaza / Sala B-4 ONU, Nueva York",
+      "readTime": "12 min",
+      "povImage": "img/char_protagonista.png"
     }
   ]
 }
