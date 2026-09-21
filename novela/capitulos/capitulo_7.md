@@ -92,67 +92,10 @@ Jean-Luc Girard se quitó las gafas, limpió los cristales con la corbata y mir�
 
 ---
 
-### 📍 III. El Hombre que No Existe
-*Sala de Crisis B-4, 11:35 EDT*
+### 📍 III. El Mercado de las Cenizas y el Golpe de Ramos
+*Sala de Crisis B-4, 11:45 EDT*
 
-La humillación técnica fue la chispa que hizo estallar la pólvora del resentimiento político.
-
-El embajador de los Estados Unidos, Arthur Sterling, se puso en pie de golpe, apartando su silla con violencia:
-
-—¡Basta ya de esta farsa! —bramó, clavando los ojos en el monitor de Pleh—. Llevamos noventa y seis horas encerrados en este sótano recibiendo órdenes de un sujeto que se esconde detrás de una cámara web. Nos pide que desmantelemos nuestros programas estratégicos, que entreguemos nuestras reservas de plutonio y titanio, y que arriesguemos billones de dólares y el futuro de ocho mil millones de seres humanos en un plan suicida. Y ni siquiera tiene la decencia de mirarnos a la cara.
-
-El representante de la Unión Europea y el delegado de Pekín asintieron con gravedad.
-
-—El embajador Sterling tiene razón —intervino el almirante Chen, con tono sombrío—. Un Estado soberano no puede comprometer su supervivencia bajo la tutela de una sombra. Doctor Pleh: si sus intenciones son legítimas y usted es verdaderamente el director científico que afirma ser, exigimos que abandone su refugio de inmediato. Envíe sus coordenadas a la Secretaría General. Un avión de transporte militar de la Fuerza Aérea lo recogerá dondequiera que esté y lo traerá a esta sala en menos de seis horas. Si se niega a presentarse físicamente ante este comité, China suspenderá toda cooperación industrial de inmediato.
-
-En la pantalla, el rostro de Em Pleh ni siquiera parpadeó. La iluminación simulada de su flexo de escritorio reflejaba una quietud casi espectral.
-
-—Mi presencia física en esta sala es absolutamente inviable, señores delegados —respondió Pleh, con un tono neutro y distante que sonaba a verdad matemática—. Mi ubicación actual es el único enclave que garantiza la integridad y el ancho de banda del procesamiento cuántico con el que estamos monitorizando la cinemática de *Sombra*. Si me desplazara a Manhattan, la latencia en la transferencia de datos se incrementaría en un cuatrocientos por ciento, cegando nuestros telescopios durante la fase crítica de aproximación. Mi seguridad y la de sus datos residen en mi aislamiento.
-
-—¡Excusas de cobarde! —rugió Briggs—. ¿De qué tiene miedo? ¿De que lo arrestemos por espionaje? ¿O es que trabaja para una corporación privada que pretende chantajear a los gobiernos del mundo con la patente de salvación?
-
-En ese instante, la compuerta blindada de la Sala B-4 se abrió con un silbido neumático.
-
-Un hombre alto, de traje gris marengo y paso apresurado, entró en la estancia custodiado por dos agentes del UNDSS. Era el general Marcus Henderson, enlace de inteligencia militar de las Naciones Unidas. Su rostro no denotaba furia, sino un terror silencioso, cerebral y absoluto. Llevaba en la mano una carpeta con tres sellos de lacre rojo: **TOP SECRET - EYES ONLY - CINCO OJOS / MSS / GRU**.
-
-Caminó directamente hacia el estrado y depositó la carpeta frente a Vassily Ramos, inclinándose para hablarle al oído en un susurro audible para los micrófonos:
-
-—Señor Secretario General... Acabo de recibir el informe consolidado de la auditoría forense global. La CIA, el MI6, la DGSE francesa y el Ministerio de Seguridad del Estado chino han trabajado juntos durante las últimas setenta y dos horas en una operación de rastreo e intercepción de señales sin precedentes. Han intentado triangular la dirección IP, el enlace de microondas y el origen físico del doctor Em Pleh.
-
-Toda la sala contuvo la respiración. Sterling y Briggs clavaron la mirada en Henderson.
-
-—¿Y bien, general? —apremió Sterling—. ¿Dónde demonios se esconde? ¿En un búnker en Suiza? ¿En una granja de servidores en los Urales?
-
-Henderson tragó saliva antes de abrir la carpeta y leer las conclusiones con voz trémula:
-
-—Digitalmente... el doctor Em Pleh es omnipresente. Posee un expediente académico impecable en el MIT y en Cambridge que data de hace veinticinco años. Sus declaraciones de impuestos han sido pagadas puntualmente mediante transferencias del Banco de Pagos Internacionales de Basilea durante dos décadas. Tiene cuentas bancarias activas en Zúrich, Londres y Singapur. Sus artículos sobre interferometría figuran en las bases de datos de *Physical Review Letters* desde 1998... Pero físicamente... el doctor Em Pleh sencillamente **no existe**.
-
-Un murmullo helado recorrió el búnker.
-
-—¿Qué significa que no existe? —espetó Briggs—. ¿Es un alias?
-
-—Significa exactamente lo que he dicho, general —continuó Henderson, con la mirada fija en los folios—. Ninguna cámara de seguridad de ningún aeropuerto del mundo tiene un solo fotograma de su rostro. Ningún funcionario de aduanas ha sellado jamás su pasaporte. Los apartamentos que figuran a su nombre en Ginebra y Boston son oficinas fantasma alquiladas a través de fideicomisos que nadie visita desde hace quince años. Y cuando los equipos de guerra electrónica de Fort Meade y Pekín intentaron triangular la señal de esta videoconferencia... descubrieron que no procede de ninguna red de fibra terrestre ni de ningún satélite de comunicaciones comerciales.
-
-Henderson levantó la vista hacia la pantalla mural, donde el rostro de Pleh aguardaba en silencio:
-
-—La señal está siendo inyectada directamente en las pasarelas de banda base de los satélites militares desde un vector ciego perpendicular al plano orbital... a cien mil kilómetros de altitud sobre el Polo Sur.
-
-El silencio que cayó sobre la Sala B-4 fue de plomo fundido.
-
-Nadie se movió. Nadie respiró. Los delegados miraron a la pantalla gigante como si acabaran de descubrir que el hombre con el que hablaban no era un colega arrogante, sino una presencia sobrehumana que los observaba desde las estrellas.
-
-Sarah Lin y Thomas Wright intercambiaron una mirada rápida, cargada de una complicidad tensa: ellos ya conocían la verdad desde la Sala 2, pero ver el terror primitivo reflejado en los rostros de los amos militares del planeta fue una experiencia sobrecogedora.
-
-Pleh sostuvo la mirada colectiva sin pestañear. No desmintió el informe de inteligencia. No ofreció disculpas ni dio explicaciones. Se limitó a inclinar la cabeza un milímetro, con una frialdad demoledora:
-
-—Ahora que sus servicios de espionaje han terminado de malgastar recursos esenciales en perseguir sombras, sugiero que regresemos a la termodinámica. Quedan siete meses y veintiséis días para el colapso de la biosfera. ¿Vamos a fabricar la nave, o prefieren seguir redactando biografías imaginarias mientras el cielo arde?
-
----
-
-### 📍 IV. El Mercado de las Cenizas y el Golpe de Ramos
-*Sala de Crisis B-4, 12:40 EDT*
-
-Acorraladas por la física y despojadas de toda arrogancia militar, las potencias finalmente cedieron: la misión analógica de doble módulo era la única vía de escape.
+Acorraladas por la física y despojadas de toda arrogancia militar, las potencias finalmente tuvieron que capitular: la misión analógica de doble módulo era la única vía de escape viable.
 
 Pero la claudicación no trajo la concordia. Trajo la rapiña.
 

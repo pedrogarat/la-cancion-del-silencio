@@ -37,23 +37,8 @@
 
 ---
 
-## 📍 Escena 3: El Hombre que No Existe
-- **Tiempo:** 11:30 - 12:15 EDT
-- **Ubicación:** Sala de Crisis B-4.
-- **Personajes:** Delegados de las superpotencias, Vassily Ramos, General de Inteligencia, Dr. Em Pleh, los tres científicos.
-- **Conflicto:** Humillados por la superioridad intelectual de Pleh, los delegados exigen ver físicamente al hombre detrás de la pantalla.
-- **Acción:**
-  - El embajador estadounidense y el delegado militar chino estallan: se niegan a apostar el destino de la especie y billones de dólares en un rostro digital sin jurisdicción legal ni presencia física. Exigen que abandone su escondite y comparezca en el búnker.
-  - Pleh responde con aplomo imperturbable: su presencia física es imposible y comprometería la seguridad y la latencia del procesamiento de datos en curso.
-  - Un alto oficial de inteligencia interrumpe la sesión y entrega un informe confidencial a los jefes de delegación. La CIA, el MI6 y el MSS chino han peinado el globo en los últimos tres días buscando a "Em Pleh":
-    - Digitalmente es intachable: títulos universitarios, preprints indexados, cuentas bancarias activas, impuestos pagados, publicaciones históricas.
-    - Físicamente no existe: ningún satélite espía, control aduanero, cámara biométrica ni agente de campo ha logrado registrar jamás su cuerpo. Es un fantasma omnisciente.
-  - La revelación hiela la sangre de los delegados, aumentando el recelo pero consolidando una certeza aterradora: no están tratando con un científico convencional, sino con un poder que escapa a su control.
-
----
-
-## 📍 Escena 4: El Mercado de las Cenizas y el Golpe de Ramos
-- **Tiempo:** 12:15 - 13:45 EDT
+## 📍 Escena 3: El Mercado de las Cenizas y el Golpe de Ramos
+- **Tiempo:** 11:45 - 13:45 EDT
 - **Ubicación:** Sala de Crisis B-4.
 - **Personajes:** Vassily Ramos, delegaciones de EE.UU., China, UE, Rusia, Sarah Lin, Jean-Luc Girard, Thomas Wright, Dr. Em Pleh.
 - **Conflicto:** Aceptada la necesidad de la misión, la cooperación muta en codicia geopolítica: luchar por el monopolio industrial de las patentes del Nuevo Orden Mundial.

@@ -19,7 +19,7 @@
   * **Capítulo 4:** *El Vértigo de las Naciones* (4.200 palabras, Acto II: Infiltración en la ONU, reunión con Vassily Ramos, verificación en L1 y decreto Alfa Cero).
   * **Capítulo 5:** *El Ancla Humana* (3.850 palabras, Acto II: Almuerzo, llamadas personales bajo secreto de Estado y entrada en la Sala de Crisis B-4).
   * **Capítulo 6:** *La Cámara del Silencio* (4.500 palabras, Acto II: Sesión extraordinaria secreta del Consejo de Seguridad de la ONU, confrontación por satélites militares, cronómetro de extinción T=0 a T+3 años y presentación de la misión analógica L1 con efecto Quench).
-  * **Capítulo 7:** *El Mercado de las Sombras* (4.300 palabras, Acto II: Asedio mediático en Manhattan, demolición de los planes cinéticos militares, informe de inteligencia sobre la no-existencia física de Pleh, rapiña geopolítica de patentes, ultimátum moral de Vassily Ramos y firma del Consorcio Industrial de Defensa Planetaria).
+  * **Capítulo 7:** *El Mercado de las Sombras* (3.400 palabras, Acto II: Asedio mediático en Manhattan, demolición de los planes cinéticos militares, rapiña geopolítica por monopolizar componentes y patentes, ultimátum moral de Vassily Ramos y firma del Consorcio Industrial de Defensa Planetaria).
 - **PDFs Disponibles (Sincronizados en raíz y novela/):**
   * `Capitulo_1_El_Amanecer_de_Alamogordo.pdf`
   * `Capitulo_2_Los_Tres_Hilos_del_Ilusionista.pdf`
