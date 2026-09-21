@@ -58,6 +58,15 @@
       "location": "Cámara del Consejo de Seguridad, Sede de las Naciones Unidas, Nueva York",
       "readTime": "15 min",
       "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 7,
+      "title": "Capítulo 7: El Mercado de las Sombras",
+      "act": "Acto II: La Caída del Escudo y el Gran Caos",
+      "pov": "Vassily Ramos / Comité Científico Director / Dr. Em Pleh",
+      "location": "Planta 38 y Sala de Crisis B-4, Sede de la ONU, Nueva York",
+      "readTime": "15 min",
+      "povImage": "img/char_protagonista.png"
     }
   ]
 }
