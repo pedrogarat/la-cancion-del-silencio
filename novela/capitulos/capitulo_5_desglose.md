@@ -23,22 +23,22 @@
 - **Tiempo:** 14:20 - 15:40 EDT
 - **Ubicación:** Suites asignadas en la torre del *Millennium Hilton One UN Plaza*.
 - **Personajes:** Girard (y su esposa en Ginebra), Sarah (y su pareja en Boston/Cambridge), Wright (y su hermano en Europa).
-- **Conflicto:** Obligación estricta de guardar el secreto de Estado (Clasificación Alfa Cero). Tienen que informar a sus familias de que se quedarán retenidos en Nueva York varios días por una comisión extraordinaria de la ONU, sin poder revelar ni un solo indicio del fin del mundo.
+- **Conflicto:** Obligación estricta de guardar el secreto de Estado (Clasificación Alfa Cero). Sus familias sabían que viajaban para un café informal con un colega; deben justificar que de esa reunión surgió una contingencia imprevista: una auditoría urgente y una mesa científica de crisis convocada por la ONU en Nueva York.
 - **Acción:**
   - **Jean-Luc Girard:**
-    - Llama a su esposa. Matrimonio ejemplar, de libro, basado en la complicidad y el afecto profundo.
+    - Llama a su esposa Marie. Matrimonio ejemplar, de libro, basado en la complicidad y el afecto profundo.
     - Tres hijos: un muchacho de 17 años (a punto de dar el salto universitario), una chica de 15 y una niña pequeña de 10.
-    - Como físico cartesiano y meticuloso, Girard tiene su vida perfectamente planificada, calculada y ejecutada con precisión milimétrica.
-    - La conversación cotidiana y cálida le desgarra por dentro: sabe que si fallan, ninguno de sus cálculos garantizará el porvenir de sus hijos.
+    - Usa la excusa de la mesa técnica imprevista de la ONU que retiene a los científicos.
+    - Como físico cartesiano y meticuloso, Girard tiene su vida perfectamente planificada, calculada y ejecutada con precisión milimétrica. La conversación cotidiana le desgarra por dentro al saber lo que está en juego.
   - **Sarah Lin:**
-    - Llama a su pareja en Boston. Relación inestable y exhausta, al borde de la ruptura.
-    - Su pareja le reprocha su ausencia perpetua, su incapacidad para conciliar una vida en común y su eterna subordinación ante el laboratorio del MIT.
-    - Sarah vive única y exclusivamente por la ciencia; el choque de prioridades resulta insalvable. La llamada se cierra con frialdad y distanciamiento, dejándola con el corazón encogido pero la convicción blindada.
+    - Llama a su pareja Mark en Boston. Relación exhausta y distante.
+    - Mark le reprocha que un supuesto café de una mañana se transforme en otra mesa urgente de la ONU, sintiendo que ella siempre prioriza la ciencia.
+    - No rompen de forma abrupta ni histriónica: ambos asumen el desgaste insalvable y se despiden con un pesado y resignado *"ya hablaremos"*.
   - **Thomas Wright:**
     - Soltero. Maduro, atractivo, de calma magnética.
-    - Llama a su hermano, también científico, que disfruta de un hogar ordenado, tranquilo y feliz junto a su mujer y su hijo pequeño.
-    - Thomas mantiene una relación fraternal excelente y fluida con él; sin embargo, al colgar siente la punzada de la soledad y la añoranza de no haber sentado la cabeza.
-    - El recuerdo de la intensidad de Sarah Lin vuelve a rondar sus pensamientos.
+    - Llama a su hermano David en Cambridge (también científico, con hogar feliz, esposa y su hijo Oliver de 3 años). Le explica la misma coartada de la auditoría de la ONU con humor desenfadado.
+    - Tras colgar, con unos minutos libres, busca por curiosidad a Sarah Lin en Instagram: no encuentra nada de física ni tecnicismos, sino fotos sencillas y luminosas (el océano en Cape Cod, su perrita, risas con una amiga, caminando descalza por la arena, un libro abierto).
+    - Esa faceta profundamente humana, vulnerable y cercana es lo que despierta una atracción auténtica en Thomas.
 
 ---
 

@@ -23,7 +23,7 @@ Wright dio un bocado a su ración con pragmática disciplina. A sus cincuenta y 
 
 Al otro lado de la mesa, Sarah Lin sostenía una taza de café solo entre ambas manos, buscando el calor de la porcelana como si sus dedos estuvieran helados. Su mirada de azabache estaba fija en el ventanal que daba a los jardines interiores del complejo.
 
-Wright la observó durante unos segundos en silencio. Desde el instante exacto en que sus miradas se habían cruzado por primera vez esa misma mañana en la Sala 2, había sentido una atracción inmediata hacia ella. No era solo la belleza limpia y afilada de sus rasgos asiáticos o la energía vibrante y felina que desprendía al moverse; era su inteligencia cortante, esa determinación indomable que ardía detrás de sus ojos oscuros, capaz de desafiar a un holograma alienígena sin pestañear. Había algo ferozmente vivo en Sarah Lin, una chispa indómita que a Wright le resultaba magnética y que, en mitad de aquella pesadilla cósmica, ejercía sobre él una fascinación silenciosa e inesperada.
+Wright la observó durante unos segundos en silencio. Desde el instante exacto en que sus miradas se habían cruzado por primera vez esa misma mañana en la Sala 2, había sentido una atracción inmediata hacia ella. No era solo la belleza limpia y afilada de sus rasgos asiáticos o la energía vibrante que desprendía al moverse; era su inteligencia cortante, esa determinación indomable que ardía detrás de sus ojos oscuros, capaz de desafiar a un holograma alienígena sin pestañear. Había algo ferozmente vivo en Sarah Lin, una chispa indómita que a Wright le resultaba magnética y que, en mitad de aquella pesadilla cósmica, despertaba en él un interés sincero y una silenciosa atracción.
 
 —¿En qué piensa, Sarah? —preguntó Thomas con suavidad, inclinándose apenas hacia ella.
 
@@ -56,23 +56,23 @@ En la suite 2804, Jean-Luc Girard cerró la puerta corredera del balcón acrista
 
 El tono sonó tres veces antes de que una voz cálida y familiar respondiera al otro lado:
 
-—*¿Jean-Luc? Cariño, qué alegría. Pensé que estarías en mitad de una cena de gala con los comités de la ONU.*
+—*¿Jean-Luc? Cariño, qué alegría. Pensé que a estas horas estarías descansando en el hotel tras esa reunión informal con tu colega matemático.*
 
 Escuchar la voz de Marie provocó en Girard una punzada física en el esternón, un nudo tan denso que tuvo que tomar aire antes de articular palabra. Su matrimonio era, en el sentido más noble y sereno del término, una relación de libro. Veintidós años juntos sin una sola grieta importante, construidos sobre una confianza absoluta, admiración mutua y un afecto indestructible.
 
 Como buen físico de partículas, Jean-Luc había estructurado su vida familiar como un modelo termodinámico perfecto: todo estaba previsto, planificado, calculado y ejecutado con pulcritud. Los ahorros, las hipotecas, los calendarios escolares, las vacaciones de esquí en los Alpes, las revisiones médicas... nada se dejaba al azar. Tenían tres hijos que eran el orgullo de su existencia: Julien, de diecisiete años, brillante y reservado, que preparaba su ingreso en la Escuela Politécnica de Lausana; Chloé, de quince, alegre, apasionada de la literatura y el violonchelo; y la pequeña Émilie, de apenas diez años, cuyos dibujos de planetas y cohetes todavía decoraban la nevera de la cocina.
 
-—Hola, mon amour —logró decir Girard, modulando la voz con una disciplina férrea para que no trasluciera ni el más leve temblor—. No... no habrá cena de gala. Ha surgido un imprevisto administrativo de máxima prioridad.
+—Hola, mon amour —logró decir Girard, modulando la voz con una disciplina férrea para que no trasluciera ni el más leve temblor—. Sí... bueno, el encuentro con ese colega se complicó de la forma más imprevista posible.
 
-—*¿Un imprevisto? ¿Con el presupuesto del Gran Colisionador?*
+—*¿Qué ha ocurrido? ¿Problemas con sus modelos de datos?*
 
-—Algo similar, pero a nivel intergubernamental —mintió Jean-Luc, sintiendo que cada sílaba falsa le quemaba la garganta—. El Secretario General ha solicitado formalmente mi incorporación a un panel técnico de emergencia sobre seguridad energética internacional. Me temo que no podré tomar el vuelo de regreso mañana por la mañana. Tendré que quedarme en Nueva York varios días... Quizás un par de semanas.
+—Al contrario, resultaron demasiado reveladores —mintió Jean-Luc, sintiendo que cada sílaba falsa le quemaba la garganta—. De esa reunión surgió una contingencia urgente: una auditoría técnica y una mesa científica extraordinaria que las comisiones de Naciones Unidas han convocado a toda prisa aquí en Nueva York. Les coincidió nuestra presencia en la ciudad y nos han retenido formalmente para coordinar un panel sobre seguridad física internacional. Me temo que no podré tomar el vuelo de regreso mañana por la mañana. Tendré que quedarme en Manhattan varios días... Quizás un par de semanas.
 
 Al otro lado de la línea se escuchó el murmullo de fondo del hogar: los pasos apresurados de Julien por el pasillo, el sonido lejano del televisor y la risa cristalina de Émilie jugando en la sala. El corazón de Girard se encogió hasta doler. Todo aquel universo cálido, ordenado y perfecto dependía de que él y otros tres científicos lograran detener a una máquina alienígena a un millón y medio de kilómetros en el vacío solar.
 
-—*Vaya... Julien contaba con que le ayudaras este fin de semana a revisar su solicitud de ingreso para la universidad* —comentó Marie con una suave decepción, aunque sin reproche alguno—. *Pero comprendo. Si te lo pide directamente la secretaría de la ONU, debe de ser algo de enorme relevancia. ¿Estás bien, Jean-Luc? Te noto la voz cansada.*
+—*¿La ONU?* —se extrañó Marie con suave perplejidad—. *¿Desde cuándo un café informal entre investigadores deriva en una mesa urgente de Naciones Unidas? Vaya... Julien contaba con que le ayudaras este fin de semana a revisar su solicitud de ingreso para la universidad. Pero comprendo, Jean-Luc. Si te lo pide directamente una secretaría internacional, debe de ser algo de enorme relevancia. ¿Estás bien? Te noto la voz cansada.*
 
-—Solo es el cambio de horario y el ritmo de las reuniones, cielo. No te preocupes por nada. Pásame a Julien un segundo, por favor.
+—Solo es el cambio de horario y el vértigo de las reuniones, cielo. No te preocupes por nada. Pásame a Julien un segundo, por favor.
 
 La voz juvenil y enérgica de su hijo mayor llenó el auricular instantes después:
 
@@ -96,29 +96,27 @@ Sarah Lin caminaba de un lado a otro del salón de moqueta azul oscuro con el m�
 
 —*¿Sí?* —la voz masculina al otro extremo sonaba apagada, distante, casi hostil.
 
-—Mark. Soy yo —dijo Sarah, yendo directa al grano, fiel a su estilo—. Estoy en Nueva York.
+—Mark. Soy yo —dijo Sarah, yendo directa al grano, fiel a su estilo—. Sigo en Nueva York.
 
-—*Ya sé que estás en Nueva York, Sarah. Se suponía que tu tren de regreso a Boston salía a las tres de la tarde. Habíamos quedado en cenar en Back Bay. Reservé mesa hace dos semanas, ¿te acuerdas? O supongo que también lo habías olvidado entre tus superconductores.*
+—*Ya sé que estás en Nueva York, Sarah. Se suponía que tu tren de regreso a Boston salía a las tres de la tarde. Me dijiste que solo era una escapada rápida de una mañana para tomarte un café informal con un investigador independiente y contrastar unos datos... Habíamos quedado en cenar en Back Bay. Reservé mesa hace dos semanas, ¿te acuerdas? O supongo que también lo habías olvidado entre tus superconductores.*
 
 Sarah respiró hondo, sintiendo cómo la tensión acumulada en el cuello se convertía en una punzada lacerante. Su relación con Mark llevaba más de un año tambaleándose al borde del precipicio. Arquitecto de interiores con una vida social activa y un ritmo predecible, él nunca había terminado de entender el nivel de sacrificio, aislamiento y devoción absoluta que la física de plasma exigía. Para Mark, un trabajo era algo que se dejaba en la oficina a las seis de la tarde; para Sarah, la ciencia no era una profesión, sino la lente fundamental a través de la cual existía el universo.
 
-—No voy a tomar ese tren, Mark —dijo ella con voz fría y cortante—. Me han asignado a un grupo de trabajo extraordinario de las Naciones Unidas. No puedo volver a Cambridge esta semana.
+—No voy a tomar ese tren, Mark —dijo ella, modulando la voz para sonar firme—. De esa reunión con el colega surgió un imprevisto total. Una auditoría técnica urgente y una mesa científica extraordinaria que la ONU ha convocado a contrarreloj en su sede. Nos interceptaron y nos han retenido formalmente para coordinar los datos. No puedo volver a Cambridge esta semana.
 
 Un silencio pesado y denso cayó sobre la línea. Luego, una risa amarga y desprovista de humor:
 
-—*Por supuesto. Otra comisión de urgencia. Otro experimento que no puede esperar setenta y dos horas. Sarah, llevamos seis meses viviendo como dos extraños que comparten el alquiler de un apartamento. Cada vez que planeamos algo juntos, aparece una llamada del MIT, un reactor que pierde presión o un congreso inesperado. No se puede tener una relación con alguien que solo está presente en cuerpo pero tiene la mente en el espacio.*
+—*¿La ONU ahora? Siempre hay algo más grande, Sarah. Primero un café con un colega informal, y de golpe una mesa de crisis de Naciones Unidas... Llevamos seis meses viviendo como dos extraños que comparten el alquiler de un apartamento. Cada vez que planeamos algo juntos, aparece una llamada del MIT, un reactor que pierde presión o un congreso inesperado. No se puede tener una vida normal con alguien que solo está presente en cuerpo pero tiene la mente a millones de kilómetros.*
 
-—Esto no es un capricho académico, Mark —replicó Sarah, apretando la mandíbula hasta que los nudillos de su mano se tornaron blancos por la presión—. Es algo de máxima trascendencia institucional. No puedo elegir no estar aquí.
+—Esto no es un capricho, Mark —replicó Sarah, tragando saliva con dificultad. Hubiera querido gritarle que a millón y medio de kilómetros había un campo magnético devorando el escudo planetario de ocho mil millones de personas; que si no se quedaba en esa sala para concebir una contramedida, no habría restaurantes en Back Bay ni mañanas que compartir. Pero la orden Alfa Cero pesaba como plomo—. No puedo elegir no estar aquí. De verdad que no puedo.
 
-—*Tú siempre eliges, Sarah. Esa es la diferencia. Siempre eliges el laboratorio antes que a mí. Antes que a nosotros.*
+Al otro lado de la línea, el silencio se prolongó durante varios segundos, espeso y resignado. No hubo gritos ni reproches nuevos; solo el desgaste silencioso de algo que se había quedado sin aire.
 
-Sarah sintió una oleada de ira contenida, pero también de una profunda e irreparable soledad. Hubiera querido gritarle que a millón y medio de kilómetros había un campo magnético devorando la esperanza de vida de ocho mil millones de personas; que si ella no se quedaba en esa sala para diseñar una contramedida con Girard y Wright, no habría restaurantes en Back Bay, ni apartamentos que compartir, ni mañana para nadie. Pero la orden Alfa Cero pesaba como plomo en su garganta.
+—*Está bien, Sarah. No tiene sentido discutir esto por teléfono a doscientas millas de distancia* —dijo Mark con una voz desinflada, casi distante—. *Ya hablaremos cuando vuelvas.*
 
-—Si no puedes entenderlo, Mark, entonces quizás es que ya no hay nada que entender —dijo ella con una serenidad glacial que ocultaba el dolor de la ruptura definitiva.
+—Sí... Ya hablaremos —susurró ella.
 
-—*Quizás tengas razón, Sarah. Buen viaje... y buena suerte con tu universo.*
-
-El clic sordo de la línea desconectada resonó en la habitación como el portazo final de una puerta que se cerraba para siempre. Sarah bajó el teléfono despacio. No lloró. No había tiempo para el duelo personal cuando la especie humana estaba en el cadalso. Se acercó al espejo del tocador, se recogió el pelo oscuro en una coleta tirante y se miró fijamente a los ojos: la ciencia era lo único que le quedaba, y no permitiría que nada, absolutamente nada, la distrajera del objetivo.
+El clic sordo de la línea al desconectarse dejó un eco helado en la suite. No se habían dicho palabras de ruptura definitiva, pero no hacía falta: ambos entendían que la relación estaba rota por la base, suspendida en ese "ya hablaremos" que sonaba más a un aplazamiento piadoso que a una promesa. Sarah bajó el móvil despacio. No lloró. Se acercó al tocador, se recogió el pelo oscuro en una coleta tirante y respiró hondo frente al espejo: la ciencia le exigía todo lo que era, y no dejaría que el temblor de su vida íntima la apartara de su deber.
 
 ---
 
@@ -126,15 +124,15 @@ El clic sordo de la línea desconectada resonó en la habitación como el portaz
 
 En la suite 2808, Thomas Wright sostenía una botella de agua mineral mientras miraba a través del gran ventanal panorámico. En su teléfono sonaba una melodía alegre antes de que una voz masculina, con un acento británico idéntico al suyo pero con una cadencia más joven y desenfadada, contestara desde Cambridge, Inglaterra:
 
-—*¡Thomas! Qué sorpresa. ¿Sigues en la jungla de asfalto o ya has huido de los diplomáticos de la ONU?*
+—*¡Thomas! Qué sorpresa. ¿Sigues en la jungla de asfalto? ¿Cómo fue ese café misterioso con tu colega de los foros de astrodinámica?*
 
-Wright no pudo evitar una sonrisa cálida. Su hermano menor, David, era profesor de biotecnología aplicada en la Universidad de Cambridge y la persona más cercana que le quedaba en el mundo. Su relación era impecable: dos mentes analíticas que se respetaban profundamente y que habían compartido la fascinación por el método científico desde su infancia en los páramos de Yorkshire.
+Wright no pudo evitar una sonrisa cálida. Su hermano menor, David, era profesor de biotecnología aplicada en la Universidad de Cambridge y la persona más cercana que le quedaba en el mundo. Su relación era impecable: dos mentes analíticas que se respetaban profundamente y que habían compartido la pasión por la investigación desde su infancia en los páramos de Yorkshire.
 
-—Sigo en Manhattan, Dave —dijo Thomas con su habitual tono campechano y sereno—. Y me temo que las Naciones Unidas me han confiscado el pasaporte de forma figurada por unos cuantos días.
+—Bueno, Dave... Digamos que el café se complicó bastante —respondió Thomas con su habitual tono campechano y sereno—. De esa charla informal con el colega surgió una contingencia imprevista. Una auditoría técnica de urgencia y una mesa científica extraordinaria que la secretaría de la ONU ha convocado a toda prisa sobre navegación y telecomunicaciones. Nos interceptaron a la salida y me temo que las Naciones Unidas me han confiscado el pasaporte de forma figurada por unos cuantos días.
 
-—*¿Te han fichado para algún comité sobre desechos orbitales o el tratado de la Luna?* —bromeó David. De fondo se escuchaba el murmullo doméstico de los platos al lavarse y la voz cantarina de su cuñada Claire, junto con los balbuceos alegres de su sobrino Oliver, de apenas tres años.
+—*¿La ONU?* —bromeó David—. *Vaya salto: de un café entre frikis del espacio a las altas esferas diplomáticas. ¿Te han fichado para redactar algún tratado internacional o qué?* —De fondo se escuchaba el murmullo doméstico de los platos al lavarse y la voz cantarina de su cuñada Claire, junto con los balbuceos alegres de su sobrino Oliver, de apenas tres años.
 
-—Algo así, pero con más reuniones y menos café del bueno —respondió Thomas, riendo levemente para mantener el tono desenfadado—. Me han pedido que coordine un enlace de navegación interinstitucional entre la ESA y la NASA. No podré ir a cenar el domingo como habíamos planeado.
+—Algo así, pero con más comités y menos café del bueno —respondió Thomas, riendo levemente para mantener el tono desenfadado—. Me temo que no podré ir a cenar el domingo como habíamos planeado.
 
 —*Una lástima, Thomas. Claire había preparado su famoso pastel de carne y Oliver no para de decir que su tío astronauta le va a traer una maqueta de cohete de Nueva York.*
 
@@ -146,11 +144,23 @@ David tenía una vida ordenada, tranquila y luminosa. Un matrimonio feliz, una c
 
 —Descuida, Dave. Dale un beso enorme a Claire y un abrazo al pequeño Oliver. Los veré pronto.
 
-Al colgar, Thomas se quedó inmóvil en el centro de la habitación. Miró la cama impoluta y la maleta cerrada. 
+Al colgar, Thomas se sentó en el borde de la cama, mirando los minutos que aún le restaban en la esfera del reloj. Faltaban poco más de veinte minutos para las cuatro de la tarde.
 
-Inesperadamente, la imagen de Sarah Lin volvió a proyectarse en su mente: su mirada encendida en el restaurante, la tensión de sus hombros, esa pasión indómita por la física que la consumía por dentro. Había reconocido en ella la misma llama solitaria que a él le había impedido echar raíces durante décadas. Sintió un impulso primitivo y hondo de protegerla, de estar a su lado en el infierno que se avecinaba, no solo como colega de armas en la ESA, sino como el hombre maduro que, por primera vez en muchos años, volvía a sentirse profundamente fascinado por alguien.
+Apoyó los codos en las rodillas con el móvil entre las manos. Inesperadamente, la imagen de Sarah Lin en el restaurante volvió a acudir a su mente: la tensión en sus hombros, el gesto rápido con el que apartaba un mechón oscuro de su frente, la fiereza de su mirada. No sentía hacia ella esa fascinación abstracta o mitificada que los académicos profesaban ante los grandes talentos teóricos; lo que sentía era una atracción franca, limpia y terrenal.
 
-Consultó su reloj: eran las 15:42. La tregua de la vida civil había terminado.
+Movido por una curiosidad silenciosa, abrió la aplicación de Instagram y tecleó su nombre en el buscador. Tardó apenas unos segundos en dar con su cuenta personal.
+
+Thomas esperaba encontrar el típico muro aséptico de una investigadora absorbida por su carrera: pizarras atiborradas de tensores, fotos posando frente a bobinas de confinamiento en Cambridge o acreditaciones colgadas al cuello en simposios internacionales.
+
+Para su sorpresa, no había ni rastro de física. Cero tecnicismos. Cero arrogancia académica.
+
+Las imágenes mostraban un mundo íntimo y luminoso, de una sencillez desarmante: una fotografía tomada desde la orilla, con ella de espaldas envuelta en un jersey grueso de lana, contemplando el horizonte plomizo del océano en Cape Cod mientras el viento le alborotaba el pelo; otra en el suelo de un salón bañado por la luz del sol, riéndose sin artificio mientras una perrita mestiza de orejas caídas le apoyaba el hocico en la rodilla; un par de instantáneas divertidas y cómplices con una amiga en la terraza de una cafetería de barrio; una toma de sus pies descalzos sobre la arena húmeda al atardecer, y un libro de bolsillo abierto sobre un banco de madera bajo la sombra de un árbol.
+
+Nada en aquel perfil hacía pensar que su dueña era la persona encargada de contener una tempestad termodinámica a un millón de kilómetros de la Tierra. Mostraba, con una franqueza conmovedora, su lado puramente humano.
+
+Una media sonrisa templada curvó los labios de Wright mientras bloqueaba la pantalla del teléfono. Eso era precisamente lo que le atraía de ella: no la mente formidable que calculaba campos magnéticos en servilletas de papel, sino la mujer vulnerable, cálida y real que respiraba detrás del blindaje. Una razón más, pensó mientras se ponía en pie y se ajustaba la chaqueta, para dejarse la piel en la sala de crisis.
+
+Consultó su reloj: eran las 15:45. La tregua había terminado.
 
 ---
 

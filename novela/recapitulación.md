@@ -31,7 +31,7 @@ Cada personaje posee una personalidad definida, un registro léxico propio y un 
   - *Voz:* Distante pero cordial; nunca usa coloquialismos vulgares; no vacila con suposiciones débiles. No se burla; expone hechos consumados con elegancia aritmética.
 - **⚡ Dra. Sarah Lin (MIT - Fusión / MHD):**
   - *Personalidad:* Competitiva, intuitiva, vehemente, acostumbrada a luchar por recursos y resultados inmediatos. Gran resistencia al estrés, aunque susceptible al choque existencial del vértigo planetario. Vive única y exclusivamente por y para la ciencia.
-  - *Trasfondo Personal:* Su pareja no comprende el sacrificio que exige la física de plasma ni sus horarios absorbentes; relación inestable y rota de facto tras el secreto de la misión.
+  - *Trasfondo Personal:* Su pareja no comprende el sacrificio que exige la física de plasma ni sus horarios absorbentes; relación exhausta que, tras la excusa de la mesa urgente de la ONU, queda suspendida en un doloroso y resignado "ya hablaremos" que asume la ruptura de fondo.
   - *Voz:* Directa, enérgica, cortante. Cuestiona la autoridad y prefiere ver los datos antes de aceptar una conclusión ajena.
 - **🔬 Dr. Jean-Luc Girard (CERN - Criogenia y Detección):**
   - *Personalidad:* Racionalismo cartesiano puro, escéptico radical, formal, pausado y obsesionado con la pureza metodológica. Le aterra más una premisa infundada que un desastre predecible.
@@ -39,7 +39,7 @@ Cada personaje posee una personalidad definida, un registro léxico propio y un 
   - *Voz:* Precisa, meticulosa, pausada, algo irónica en situaciones cotidianas, pero sobrecogedoramente sobria ante la catástrofe demostrada.
 - **🛰️ Dr. Thomas Wright (ESA - Navegación Espacial):**
   - *Personalidad:* Templanza veterana, pragmatismo operacional, el pegamento empático del grupo. Maduro pero atractivo (52 años). En emergencias, su instinto es proteger a su equipo y buscar soluciones prácticas de ingeniería aplicable.
-  - *Trasfondo Personal:* Soltero, le ha costado sentar la cabeza por su devoción al espacio. Mantiene una relación magnífica con su hermano David (también científico en Cambridge, casado y con un hijo de 3 años, cuya vida ordenada y feliz Thomas añora en secreto). Desde el primer momento en la Sala 2 se siente atraído por Sarah Lin (fascinado por su fiereza intelectual y belleza).
+  - *Trasfondo Personal:* Soltero, le ha costado sentar la cabeza por su devoción al espacio. Mantiene una relación magnífica con su hermano David (también científico en Cambridge, casado y con un hijo de 3 años, cuya vida ordenada y feliz Thomas añora en secreto). Se siente atraído por Sarah Lin, no por mitificación académica sino por su lado puramente humano y vulnerable (tras descubrir su perfil de Instagram repleto de sencillez: el mar, su perrita, risas y libros).
   - *Voz:* Serena, accesible, con tono paternal o de camaradería técnica; siempre busca aterrizar los conceptos teóricos a la pregunta: *«¿Qué significa esto para nosotros y qué hacemos ahora?»*.
 
 ### 4. Firmeza Argumental y Pruebas Irrefutables (Cero "Suposiciones Débiles")

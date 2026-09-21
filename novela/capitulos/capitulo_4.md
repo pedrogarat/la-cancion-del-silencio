@@ -195,9 +195,13 @@ Pleh asintió despacio desde la pantalla:
 
 —Empiecen a redactar los requerimientos de esa misión de inmediato —ordenó Ramos, consultando su cronómetro con apremio antes de girarse hacia su jefe de gabinete—. Activen el protocolo de apoyo logístico y cobertura prioritaria para el Comité. Necesito que el servicio de transmisiones y seguridad despeje y blinde la Sala de Crisis Subterránea B-4; equipen tres terminales dedicadas con enlace satelital directo a espacio profundo y un canal continuo con el doctor Pleh. Tienen tres horas para dejarla inexpugnable.
 
-El Secretario General volvió su mirada hacia los tres científicos, atenuando un ápice la dureza de su gesto:
+El Secretario General barrió con una mirada de acero a todos los presentes en la sala —a Henderson, a Arispe, a su personal de confianza y a los tres científicos—, deteniéndose en cada rostro para asegurarse de que el mensaje calaba hondo:
 
-—Nadie puede verlos merodeando por los pasillos de la sede mientras llegan las delegaciones diplomáticas. Les hemos asignado suites reservadas justo enfrente, en el *Millennium Hilton New York One UN Plaza*... Irónicamente, el mismo edificio donde esta mañana empezó todo. Cruzarán escoltados. Tienen hasta las cuatro de la tarde para instalarse, asearse y asimilar esto. A las 16:00 horas en punto, los quiero de vuelta en la nueva sala de crisis. A partir de ese minuto, no volverán a ver la luz del sol hasta que tengamos un plan viable que presentar al Consejo.
+—Y que esto quede grabado a fuego en la conciencia de cada persona en esta habitación: todo lo que se ha dicho, visto y confirmado aquí está bajo la más estricta clasificación de alto secreto internacional, nivel Alfa Cero. No hay gobiernos, no hay colegas de laboratorio ni hay familias ante esto. Ni una sola insinuación. Ni un murmullo al teléfono. Una sola filtración y el pánico destruirá la civilización mucho antes de que esa masa active su campo en L1. Cualquier infracción será tratada bajo las leyes militares de alta traición.
+
+Luego, volvió su mirada hacia los tres científicos, atenuando un ápice la dureza de su gesto:
+
+—Nadie debe verlos merodeando por los pasillos de la sede mientras van llegando las delegaciones diplomáticas. Por discreción y proximidad, les hemos asignado suites reservadas justo enfrente, en el *Millennium Hilton New York One UN Plaza*. Cruzarán escoltados. Tienen hasta las cuatro de la tarde para instalarse, asearse y asimilar el golpe. A las 16:00 horas en punto, los quiero de vuelta en la nueva sala de crisis. A partir de ese minuto, no volverán a ver la luz del sol hasta que tengamos un plan viable que presentar al Consejo.
 
 Pleh asintió despacio desde la pantalla antes de desvanecer su señal:
 
