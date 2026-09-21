@@ -46,17 +46,17 @@ Ramos se quedó solo unos instantes. Miró la esfera de su reloj de pulsera: mar
 
 El aire en el búnker subterráneo era denso y viciado: una mezcla agria de café frío abandonado en vasos de papel, la sequedad metálica de la ventilación forzada y el sudor rancio de sesenta personas atrapadas en una vigilia sin ventanas.
 
-Alrededor de la mesa táctica de acero y pantallas táctiles, la atmósfera era de una hostilidad eléctrica. A un lado se sentaban los delegados militares de los Estados Unidos —encabezados por el general Marcus Vance, un hombre de mandíbula cuadrada del Estado Mayor Conjunto, y la vicesecretaria de Defensa para el Espacio—; enfrente, la delegación militar china, liderada por el almirante Chen Wei, de la Fuerza de Apoyo Estratégico del Ejército Popular de Liberación; y a un costado, los representantes de la Unión Europea y el enlace militar ruso.
+Alrededor de la mesa táctica de acero y pantallas táctiles, la atmósfera era de una hostilidad eléctrica. A un lado se sentaban los delegados militares de los Estados Unidos —encabezados por el general Robert Briggs, un hombre de mandíbula cuadrada del Estado Mayor Conjunto, y la vicesecretaria de Defensa para el Espacio—; enfrente, la delegación militar china, liderada por el almirante Chen Wei, de la Fuerza de Apoyo Estratégico del Ejército Popular de Liberación; y a un costado, los representantes de la Unión Europea y el enlace militar ruso.
 
 En el extremo opuesto, formando una barrera silenciosa pero inquebrantable, se encontraban Thomas Wright, Sarah Lin y Jean-Luc Girard. Y dominando la cabecera desde la pantalla mural principal, el rostro digital del doctor Em Pleh contemplaba el hemiciclo con una serenidad matemática que rozaba la insolencia.
 
-—¡Es un insulto a las capacidades estratégicas de nuestras naciones! —gritó el general Vance, descargando una carpeta de piel negra sobre la mesa táctica con un golpe que hizo vibrar los monitores—. Llevamos tres días escuchando las conferencias teóricas de este comité. Estados Unidos no va a poner en suspenso la defensa de su territorio ni va a subordinar el arsenal más poderoso de la Tierra a una nave de hojalata operada por palancas analógicas y bombas de vacío del siglo diecinueve.
+—¡Es un insulto a las capacidades estratégicas de nuestras naciones! —gritó el general Briggs, descargando una carpeta de piel negra sobre la mesa táctica con un golpe que hizo vibrar los monitores—. Llevamos tres días escuchando las conferencias teóricas de este comité. Estados Unidos no va a poner en suspenso la defensa de su territorio ni va a subordinar el arsenal más poderoso de la Tierra a una nave de hojalata operada por palancas analógicas y bombas de vacío del siglo diecinueve.
 
 Sarah Lin se cruzó de brazos, mirándolo con un desdén glacial:
 
 —¿Y cuál es su brillante alternativa, general? ¿Disparar fuegos artificiales al vacío?
 
-El general Vance hizo una seña a su ayudante, quien proyectó de inmediato un esquema táctico en la mesa interactiva central:
+El general Briggs hizo una seña a su ayudante, quien proyectó de inmediato un esquema táctico en la mesa interactiva central:
 
 —El Mando Estratégico y la Fuerza Espacial han desarrollado el **Plan Martillo de Orión** —expuso el militar norteamericano con orgullo castrense—. Doce vectores balísticos intercontinentales pesados Minuteman IV modificados, con toberas de escape criogénico y ojivas termonucleares furtivas W88 de cuatrocientos setenta y cinco kilotones cada una, blindadas con conos de ablación de carbono-carbono. Los lanzaremos en una salva sincronizada desde silos en Dakota del Norte y Wyoming. Impacto simultáneo en L1 mediante espoletas de proximidad. Seis megatones de energía pura detonando a quemarropa. Esa telaraña alienígena quedará reducida a gas ionizado antes de que termine la semana.
 
@@ -70,17 +70,17 @@ En el monitor mural, la voz de Em Pleh cortó el murmullo como un bisturí afila
 
 —Fascinante exhibición de arqueología balística.
 
-El general Vance enrojeció hasta las orejas. El almirante Chen apretó los labios.
+El general Briggs enrojeció hasta las orejas. El almirante Chen apretó los labios.
 
-—Mida sus palabras, doctor Pleh —masculló Vance, señalando la pantalla con un índice rígido—. Está hablando con los mandos nucleares de las dos mayores potencias militares del globo.
+—Mida sus palabras, doctor Pleh —masculló Briggs, señalando la pantalla con un índice rígido—. Está hablando con los mandos nucleares de las dos mayores potencias militares del globo.
 
-—Estoy hablando con homínidos que confunden la pólvora con el dominio de la termodinámica —replicó Pleh con una calma imperturbable, mientras en la pantalla gigante las animaciones de los misiles estadounidenses y los láseres chinos eran desglosadas en ecuaciones diferenciales de color blanco—. Analicemos su *Plan Martillo*, general Vance. Sus doce misiles balísticos utilizan semiconductores de arseniuro de galio y silicio para la estabilización giroscópica de sus toberas y el cebado de sus detonadores criotrónicos. A diez mil kilómetros del cilindro de B —el umbral del Muro de Lorentz— el campo magnético concentrado inducirá corrientes parásitas de Foucault de cuatrocientos amperios por centímetro cuadrado en cada circuito impreso de sus ojivas.
+—Estoy hablando con homínidos que confunden la pólvora con el dominio de la termodinámica —replicó Pleh con una calma imperturbable, mientras en la pantalla gigante las animaciones de los misiles estadounidenses y los láseres chinos eran desglosadas en ecuaciones diferenciales de color blanco—. Analicemos su *Plan Martillo*, general Briggs. Sus doce misiles balísticos utilizan semiconductores de arseniuro de galio y silicio para la estabilización giroscópica de sus toberas y el cebado de sus detonadores criotrónicos. A diez mil kilómetros del cilindro de B —el umbral del Muro de Lorentz— el campo magnético concentrado inducirá corrientes parásitas de Foucault de cuatrocientos amperios por centímetro cuadrado en cada circuito impreso de sus ojivas.
 
 Un gráfico termodinámico parpadeó en rojo:
 
 —La temperatura en las placas lógicas superará los novecientos grados Kelvin en doce microsegundos —continuó Pleh—. Las memorias de guiado se fundirán en una sopa de silicio líquido. Sus espoletas estallarán de forma prematura a nueve mil kilómetros del blanco o quedarán completamente inertes. Sus doce misiles multimillonarios se convertirán en chatarra flotante que pasará de largo frente a la máquina enemiga a cuarenta kilómetros por segundo sin arañar un solo átomo de su estructura.
 
-Vance abrió la boca para rebatir, pero Pleh ya había cambiado la simulación a la propuesta china:
+Briggs abrió la boca para rebatir, pero Pleh ya había cambiado la simulación a la propuesta china:
 
 —En cuanto a su *Matriz Tianlong*, almirante Chen... Demuestra un desconocimiento flagrante de la física de metamateriales exoplanetarios. El cilindro semilla y sus filamentos superconductores poseen un albedo electromagnético de 0.0004. Absorben el 99.96% de la radiación incidente mediante estructuras nanométricas resonantes. Además, la máquina dispone de un sistema de disipación anisotrópica: redirige térmicamente cualquier energía absorbida en un vector inverso directo hacia el espacio profundo a 2.7 Kelvin. Sus láseres de quinientos teravatios no calentarán la máquina enemiga; simplemente alimentarán sus condensadores de fase, permitiéndole acelerar el despliegue de la telaraña en un trescientos por ciento. Su matriz láser estaría cargando las baterías del arma que viene a asfixiar su planeta.
 
@@ -109,7 +109,7 @@ En la pantalla, el rostro de Em Pleh ni siquiera parpadeó. La iluminación simu
 
 —Mi presencia física en esta sala es absolutamente inviable, señores delegados —respondió Pleh, con un tono neutro y distante que sonaba a verdad matemática—. Mi ubicación actual es el único enclave que garantiza la integridad y el ancho de banda del procesamiento cuántico con el que estamos monitorizando la cinemática de *Sombra*. Si me desplazara a Manhattan, la latencia en la transferencia de datos se incrementaría en un cuatrocientos por ciento, cegando nuestros telescopios durante la fase crítica de aproximación. Mi seguridad y la de sus datos residen en mi aislamiento.
 
-—¡Excusas de cobarde! —rugió Vance—. ¿De qué tiene miedo? ¿De que lo arrestemos por espionaje? ¿O es que trabaja para una corporación privada que pretende chantajear a los gobiernos del mundo con la patente de salvación?
+—¡Excusas de cobarde! —rugió Briggs—. ¿De qué tiene miedo? ¿De que lo arrestemos por espionaje? ¿O es que trabaja para una corporación privada que pretende chantajear a los gobiernos del mundo con la patente de salvación?
 
 En ese instante, la compuerta blindada de la Sala B-4 se abrió con un silbido neumático.
 
@@ -119,7 +119,7 @@ Caminó directamente hacia el estrado y depositó la carpeta frente a Vassily Ra
 
 —Señor Secretario General... Acabo de recibir el informe consolidado de la auditoría forense global. La CIA, el MI6, la DGSE francesa y el Ministerio de Seguridad del Estado chino han trabajado juntos durante las últimas setenta y dos horas en una operación de rastreo e intercepción de señales sin precedentes. Han intentado triangular la dirección IP, el enlace de microondas y el origen físico del doctor Em Pleh.
 
-Toda la sala contuvo la respiración. Sterling y Vance clavaron la mirada en Henderson.
+Toda la sala contuvo la respiración. Sterling y Briggs clavaron la mirada en Henderson.
 
 —¿Y bien, general? —apremió Sterling—. ¿Dónde demonios se esconde? ¿En un búnker en Suiza? ¿En una granja de servidores en los Urales?
 
@@ -129,7 +129,7 @@ Henderson tragó saliva antes de abrir la carpeta y leer las conclusiones con vo
 
 Un murmullo helado recorrió el búnker.
 
-—¿Qué significa que no existe? —espetó Vance—. ¿Es un alias?
+—¿Qué significa que no existe? —espetó Briggs—. ¿Es un alias?
 
 —Significa exactamente lo que he dicho, general —continuó Henderson, con la mirada fija en los folios—. Ninguna cámara de seguridad de ningún aeropuerto del mundo tiene un solo fotograma de su rostro. Ningún funcionario de aduanas ha sellado jamás su pasaporte. Los apartamentos que figuran a su nombre en Ginebra y Boston son oficinas fantasma alquiladas a través de fideicomisos que nadie visita desde hace quince años. Y cuando los equipos de guerra electrónica de Fort Meade y Pekín intentaron triangular la señal de esta videoconferencia... descubrieron que no procede de ninguna red de fibra terrestre ni de ningún satélite de comunicaciones comerciales.
 
