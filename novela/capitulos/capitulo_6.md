@@ -1,7 +1,8 @@
 # Capítulo 6: La Cámara del Silencio
 
 ### 📍 I. El Tablero de las Quince Voces
-*Cámara del Consejo de Seguridad de las Naciones Unidas, Nueva York, 19:48 EDT*
+*Cámara del Consejo de Seguridad de las Naciones Unidas, Nueva York — 28 de septiembre de 2026, 19:48 EDT*
+*Cuenta atrás: Faltan 54 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
 
 El rumor en la Cámara del Consejo de Seguridad no se parecía al murmullo protocolario de una sesión ordinaria. Era un siseo áspero, un roce continuo de suelas sobre la alfombra azul, carpetas de cuero que se abrían con sequedad y murmullos en cinco lenguas que chocaban contra el aire denso y sobrecalentado de la sala.
 
@@ -30,7 +31,8 @@ El bullicio de la sala se extinguió en seco, como si una cuchilla invisible hub
 ---
 
 ### 📍 II. La Apertura del Abismo
-*Cámara del Consejo de Seguridad, 20:01 EDT*
+*Cámara del Consejo de Seguridad, Nueva York — 28 de septiembre de 2026, 20:01 EDT*
+*Cuenta atrás: Faltan 54 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
 
 El Secretario General Vassily Ramos entró con paso medido, la barbilla alzada y una palidez cetrina que su tez morena no lograba disimular del todo. A su lado caminaban tres civiles que desentonaban de forma flagrante con la fauna diplomática de la sede: un hombre maduro de mandíbula firme y sienes plateadas que miraba la sala con la calma táctica de un veterano de operaciones espaciales; una mujer joven de rasgos orientales afilados, pelo recogido en una coleta tirante y una mirada de azabache que cortaba como el diamante; y un hombre de complexión delgada, traje oscuro y gafas de montura metálica, cuyo semblante reflejaba la gravedad meticulosa de quien custodia una sentencia matemática.
 
@@ -121,7 +123,8 @@ El silencio que siguió a esas palabras fue absoluto. Ni un papel se movió. Los
 ---
 
 ### 📍 III. El Cronómetro de la Extinción
-*Cámara del Consejo de Seguridad, 20:28 EDT*
+*Cámara del Consejo de Seguridad, Nueva York — 28 de septiembre de 2026, 20:28 EDT*
+*Cuenta atrás: Faltan 54 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
 
 Pleh dejó que el peso de los datos calara en el auditorio durante unos segundos antes de reanudar su exposición.
 
@@ -131,19 +134,19 @@ El embajador de los Estados Unidos levantó levemente la mano, pálido:
 
 —Doctor Pleh... Traduzca eso a términos humanos y estratégicos. ¿Qué le ocurre al planeta si perdemos ese campo?
 
-—El colapso de nuestra biosfera no será instantáneo, señor embajador —respondió Pleh, proyectando una línea temporal cronométrica en color ámbar que dominó la sala—. Será una asfixia por fases, matemáticamente determinista e inexorable si no intervenimos. Les detallo la secuencia:
+—El colapso de nuestra biosfera no será instantáneo, señor embajador —respondió Pleh, proyectando una línea temporal cronométrica en color ámbar que dominó la sala, superponiendo un calendario implacable sobre el mapa orbital—. Será una asfixia por fases, matemáticamente determinista e inexorable si no intervenimos. Les detallo la secuencia y las fechas críticas del calendario:
 
 La cámara contuvo el aliento.
 
-—**T = 0. Silencio Magnético:** La anulación del campo será inmediata en la escala global. Las brújulas de todo el planeta quedarán inertes o comenzarán a girar de forma caótica y descontrolada. Las auroras boreales y australes desaparecerán para siempre de los polos. En su lugar, la alta atmósfera, bombardeada sin filtro por partículas cósmicas, comenzará a emitir un resplandor blanquecino, tenue y enfermizo durante las noches: una fosforescencia ionizante conocida como *airglow*. A simple vista, el cielo nocturno parecerá iluminado por una niebla fantasmal.
+—**Fase 1: T = 0. Silencio Magnético (21 de noviembre de 2026):** En exactamente cincuenta y cuatro días a partir de hoy, la estructura de cincuenta kilómetros completará su tensión superconductora y alcanzará su alineación de fase en L1. La anulación del campo será inmediata en la escala global. Las brújulas de todo el planeta quedarán inertes o comenzarán a girar de forma caótica y descontrolada. Las auroras boreales y australes desaparecerán para siempre de los polos. En su lugar, la alta atmósfera, bombardeada sin filtro por partículas cósmicas, comenzará a emitir un resplandor blanquecino, tenue y enfermizo durante las noches: una fosforescencia ionizante conocida como *airglow*. A simple vista, el cielo nocturno parecerá iluminado por una niebla fantasmal.
 
 La delegada de Grecia miró a su asesor científico, que asintió con la cabeza en silencio, con los labios apretados.
 
-—**T + 24 a 72 horas. Colapso Tecnológico Orbital:** La radiación ionizante del viento solar, ya sin el desvío del escudo magnético, impactará directamente contra los satélites en órbita baja, media y geoestacionaria. Sus microchips de silicio sufrirán quemaduras lógicas masivas. En setenta y dos horas caerán en cadena las constelaciones GPS, las redes de telefonía satelital, los enlaces de televisión y, de forma crítica, las señales de sincronización atómica horaria que rigen los servidores bancarios internacionales y las bolsas de valores. El tráfico aéreo civil se verá obligado a aterrizar a ciegas en aeropuertos saturados. El corte simultáneo de telecomunicaciones y sistemas de pago desatará un colapso social global: histeria colectiva, caídas bursátiles instantáneas, desabastecimiento de combustible, saqueos urbanos y éxodos masivos fuera de las grandes urbes.
+—**Fase 2: T + 24 a 72 horas. Colapso Tecnológico Orbital (22 al 24 de noviembre de 2026):** La radiación ionizante del viento solar, ya sin el desvío del escudo magnético, impactará directamente contra los satélites en órbita baja, media y geoestacionaria. Sus microchips de silicio sufrirán quemaduras lógicas masivas. En setenta y dos horas caerán en cadena las constelaciones GPS, las redes de telefonía satelital, los enlaces de televisión y, de forma crítica, las señales de sincronización atómica horaria que rigen los servidores bancarios internacionales y las bolsas de valores. El tráfico aéreo civil se verá obligado a aterrizar a ciegas en aeropuertos saturados. El corte simultáneo de telecomunicaciones y sistemas de pago desatará un colapso social global: histeria colectiva, caídas bursátiles instantáneas, desabastecimiento de combustible, saqueos urbanos y éxodos masivos fuera de las grandes urbes. Mantener el secreto ante la sociedad civil será físicamente inviable a partir de ese momento.
 
 Los agregados militares de China y el Reino Unido tomaban notas con trazos nerviosos. En la segunda fila, un consejero somalí murmuraba una plegaria en voz baja.
 
-—**T + 30 a 90 días. Catálisis de Óxidos de Nitrógeno:** Los protones solares más energéticos lograrán penetrar hasta la estratosfera terrestre. Allí romperán los enlaces químicos del nitrógeno y el oxígeno moleculares, forzando la formación masiva de óxidos de nitrógeno. Estos compuestos gaseosos son catalizadores letales que devoran el ozono atmosférico a un ritmo constante del cuatro por ciento diario. En noventa días, la capa de ozono quedará exterminada en su totalidad.
+—**Fase 3: T + 30 a 90 días. Catálisis de Óxidos de Nitrógeno (21 de diciembre de 2026 al 19 de febrero de 2027):** Los protones solares más energéticos lograrán penetrar hasta la estratosfera terrestre. Allí romperán los enlaces químicos del nitrógeno y el oxígeno moleculares, forzando la formación masiva de óxidos de nitrógeno. Estos compuestos gaseosos son catalizadores letales que devoran el ozono atmosférico a un ritmo constante del cuatro por ciento diario. Para el 19 de febrero de 2027, la capa de ozono habrá quedado exterminada en su totalidad.
 
 Sarah Lin intervino por primera vez desde el estrado, con su voz cortante y precisa:
 
@@ -151,18 +154,19 @@ Sarah Lin intervino por primera vez desde el estrado, con su voz cortante y prec
 
 Pleh asintió levemente en la pantalla y prosiguió:
 
-—**T + 6 meses. Esterilización Ultravioleta y Colapso Trófico:** Sin el filtro de ozono, la radiación ultravioleta C y B golpeará la corteza terrestre con toda su virulencia. Las cosechas agrícolas a cielo abierto se secarán y morirán calcinadas en cuestión de semanas. En los océanos ocurrirá algo todavía más letal: la radiación esterilizará los primeros diez metros de la columna de agua, destruyendo por completo el fitoplancton marino. El fitoplancton no solo constituye la base absoluta de la cadena alimentaria de los mares; es el responsable de generar más del cincuenta por ciento del oxígeno que respira la humanidad.
+—**Fase 4: T + 6 meses. Esterilización Ultravioleta y Colapso Trófico (21 de mayo de 2027):** Sin el filtro de ozono, la radiación ultravioleta C y B golpeará la corteza terrestre con toda su virulencia. Las cosechas agrícolas a cielo abierto se secarán y morirán calcinadas en cuestión de semanas. En los océanos ocurrirá algo todavía más letal: la radiación esterilizará los primeros diez metros de la columna de agua, destruyendo por completo el fitoplancton marino. El fitoplancton no solo constituye la base absoluta de la cadena alimentaria de los mares; es el responsable de generar más del cincuenta por ciento del oxígeno que respira la humanidad.
 
 El embajador de Colombia se cubrió la boca con una mano temblorosa. Nadie en la sala se atrevía a interrumpir. La cadencia del doctor Pleh tenía el peso de una lápida de mármol.
 
-—**T + 6 a 8 meses. Cierre de la Ventana Operativa Humana:** Aunque la biosfera tardará aproximadamente tres años en extinguirse por completo —cuando los últimos mamíferos y bosques mueran por anoxia y quemaduras biológicas—, para la civilización industrial el plazo de gracia concluye mucho antes. Hacia el octavo mes, las hambrunas generalizadas, el colapso de las redes eléctricas terrestres y los niveles letales de radiación en superficie habrán destruido por completo la capacidad fabril, la logística pesada y la coordinación gubernamental. A partir de ese momento, la humanidad será físicamente incapaz de construir, alimentar o lanzar un solo cohete al espacio. Si no neutralizamos a *Sombra* dentro de esa ventana de ocho meses, la Tierra quedará sentenciada sin apelación posible.
+—**Fase 5: T + 6 a 8 meses. Cierre de la Ventana Operativa Humana (Límite absoluto: 21 de julio de 2027):** Aunque la biosfera tardará aproximadamente tres años en extinguirse por completo —hacia noviembre de 2029, cuando los últimos mamíferos y bosques perezcan por anoxia y quemaduras en la **Fase 6: Extinción Biológica Total**—, para la civilización industrial el plazo de gracia concluye mucho antes. Hacia finales de julio de 2027, las hambrunas generalizadas, el colapso de las redes eléctricas terrestres y los niveles letales de radiación en superficie habrán destruido por completo la capacidad fabril, la logística pesada y la coordinación gubernamental. A partir del 21 de julio de 2027, la humanidad será físicamente incapaz de construir, alimentar o lanzar un solo cohete al espacio. Si no neutralizamos a *Sombra* antes de esa fecha límite, la Tierra quedará sentenciada sin apelación posible.
 
-Un silencio glacial cayó sobre el hemiciclo. La cifra de ocho meses gravitó en el aire como una orden de ejecución sumaria.
+Un silencio glacial cayó sobre el hemiciclo. La fecha del 21 de julio de 2027 gravitó en el aire como una orden de ejecución sumaria.
 
 ---
 
 ### 📍 IV. El Muro de Lorentz y el Desafío Analógico
-*Cámara del Consejo de Seguridad, 20:45 EDT*
+*Cámara del Consejo de Seguridad, Nueva York — 28 de septiembre de 2026, 20:45 EDT*
+*Cuenta atrás: Faltan 54 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
 
 Fue el embajador de la República Popular China quien rompió el mutismo. Se inclinó sobre la mesa, con la voz templada por una disciplina de hierro pero con los ojos fijos en la pantalla:
 

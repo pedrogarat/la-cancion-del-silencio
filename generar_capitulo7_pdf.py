@@ -45,7 +45,7 @@ class BookCanvas(canvas.Canvas):
         self.setLineWidth(0.5)
         self.line(54, 45, A4[0] - 54, 45)
         
-        self.drawString(54, 32, "Capítulo 7: El Mercado de las Sombras")
+        self.drawString(54, 32, "Capítulo 7: La Condición Immedible")
         page_str = f"Página {self._pageNumber} de {page_count}"
         self.drawRightString(A4[0] - 54, 32, page_str)
         self.restoreState()
@@ -262,9 +262,17 @@ def generate_chapter7_pdf(md_path, output_filename):
 if __name__ == "__main__":
     base_dir = os.path.dirname(os.path.abspath(__file__))
     md_file = os.path.join(base_dir, "novela", "capitulos", "capitulo_7.md")
-    out_file1 = os.path.join(base_dir, "novela", "Capitulo_7_El_Mercado_de_las_Sombras.pdf")
-    out_file2 = os.path.join(base_dir, "Capitulo_7_El_Mercado_de_las_Sombras.pdf")
+    
+    # Nombre nuevo oficial
+    out_file1 = os.path.join(base_dir, "novela", "Capitulo_7_La_Condicion_Immedible.pdf")
+    out_file2 = os.path.join(base_dir, "Capitulo_7_La_Condicion_Immedible.pdf")
     
     generate_chapter7_pdf(md_file, out_file1)
     shutil.copyfile(out_file1, out_file2)
     print(f"Copia creada en la raíz: {out_file2}")
+    
+    # Compatibilidad con enlace previo
+    legacy_file1 = os.path.join(base_dir, "novela", "Capitulo_7_El_Mercado_de_las_Sombras.pdf")
+    legacy_file2 = os.path.join(base_dir, "Capitulo_7_El_Mercado_de_las_Sombras.pdf")
+    shutil.copyfile(out_file1, legacy_file1)
+    shutil.copyfile(out_file1, legacy_file2)

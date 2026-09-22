@@ -1,56 +1,50 @@
 # Desglose de Escenas y Control de Coherencia: Capítulo 7
 
-## 📍 Título: El Mercado de las Sombras
+## 📍 Título: La Condición Immedible
 - **Acto:** Acto II - La Caída del Escudo y el Gran Caos
-- **Fecha Narrativa:** 28 de septiembre de 2026 (Cuatro días después de la sesión secreta del Consejo de Seguridad).
-- **Punto de Vista (POV):** Vassily Ramos (Secretario General de las Naciones Unidas) / Perspectiva coral en la Sala de Crisis B-4.
-- **Arco Emocional:** Del asedio mediático y el agotamiento psicológico de Ramos al choque frontal de soberbias militares en el búnker; de la humillación técnica de las superpotencias ante la física de Pleh a la mezquina rapiña por el control del futuro tecnológico; culminando en el ultimátum moral y el forzado pacto industrial de supervivencia planetaria.
+- **Fecha Narrativa:** 8 de octubre de 2026 (Diez días después de la sesión secreta del Consejo de Seguridad del 28 de septiembre).
+- **Cuenta atrás:** Faltan 44 días para Fase 1 ($T = 0$, Silencio Magnético — 21 de noviembre de 2026).
+- **Punto de Vista (POV):** Coral y cercano: Dra. Sarah Lin, Dr. Thomas Wright, Dr. Jean-Luc Girard y Vassily Ramos (Secretario General de la ONU).
+- **Arco Emocional:** De la aparente calma íntima y la culpa moral del secreto en un almuerzo otoñal neoyorquino, a la dolorosa fractura racional de un padre científico que ve a su familia planificar el futuro; culminando en la revelación descarnada de las mezquindades, recelos diplomáticos y sospechas que la física no puede calcular.
 
 ---
 
-## 📍 Escena 1: La Grieta del Secreto y el Peso del Mando
-- **Tiempo:** 08:30 - 09:45 EDT
-- **Ubicación:** Despacho de la Secretaría General (planta 38) y antesala de prensa, Sede de la ONU, Nueva York.
-- **Personajes:** Vassily Ramos, portavoces de prensa, asistentes diplomáticos.
-- **Conflicto:** El bloqueo diplomático en Nueva York comienza a agrietarse tras cuatro días de encierro. La opinión pública y los medios perciben la anomalía.
+## 📍 Escena 1: La Burbuja de Cristal
+- **Tiempo:** 13:20 - 13:55 EDT
+- **Ubicación:** Restaurante *Il Giardino*, Calle 44 Este, Manhattan.
+- **Personajes:** Dra. Sarah Lin, Dr. Thomas Wright.
+- **Conflicto:** La intimidad creciente y la complicidad no verbalizada entre ambos frente al abismo del secreto planetario.
 - **Acción:**
-  - Ramos contempla Manhattan desde el ventanal de la planta 38, exhausto, consumiendo café negro tras cuatro noches en vela.
-  - La conspiranoia desborda las redes sociales y televisiones globales: imágenes filtradas de convoyes militares camuflados en los accesos de la Primera Avenida, vehículos blindados del UNDSS y salidas a medianoche de embajadores desencajados.
-  - Se disparan las teorías en internet: rumores de golpe de estado global, inminencia de guerra nuclear o quiebra coordinada del sistema financiero internacional.
-  - Ramos gestiona el incendio mediático con sus gabinetes de comunicación: emite comunicados asépticos y vacíos sobre "cumbres técnicas rutinarias de ciberseguridad y gobernanza digital" para ganar tiempo y frenar el pánico, sintiendo el peso aplastante de saber que el mundo camina hacia el abismo sin saberlo.
+  - Almuerzo tras diez días de encierro intensivo en la Sala B-4.
+  - Se aborda la ruptura de Sarah con Mark: el mensaje frío de cuatro palabras (*«¿Cuándo recoges tus cosas?»*) y la resignación de saber que su vida anterior ya no existe.
+  - La cercanía y el afecto templado de Thomas como ancla emocional para Sarah.
+  - El choque existencial con los comensales y transeúntes de Manhattan: la angustia del "síndrome del traidor" al no poder advertir a sus seres queridos que aprovechen y vivan cada minuto antes de que comience el colapso.
 
 ---
 
-## 📍 Escena 2: La Soberbia Cinética y la Termodinámica
-- **Tiempo:** 10:15 - 11:30 EDT
+## 📍 Escena 2: La Herida Racional
+- **Tiempo:** 14:05 - 14:35 EDT
+- **Ubicación:** Restaurante *Il Giardino*, Manhattan.
+- **Personajes:** Dra. Sarah Lin, Dr. Thomas Wright, Dr. Jean-Luc Girard.
+- **Conflicto:** El tormento psicológico y moral de un científico metódico ante la ilusión de porvenir de sus propios hijos.
+- **Acción:**
+  - Girard se une a los postres y al café con el rostro ensombrecido tras una videollamada segura con su esposa Marie y sus tres hijos (Julien, Chloé y Émilie).
+  - Julien le ha presentado su riguroso plan de ingreso y estudio en la Escuela Politécnica de Lausana para los próximos dos años.
+  - Girard confiesa su sensación de cobardía y culpa por fingir normalidad y alentar proyectos sabiendo que en unos meses la radiación solar y la falta de ozono destruirán la civilización civil.
+  - Disertación a tres bandas sobre la condición humana y la ignorancia pública como último dique de contención compasivo frente al pánico masivo.
+
+---
+
+## 📍 Escena 3: Las Variables Ocultas
+- **Tiempo:** 15:35 - 17:00 EDT
 - **Ubicación:** Sala de Crisis B-4 (Subsuelo blindado de la ONU).
-- **Personajes:** Vassily Ramos, delegados militares y diplomáticos de EE.UU., China y la Unión Europea (con presencia rusa), Thomas Wright, Sarah Lin, Jean-Luc Girard, Dr. Em Pleh (en pantalla).
-- **Conflicto:** Resistencia militar a aceptar la misión analógica. Los estados mayores no toleran ceder el mando a una IA anónima y presentan planes convencionales de fuerza bruta.
+- **Personajes:** Vassily Ramos (SG de la ONU), Dra. Sarah Lin, Dr. Thomas Wright, Dr. Jean-Luc Girard.
+- **Conflicto:** El pulso de las mezquindades geopolíticas y la paranoia de las superpotencias frente a lo incalculable.
 - **Acción:**
-  - Los representantes militares de Estados Unidos y China rechazan el doble módulo (MRD y MAA). Desconfían visceralmente de Pleh.
-  - **Plan Norteamericano:** El Pentágono propone un ataque cinético masivo: una salva de doce misiles balísticos intercontinentales con ojivas nucleares furtivas y conos de blindaje de carbono hacia L1.
-  - **Plan Chino:** El mando de la República Popular propone una constelación de satélites con matrices de láseres de electrones libres de alta intensidad para quemar los filamentos desde la órbita terrestre.
-  - **La Demolición de Pleh:** El Avatar, con fría precisión termodinámica y proyecciones numéricas, pulveriza ambos planes en minutos:
-    - Demuestra que las ojivas nucleares se desintegrarán al chocar contra el **Muro de Lorentz** a 10.000 km de L1, donde las corrientes parásitas de Foucault inducirán calor letal que detonará o derretirá los circuitos de silicio mucho antes de acercarse.
-    - Demuestra que la matriz láser china es inútil: la estructura enemiga posee albedo casi cero, absorbe la radiación electromagnética y redirige la disipación térmica hacia el espacio profundo, convirtiendo el haz en energía desperdiciada.
-  - Pleh sentencia: la fuerza bruta humana es un juego de niños prehistóricos frente a la física exoplanetaria.
-
----
-
-## 📍 Escena 3: El Mercado de las Cenizas y el Golpe de Ramos
-- **Tiempo:** 11:45 - 13:45 EDT
-- **Ubicación:** Sala de Crisis B-4.
-- **Personajes:** Vassily Ramos, delegaciones de EE.UU., China, UE, Rusia, Sarah Lin, Jean-Luc Girard, Thomas Wright, Dr. Em Pleh.
-- **Conflicto:** Aceptada la necesidad de la misión, la cooperación muta en codicia geopolítica: luchar por el monopolio industrial de las patentes del Nuevo Orden Mundial.
-- **Acción:**
-  - Acorraladas por la física, las potencias ceden sobre el diseño de la nave, pero estalla una guerra comercial y tecnológica por la fabricación:
-    - EE.UU. exige el monopolio exclusivo del Motor Térmico Nuclear (NTP).
-    - China exige la fabricación en exclusiva del blindaje de titanio del Módulo de Ataque Analógico (MAA) y la dirección del cañón Máser.
-    - La UE y Rusia reclaman la criogenia y los sistemas de telemetría de retorno.
-    - Comprenden que quien posea estas tecnologías alienígenas gobernará el planeta tras la crisis.
-  - **El Estallido de Ramos:** Asqueado ante la mezquindad de los delegados, el Secretario General da un golpe demoledor sobre la mesa que corta los gritos.
-  - Con el respaldo inquebrantable de Girard, Sarah Lin, Wright y la implacable cuenta atrás de Pleh, Ramos lanza un ultimátum brutal:
-    - Les escupe a la cara que la catálisis de los óxidos de nitrógeno consumirá el ozono en ocho meses.
-    - Les advierte que no habrá ningún "Nuevo Orden Mundial" que liderar, sino un vertedero radiactivo cubierto de cadáveres calcinados por la luz ultravioleta.
-  - **La Capitulación Racional:** Acorralados por el vértigo del abismo, los delegados claudican. Se aprueban las bases del primer consorcio de fabricación aeroespacial conjunta de la historia, centralizado bajo la autoridad técnica del Comité Científico.
-  - **Cierre del Capítulo:** La maquinaria industrial de la Tierra se pone en marcha en el más estricto secreto.
+  - Ramos se muestra en su faceta más íntima, exhausto pero íntegro, consagrado por completo a la defensa de toda la especie.
+  - Balance de suministros: el consorcio industrial avanza a buen ritmo (uranio y titanio en Nellis, ensamblaje del NTP en Los Álamos; chasis del MAA listo para presurización en 140 días).
+  - Confidencias *off the record* de Ramos: Washington, Pekín y Moscú regatean patentes, tecnologías de retorno y cuotas energéticas del siglo XXII mientras la guadaña cósmica pende sobre sus cabezas.
+  - Presentación de los seis astronautas seleccionados por Wright: tres titulares (MacElroy [EE.UU.], Chen Mei [China], Voronov [Rusia]) y tres reservas equivalentes (2 EE.UU., 2 China, 2 Rusia). Inquietud en la Casa Blanca por la mayoría del eje oriental-ruso, zanjada por la fe compartida en la cordura biológica de los pilotos.
+  - Revelación de la desconfianza hacia el doctor Pleh: los estados mayores militares desconfían de él al no comparecer en persona y ocultarse tras capas de cifrado, sospechando que sea un hacker desalineado o un agente de espionaje encubierto.
+  - Alerta por las filtraciones en el exterior: la movilización masiva de titanio y la actividad fabril suscitan rumores y teorías conspiranoicas en prensa y redes.
+  - Cierre filosófico: la física y las matemáticas calculan trayectorias balísticas, pero no pueden predecir ni modelar el miedo, la codicia ni la nobleza del alma humana.
