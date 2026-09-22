@@ -30,6 +30,7 @@
   * `Capitulo_7_La_Condicion_Immedible.pdf`
   * `Notas_Cientificas_La_Cancion_del_Silencio.pdf`
   * `La_Cancion_del_Silencio_Cronica_L1.pdf`
+  * `Informe_Recapitulacion_y_Auditoria_Coherencia.pdf`
 - **Web Interactiva y Sistema Anti-Caché Móvil:**
   * Sincronizada con [chapters-data.js](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/chapters-data.js) mediante [build-novel-data.js](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/build-novel-data.js).
   * **Auto-versionado anti-caché**: `build-novel-data.js` genera `version.json` y actualiza automáticamente los query strings (`?v=TIMESTAMP`) en `index.html` para `style.css`, `chapters-data.js` y `app.js`.
