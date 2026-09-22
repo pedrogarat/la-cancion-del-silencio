@@ -3,6 +3,7 @@
 ## 📍 Título: La Cámara del Silencio
 - **Acto:** Acto II - La Caída del Escudo y el Gran Caos
 - **Fecha Narrativa:** 24 de septiembre de 2026 (Noche, 20:00 - 21:45 EDT).
+- **Cuenta atrás:** Faltan 58 días para Fase 1 ($T = 0$, Silencio Magnético — 21 de noviembre de 2026).
 - **Arco Emocional:** Del murmullo escéptico y tenso de la alta diplomacia a la conmoción existencial y el pavor unánime; de la incredulidad ante una amenaza no humana a la asimilación del colapso planetario y la revelación de un plan de contraataque analógico sin precedentes.
 
 ---

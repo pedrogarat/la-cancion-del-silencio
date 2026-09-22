@@ -230,7 +230,7 @@ def generate_report_pdf(output_filename):
          "Pleh guía a los científicos ante el Secretario General de la ONU, Vassily Ramos. Tras verificar satelitalmente en L1 la firma de radiofrecuencia, Ramos asume la realidad de la crisis, decreta el secreto supremo <b>Alfa Cero</b> y crea el Comité Científico Director."),
         ("Capítulo 5: El Ancla Humana (24 de septiembre de 2026, 13:00 - 16:00 EDT)",
          "Llamadas telefónicas de los científicos bajo el secreto de Estado: Girard con su modélica familia en Ginebra; Sarah asumiendo el distanciamiento irreversible con Mark; Wright añorando la vida sencilla de su hermano y fascinado por el lado humano de Sarah. Ingreso a las 16:00 h en la Sala de Crisis B-4."),
-        ("Capítulo 6: La Cámara del Silencio (28 de septiembre de 2026, 19:48 EDT | T - 54 días)",
+        ("Capítulo 6: La Cámara del Silencio (24 de septiembre de 2026, 19:48 EDT | T - 58 días)",
          "Sesión extraordinaria secreta del Consejo de Seguridad (15 miembros). Pleh comparece como consultor civil y desmonta los recelos militares con datos de satélites rusos y estadounidenses. Expone el <b>Calendario Canónico de Extinción</b> (Fases 1 a 6) y el diseño del doble módulo (MAA/MRD, efecto Quench y cañón Máser)."),
         ("Capítulo 7: La Condición Immedible (8 de octubre de 2026, 13:20 EDT | T - 44 días)",
          "Salto de 10 días. Almuerzo íntimo de Sarah y Thomas en Manhattan (ruptura con Mark, complicidad naciente, culpa del traidor frente a los inocentes). Llegada de Girard conmovido por los planes universitarios de su hijo Julien. Reunión en la Sala B-4 con Ramos: balance industrial favorable, rapiña geopolítica por patentes, selección de los 6 astronautas (MacElroy, Chen Mei, Voronov), desconfianza de los estados mayores hacia el anonimato de Pleh y rumores de movilización exterior.")
@@ -380,10 +380,10 @@ def generate_report_pdf(output_filename):
     
     # Alert Box 2
     box2 = create_alert_box(
-        "B. Lapso temporal de cuatro días entre el Capítulo 5 y el Capítulo 6",
+        "B. Corrección del lapso temporal entre el Capítulo 5 y el Capítulo 6",
         [
-            "Al final del Capítulo 5 (tarde del 24 de septiembre), se menciona que la sesión del Consejo de Seguridad era 'inminente (a cuatro horas)', pero el Capítulo 6 inicia el 28 de septiembre (cuatro días después).",
-            "<b>Justificación diegética:</b> Fueron los cuatro días en que el Comité verificó la telemetría de Koronas y Goldstone antes de que Ramos convocara al Consejo. Se recomienda mantener esta coherencia en futuras menciones."
+            "Se subsanó el desfase temporal: la sesión del Consejo de Seguridad en el Capítulo 6 ocurre formalmente la noche del 24 de septiembre de 2026 (20:00 EDT), exactamente cuatro horas después del ingreso a la Sala B-4, quedando la cuenta atrás para Fase 1 fijada con precisión en T - 58 días.",
+            "<b>Continuidad canónica:</b> Queda eliminada cualquier contradicción con el aviso previo de Pleh y la urgencia de la convocatoria del Secretario General."
         ],
         styles,
         border_color="#0284C7",
@@ -409,7 +409,7 @@ def generate_report_pdf(output_filename):
     story.append(Paragraph("5. Conclusiones y Estado del Proyecto", h1_style))
     story.append(Paragraph(
         "• <b>Solidez Global:</b> La novela mantiene un rigor excepcional en ciencia dura (*hard sci-fi*) perfectamente amalgamada con el drama psicológico humano.<br/>"
-        "• <b>Ritmo y Tensión:</b> La introducción del <b>Calendario Canónico de Fases</b> en el Capítulo 6 y la sobreimpresión de cuentas atrás en los encabezados (T - 54 días en Cap. 6; T - 44 días en Cap. 7) genera un pulso cinemático que potencia la expectación del lector.<br/>"
+        "• <b>Ritmo y Tensión:</b> La introducción del <b>Calendario Canónico de Fases</b> en el Capítulo 6 y la sobreimpresión de cuentas atrás en los encabezados (T - 58 días en Cap. 6; T - 44 días en Cap. 7) genera un pulso cinemático que potencia la expectación del lector.<br/>"
         "• <b>Blindaje de Secreto:</b> Queda estrictamente blindado que las superpotencias ignoran el origen extraterrestre/SIA de Pleh, dotando de total credibilidad a la paranoia diplomática de las tres grandes potencias.<br/>"
         "• <b>Camino al Capítulo 8:</b> La estructura está lista para iniciar la fase de ingeniería práctica, el entrenamiento de los 6 astronautas con sistemas manuales y la gestión del inevitable estallido de rumores a medida que se acerque el 21 de noviembre de 2026 (Fase 1: Silencio Magnético).",
         body_style

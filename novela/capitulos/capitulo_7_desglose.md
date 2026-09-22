@@ -2,7 +2,7 @@
 
 ## 📍 Título: La Condición Immedible
 - **Acto:** Acto II - La Caída del Escudo y el Gran Caos
-- **Fecha Narrativa:** 8 de octubre de 2026 (Diez días después de la sesión secreta del Consejo de Seguridad del 28 de septiembre).
+- **Fecha Narrativa:** 8 de octubre de 2026 (Dos semanas después de la sesión secreta del Consejo de Seguridad del 24 de septiembre).
 - **Cuenta atrás:** Faltan 44 días para Fase 1 ($T = 0$, Silencio Magnético — 21 de noviembre de 2026).
 - **Punto de Vista (POV):** Coral y cercano: Dra. Sarah Lin, Dr. Thomas Wright, Dr. Jean-Luc Girard y Vassily Ramos (Secretario General de la ONU).
 - **Arco Emocional:** De la aparente calma íntima y la culpa moral del secreto en un almuerzo otoñal neoyorquino, a la dolorosa fractura racional de un padre científico que ve a su familia planificar el futuro; culminando en la revelación descarnada de las mezquindades, recelos diplomáticos y sospechas que la física no puede calcular.

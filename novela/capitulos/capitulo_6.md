@@ -1,8 +1,8 @@
 # Capítulo 6: La Cámara del Silencio
 
 ### 📍 I. El Tablero de las Quince Voces
-*Cámara del Consejo de Seguridad de las Naciones Unidas, Nueva York — 28 de septiembre de 2026, 19:48 EDT*
-*Cuenta atrás: Faltan 54 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
+*Cámara del Consejo de Seguridad de las Naciones Unidas, Nueva York — 24 de septiembre de 2026, 19:48 EDT*
+*Cuenta atrás: Faltan 58 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
 
 El rumor en la Cámara del Consejo de Seguridad no se parecía al murmullo protocolario de una sesión ordinaria. Era un siseo áspero, un roce continuo de suelas sobre la alfombra azul, carpetas de cuero que se abrían con sequedad y murmullos en cinco lenguas que chocaban contra el aire denso y sobrecalentado de la sala.
 
@@ -31,8 +31,8 @@ El bullicio de la sala se extinguió en seco, como si una cuchilla invisible hub
 ---
 
 ### 📍 II. La Apertura del Abismo
-*Cámara del Consejo de Seguridad, Nueva York — 28 de septiembre de 2026, 20:01 EDT*
-*Cuenta atrás: Faltan 54 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
+*Cámara del Consejo de Seguridad, Nueva York — 24 de septiembre de 2026, 20:01 EDT*
+*Cuenta atrás: Faltan 58 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
 
 El Secretario General Vassily Ramos entró con paso medido, la barbilla alzada y una palidez cetrina que su tez morena no lograba disimular del todo. A su lado caminaban tres civiles que desentonaban de forma flagrante con la fauna diplomática de la sede: un hombre maduro de mandíbula firme y sienes plateadas que miraba la sala con la calma táctica de un veterano de operaciones espaciales; una mujer joven de rasgos orientales afilados, pelo recogido en una coleta tirante y una mirada de azabache que cortaba como el diamante; y un hombre de complexión delgada, traje oscuro y gafas de montura metálica, cuyo semblante reflejaba la gravedad meticulosa de quien custodia una sentencia matemática.
 
@@ -123,8 +123,8 @@ El silencio que siguió a esas palabras fue absoluto. Ni un papel se movió. Los
 ---
 
 ### 📍 III. El Cronómetro de la Extinción
-*Cámara del Consejo de Seguridad, Nueva York — 28 de septiembre de 2026, 20:28 EDT*
-*Cuenta atrás: Faltan 54 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
+*Cámara del Consejo de Seguridad, Nueva York — 24 de septiembre de 2026, 20:28 EDT*
+*Cuenta atrás: Faltan 58 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
 
 Pleh dejó que el peso de los datos calara en el auditorio durante unos segundos antes de reanudar su exposición.
 
@@ -138,7 +138,7 @@ El embajador de los Estados Unidos levantó levemente la mano, pálido:
 
 La cámara contuvo el aliento.
 
-—**Fase 1: T = 0. Silencio Magnético (21 de noviembre de 2026):** En exactamente cincuenta y cuatro días a partir de hoy, la estructura de cincuenta kilómetros completará su tensión superconductora y alcanzará su alineación de fase en L1. La anulación del campo será inmediata en la escala global. Las brújulas de todo el planeta quedarán inertes o comenzarán a girar de forma caótica y descontrolada. Las auroras boreales y australes desaparecerán para siempre de los polos. En su lugar, la alta atmósfera, bombardeada sin filtro por partículas cósmicas, comenzará a emitir un resplandor blanquecino, tenue y enfermizo durante las noches: una fosforescencia ionizante conocida como *airglow*. A simple vista, el cielo nocturno parecerá iluminado por una niebla fantasmal.
+—**Fase 1: T = 0. Silencio Magnético (21 de noviembre de 2026):** En exactamente cincuenta y ocho días a partir de hoy, la estructura de cincuenta kilómetros completará su tensión superconductora y alcanzará su alineación de fase en L1. La anulación del campo será inmediata en la escala global. Las brújulas de todo el planeta quedarán inertes o comenzarán a girar de forma caótica y descontrolada. Las auroras boreales y australes desaparecerán para siempre de los polos. En su lugar, la alta atmósfera, bombardeada sin filtro por partículas cósmicas, comenzará a emitir un resplandor blanquecino, tenue y enfermizo durante las noches: una fosforescencia ionizante conocida como *airglow*. A simple vista, el cielo nocturno parecerá iluminado por una niebla fantasmal.
 
 La delegada de Grecia miró a su asesor científico, que asintió con la cabeza en silencio, con los labios apretados.
 
@@ -165,8 +165,8 @@ Un silencio glacial cayó sobre el hemiciclo. La fecha del 21 de julio de 2027 g
 ---
 
 ### 📍 IV. El Muro de Lorentz y el Desafío Analógico
-*Cámara del Consejo de Seguridad, Nueva York — 28 de septiembre de 2026, 20:45 EDT*
-*Cuenta atrás: Faltan 54 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
+*Cámara del Consejo de Seguridad, Nueva York — 24 de septiembre de 2026, 20:45 EDT*
+*Cuenta atrás: Faltan 58 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
 
 Fue el embajador de la República Popular China quien rompió el mutismo. Se inclinó sobre la mesa, con la voz templada por una disciplina de hierro pero con los ojos fijos en la pantalla:
 
