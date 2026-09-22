@@ -72,7 +72,7 @@ Girard levantó la cabeza y se colocó las gafas. Su mirada cartesiana, siempre 
 
 Girard se detuvo. Tragó saliva con dificultad. Su garganta emitió un chasquido seco:
 
-—Julien está preparando los exámenes de ingreso para la Escuela Politécnica de Lausana. Ha sacado la máxima calificación en matemáticas avanzadas. Me enseñó su plan de estudio, desglosado día por día, mes por mes, para los próximos dos años. Me dijo: *«Papá, cuando termine el primer curso en Lausana, quiero hacer una pasantía de verano contigo en el CERN»*. Me miraba a través de la lente de la cámara con un orgullo tan puro, tan convencido de que el futuro es una línea recta que solo requiere esfuerzo y disciplina...
+—Julien está preparando los exámenes de ingreso para la Escuela Politécnica de Lausana. Ha sacado la máxima calificación en matemáticas avanzadas. Me enseñó su plan de estudio, desglosado día por día, mes por mes, para los próximos dos años. Me dijo: *«Papá, cuando termine el primer curso en Lausana, quiero hacer prácticas de verano contigo en el CERN»*. Me miraba a través de la lente de la cámara con un orgullo tan puro, tan convencido de que el futuro es una línea recta que solo requiere esfuerzo y disciplina...
 
 El camarero depositó la taza de café negro frente al físico francés. El aroma tostado subió entre ellos, pero nadie lo tocó.
 
@@ -82,7 +82,7 @@ El camarero depositó la taza de café negro frente al físico francés. El arom
 
 —He sentido el impulso de confesar, Sarah —admitió Girard, clavando sus ojos desorbitados en los de ella—. Por un segundo, estuve a punto de decirle: *«Julien, tira los libros por la ventana. Marie, saca a las niñas del colegio. Vámonos a los Alpes, encended la chimenea, comed chocolate, reíd y abrazaos hasta que os duelan los brazos»*. Pero me callé. Asentí con la cabeza, le di consejos sobre cálculo tensorial y le dije que estaba muy orgulloso de él. Me he convertido en un farsante metódico. Un cobarde que mide la catástrofe en julios por metro cuadrado para no volverse loco.
 
-—No eres ningún cobarde, amigo mío —intervino Thomas con una firmeza serena que logró sosegar la respiración de Girard—. Eres el escudo que se interpone entre ellos y el abismo. Si no estuviéramos aquí abajo sosteniendo las vigas maestras de esta locura, nadie más lo haría. No guardamos el secreto por cobardía ni por sumisión al protocolo; lo guardamos porque la verdad en manos de ocho mil millones de personas aterMirrorizadas no traería paz ni despedidas idílicas. Traería barbarie, violencia y el colapso de las fábricas que tienen que construir la nave. Si queremos que Julien llegue a cruzar las puertas de Lausana, tenemos que seguir tragándonos este veneno en silencio.
+—No eres ningún cobarde, amigo mío —intervino Thomas con una firmeza serena que logró sosegar la respiración de Girard—. Eres el escudo que se interpone entre ellos y el abismo. Si no estuviéramos aquí abajo sosteniendo las vigas maestras de esta locura, nadie más lo haría. No guardamos el secreto por cobardía ni por sumisión al protocolo; lo guardamos porque la verdad en manos de ocho mil millones de personas aterrorizadas no traería paz ni despedidas idílicas. Traería barbarie, violencia y el colapso de las fábricas que tienen que construir la nave. Si queremos que Julien llegue a cruzar las puertas de Lausana, tenemos que seguir tragándonos este veneno en silencio.
 
 Girard respiró hondo, tomó la taza humeante y bebió un sorbo amargo. Se pasó la mano por la frente, como si intentara despejar la niebla de su mente:
 
