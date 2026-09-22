@@ -19,7 +19,7 @@
   * **Capítulo 4:** *El Vértigo de las Naciones* (4.200 palabras, Acto II: Infiltración en la ONU, reunión con Vassily Ramos, verificación en L1 y decreto Alfa Cero).
   * **Capítulo 5:** *El Ancla Humana* (3.850 palabras, Acto II: Almuerzo, llamadas personales bajo secreto de Estado y entrada en la Sala de Crisis B-4).
   * **Capítulo 6:** *La Cámara del Silencio* (4.500 palabras, Acto II: Sesión extraordinaria secreta del Consejo de Seguridad de la ONU, confrontación por satélites militares, cronómetro de extinción T=0 a T+3 años y presentación de la misión analógica L1 con efecto Quench).
-  * **Capítulo 7:** *El Mercado de las Sombras* (3.400 palabras, Acto II: Asedio mediático en Manhattan, demolición de los planes cinéticos militares, rapiña geopolítica por monopolizar componentes y patentes, ultimátum moral de Vassily Ramos y firma del Consorcio Industrial de Defensa Planetaria).
+  * **Capítulo 7:** *La Condición Immedible* (4.100 palabras, Acto II: Salto de 10 días, almuerzo íntimo de Sarah y Thomas en Manhattan, llegada conmovida de Girard por sus hijos, reunión confidencial en la Sala B-4 con Vassily Ramos, selección de los 6 astronautas, desconfianza hacia Pleh y rumores de movilización exterior).
 - **PDFs Disponibles (Sincronizados en raíz y novela/):**
   * `Capitulo_1_El_Amanecer_de_Alamogordo.pdf`
   * `Capitulo_2_Los_Tres_Hilos_del_Ilusionista.pdf`
@@ -27,7 +27,7 @@
   * `Capitulo_4_El_Vertigo_de_las_Naciones.pdf`
   * `Capitulo_5_El_Ancla_Humana.pdf`
   * `Capitulo_6_La_Camara_del_Silencio.pdf`
-  * `Capitulo_7_El_Mercado_de_las_Sombras.pdf`
+  * `Capitulo_7_La_Condicion_Immedible.pdf`
   * `Notas_Cientificas_La_Cancion_del_Silencio.pdf`
   * `La_Cancion_del_Silencio_Cronica_L1.pdf`
 - **Web Interactiva y Sistema Anti-Caché Móvil:**

@@ -270,9 +270,3 @@ if __name__ == "__main__":
     generate_chapter7_pdf(md_file, out_file1)
     shutil.copyfile(out_file1, out_file2)
     print(f"Copia creada en la raíz: {out_file2}")
-    
-    # Compatibilidad con enlace previo
-    legacy_file1 = os.path.join(base_dir, "novela", "Capitulo_7_El_Mercado_de_las_Sombras.pdf")
-    legacy_file2 = os.path.join(base_dir, "Capitulo_7_El_Mercado_de_las_Sombras.pdf")
-    shutil.copyfile(out_file1, legacy_file1)
-    shutil.copyfile(out_file1, legacy_file2)
