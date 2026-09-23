@@ -67,6 +67,15 @@
       "location": "Restaurante Il Giardino (Manhattan) / Sala de Crisis B-4, Sede de la ONU",
       "readTime": "15 min",
       "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 8,
+      "title": "Capítulo 8: La Gran Mentira",
+      "act": "Acto II: La Caída del Escudo y el Gran Caos",
+      "pov": "Dr. Jean-Luc Girard / Vassily Ramos / Dra. Sarah Lin / Dr. Thomas Wright",
+      "location": "Sala de Prensa y Búnker B-4, Sede de la ONU, Nueva York",
+      "readTime": "15 min",
+      "povImage": "img/char_protagonista.png"
     }
   ]
 }

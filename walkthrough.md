@@ -20,6 +20,7 @@
   * **Capítulo 5:** *El Ancla Humana* (3.850 palabras, Acto II: Almuerzo, llamadas personales bajo secreto de Estado y entrada en la Sala de Crisis B-4).
   * **Capítulo 6:** *La Cámara del Silencio* (4.500 palabras, Acto II: Sesión extraordinaria secreta del Consejo de Seguridad de la ONU, confrontación por satélites militares, cronómetro de extinción T=0 a T+3 años y presentación de la misión analógica L1 con efecto Quench).
   * **Capítulo 7:** *La Condición Immedible* (4.100 palabras, Acto II: Salto de 10 días, almuerzo íntimo de Sarah y Thomas en Manhattan, llegada conmovida de Girard por sus hijos, reunión confidencial en la Sala B-4 con Vassily Ramos, selección de los 6 astronautas, desconfianza hacia Pleh y rumores de movilización exterior).
+  * **Capítulo 8:** *La Gran Mentira* (4.400 palabras, Acto II: Transgresión de Alfa Cero por Girard para alertar a Marie; comparecencia global de Ramos anunciando el falso "Súper Evento Carrington" del 21 de noviembre a las 05:30 UTC y ley marcial energética; dolor moral de Ramos en el descenso a B-4; llamadas familiares de Girard a Julien y de Wright a su hermano David; confesión, reconciliación y llanto de Sarah con su hermana Maya; primer beso entre Thomas y Sarah en la sala de servidores; primer impacto de la histeria global y bolsas colapsadas bajo la mirada de Pleh).
 - **PDFs Disponibles (Sincronizados en raíz y novela/):**
   * `Capitulo_1_El_Amanecer_de_Alamogordo.pdf`
   * `Capitulo_2_Los_Tres_Hilos_del_Ilusionista.pdf`
@@ -28,6 +29,7 @@
   * `Capitulo_5_El_Ancla_Humana.pdf`
   * `Capitulo_6_La_Camara_del_Silencio.pdf`
   * `Capitulo_7_La_Condicion_Immedible.pdf`
+  * `Capitulo_8_La_Gran_Mentira.pdf`
   * `Notas_Cientificas_La_Cancion_del_Silencio.pdf`
   * `La_Cancion_del_Silencio_Cronica_L1.pdf`
   * `Informe_Recapitulacion_y_Auditoria_Coherencia.pdf`
