@@ -56,7 +56,7 @@ En la suite 2804, Jean-Luc Girard cerró la puerta corredera del balcón acrista
 
 El tono sonó tres veces antes de que una voz cálida y familiar respondiera al otro lado:
 
-—*¿Jean-Luc? Cariño, qué alegría. Pensé que a estas horas estarías descansando en el hotel tras esa reunión informal con tu colega matemático.*
+—*¿Jean-Luc? Cariño, qué alegría. Pensé que a estas horas estarías descansando en el hotel tras ese encuentro con tu colega.*
 
 Escuchar la voz de Marie provocó en Girard una punzada física en el esternón, un nudo tan denso que tuvo que tomar aire antes de articular palabra. Su matrimonio era, en el sentido más noble y sereno del término, una relación de libro. Veintidós años juntos sin una sola grieta importante, construidos sobre una confianza absoluta, admiración mutua y un afecto indestructible.
 
@@ -64,7 +64,7 @@ Como buen físico de partículas, Jean-Luc había estructurado su vida familiar 
 
 —Hola, mon amour —logró decir Girard, modulando la voz con una disciplina férrea para que no trasluciera ni el más leve temblor—. Sí... bueno, el encuentro con ese colega se complicó de la forma más imprevista posible.
 
-—*¿Qué ha ocurrido? ¿Problemas con sus modelos de datos?*
+—*¿Qué ha ocurrido?*
 
 —Al contrario, resultaron demasiado reveladores —mintió Jean-Luc, sintiendo que cada sílaba falsa le quemaba la garganta—. De esa reunión surgió una contingencia urgente: una auditoría técnica y una mesa científica extraordinaria que las comisiones de Naciones Unidas han convocado a toda prisa aquí en Nueva York. Les coincidió nuestra presencia en la ciudad y nos han retenido formalmente para coordinar un panel sobre seguridad física internacional. Me temo que no podré tomar el vuelo de regreso mañana por la mañana. Tendré que quedarme en Manhattan varios días... Quizás un par de semanas.
 

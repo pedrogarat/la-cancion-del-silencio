@@ -201,9 +201,9 @@ Hubo un silencio húmedo al otro lado, seguido del rumor de pasos sobre el parqu
 
 —Julien. ¿Cómo estás?
 
-—*Estoy... perplejo, papá. He estado leyendo los boletines técnicos que la Agencia Espacial Europea colgó antes de que tumbaran sus servidores por saturación. Los parámetros de densidad de protones no tienen sentido. Una eyección con esa velocidad de propagación... las corrientes inducidas de Birkeland van a destrozar cualquier transformador de más de cuatrocientos kilovoltios. ¿De verdad no hay forma de desviar el frente con blindaje activo en la ionosfera?*
+—*Estoy... no lo sé, papá. Asustado, supongo. He estado mirando los gráficos en las noticias y lo que publicó la Agencia Espacial antes de que colapsara la web. Dicen que es una eyección monstruosa, que las corrientes inducidas van a sobrecargar las líneas de alta tensión y que los transformadores van a reventar... Papá, tú siempre nos decías que el campo magnético de la Tierra nos protege de todo eso. ¿De verdad no hay forma de desviar la radiación o aislar la red antes de que llegue?*
 
-A Jean-Luc se le formó un nudo denso en la garganta. La mente brillante de su hijo, ese talento natural que durante años había soñado con moldear en los pasillos de la Politécnica de Lausana, estaba analizando la física del desastre con la precisión de un futuro ingeniero. Le estaba preguntando por soluciones técnicas a una mentira diseñada para encubrir su propia sentencia de muerte.
+A Jean-Luc se le formó un nudo denso en la garganta. La lucidez de su hijo, ese muchacho despierto que devoraba libros de divulgación y con quien compartía largas sobremesas hablando de física elemental, intentaba encontrar lógica en el desastre con la limpia honestidad de un estudiante que aún cree que todo problema tiene solución en un manual. Le estaba pidiendo una respuesta científica a una mentira diseñada para encubrir su propia sentencia de muerte.
 
 —No hay blindaje posible para esa escala de energía, Julien —dijo Jean-Luc, tragándose la hiel de sus palabras—. La física no negocia. Cuando el frente llegue el día 21, la atmósfera absorberá el impacto y la red caerá para salvar los generadores primarios. Por eso te llamo a ti.
 
@@ -219,27 +219,35 @@ Hubo una pausa en la que Julien pareció asimilar el peso de los años que su pa
 
 —*Puedo hacerlo, papá. No te preocupes por mamá ni por las niñas. Yo cuidaré de ellas.*
 
-—Sé que lo harás, hijo —susurró Jean-Luc, sintiendo una quemazón ardiente detrás de los ojos que amenazaba con quebrar su compostura—. Eres un hombre inteligente y sensato. Confío en ti más que en nadie en este mundo.
+—Sé que lo harás, hijo —susurró Jean-Luc, sintiendo una quemazón ardiente detrás de los ojos que amenazaba con quebrar su compostura—. Eres un muchacho inteligente y sensato. Confío en ti más que en nadie en este mundo.
 
 —*Papá... ¿tú estarás bien en Nueva York?*
 
-—Estoy en las instalaciones más seguras del planeta, Julien. Tengo trabajo que hacer aquí para asegurar que la recuperación tras la tormenta sea viable. Nos veremos cuando el cielo se calme. Te lo prometo.
+—Estoy en las instalaciones más seguras del planeta, Julien. Tengo trabajo que hacer aquí para asegurar que la contingencia funcione. Y todavía nos quedan semanas antes de que el frente llegue; las líneas telefónicas siguen abiertas. Te llamaré cada noche, hijo. Mientras las comunicaciones aguanten, hablaremos a diario. Y cuando el cielo se calme, volveré a casa con vosotros. Te lo prometo.
 
-Al colgar, Jean-Luc apoyó los codos sobre el tablero y cubrió su rostro con ambas manos. Sus hombros se estremecieron en un único espasmo mudo. Había transferido el mando de su hogar a un muchacho de diecisiete años con la promesa de volver cuando el cielo se calmase, sabiendo que, si la misión en L1 fracasaba, el cielo jamás volvería a calmarse.
+—*Te esperamos, papá. Llámame mañana a la misma hora.*
+
+Al cortar la llamada, la armadura de Jean-Luc se derrumbó.
+
+Apoyó los codos sobre el tablero metálico, hundió la cara entre las manos y rompió a llorar en la soledad de la cabina. Fue un llanto amargo, convulsivo y visceral, el desgarro íntimo e incontenible de un padre que por primera vez en su vida se sentía incapaz de proteger a los suyos, viendo cómo las lágrimas empapaban sus nudillos y resbalaban sobre la mesa fría. Durante unos segundos, el científico metódico y cartesiano desapareció por completo, devorado por la impotencia.
+
+Pero casi al instante, con un esfuerzo supremo que le tensó los músculos del cuello, detuvo el temblor. Se pasó las palmas por las mejillas con aspereza, secándose las lágrimas con rabia contenida, y tomó una bocanada honda y temblorosa de aire frío. Se enderezó lentamente en el asiento. No podía permitirse el lujo de quebrarse. No ahora. El mundo entero se sostenía sobre un hilo de cálculo infinitesimal y su deber inexcusable era mantenerse lúcido, frío y mentalmente inquebrantable para ejecutar el papel que se le había asignado en ese búnker.
+
+Se frotó los ojos una última vez y contempló el teléfono silencioso. Había transferido el mando de su hogar a un muchacho de diecisiete años con la promesa de volver cuando el cielo se calmase, sabiendo que, si la misión en L1 fracasaba, el cielo jamás volvería a calmarse.
 
 ***
 
 A diez metros de allí, en el pasillo de enlace técnico, Thomas Wright apoyaba la espalda contra una tubería aislada con fibra de vidrio mientras sostenía un microteléfono seguro conectado a la línea británica.
 
-—*Thomas, por el amor de Dios, dime que esto es una exageración de los medios* —la voz de su hermano David llegaba desde Cambridge, cargada de una ansiedad frenética. De fondo se escuchaba el balbuceo inocente de Leo, su sobrino de tres años, jugando con un sonajero de madera—. *El gobierno de Su Majestad acaba de anunciar que cerrará los puertos del Canal el día 18. Los supermercados en Cambridge están vacíos desde hace dos horas. La gente está cargando sacos de harina en los maleteros como si fuera la Segunda Guerra Mundial.*
+—*Thomas, por el amor de Dios, dime que esto es una exageración de los medios* —la voz de su hermano David llegaba desde Cambridge, cargada de una ansiedad frenética. De fondo se escuchaba el balbuceo inocente de Oliver, su sobrino de tres años, jugando con un sonajero de madera—. *El gobierno de Su Majestad acaba de anunciar que cerrará los puertos del Canal el día 18. Los supermercados en Cambridge están vacíos desde hace dos horas. La gente está cargando sacos de harina en los maleteros como si fuera la Segunda Guerra Mundial.*
 
 Thomas cerró los ojos, recurriendo a toda la flema que había cultivado durante tres décadas de operaciones complejas en la ESA.
 
 —David, mírame. Respira despacio y escucha a tu hermano mayor —dijo Thomas con una voz cálida, paternal y firme—. Ramos ha dicho la verdad sobre la magnitud del fenómeno, pero el plan de contingencia británico es el más sólido de Europa. Llevamos años modelando el impacto de un súper Carrington en la red de National Grid. Los transformadores principales de Cornualles y Escocia se desconectarán a tiempo. No habrá escasez de agua ni de medicamentos.
 
-—*Pero el niño, Thomas... Leo apenas tiene tres años. Si no hay electricidad para las bombas de calor en diciembre...*
+—*Pero el niño, Thomas... Oliver apenas tiene tres años. Si no hay electricidad para las bombas de calor en diciembre...*
 
-—Tienes la chimenea de leña de la casa de campo en Suffolk —atajó Thomas con tono resolutivo—. Habla con Clara, recoged las provisiones que tengáis, coged el coche mañana por la mañana antes de que las gasolineras impongan racionamiento y trasladaos a la casa de Suffolk. Allí tenéis pozo, madera para dos inviernos y aislamiento térmico. En el campo estaréis cien veces más seguros que en el centro de Cambridge.
+—Tienes la chimenea de leña de la casa de campo en Suffolk —atajó Thomas con tono resolutivo—. Habla con Claire, recoged las provisiones que tengáis, coged el coche mañana por la mañana antes de que las gasolineras impongan racionamiento y trasladaos a la casa de Suffolk. Allí tenéis pozo, madera para dos inviernos y aislamiento térmico. En el campo estaréis cien veces más seguros que en el centro de Cambridge.
 
 —*¿Y tú, Thomas? ¿Cuándo vuelves a Londres? Papá siempre decía que en las crisis la familia tiene que estar junta bajo el mismo techo...*
 
@@ -249,9 +257,13 @@ La mención a su padre muerto le dio a Thomas una punzada directa al corazón. R
 
 —*Prométeme que te cuidarás, Tom. Eres el único hermano que tengo.*
 
-—Te lo prometo, David. Cuida de Clara y dale un beso enorme a Leo de parte de su tío. Nos vemos en primavera en Suffolk, ¿de acuerdo?
+—Te lo prometo, David. Y escucha: aún faltan cuarenta días para el 21 de noviembre. Las comunicaciones internacionales siguen operativas. Te llamaré mañana por la tarde en cuanto hayáis llegado a Suffolk. Mientras las líneas aguanten, hablaremos con regularidad, ¿de acuerdo? No te vas a librar de mí tan fácilmente.
 
-—*En primavera, Tom. Que Dios os guarde a todos allá abajo.*
+—*De acuerdo, Tom. Te esperamos mañana. Cuídate mucho.*
+
+—Y tú cuida de Claire y dale un beso enorme a Oliver de parte de su tío. Nos vemos en primavera en Suffolk, David. Te lo aseguro.
+
+—*En primavera, hermano. Que Dios os guarde a todos allá abajo.*
 
 Thomas colgó el auricular con una lentitud infinita. Se quedó mirando la pared metálica durante un largo minuto, mordiéndose el labio inferior hasta sacarse sangre. La templanza británica se había sostenido intacta en la voz, pero por dentro se sentía como un sepulturero que acaba de tapiar el nicho de su propia sangre con una sonrisa piadosa.
 
@@ -335,15 +347,15 @@ Ninguno de los dos habló. Las palabras habrían sido una profanación grotesca.
 
 Fue un movimiento casi imperceptible: Thomas acortó los escasos centímetros que los separaban, rozando con el pulgar la mejilla empapada de Sarah, y unió sus labios a los de ella.
 
-Fue un beso lento, pausado, teñido por el sabor salado de las lágrimas y la calidez viva de dos bocas que se negaban a someterse a la frialdad del metal que las rodeaba. No había frenesí ni urgencia carnal; era un acto de afirmación biológica absoluta, una trinchera de calor humano cavada en el suelo más profundo del búnker frente a la guadaña helada que bajaba desde el espacio profundo.
+Fue un beso lento, pausado, teñido por el sabor salado de las lágrimas y la calidez viva de dos bocas que se negaban a someterse a la frialdad del metal que las rodeaba. Una trinchera de calor humano cavada en el suelo más profundo del búnker frente a la oscuridad helada que bajaba desde el espacio profundo.
 
-Sarah entreabrió los labios con un gemido sordo, enredando los dedos en el cabello entrecano de Thomas, sintiendo que en ese contacto mínimo y sagrado el universo entero dejaba de ser una amenaza termodinámica para convertirse en un refugio tangible.
+Sarah entreabrió los labios con un estremecimiento suave, enredando los dedos en el cabello entrecano de Thomas, sintiendo que en ese contacto mínimo y sagrado el universo entero dejaba de ser una amenaza termodinámica para convertirse en un refugio tangible.
 
 Cuando se separaron despacio, manteniendo las frentes unidas y las respiraciones entrelazadas, Thomas le acarició la mejilla con una ternura infinita.
 
-—Estamos vivos, Sarah —susurró él con un hilo de voz temblorosa pero inquebrantable—. Mientras estemos aquí abajo... tú y yo estamos vivos.
+—Lo vamos a lograr, Sarah —susurró él con un hilo de voz temblorosa pero firme, cargada de una convicción irreductible—. Vamos a sobrevivir a esto. Salvaremos a los tuyos, a mi familia y a todos los que están allá arriba. Nos espera una vida después. Te lo aseguro.
 
-Sarah asintió en silencio, cerrando los ojos para aspirar el aroma a jabón limpio y a tabaco frío que desprendía la piel de Thomas. Se sintió, por primera vez desde que la palabra *Sombra* había entrado en su vida, a salvo dentro de su propia piel.
+Sarah asintió en silencio, cerrando los ojos para aspirar el aroma a jabón limpio y a tabaco frío que desprendía la piel de Thomas. Sintió, por primera vez desde que la palabra *Sombra* había entrado en su vida, que la esperanza no era una quimera matemática, sino algo por lo que valía la pena luchar hasta el último aliento.
 
 ---
 
@@ -371,9 +383,19 @@ En la salida del túnel Lincoln y en el puente George Washington, en Nueva York,
 
 La cámara mostraba el aparcamiento de una gran superficie comercial. Cientos de personas forcejeaban a golpes por generadores portátiles de gasolina, bidones de propano y carros repletos de comida enlatada. La policía utilizaba gas lacrimógeno en las puertas de cristal destrozadas mientras familias enteras huían hacia los arcenes con cajas de víveres en los brazos.
 
-En otra pantalla, la señal de France 24 transmitía en directo desde la plaza de San Pedro en Roma: miles de fieles se arrodillaban bajo la lluvia rezando rosarios en voz alta, mientras en la plaza de Trafalgar, en Londres, y en Times Square, predicadores callejeros subidos a cajones de madera alzaban crucifijos y pancartas amarillentas con versículos del Apocalipsis, proclamando ante multitudes desencajadas que la ira divina había encendido el fuego purificador del Sol.
+En otra pantalla, la señal de France 24 transmitía en directo desde la plaza de San Pedro en Roma: miles de fieles se arrodillaban bajo la lluvia rezando rosarios en voz alta, mientras en plazas y avenidas de todo el mundo multitudes sobrecogidas llenaban templos y capillas en busca de orientación, consuelo y una plegaria compartida ante la inminencia de la oscuridad.
 
-—La mente colectiva retrocede tres mil años en tres horas de pánico —murmuró Girard con una mueca de tristeza infinita—. Quitas la certeza del interruptor de la luz y el ser humano vuelve a arrodillarse ante el trueno como un homínido asustado en una caverna.
+Girard contempló las imágenes con el semblante serio y reflexivo propio de un hombre formado en la estricta física del CERN:
+
+—Es sobrecogedor cómo reacciona la conciencia colectiva —comentó en voz baja, con sobria curiosidad científica—. Cuando los sistemas técnicos que dábamos por sentados amenazan con fallar, la mente busca instintivamente una voluntad superior, un sentido moral detrás de lo que no es más que entropía y electromagnetismo. La razón parece replegarse ante la necesidad de trascendencia.
+
+Ramos, que sostenía su taza con la mirada fija en los peregrinos de Roma, negó despacio con la cabeza, esbozando una suave sonrisa teñida de respeto y melancolía:
+
+—No lo llame repliegue, doctor Girard. Es necesidad de esperanza. Yo me he criado en esa fe, y sé lo que se siente al buscar amparo en el cielo cuando todo tiembla bajo tus pies. Cuando la ciencia nos dice que estamos a merced de fuerzas que nos sobrepasan, la gente no busca fórmulas ni ecuaciones; busca consuelo, orientación y la certeza de que su existencia no es un simple accidente ciego en el vacío. No podemos juzgarlos por rezar; la fe es su forma de resistir a la desesperación.
+
+Girard asintió lentamente, asimilando las palabras del mandatario con deferencia intelectual y empatía humana:
+
+—Comprendo su punto, señor Ramos. En el fondo, todos buscamos un asidero para no hundirnos. Para ellos es la providencia; para nosotros, una pizarra donde aún podamos calcular una salida.
 
 En ese instante, la pantalla mural del doctor Em Pleh se iluminó con una serie de diagramas de dispersión estadística. La voz sintética, pulcra y desprovista de armónicos emocionales de la inteligencia artificial llenó los altavoces de la sala:
 
@@ -395,12 +417,12 @@ Thomas Wright se colocó a su izquierda, con Sarah Lin a su lado, unidos por una
 
 Ramos dejó su taza vacía sobre la barandilla.
 
-—Mírenlos bien —dijo el Secretario General en un susurro que sonó como una oración laica en la penumbra del búnker—. Saquean tiendas de bombillas, rezan a dioses sordos y huyen a los bosques creyendo que el peligro es una tormenta solar que pasará en tres días.
+—Mírenlos bien —dijo el Secretario General con una gravedad compasiva en la penumbra del búnker—. Intentan proteger a los suyos, buscan amparo en la oración, hacen acopio de lo poco que tienen y huyen a los campos creyendo que el peligro es una tormenta solar pasajera de la que saldrán en unos días. Aferrados a la fe y a la vida.
 
 Ramos clavó sus ojos cansados en el mural gigante, donde el mapa mundi parpadeaba con miles de pequeños puntos rojos que marcaban focos de disturbios urbanos.
 
-—Solo es un ensayo general —sentenció con amargura sombría—. Esto es lo que pasa cuando les dices que la luz se va a apagar un par de semanas... El verdadero caos, el que no tendrá retorno ni perdón, empieza el día 21.
+—Solo es un ensayo general —sentenció con amargura sombría—. Esto es lo que pasa cuando les dices que la luz se va a apagar un par de semanas... El verdadero desafío, el que pondrá a prueba el alma de la humanidad entera, empieza el día 21.
 
-Hizo una pausa, y en la sala de crisis no se escuchó más que el latido sordo de los procesadores.
+Hizo una pausa, se persignó con una discreción casi imperceptible, y en la sala de crisis no se escuchó más que el latido sordo de los procesadores.
 
 —Que Dios nos ayude.
