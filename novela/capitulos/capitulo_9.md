@@ -8,9 +8,9 @@ El silencio del lago Lemán ya no era el reposo elegante de los otoños suizos, 
 
 En la villa de los Girard, un chalet de dos plantas con vigas de roble y amplio jardín cercado que descendía hacia la vía del tren regional, todas las persianas de aluminio estaban bajadas y trancadas con cuñas de madera. En el interior no ardía ni una sola bombilla de techo. Marie Girard se movía por el pasillo de la planta baja guiándose por el tenue resplandor de una linterna de dinamo, cuidando de no rozar las paredes para no proyectar sombras contra las rendijas.
 
-El Consejo Federal suizo había declarado el *Notrecht* —estado de necesidad y excepción— apenas dieciocho horas después del discurso de Vassily Ramos. Las clases en todos los colegios y en la Universidad de Ginebra habían quedado suspendidas por decreto hasta nuevo aviso. Tropas del Ejército suizo con brazaletes reflectantes y fusiles Stgw 90 custodiaban las subestaciones eléctricas de Verbois y los silos de reserva estratégica en Meyrin. En los supermercados de Versoix y Coppet, las colas de ciudadanos pálidos daban dos vueltas a la manzana bajo una llovizna fría, vigiladas por agentes con escudos antidisturbios que solo permitían la entrada de cinco personas a la vez para retirar raciones tasadas de harina, agua y pilas secas. La noción generalizada de que una catástrofe solar irreversible paralizaría el continente en cuarenta días había desnudado los instintos más oscuros en los márgenes de la ciudad: los maleantes locales y bandas organizadas de saqueo sabían con certeza matemática que la policía estaba colapsada protegiendo las arterias centrales y las reservas energéticas. Las urbanizaciones residenciales aisladas estaban solas.
+El Consejo Federal suizo había declarado el *Notrecht* —estado de necesidad y excepción— apenas dieciocho horas después del discurso de Vassily Ramos. Las clases en todos los colegios y en la Universidad de Ginebra habían quedado suspendidas por decreto para reducir la movilidad innecesaria. No era el fin del mundo ni una situación de ruina inmediata: en los supermercados de Versoix y Coppet las estanterías seguían abastecidas y la gente podía retirar cualquier producto con normalidad, aunque las filas avanzaban despacio y bajo la mirada atenta de agentes de la Policía Cantonal que regulaban el aforo para evitar tumultos y desórdenes. Sin embargo, con las patrullas concentradas en custodiar las subestaciones eléctricas de Verbois, los depósitos de reserva y los nudos ferroviarios clave, en los márgenes de la ciudad no tardó en aflorar el oportunismo. Los maleantes locales sabían bien que las fuerzas de seguridad tenían órdenes estrictas de no desatender los puntos estratégicos por llamadas rutinarias. En las urbanizaciones residenciales más apartadas, al borde de la noche y la niebla, las familias sabían que dependían de su propia prudencia.
 
-En el salón, sobre la mesa de comedor donde habitualmente se corregían cuadernos y se almorzaba los domingos, Julien Girard, de diecisiete años, tenía desplegados tres testeros digitales, cables de cobre desnudo, dos baterías de plomo de doce voltios extraídas del cortacésped y del cortasetos del taller, y el viejo manual de instalaciones eléctricas de su padre.
+En el salón, sobre la mesa de comedor donde habitualmente se corregían cuadernos y se almorzaba los domingos, Julien Girard, de diecisiete años, tenía desplegados un multímetro digital, cables de cobre pelados, dos baterías de doce voltios que había desmontado del cortacésped y del taller, y el viejo manual de instalaciones eléctricas de su padre.
 
 A su lado, sentadas en el suelo contra el zócalo más alejado de las ventanas, sus hermanas menores se mantenían en silencio. Chloé, de quince años, abrazaba a Émilie, de diez, acariciándole el pelo al compás de una respiración contenida. La pequeña apretaba contra su pecho un oso de felpa desgastado, con los ojos muy abiertos fijos en la penumbra.
 
@@ -18,7 +18,7 @@ A su lado, sentadas en el suelo contra el zócalo más alejado de las ventanas, 
 
 Julien no levantó la vista del empalme que estaba aislando con cinta vulcanizada, pero su respiración no vaciló. Había heredado la mandíbula angulosa de Jean-Luc y esa mirada de análisis frío que descomponía un problema en variables antes de permitir que el pánico contaminara el pulso.
 
-—Papá nos avisó de que esto ocurriría, mamá —respondió el muchacho con voz serena y baja—. Las centrales de conmutación de Swisscom tienen una capacidad de tráfico simultáneo diseñada para el quince por ciento de la población. Cuando el cien por cien intenta llamar a la vez para saber si sus parientes están vivos, los relés térmicos se bloquean por saturación de software. No es una avería física todavía; es entropía de red. No podemos contar con la policía. Nadie va a descolgar ese teléfono.
+—Papá ya nos avisó de que pasaría esto, mamá —dijo el muchacho con voz tranquila pero atenta, sin levantar la vista de las conexiones—. Las líneas no están averiadas; es solo que todo el mundo está intentando llamar a la vez para saber cómo están los suyos y la red de Swisscom se ha venido abajo por puro exceso de tráfico. En emergencias no van a descolgar porque están colapsados de avisos. Esta noche estamos por nuestra cuenta.
 
 —Llevan casi media hora fuera —dijo Chloé desde el rincón, con un temblor fino en la voz—. En el linde del seto. Los vi desde la claraboya del desván antes de que oscureciera del todo. Eran tres. Uno llevaba una palanca de hierro.
 
@@ -26,7 +26,7 @@ Marie apoyó la mano en el hombro de su hijo. Bajo el jersey de lana, sentía la
 
 —¿Están los cerrojos de la cocina asegurados? —preguntó Marie.
 
-—Sí —asintió Julien—. Y he atrancado la puerta de servicio con el banco de roble del recibidor. Pero la cancela del jardín hacia el lago solo tiene una cerradura de muelle simple. Si saltan la verja de hierro forjado, el punto débil son las dos hojas acristaladas del porche trasero. El vidrio doble resiste un golpe accidental, pero no una maza.
+—Sí —asintió Julien—. Y he atrancado la puerta de servicio con el banco de roble del recibidor. Por ahí no van a entrar. Pero la cancela del jardín hacia el lago solo tiene un pestillo normal y corriente. Si saltan la verja, el peligro son las cristaleras del porche. Con una palanca de hierro revientan el cierre corredizo en un segundo.
 
 Un crujido sordo, metálico y seco resonó en el exterior, proveniente del fondo del jardín. El perro de la finca colindante ladró dos veces antes de callar de golpe con un gañido que se extinguió en la niebla.
 
@@ -38,11 +38,11 @@ La oscuridad en el salón se volvió absoluta. Los cuatro permanecieron inmóvil
 
 Marie deslizó la mano hacia el cinturón de su abrigo y sacó una llave pequeña. Caminó hacia el despacho de Jean-Luc y abrió el armario de madera de cerezo donde su marido guardaba la escopeta superpuesta de caza heredada de su abuelo, una Browning calibre 12 con culata de nogal, junto a una caja de cartuchos de postas para jabalí. Jean-Luc aborrecía la violencia, pero mantenía el arma limpia y desmontada por estricta tradición familiar. Marie cargó dos cartuchos en las recámaras con un chasquido sordo que Julien reconoció al instante en la oscuridad.
 
-—No vamos a disparar a través del cristal a ciegas, mamá —advirtió Julien con firmeza técnica, situándose frente a ella—. Si disparamos y erramos, sabrán que solo tenemos pólvora deportiva y nos rodearán por el tejado del garaje. Tenemos que hacerles creer que la casa está fortificada y que entrar es un suicidio.
+—Espera, mamá, no dispares a ciegas por el cristal —le susurró Julien agarrándole suavemente el antebrazo—. Si tiras y fallas sabrán que estamos asustados y buscarán meterse por el garaje o por la cocina. Hay que darles un susto de verdad, que se crean que la casa es una trampa y que meterse aquí es una locura.
 
 —¿Qué has hecho con los cables, Julien? —preguntó Marie, sosteniendo el cañón hacia abajo con ambas manos.
 
-—He derivado la toma trifásica de 380 voltios del compresor de la bodega hacia el marco metálico de las correderas del porche, pasando a través del banco de condensadores de arranque de la caldera. No los matará si tocan el marco, pero provocará una descarga capacitiva de siete julios y un arco voltaico que fundirá la pintura y sonará como una granada aturdidora. Y en cuanto salte el arco... encendemos los proyectores halógenos de obra desde el conmutador manual.
+—He empalmado la toma de fuerza del compresor del taller al marco metálico de las correderas, usando los condensadores viejos de la caldera como puente. Si tocan el marco con la palanca les va a sacudir un calambrazo brutal y va a saltar una chispa que va a sonar como un trueno. En cuanto pegue el chispazo... encendemos los focos de obra de golpe.
 
 En ese instante, el pomo exterior de la puerta corredera de cristal del porche comenzó a vibrar. Alguien forzaba una palanca entre el marco de aluminio y la jamba de piedra.
 
@@ -50,29 +50,31 @@ En ese instante, el pomo exterior de la puerta corredera de cristal del porche c
 
 Se oyó el chirrido del metal contra el cristal templado.
 
-Julien esperó tres segundos exactos. Contó el peso del cuerpo del asaltante apoyándose contra el marco de aluminio.
+Julien esperó unos segundos con el pulso firme. Notó la presión del cuerpo del asaltante apoyándose contra el marco de aluminio para hacer palanca.
 
 —Ahora —susurró el chico.
 
-Julien cerró el seccionador bipolar que sostenía sobre la mesa.
+Julien bajó la palanca del interruptor que tenía sobre la mesa.
 
 El estallido fue instantáneo y atronador. Un fogonazo azul cobalto iluminó las rendijas de las persianas, acompañado de un chasquido seco similar a un latigazo sónico cuando los condensadores descargaron toda su energía electrostática directamente en el punto de contacto de la palanca de acero.
 
 Un aullido desgarrador de dolor y pánico rasgó la noche en el porche. El hombre que sostenía la barra de hierro salió despedido hacia atrás sobre la terraza de baldosas, con los brazos atenazados por el espasmo neuromuscular y la ropa humeante por el fogonazo.
 
-Antes de que el segundo maleante pudiera reaccionar, Marie empujó la persiana metálica interior diez centímetros hacia arriba, asomó el doble cañón pavonado de la escopeta y encendió de golpe la linterna halógena de mil lúmenes directamente a los ojos del hombre que retrocedía.
+Antes de que el segundo maleante pudiera reaccionar, Marie empujó la persiana metálica interior hacia arriba, asomó el cañón pavonado de la escopeta y encendió de golpe la linterna halógena apuntando de lleno a los ojos del hombre que retrocedía.
 
-—¡Atrás! —gritó Marie con una voz que no admitía réplica, un rugido de madre que heló el aire húmedo del jardín—. ¡La valla entera está electrificada a alta tensión! ¡El próximo no será una descarga, será una bala de posta en el pecho! ¡Fuera de mi propiedad!
+—*Reculez ! Dégagez de là tout de suite !* —bramó Marie con una ferocidad visceral que heló el aire húmedo del jardín.
 
-El haz de luz cegador perforó las pupilas del segundo asaltante, revelando un rostro demacrado cubierto con un pasamontañas a medio subir. Vio el destello acerado del calibre doce apuntando a su esternón; escuchó los gemidos de su compañero en el suelo, que se revolvía sujetándose las manos abrasadas sin soltar blasfemias histéricas; y observó los cables gruesos que salían de las paredes hacia el suelo como si la casa fuera un nido de trampas industriales.
+Les gritó en un francés furibundo y tajante que no admitía réplica. No hacía falta traducir palabra por palabra para captar el mensaje: les estaba advirtiendo de que toda la instalación exterior estaba cargada con alta tensión y de que, si daban un solo paso más hacia el porche, la siguiente descarga no saldría de los cables, sino de un cartucho de postas de caza mayor directo al pecho.
 
-—¡Merde, merde, están armados, vámonos! —gritó el que vigilaba desde la esquina, saliendo a la carrera hacia la verja exterior.
+El haz cegador perforó las pupilas del asaltante, revelando un rostro demacrado bajo un pasamontañas a medio subir. Vio el cañón inmóvil apuntando a su esternón; escuchó los alaridos de su cómplice en el suelo, que se revolvía sujetándose las manos abrasadas entre maldiciones histéricas; y vio la maraña de cables gruesos que salía del umbral como si la vivienda entera estuviera minada.
+
+—*Merde, merde, elle est folle, ils ont des fusils !* —gritó el que vigilaba desde la esquina del garaje, saliendo a la carrera hacia la verja exterior.
 
 El segundo recogió al herido del suelo por las axilas y, entre trompicones y maldiciones aterradas, huyeron a través del seto hacia la oscuridad de la carretera ribereña, perdiéndose en dirección a la frontera.
 
 Marie mantuvo el arma apuntada hacia el jardín durante dos largos minutos, con la respiración entrecortada y el cañón firme como una roca. Cuando el eco de sus pasos se extinguió del todo bajo la lluvia, bajó la persiana despacio y trancó los pestillos de seguridad.
 
-Se dio la vuelta. Chloé lloraba en silencio abrazando a Émilie, pero la pequeña ya no temblaba. Julien permanecía junto al seccionador eléctrico, con las manos apoyadas en la mesa, respirando hondo pero con la mirada brillante de una templanza madura que acababa de nacer en esa misma hora.
+Se dio la vuelta. Chloé lloraba en silencio abrazando a Émilie, pero la pequeña ya no temblaba. Julien permanecía junto a la mesa de trabajo, respirando hondo pero con la mirada brillante de una templanza madura que acababa de nacer en esa misma hora.
 
 Marie bajó la escopeta, puso el seguro y se acercó a su hijo. Le tomó la cara entre las manos temblorosas y le besó la frente.
 
@@ -80,9 +82,9 @@ Marie bajó la escopeta, puso el seguro y se acercó a su hijo. Le tomó la cara
 
 El muchacho asintió lentamente, mirando los cables tendidos en el piso:
 
-—Papá siempre dice que la física no negocia con nadie, mamá. Solo hemos aplicado la ley de Ohm en el momento oportuno.
+—Papá siempre dice que con los voltios no se juega —respondió Julien encogiéndose de hombros, con una media sonrisa de alivio asomándole al rostro—. Solo he usado lo que él tiene en el taller. Menudo susto se han llevado esos idiotas.
 
-Marie abrazó a sus tres hijos en el centro del salón oscuro. Afuera, en la cuenca del lago, sonó a lo lejos una ráfaga de fusil militar. La noche del 11 de octubre era joven, pero en la casa de Jean-Luc Girard la disciplina y el coraje habían levantado un muro inexpugnable.
+Marie abrazó a sus tres hijos en el centro del salón oscuro. Afuera, en la cuenca del lago, volvió a cruzarse el destello azul de una patrullera policial cortando la niebla. La noche del 11 de octubre aún era larga, pero en la casa de Jean-Luc Girard el temple y el ingenio habían levantado un muro inexpugnable.
 
 ---
 

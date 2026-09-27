@@ -15,12 +15,12 @@
 - **Punto de Vista (POV):** Marie Girard y Julien Girard (17 años).
 - **Conflicto:** Proteger a la familia en un entorno suburbano aislado tras el colapso por saturación de las redes de emergencia y la declaración del *Notrecht* (estado de excepción).
 - **Acción:**
-  - Tras la comparecencia de Ramos, el Consejo Federal suizo declara el estado de necesidad; clases suspendidas, ejército custodiando subestaciones y silos de reserva, racionamiento en supermercados.
-  - La red telefónica y móvil de Ginebra colapsa por congestión de tráfico; la familia de Girard queda incomunicada. Julien explica racionalmente la saturación térmica de los conmutadores.
-  - Tres merodeadores armados con barras de hierro aprovechan el desamparo policial para forzar la entrada trasera del chalet familiar junto al lago Lemán.
-  - Marie arma la escopeta Browning calibre 12 pero Julien propone una defensa técnica no letal disuasoria: deriva la toma trifásica de 380 V del compresor a través del banco de condensadores de arranque de la caldera hacia el marco de aluminio de la puerta corredera.
-  - Al forzar la palanca, se produce una descarga electrostática masiva de 7 julios con un arco voltaico deslumbrante que aturde y quema las manos del asaltante.
-  - Marie y Julien activan los focos halógenos de obra y Marie encara a los atacantes con la escopeta y voz férrea; los maleantes huyen despavoridos en la niebla. El hogar queda defendido.
+  - Tras la comparecencia de Ramos, el Consejo Federal suizo declara el estado de necesidad; clases suspendidas, policía y ejército custodiando subestaciones y silos de reserva. En supermercados el abastecimiento es normal pero con acceso escalonado y control policial de aforo.
+  - La red telefónica y móvil de Ginebra colapsa por congestión masiva de tráfico; la familia de Girard queda incomunicada. Julien deduce con madurez práctica que la centralita simplemente está saturada.
+  - Tres maleantes locales aprovechan la concentración policial en nudos estratégicos para forzar la entrada trasera del chalet familiar junto al lago Lemán.
+  - Marie arma la escopeta Browning calibre 12 pero Julien propone una defensa disuasoria: empalma la toma de fuerza del compresor al marco de aluminio de la puerta corredera mediante los condensadores de la caldera.
+  - Al forzar la palanca, salta una descarga y un estallido sónico que repele al asaltante quemándole las manos.
+  - Marie y Julien activan los focos y Marie encara a los atacantes enérgicamente en francés (*«Reculez ! Dégagez de là tout de suite !»*), advirtiéndoles que la casa está fortificada y que el siguiente tiro será mortal; los maleantes huyen aterrados hacia la frontera. El hogar queda a salvo gracias al ingenio de Julien y el coraje de Marie.
 
 ---
 
