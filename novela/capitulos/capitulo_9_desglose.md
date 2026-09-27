@@ -43,12 +43,12 @@
 - **Tiempo:** 12 de octubre de 2026, 22:45 PDT. Faltan 40 días para Fase 1.
 - **Ubicación:** Apartamento 4-B en Market Street, San Francisco, California, EE.UU.
 - **Punto de Vista (POV):** Maya Lin.
-- **Conflicto:** La lucha desgarradora contra el síndrome de abstinencia y el terror existencial ante el inminente apocalipsis en una ciudad bajo ley marcial.
+- **Conflicto:** La lucha desgarradora contra el síndrome de abstinencia y la angustia ante la perspectiva de semanas de apagón, aislamiento y rigidez civil sola con su hijo en una ciudad bajo toque de queda.
 - **Acción:**
-  - San Francisco bajo toque de queda de la Guardia Nacional; helicópteros *Black Hawk* barriendo las calles con reflectores, patrullas blindadas y sirenas continuas. Supermercados saqueados y farmacias tapiadas.
-  - Maya lleva catorce meses sobria, pero el pánico al fin del mundo desata un ataque feroz de ansiedad física y mental.
-  - Con su hijo Toby (4 años) dormido en el sofá, Maya cede momentáneamente a la desesperación: coge un billete de 50 dólares y el viejo número de su camello Dex y baja a escondidas por la escalera de incendios hacia el callejón.
-  - En el callejón de Stevenson St. presencia violencia despiadada (pelea a cuchillo por comida) y tropas federales armadas con fusiles M4 aplicando detenciones sumarias. No hay consuelo ni evasión posible allí.
-  - En medio del caos, resuena en su memoria la voz de su hermana Sarah recordándole que Toby y ella la necesitan viva y exigiéndole que no se rinda.
-  - Horrorizada por haber estado a punto de abandonar a su hijo, Maya arroja el dinero y el papel al fango y huye de regreso a su apartamento.
-  - Atranca la puerta, sufre una catarsis liberadora en llanto y se funde en un abrazo indestructible con el pequeño Toby cuando este despierta asustado, prometiéndole protegerlo siempre y aguardar el regreso victorioso de Sarah.
+  - San Francisco bajo toque de queda preventivo de la Guardia Nacional; helicópteros, patrullas blindadas y comercios protegidos con tablones. La versión oficial insiste en que la tormenta solar será transitoria y la nación aguantará el tirón hasta restablecer la normalidad.
+  - Maya lleva catorce meses sobria, pero el temor al aislamiento prolongado y a la zozobra generalizada desata un ataque feroz de ansiedad física y mental.
+  - Con su hijo Toby (4 años) dormido en el sofá, Maya cede momentáneamente a la tentación de evasión: coge un billete de 50 dólares y el viejo número de su camello Dex y baja a escondidas por la escalera de incendios hacia el callejón.
+  - En el callejón de Stevenson St. presencia la crudeza de la noche (forcejeos y patrullas militares haciendo cumplir el toque de queda). No hay consuelo ni evasión posible allí.
+  - En medio del desasosiego, resuena en su memoria la voz de su hermana Sarah recordándole que Toby y ella la necesitan viva y exigiéndole que no se rinda.
+  - Horrorizada por haber estado a punto de traicionar su sobriedad y a su hijo, Maya arroja el dinero y el papel al fango y regresa a toda prisa a su apartamento.
+  - Atranca la puerta, sufre una catarsis liberadora en llanto y se funde en un abrazo indestructible con el pequeño Toby cuando este despierta asustado, prometiéndole protegerlo siempre y resistir juntas hasta que todo vuelva a la normalidad.

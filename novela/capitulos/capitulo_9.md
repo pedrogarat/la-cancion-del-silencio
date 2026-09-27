@@ -64,7 +64,7 @@ Antes de que el segundo maleante pudiera reaccionar, Marie empujó la persiana m
 
 —*Reculez ! Dégagez de là tout de suite !* —bramó Marie con una ferocidad visceral que heló el aire húmedo del jardín.
 
-Les gritó en un francés furibundo y tajante que no admitía réplica. No hacía falta traducir palabra por palabra para captar el mensaje: les estaba advirtiendo de que toda la instalación exterior estaba cargada con alta tensión y de que, si daban un solo paso más hacia el porche, la siguiente descarga no saldría de los cables, sino de un cartucho de postas de caza mayor directo al pecho.
+Les gritó en un francés furibundo y tajante advirtiéndoles de que toda la instalación exterior estaba cargada con alta tensión y de que, si daban un solo paso más hacia el porche, la siguiente descarga no saldría de los cables, sino de un cartucho de postas de caza mayor directo al pecho.
 
 El haz cegador perforó las pupilas del asaltante, revelando un rostro demacrado bajo un pasamontañas a medio subir. Vio el cañón inmóvil apuntando a su esternón; escuchó los alaridos de su cómplice en el suelo, que se revolvía sujetándose las manos abrasadas entre maldiciones histéricas; y vio la maraña de cables gruesos que salía del umbral como si la vivienda entera estuviera minada.
 
@@ -164,13 +164,13 @@ Temblores incontrolables le sacudían los brazos. Sudor frío le empapaba la nuc
 
 Catorce meses limpia. Cuatrocientos veintiséis días contando cada amanecer, asistiendo a las reuniones de apoyo en el sótano de la parroquia de Mission District, limpiando mesas en la cafetería, mirando la carita pecosa de su hijo Toby para recordarse a sí misma que valía la pena vivir sobria.
 
-Y ahora, el mundo se acababa.
+Y ahora, esta pesadilla de incertidumbre.
 
-Desde la rueda de prensa de la ONU dos días atrás, la ciudad se había desmoronado como un castillo de naipes húmedos. Las escuelas infantiles habían cerrado las verjas con candados militares; los supermercados Safeway habían sido saqueados en las primeras cuarenta y ocho horas y ahora permanecían custodiados por soldados con fusiles automáticos que no dejaban acercarse a nadie; las farmacias de barrio habían tapiado sus escaparates con tablones de contrachapado. En los pasillos del edificio, los vecinos murmuraban entre dientes que el sol iba a quemar la atmósfera, que el gobierno mentía, que no había suficiente comida para todos, que era el fin.
+En los mensajes institucionales y las emisoras de emergencia la consigna era constante: la tormenta solar prevista para finales de noviembre sería histórica y dañina, pero transitoria. El gobierno pedía serenidad, resistencia y disciplina; aseguraban que el país tendría que apretar los dientes durante unos meses difíciles de desconexión eléctrica preventiva y suministros tasados, pero que se aguantaría el tirón y, paulatinamente, las redes se restablecerían y la vida volvería a la normalidad. Sin embargo, en los barrios céntricos de San Francisco la tensión se palpaba en cada esquina. Las guarderías habían cerrado por precaución, los comercios tapiaban sus lunas con tablones para evitar robos nocturnos antes de que empezara el toque de queda y las patrullas blindadas de la Guardia Nacional recorrían Market Street para impedir altercados. No era el fin del mundo, pero la perspectiva de afrontar semanas enteras de apagón, aislamiento y rigidez civil pesaba como una losa de plomo sobre los hombros de cualquiera.
 
-El terror absoluto no era un concepto abstracto; para Maya era un martillo neumático golpeando la base de su cráneo, exigiendo apagarse.
+Para Maya, esa carga era un martillo neumático golpeando la base de su cráneo. El miedo a verse sola con su hijo en medio de una ciudad a oscuras, sin trabajo, sin apoyos presenciales y con las sirenas rasgando la niebla, amenazaba con devorar su sobriedad.
 
-*Solo una dosis*, le susurraba una voz ponzoñosa y familiar desde el fondo de sus vísceras. *Solo un gramo para no sentir este pánico. ¿Qué importa estar limpia si dentro de un mes el cielo va a arder? Si todo se va al diablo, ¿por qué tienes que sufrirlo despierta? Solo esta noche... para dormir.*
+*Solo una dosis*, le susurraba una voz ponzoñosa y familiar desde el fondo de sus vísceras. *Solo un poco para apagar esta angustia. ¿Cómo vas a aguantar semanas enteras encerrada a oscuras con el niño sin perder los nervios? Solo esta noche... para dormir.*
 
 Maya se puso en pie de golpe, respirando con bocanadas cortas y ahogadas. Salió al salón en penumbra.
 
@@ -180,25 +180,25 @@ Maya abrió el cajón del aparador con manos convulsas. Debajo de un fajo de fac
 
 Se puso la cazadora vaquera por encima del pijama. Abrió la puerta del apartamento con un sigilo enfermizo, dejando la rendija encajada para no hacer ruido con el pestillo.
 
-*Bajo a la esquina del callejón*, se engañó a sí misma con la lógica desesperada y retorcida del adicto. *Solo voy a ver si Dex sigue allí. Si está allí, compro algo y lo guardo en el bolsillo. Por si la ansiedad me mata. Por si las bombas empiezan a caer. No tengo por qué usarlo ahora. Solo quiero tenerlo... por si acaso.*
+*Bajo a la esquina del callejón*, se engañó a sí misma con la lógica desesperada y retorcida del adicto. *Solo voy a ver si Dex sigue por allí. Si está allí, compro algo y lo guardo en el bolsillo. Por si la ansiedad se vuelve inaguantable cuando corten la luz. No tengo por qué usarlo ahora. Solo quiero tenerlo... por si me desborda el pánico.*
 
-Bajó los cuatro tramos de la escalera de incendios lateral envuelta en la neblina helada de la bahía. El aire olía a gas lacrimógeno residual y a basura quemada.
+Bajó los cuatro tramos de la escalera de incendios lateral envuelta en la neblina helada de la bahía. El aire olía a humedad, a tubo de escape y a basura húmeda.
 
-Al llegar al callejón posterior que comunicaba con Stevenson Street, la realidad del caos civil la golpeó en el rostro como un cubo de agua helada.
+Al llegar al callejón posterior que comunicaba con Stevenson Street, la cruda realidad del dispositivo de seguridad la golpeó en el rostro como un cubo de agua helada.
 
 El callejón estaba sumido en una penumbra siniestra. Dos farolas parpadeaban con un zumbido agónico antes de apagarse. Al fondo, junto a los contenedores volcados, tres sombras forcejeaban entre empujones y jadeos por una mochila de repartidor. Uno de ellos esgrimía un cuchillo de cocina cuyo filo relampagueó bajo el reflejo lejano de una sirena roja.
 
-—¡Dame eso, hijo de puta, suéltalo! —aulló uno de ellos antes de derribar al otro contra los ladrillos.
+—¡Dame eso, suéltalo de una vez! —aulló uno de ellos antes de derribar al otro contra los ladrillos.
 
 Más allá, en la boca del callejón hacia la calle 6th, una patrulla militar avanzaba lentamente. Cuatro soldados con cascos de kevlar, máscaras antigás y fusiles M4 apuntaban hacia los portales, ordenando por un megáfono ronco:
 
-—*Toque de queda en vigor. Todo ciudadano no autorizado en la vía pública será detenido de inmediato bajo jurisdicción federal. Despejen las calles.*
+—*Toque de queda en vigor. Todo ciudadano no autorizado en la vía pública debe regresar de inmediato a sus domicilios. Despejen las calles.*
 
 Maya se pegó contra el muro húmedo de ladrillo, con el corazón martilleándole en la garganta hasta el punto de la asfixia.
 
-El Tenderloin no era un mercado negro accesible; era una trampa mortal de violencia ciega y represión marcial. Los puntos habituales de droga estaban desmantelados, los camellos habían huido o se atrincheraban armados en sus madrigueras protegiendo sus propias vidas. No había escape. No había alivio químico esperándola en la esquina. Solo había barro, miseria, culatazos de fusil y muerte gratuita en un callejón infecto.
+El Tenderloin no ofrecía ningún refugio ni alivio; era una ratonera vigilada por patrullas armadas y tipos desesperados por sacar tajada del desorden. Los puntos habituales de droga estaban desmantelados y nadie iba a regalarle calma. No había escapatoria fácil esperándola en la esquina. Solo había frío, barro, riesgo de detención militar y una humillación evitable en un callejón infecto.
 
-Y entonces, en medio del estruendo de un disparo lejano que quebró la noche en Market Street, una imagen atravesó su mente como un relámpago cegador:
+Y entonces, en medio del eco de las sirenas que cruzaban Market Street, una imagen atravesó su mente como un relámpago cegador:
 
 La voz de su hermana Sarah sonando desde la terminal satelital de la ONU cuarenta y ocho horas antes:  
 *«Toby te necesita viva... y yo también te necesito viva. Te juro por mi vida que voy a sacarte de esta. Pero tienes que aguantar... Prométemelo, Maya. Prométeme que no te rendirás».*
@@ -207,15 +207,15 @@ Maya miró el billete arrugado de cincuenta dólares que apretaba en su puño te
 
 ¿Qué demonios estaba haciendo?
 
-¿Iba a dejar a Toby solo en una cama del cuarto piso, a merced de saqueadores, incendios o patrullas militares, por una papelina de mierda que no duraría ni tres horas? ¿Iba a tirar a la basura catorce meses de dignidad y el juramento que le había hecho entre lágrimas a su hermana mayor, la única persona que había creído en ella cuando todos la daban por muerta?
+¿Iba a dejar a Toby solo en una cama del cuarto piso, a merced de patrullas militares o ladrones de paso, por una dosis miserable que solo le duraría unas horas? ¿Iba a tirar a la basura catorce meses de dignidad y el juramento que le había hecho entre lágrimas a su hermana mayor, la única persona que había creído en ella cuando todos la daban por perdida?
 
 Un sollozo desgarrador le subió por el pecho.
 
-—Dios mío... Dios mío, perdóname —gimió en la penumbra.
+—Dios mío... perdóname —gimió en la penumbra.
 
 Arrojó el papel con el número de teléfono y el billete a un charco cenagoso y dio media vuelta.
 
-Subió los cuatro tramos de la escalera de incendios a toda velocidad, casi sin aire en los pulmones, tropezando con los peldaños de hierro, empujada por un pánico infinitamente mayor que el síndrome de abstinencia: el pánico de haber estado a punto de perder su propia alma.
+Subió los cuatro tramos de la escalera de incendios a toda velocidad, casi sin aire en los pulmones, tropezando con los peldaños de hierro, empujada por un pánico infinitamente mayor que el síndrome de abstinencia: el pánico de haber estado a punto de traicionarse a sí misma y a su hijo.
 
 Entró en el apartamento, cerró la puerta de un golpe sordo, pasó los tres cerrojos de seguridad y colocó la cuña metálica bajo el pomo.
 
@@ -227,7 +227,7 @@ Unos piececitos descalzos sonaron sobre el parqué del pasillo.
 
 Maya levantó la cabeza despacio, secándose las lágrimas con la manga de la cazadora.
 
-Toby estaba de pie en la penumbra del pasillo, frotándose los ojos con el puño cerrado y arrastrando su mantita azul. La miraba con esa ternura inocente que ignora la maldad del universo y los decretos de los imperios.
+Toby estaba de pie en la penumbra del pasillo, frotándose los ojos con el puño cerrado y arrastrando su mantita azul. La miraba con esa ternura inocente que ignora las crisis políticas y las zozobras del mundo adulto.
 
 —Mamá... he tenido un sueño feo. Hacía mucho ruido fuera.
 
@@ -239,8 +239,6 @@ Toby apoyó la cabeza en el hombro de su madre, rodeándole el cuello con sus br
 
 —¿Nos cuidará la tía Sarah?
 
-Maya cerró los ojos, sintiendo el latido regular del corazón de su hijo contra su pecho. A través de la ventana, el cielo de San Francisco seguía surcado por los haces de los helicópteros de guerra y el eco de un mundo que se precipitaba hacia el abismo.
+Maya cerró los ojos, sintiendo el latido regular del corazón de su hijo contra su pecho. A través de la ventana, las luces intermitentes de los vehículos de emergencia seguían barriendo Market Street y el zumbido de la ciudad en vigilia se filtraba por las rendijas. Sabía que venían meses duros, semanas complejas de apagón y disciplina, pero la tormenta interior se había extinguido por completo.
 
-Pero en aquella habitación en sombras, la tormenta interior se había extinguido.
-
-—Sí, mi amor —respondió Maya, sonriendo entre las lágrimas con la convicción indestructible de quien ha vencido a sus propios demonios—. La tía Sarah nos está cuidando a todos. Y nosotras vamos a estar esperándola cuando regrese.
+—Sí, mi amor —respondió Maya, sonriendo entre las lágrimas con la convicción indestructible de quien ha vencido a sus propios demonios—. La tía Sarah nos está cuidando a todos. Y nosotras vamos a resistir aquí firmes, esperándola para cuando todo vuelva a la normalidad.
