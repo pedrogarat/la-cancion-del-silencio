@@ -242,3 +242,44 @@ Toby apoyó la cabeza en el hombro de su madre, rodeándole el cuello con sus br
 Maya cerró los ojos, sintiendo el latido regular del corazón de su hijo contra su pecho. A través de la ventana, las luces intermitentes de los vehículos de emergencia seguían barriendo Market Street y el zumbido de la ciudad en vigilia se filtraba por las rendijas. Sabía que venían meses duros, semanas complejas de apagón y disciplina, pero la tormenta interior se había extinguido por completo.
 
 —Sí, mi amor —respondió Maya, sonriendo entre las lágrimas con la convicción indestructible de quien ha vencido a sus propios demonios—. La tía Sarah nos está cuidando a todos. Y nosotras vamos a resistir aquí firmes, esperándola para cuando todo vuelva a la normalidad.
+
+---
+
+### 📍 IV. El Pulso de la Costumbre
+*Sede de la ONU (Manhattan), Versoix, Suffolk y San Francisco — 14 y 15 de octubre de 2026*  
+*Cuenta atrás: Faltan 37 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC)*
+
+El ser humano posee una facultad biológica tan asombrosa como misericordiosa: la incapacidad congénita de sostener el terror en su punto álgido de forma indefinida.
+
+El pánico absoluto es una tormenta química insostenible para el organismo. La adrenalina satura los receptores sinápticos, la vigilia perpetua quiebra el músculo cardíaco y el instinto termina por exigir una tregua, aunque sea bajo la sombra de la mayor catástrofe jamás anunciada. Al cabo de cuarenta y ocho horas, la marea del espanto inicial comenzó a remitir por puro agotamiento metabólico. El instinto de conservación no se manifiesta únicamente en la huida o la barricada, sino en la necesidad casi animal de reconstruir una rutina sobre los escombros de la incertidumbre.
+
+La humanidad entera ignoraba la verdad colosal y aterradora que acechaba en el punto de Lagrange L1. Nadie en los bloques residenciales de San Francisco, en los caseríos de Suffolk ni en los chalets de Versoix sospechaba la existencia de una superestructura hostil estrangulando el campo magnético del planeta. Para ocho mil millones de personas, el peligro seguía siendo el que Vassily Ramos había dibujado en las pantallas del mundo: una anomalía solar sin precedentes, un golpe brutal de la física estelar contra los tendidos eléctricos. Y contra una tormenta de la naturaleza no se conspira ni se combate; se resiste. En esa ignorancia colectiva, diseñada como un escudo piadoso por un puñado de hombres y mujeres en el subsuelo de Manhattan, la población encontró paradójicamente un suelo firme sobre el que volver a pisar. Si el sacrificio consistía en pasar un invierno severo a oscuras, soportar toques de queda y racionar el combustible para que los transformadores continentales no se fundieran, la civilización estaba dispuesta a pagar el peaje con tal de que, tarde o temprano, la tormenta amainara y la vida recuperara su curso.
+
+Al amanecer del 14 de octubre, la histeria de los primeros días dio paso a una resignada y sosegada disciplina. En las calles de Ginebra y Cambridge, las colas matutinas frente a los supermercados se volvieron silenciosas y ordenadas. Los ciudadanos aguardaban su turno bajo paraguas mojados intercambiando cigarrillos, comentarios sobre el tiempo o consejos prácticos para sellar despensas con cinta aislante. Los soldados con fusiles al hombro en las esquinas dejaron de ser percibidos como heraldos de una guerra inminente y pasaron a ser vistos como guardianes necesarios de la tranquilidad pública. La vida cotidiana aprendió a convivir con el miedo, asimilándolo no como una condena inmediata, sino como una molestia severa y transitoria a la que había que acomodarse.
+
+Ese apaciguamiento psicológico tuvo un efecto técnico inmediato en la infraestructura global. Al cesar el bombardeo enloquecido de millones de ciudadanos marcando números al unísono y tras la intervención de brigadas de ingenieros que reconfiguraron los nodos de conmutación prioritarios, las redes de telecomunicaciones comenzaron a respirar. En apenas treinta y seis horas, la capacidad operativa del tráfico telefónico y de datos se restableció en torno al setenta y cinco por ciento en Europa y Norteamérica. Las líneas fijas recuperaron el tono continuo y los teléfonos móviles volvieron a enlazar llamadas, con retardos y congestiones intermitentes, pero con suficiente estabilidad para tender puentes a través de los continentes.
+
+En el búnker B-4 bajo la sede neoyorquina de las Naciones Unidas, la reapertura de las comunicaciones fue recibida como una inyección de oxígeno puro en medio de una atmósfera asfixiante.
+
+Para Jean-Luc Girard, el timbrazo de la línea fija en su terminal del camarote sonó como un milagro de precisión mecánica. Al otro lado del Atlántico, la voz de Marie llegó limpia, serena y cálida, disipando de golpe la angustia que le atenazaba el pecho desde hacía cuatro días. Luego se puso al aparato su hijo Julien. El muchacho habló con la misma sobriedad aplomada con la que solía revisar los planos en el taller:
+—Todo en orden por aquí, papá. El compresor y los cables funcionaron a la perfección; hubo tres tipos merodeando la primera noche, pero salieron huyendo en cuanto saltó el chispazo y mamá les apuntó con la escopeta y las luces. No han vuelto a asomar la nariz. La policía cantonal patrulla la carretera cada dos horas y tenemos leña y víveres para semanas. Tú concéntrate en tu trabajo.
+
+Jean-Luc cerró los ojos, apretando el auricular con una fuerza que le blanqueó los nudillos, incapaz de contener una lágrima silenciosa de gratitud paterna:
+—Bien hecho, Julien... Muy bien hecho, hijo. Cuiden de la casa. Cuiden los unos de los otros.
+
+A pocos metros, en la sala de análisis orbital, Thomas Wright atendía la llamada satelital procedente de Suffolk. Escuchó de fondo el crujido apacible de los leños en la chimenea de la vieja casona familiar y, de pronto, la risa cantarosa de su sobrino Oliver jugando sobre la alfombra con sus bloques de madera. La voz de su hermano David le transmitió una paz casi rural:
+—Llegamos sin un solo rasguño, Thomas. La pista secundaria que me indicaste nos libró de todos los atascos de la A14. La casa está caliente, el pozo artesiano bombea agua pura y la radio a válvulas que restauraste en el desván sintoniza el servicio mundial de la BBC sin problemas. Aquí no nos falta de nada. Cumple con lo que tengas que hacer allí abajo; nosotros cuidaremos de este rincón de Inglaterra.
+
+Y en el módulo de telecomunicaciones, Sarah Lin sostenía el teléfono con ambas manos, temblando levemente mientras escuchaba la respiración pausada de Maya desde el cuarto piso de Market Street. No hicieron falta explicaciones farragosas sobre la noche del 12 de octubre. Ambas hermanas sabían exactamente lo que había estado en juego.
+—He aguantado, Sarah —susurró Maya con una voz quebrada pero limpia, despojada de todo rencor y de todo artificio—. Pasé miedo, pasé una noche espantosa... pero miré a Toby y me acordé de lo que me prometiste. Sigo limpia. Toby está a mi lado jugando y te manda un beso. Vamos a estar aquí esperándote cuando todo esto pase. Te lo juro.
+
+Sarah apoyó la frente contra el panel acolchado de la cabina, respirando con una hondura que le ensanchó el alma:
+—Gracias, Maya... Gracias por cuidar de él. Y por cuidarte a ti.
+
+Cuando los tres científicos regresaron a la mesa central de la Sala B-4, las miradas que intercambiaron ya no eran las de técnicos desbordados por el peso de una mentira abrumadora. Eran las miradas de seres humanos que habían comprobado que sus anclas en el mundo exterior seguían firmes, que el engaño piadoso estaba funcionando y que la sociedad civil resistiría el tirón.
+
+Sobre sus cabezas, en el reloj digital empotrado en el muro de hormigón armado, los dígitos rojos parpadearon al descontar un minuto más:
+
+*Cuenta atrás para Fase 1: 37 días, 14 horas, 22 minutos.*
+
+El planeta aprendía a vivir con el miedo, confiando ciegamente en que la tormenta pasaría. En el silencio blindado del subsuelo, la verdadera batalla contra la Sombra acababa de comenzar.

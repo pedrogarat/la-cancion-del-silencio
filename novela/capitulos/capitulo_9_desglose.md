@@ -52,3 +52,21 @@
   - En medio del desasosiego, resuena en su memoria la voz de su hermana Sarah recordándole que Toby y ella la necesitan viva y exigiéndole que no se rinda.
   - Horrorizada por haber estado a punto de traicionar su sobriedad y a su hijo, Maya arroja el dinero y el papel al fango y regresa a toda prisa a su apartamento.
   - Atranca la puerta, sufre una catarsis liberadora en llanto y se funde en un abrazo indestructible con el pequeño Toby cuando este despierta asustado, prometiéndole protegerlo siempre y resistir juntas hasta que todo vuelva a la normalidad.
+
+---
+
+## 📍 Escena 4: El Pulso de la Costumbre
+- **Tiempo:** 14 y 15 de octubre de 2026. Faltan 37 días para Fase 1 ($T = 0$, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC).
+- **Ubicación:** Sede de la ONU (Manhattan, Sala B-4), Versoix (Suiza), Suffolk (Reino Unido) y San Francisco (EE.UU.).
+- **Punto de Vista (POV):** Omnisciente reflexivo / Jean-Luc Girard, Thomas Wright y Sarah Lin.
+- **Conflicto:** La asimilación del miedo y la reconstrucción de la rutina civil bajo el engaño protector oficial; el restablecimiento parcial de las telecomunicaciones y la reconexión familiar de los científicos.
+- **Acción:**
+  - Reflexión narrativa y psicológica sobre la imposibilidad biológica de sostener el pánico perpetuo; la rutina y la disciplina cotidiana como diques naturales frente a la incertidumbre.
+  - La tapadera del "Súper Evento Carrington" funciona como bálsamo psicológico: la población cree que es un fenómeno natural severo pero transitorio, dispuesta a aguantar el invierno a oscuras para volver a la normalidad.
+  - En Ginebra y Cambridge las colas de abastecimiento se ordenan y la presencia policial/militar se asimila con sobriedad cívica.
+  - Tras remitir las llamadas compulsivas y actuar los ingenieros de enlace, las telecomunicaciones se restablecen al 75% en Europa y Norteamérica.
+  - Llamadas clave a la Sala B-4:
+    - Marie y Julien contactan a Jean-Luc: Julien reporta la defensa exitosa del chalet y la tranquilidad recuperada; Jean-Luc se emociona con orgullo paterno.
+    - David contacta a Thomas: la casona de Suffolk es un refugio cálido con pozo, leña, Oliver jugando feliz y la radio de válvulas funcionando.
+    - Maya contacta a Sarah: le confirma que resistió la crisis, sigue limpia junto a Toby y le promete esperarla firme hasta el final.
+  - Con sus anclas familiares aseguradas y el mundo civil resistiendo en orden, los científicos contemplan el cronómetro de la Sala B-4 (faltan 37 días para el 21 de noviembre) dispuestos a librar la verdadera batalla contra la Sombra.
