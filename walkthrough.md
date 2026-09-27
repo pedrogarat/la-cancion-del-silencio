@@ -12,7 +12,7 @@
   * **La Caída del Escudo y el Gran Caos:** Al desplegarse la telaraña en L1 y anularse la magnetosfera, el secreto estalla públicamente: hecatombe de satélites, auroras fantasma, caos social e histeria colectiva en una ventana límite de 6 a 8 meses.
   * **La Misión Analógica y el Quench:** Vuelo del doble módulo (MRD + MAA), Muro de Lorentz a 10.000 km, inyección de caos cuántico vía Máser y colapso térmico de los superconductores enemigos.
 - **Fuente Técnica:** Sincronizada en [notas_cientificas.md](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/novela/notas_cientificas.md) y exportada a PDF editorial de alta fidelidad en [Notas_Cientificas_La_Cancion_del_Silencio.pdf](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/Notas_Cientificas_La_Cancion_del_Silencio.pdf) (y copia en `novela/`) mediante [generar_notas_cientificas_pdf.py](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/generar_notas_cientificas_pdf.py).
-- **Capítulos redactados:** 7 completos:
+- **Capítulos redactados:** 9 completos:
   * **Capítulo 1:** *El Amanecer de Alamogordo* (3.007 palabras, Acto I).
   * **Capítulo 2:** *Los Tres Hilos del Ilusionista* (2.833 palabras, Acto I).
   * **Capítulo 3:** *La Sala Dos* (6.328 palabras, Acto I / Acto II: Demostración cuántica de SIA, crisis existencial y revelación del ataque a la geodinamo).
@@ -21,6 +21,7 @@
   * **Capítulo 6:** *La Cámara del Silencio* (4.500 palabras, Acto II: Sesión extraordinaria secreta del Consejo de Seguridad de la ONU, confrontación por satélites militares, cronómetro de extinción T=0 a T+3 años y presentación de la misión analógica L1 con efecto Quench).
   * **Capítulo 7:** *La Condición Immedible* (4.100 palabras, Acto II: Salto de 10 días, almuerzo íntimo de Sarah y Thomas en Manhattan, llegada conmovida de Girard por sus hijos, reunión confidencial en la Sala B-4 con Vassily Ramos, selección de los 6 astronautas, desconfianza hacia Pleh y rumores de movilización exterior).
   * **Capítulo 8:** *La Gran Mentira* (4.400 palabras, Acto II: Transgresión de Alfa Cero por Girard para alertar a Marie; comparecencia global de Ramos anunciando el falso "Súper Evento Carrington" del 21 de noviembre a las 05:30 UTC y ley marcial energética; dolor moral de Ramos en el descenso a B-4; llamadas familiares de Girard a Julien y de Wright a su hermano David; confesión, reconciliación y llanto de Sarah con su hermana Maya; primer beso entre Thomas y Sarah en la sala de servidores; primer impacto de la histeria global y bolsas colapsadas bajo la mirada de Pleh).
+  * **Capítulo 9:** *La Fractura del Orden* (4.300 palabras, Acto II: Días 11 y 12 de octubre de 2026. Estados de excepción globales, colegios suspendidos, sectores primarios y distribución bajo estricto control militar; sensación de inseguridad y oportunismo criminal. 1) Versoix: asedio e intento de allanamiento repelido con coraje y astucia técnica por Marie y Julien mediante una trampa electrostática capacitiva. 2) Suffolk: odisea de David Wright, Claire y Oliver por vías rurales esquivando tiroteos y saqueos en la A14 hasta refugiarse seguros en la casa de campo. 3) San Francisco: Maya Lin batallando contra el síndrome de abstinencia, tentando la recaída en un callejón violento y recapacitando entre lágrimas para abrazar a su hijo Toby y protegerlo).
 - **PDFs Disponibles (Sincronizados en raíz y novela/):**
   * `Capitulo_1_El_Amanecer_de_Alamogordo.pdf`
   * `Capitulo_2_Los_Tres_Hilos_del_Ilusionista.pdf`
@@ -30,6 +31,7 @@
   * `Capitulo_6_La_Camara_del_Silencio.pdf`
   * `Capitulo_7_La_Condicion_Immedible.pdf`
   * `Capitulo_8_La_Gran_Mentira.pdf`
+  * `Capitulo_9_La_Fractura_del_Orden.pdf`
   * `Notas_Cientificas_La_Cancion_del_Silencio.pdf`
   * `La_Cancion_del_Silencio_Cronica_L1.pdf`
   * `Informe_Recapitulacion_y_Auditoria_Coherencia.pdf`
