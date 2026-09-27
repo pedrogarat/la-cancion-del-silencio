@@ -120,7 +120,7 @@ Durante las siguientes dos horas, el viaje fue una lección de supervivencia geo
 
 David redujo la marcha a veinte kilómetros por hora en cada control campesino. Bajaba la ventanilla despacio, mostraba las manos abiertas sobre el volante, saludaba con deferencia y explicaba con tono mesurado y acento local que se dirigía a su propiedad familiar en Lavenham con su esposa y su niño pequeño. Al ver a Oliver dormido y comprobar que no transportaban armas a la vista ni una carga desmedida de acaparamiento urbano, los viejos agricultores asentían con adustez y retiraban una vara de madera para dejarles pasar.
 
-—Vayan con Dios, caballero —le dijo un anciano de barbas grises en el paso de Hartest, apoyado en un bastón de fresno—. Apúrense a llegar. Dicen en la radio de onda corta que esta noche cortan el suministro eléctrico en toda la red regional para llenar los acumuladores de los cuarteles de Colchester.
+—Vaya con Dios, caballero —le dijo un anciano de barbas grises en el paso de Hartest, apoyado en un bastón de fresno—. Dese prisa en llegar. Dicen en la radio de onda corta que esta noche cortan el suministro eléctrico en toda la red regional para llenar los acumuladores de los cuarteles de Colchester.
 
 A las cinco y diez de la tarde, cuando los últimos reflejos ocres del otoño se apagaban entre los sauces llorones, el Land Rover cruzó el puente de piedra sobre el arroyo y ascendió por el camino de grava privada hasta la cancela de la finca de Suffolk.
 
@@ -241,7 +241,7 @@ Toby apoyó la cabeza en el hombro de su madre, rodeándole el cuello con sus br
 
 Maya cerró los ojos, sintiendo el latido regular del corazón de su hijo contra su pecho. A través de la ventana, las luces intermitentes de los vehículos de emergencia seguían barriendo Market Street y el zumbido de la ciudad en vigilia se filtraba por las rendijas. Sabía que venían meses duros, semanas complejas de apagón y disciplina, pero la tormenta interior se había extinguido por completo.
 
-—Sí, mi amor —respondió Maya, sonriendo entre las lágrimas con la convicción indestructible de quien ha vencido a sus propios demonios—. La tía Sarah nos está cuidando a todos. Y nosotras vamos a resistir aquí firmes, esperándola para cuando todo vuelva a la normalidad.
+—Sí, mi amor —respondió Maya, sonriendo entre las lágrimas con la convicción indestructible de quien ha vencido a sus propios demonios—. La tía Sarah nos está cuidando a todos. Y nosotros vamos a resistir aquí firmes, esperándola para cuando todo vuelva a la normalidad.
 
 ---
 
@@ -265,7 +265,7 @@ Para Jean-Luc Girard, el timbrazo de la línea fija en su terminal del camarote 
 —Todo en orden por aquí, papá. El compresor y los cables funcionaron a la perfección; hubo tres tipos merodeando la primera noche, pero salieron huyendo en cuanto saltó el chispazo y mamá les apuntó con la escopeta y las luces. No han vuelto a asomar la nariz. La policía cantonal patrulla la carretera cada dos horas y tenemos leña y víveres para semanas. Tú concéntrate en tu trabajo.
 
 Jean-Luc cerró los ojos, apretando el auricular con una fuerza que le blanqueó los nudillos, incapaz de contener una lágrima silenciosa de gratitud paterna:
-—Bien hecho, Julien... Muy bien hecho, hijo. Cuiden de la casa. Cuiden los unos de los otros.
+—Bien hecho, Julien... Muy bien hecho, hijo. Cuidad de la casa. Cuidad los unos de los otros.
 
 A pocos metros, en la sala de análisis orbital, Thomas Wright atendía la llamada satelital procedente de Suffolk. Escuchó de fondo el crujido apacible de los leños en la chimenea de la vieja casona familiar y, de pronto, la risa cantarosa de su sobrino Oliver jugando sobre la alfombra con sus bloques de madera. La voz de su hermano David le transmitió una paz casi rural:
 —Llegamos sin un solo rasguño, Thomas. La pista secundaria que me indicaste nos libró de todos los atascos de la A14. La casa está caliente, el pozo artesiano bombea agua pura y la radio a válvulas que restauraste en el desván sintoniza el servicio mundial de la BBC sin problemas. Aquí no nos falta de nada. Cumple con lo que tengas que hacer allí abajo; nosotros cuidaremos de este rincón de Inglaterra.
