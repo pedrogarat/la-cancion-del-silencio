@@ -30,12 +30,12 @@
 - **Punto de Vista (POV):** David Wright y Claire Wright.
 - **Conflicto:** El éxodo familiar desde Cambridge a un refugio seguro a través de autovías bloqueadas por saqueos y violencia civil.
 - **Acción:**
-  - David Wright conduce el Land Rover Defender con su esposa Claire y su hijo Oliver (3 años), cargando bidones de gasóleo, víveres enlatados y mantas.
+  - David Wright conduce el Land Rover Defender con su esposa Claire y su hijo Oliver (3 años), llevando los bidones de combustible y provisiones bien estibados en el maletero tras la rejilla de separación para proteger al pequeño.
   - El gobierno británico aplica la *Civil Contingencies Act*, militariza refinerías y raciona combustible; el pánico vacía los surtidores en horas.
-  - En la rotonda de Kentford (A14), una estación BP arde mientras una turba armada con cadenas intenta reventar los depósitos y se oyen disparos de escopeta.
-  - Siguiendo el consejo estricto de su hermano Thomas, David evita la confrontación, mete la reductora y desvía el vehículo por pistas y vías pecuarias secundarias victorianas.
-  - Sortean barricadas de granjeros locales armados con horcas y rifles; David dialoga con cortesía, acento local y honestidad, logrando paso libre.
-  - Llegan a salvo a la casa de campo familiar en Suffolk (muros de ladrillo del s. XVIII, chimenea maciza, agua pura de pozo artesiano manual y radio a válvulas restaurada por Thomas). Aseguran víveres y leña; la familia queda a salvo en su santuario invernal.
+  - En la rotonda de Kentford (A14), una estación BP arde mientras una turba armada con cadenas intenta forzar los depósitos y se oyen disparos de escopeta.
+  - Siguiendo el consejo de su hermano Thomas, David evita la confrontación, mete la reductora y desvía el vehículo por pistas y vías secundarias victorianas.
+  - Sortean barricadas de granjeros locales armados con horcas y rifles; David dialoga con cortesía y calma campesina, logrando paso libre sin incidentes.
+  - Llegan a salvo a la casa de campo familiar en Suffolk (muros de ladrillo del s. XVIII, chimenea maciza, agua pura de pozo artesiano manual y radio a válvulas restaurada por Thomas). Mantienen la inocencia de Oliver presentándole la estancia como un juego hogareño; la radio anuncia controles de abastecimiento básico en grandes ciudades mientras la familia queda al abrigo del invierno.
 
 ---
 

@@ -96,7 +96,7 @@ El Land Rover Defender verde botella avanzaba en tercera marcha por el arcén de
 
 Al volante, el doctor David Wright mantenía las dos manos aferradas al aro de cuero con los nudillos blancos. Llevaba gafas de montura de carey idénticas a las de su hermano Thomas y su mismo gesto concentrado de navegante que evalúa corrientes invisibles antes de virar el timón.
 
-En el asiento del copiloto, Claire, su esposa, sostenía sobre las rodillas un mapa de carreteras del Instituto Geográfico británico doblado por la comarca de Babergh. En el asiento trasero, sujeto en su sillita de seguridad infantil entre cuatro bidones de plástico de gasóleo de veinte litros y tres cajas de víveres enlatados, su hijo Oliver, de tres años, dormía abrazado a un camión de bomberos de juguete, ajeno al colapso de la civilización industrial que desfilaba tras los cristales tintados.
+En el asiento del copiloto, Claire, su esposa, sostenía sobre las rodillas un mapa de carreteras del Instituto Geográfico británico doblado por la comarca de Babergh. En el asiento trasero, sujeto en su sillita de seguridad infantil con su manta de lana favorita, su hijo Oliver, de tres años, dormía plácidamente abrazado a un camión de bomberos de juguete. En el maletero, tras la rejilla metálica de separación de carga, David había estibado con cinchas cuatro bidones de plástico de gasóleo de veinte litros, varias cajas de víveres enlatados y mantas térmicas, asegurando que ningún vaivén ni olor molestara al pequeño, que permanecía completamente ajeno a la agitación civil que desfilaba tras los cristales tintados.
 
 El primer ministro británico había comparecido la noche anterior para activar la *Civil Contingencies Act*. En Inglaterra, la orden ejecutiva era draconiana: suspensión del calendario escolar, racionamiento estricto de combustibles para uso civil exclusivo de vehículos de emergencia y abastecimiento agrario, y movilización de unidades del regimiento de infantería ligera para sellar los accesos a las refinerías de Essex y los puertos del Canal. Pese a las advertencias oficiales de que el fenómeno de radiación no llegaría hasta finales de noviembre, el pánico colectivo había vaciado los surtidores de Cambridge en cuatro horas.
 
@@ -120,7 +120,7 @@ Durante las siguientes dos horas, el viaje fue una lección de supervivencia geo
 
 David redujo la marcha a veinte kilómetros por hora en cada control campesino. Bajaba la ventanilla despacio, mostraba las manos abiertas sobre el volante, saludaba con deferencia y explicaba con tono mesurado y acento local que se dirigía a su propiedad familiar en Lavenham con su esposa y su niño pequeño. Al ver a Oliver dormido y comprobar que no transportaban armas a la vista ni una carga desmedida de acaparamiento urbano, los viejos agricultores asentían con adustez y retiraban una vara de madera para dejarles pasar.
 
-—Que Dios les guarde, doctor Wright —le dijo un anciano de barbas grises en el paso de Hartest, apoyado en un bastón de fresno—. Apúrense a llegar. Dicen en la radio de onda corta que esta noche cortan el suministro eléctrico en toda la red regional para llenar los acumuladores de los cuarteles de Colchester.
+—Vayan con Dios, caballero —le dijo un anciano de barbas grises en el paso de Hartest, apoyado en un bastón de fresno—. Apúrense a llegar. Dicen en la radio de onda corta que esta noche cortan el suministro eléctrico en toda la red regional para llenar los acumuladores de los cuarteles de Colchester.
 
 A las cinco y diez de la tarde, cuando los últimos reflejos ocres del otoño se apagaban entre los sauces llorones, el Land Rover cruzó el puente de piedra sobre el arroyo y ascendió por el camino de grava privada hasta la cancela de la finca de Suffolk.
 
@@ -134,15 +134,15 @@ Oliver despertó en ese instante, parpadeando con curiosidad ante las ramas de l
 
 Claire rompió a llorar en silencio, apoyando la frente contra el salpicadero mientras David le rodeaba los hombros con el brazo derecho.
 
-—Ya estamos, mi amor —susurró David, besándole el pelo a su mujer antes de volverse hacia su hijo con una sonrisa serena—. Sí, Oliver. Estamos en la casa del tío Thomas. Y aquí nadie va a hacernos daño.
+—Ya estamos, mi amor —susurró David, besándole el pelo a su mujer antes de volverse hacia su hijo con una sonrisa cálida y serena—. Sí, campeón. Ya hemos llegado a la casa del campo del tío Thomas. Vamos a pasar unos días estupendos aquí jugando junto a la chimenea.
 
-Durante la hora siguiente, la familia trabajó con una coordinación implacable. Descargaron los bidones de combustible y los aseguraron en el cobertizo de herramientas, bajo llave y cubiertos con lonas impermeables. Metieron las cajas de conservas, las mantas térmicas, los sacos de legumbres secas y los medicamentos en la despensa interior. David comprobó la bomba manual del pozo artesiano situado en el patio trasero: el émbolo de hierro funcionaba con suavidad y el agua subterránea brotó cristalina, fría y pura, ajena a cualquier colapso de las redes municipales.
+Durante la hora siguiente, la familia trabajó con una coordinación implacable. Descargaron los bidones de combustible del maletero y los aseguraron en el cobertizo de herramientas, bajo llave y cubiertos con lonas impermeables. Metieron las cajas de conservas, las mantas térmicas, los sacos de legumbres secas y los medicamentos en la despensa interior. David comprobó la bomba manual del pozo artesiano situado en el patio trasero: el émbolo de hierro funcionaba con suavidad y el agua subterránea brotó cristalina, fría y pura, ajena a cualquier colapso de las redes municipales.
 
 Cuando la noche cerró por completo sobre los bosques de Suffolk, el fuego de leña de encina ya crepitaba alegremente en el hogar de la chimenea. En la cocina, una cacerola con sopa de verduras humeaba sobre la cocina de hierro fundido.
 
 David subió al pequeño desván del piso superior, donde descansaba el receptor de radio multibanda a válvulas que su hermano Thomas había restaurado años atrás. Puso la frecuencia en la BBC World Service.
 
-A través de la estática de la onda corta, la voz del locutor de Londres llegaba quebrada, anunciando toques de queda en Birmingham, el racionamiento de harina en Mánchester y la confirmación de que los ferrocarriles nacionales operaban bajo mando militar único.
+A través de la estática de la onda corta, la voz del locutor de Londres llegaba quebrada, anunciando toques de queda nocturnos en Birmingham, medidas de control en la distribución de productos de primera necesidad en Mánchester para evitar el acaparamiento y la confirmación de que los ferrocarriles nacionales operaban bajo mando de contingencia.
 
 David apagó el receptor, bajó las escaleras y se sentó en la alfombra junto a la chimenea, donde Oliver jugaba con sus bloques de madera y Claire cosía el dobladillo de una manta.
 
