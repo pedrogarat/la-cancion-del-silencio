@@ -76,6 +76,24 @@
       "location": "Sala de Prensa y Búnker B-4, Sede de la ONU, Nueva York",
       "readTime": "15 min",
       "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 9,
+      "title": "Capítulo 9: La Fractura del Orden",
+      "act": "Acto II: La Caída del Escudo y el Gran Caos",
+      "pov": "Marie y Julien Girard / David y Claire Wright / Maya Lin",
+      "location": "Versoix (Suiza) - Suffolk (Reino Unido) - San Francisco (EE.UU.) - Búnker B-4",
+      "readTime": "16 min",
+      "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 10,
+      "title": "Capítulo 10: T=0",
+      "act": "Acto II: La Caída del Escudo y el Gran Caos",
+      "pov": "Dr. Jean-Luc Girard / Dra. Sarah Lin / Dr. Thomas Wright / Vassily Ramos / Dr. Em Pleh",
+      "location": "Sala de Crisis y Mando Táctico B-4, Sede de la ONU, Nueva York",
+      "readTime": "15 min",
+      "povImage": "img/char_protagonista.png"
     }
   ]
 }
