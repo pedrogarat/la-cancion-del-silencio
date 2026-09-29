@@ -76,22 +76,34 @@ def clean_inline_formatting(text):
     """Limpia markdown inline, elimina emojis y convierte a tags seguros de ReportLab."""
     text = strip_emojis(text)
     
-    # Fórmulas LaTeX específicas
+    # Limpieza general y específica de LaTeX
+    text = text.replace(r"\dots", "…")
+    text = re.sub(r'\\mathbf\{([^}]+)\}', r'<b>\1</b>', text)
+    text = re.sub(r'\\textbf\{([^}]+)\}', r'<b>\1</b>', text)
+    text = re.sub(r'\\textit\{([^}]+)\}', r'<i>\1</i>', text)
+    text = re.sub(r'\\text\{([^}]+)\}', r'\1', text)
     text = text.replace(r"$\vec{F} = I (\vec{L} \times \vec{B})$", "<b>F</b> = I (<b>L</b> × <b>B</b>)")
+    text = re.sub(r'\\vec\{([^}]+)\}', r'<b>\1</b>', text)
     text = text.replace(r"$T=0$", "T = 0").replace(r"$T = 0$", "T = 0")
-    text = text.replace(r"$NO_x$", "NO<sub>x</sub>")
-    text = text.replace(r"$O_3$", "O<sub>3</sub>")
-    text = text.replace(r"$N_2$", "N<sub>2</sub>")
-    text = text.replace(r"$O_2$", "O<sub>2</sub>")
-    text = text.replace(r"$CO_2$", "CO<sub>2</sub>")
-    text = text.replace(r"$T_c, J_c$", "T<sub>c</sub>, J<sub>c</sub>")
+    text = text.replace(r"$NO_x$", "NO<sub>x</sub>").replace(r"NO_x", "NO<sub>x</sub>")
+    text = text.replace(r"$O_3$", "O<sub>3</sub>").replace(r"O_3", "O<sub>3</sub>")
+    text = text.replace(r"$N_2$", "N<sub>2</sub>").replace(r"N_2", "N<sub>2</sub>")
+    text = text.replace(r"$O_2$", "O<sub>2</sub>").replace(r"O_2", "O<sub>2</sub>")
+    text = text.replace(r"$CO_2$", "CO<sub>2</sub>").replace(r"CO_2", "CO<sub>2</sub>")
+    text = text.replace(r"$T_c, J_c$", "T<sub>c</sub>, J<sub>c</sub>").replace(r"T_c, J_c", "T<sub>c</sub>, J<sub>c</sub>")
     text = text.replace(r"$90^\circ$", "90°")
     text = text.replace(r"$100.000 \text{ km}$", "100.000 km")
     text = text.replace(r"$\sim 1 \text{ AL}$", "~1 AL")
     text = text.replace(r"$2^\circ$", "2°")
+    text = re.sub(r'\^\\circ\s*C?', '°C', text)
+    text = text.replace(r'^\circ', '°')
+    text = text.replace(r'\times', '×')
+    text = text.replace(r'\approx', '≈')
+    text = text.replace(r'\to', '→')
+    text = text.replace(r'\sim', '~')
     
-    # Limpiar cualquier otro $...$ remanente
-    text = re.sub(r'\$(.*?)\$', r'<b>\1</b>', text)
+    # Limpiar cualquier $...$ remanente sin dejar el símbolo $
+    text = re.sub(r'\$(.*?)\$', r'\1', text)
     
     # Negritas y cursivas
     text = re.sub(r'\*\*(.*?)\*\*', r'<b>\1</b>', text)

@@ -3,7 +3,7 @@
 ## 📍 Título: La Fractura del Orden
 - **Acto:** Acto II - La Caída del Escudo y el Gran Caos
 - **Fecha Narrativa:** 11 y 12 de octubre de 2026.
-- **Cuenta atrás:** Faltan 41 a 40 días para Fase 1 ($T = 0$, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC).
+- **Cuenta atrás:** Faltan 41 a 40 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC).
 - **Punto de Vista (POV):** Marie Girard y Julien Girard (Versoix, Suiza); David Wright y Claire Wright (Suffolk, Reino Unido); Maya Lin (San Francisco, EE.UU.).
 - **Arco Emocional:** De la sensación inmediata de desamparo civil y el asedio criminal en la periferia europea, pasando por el éxodo tenso y la solidaridad rural en los caminos secundarios británicos, hasta el abismo psicológico de la adicción en una metrópoli militarizada; culminando en la victoria moral del amor materno, la resiliencia familiar y el compromiso indestructible de sobrevivir.
 
@@ -56,7 +56,7 @@
 ---
 
 ## 📍 Escena 4: El Pulso de la Costumbre
-- **Tiempo:** 14 y 15 de octubre de 2026. Faltan 37 días para Fase 1 ($T = 0$, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC).
+- **Tiempo:** 14 y 15 de octubre de 2026. Faltan 37 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC).
 - **Ubicación:** Sede de la ONU (Manhattan, Sala B-4), Versoix (Suiza), Suffolk (Reino Unido) y San Francisco (EE.UU.).
 - **Punto de Vista (POV):** Omnisciente reflexivo / Jean-Luc Girard, Thomas Wright y Sarah Lin.
 - **Conflicto:** La asimilación del miedo y la reconstrucción de la rutina civil bajo el engaño protector oficial; el restablecimiento parcial de las telecomunicaciones y la reconexión familiar de los científicos.

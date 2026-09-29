@@ -3,7 +3,7 @@
 ## 📍 Título: La Gran Mentira
 - **Acto:** Acto II - La Caída del Escudo y el Gran Caos
 - **Fecha Narrativa:** 10 de octubre de 2026.
-- **Cuenta atrás:** Faltan 42 días para Fase 1 ($T = 0$, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC).
+- **Cuenta atrás:** Faltan 42 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC).
 - **Punto de Vista (POV):** Jean-Luc Girard, Vassily Ramos, Thomas Wright, Sarah Lin y Omnisciente táctico.
 - **Arco Emocional:** Del quebrantamiento íntimo del deber científico en una llamada prohibida a la mayor farsa pública jamás pronunciada por un líder mundial; descendiendo a la fractura desgarradora de los lazos familiares en la retaguardia y culminando en el refugio del afecto humano frente al primer oleaje de histeria global.
 

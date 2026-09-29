@@ -81,6 +81,30 @@ def create_quote_box(paragraphs_text, styles, width=A4[0] - 108):
     ]))
     return t
 
+def clean_latex(text):
+    if not text:
+        return ""
+    text = text.replace(r'\dots', '…')
+    text = re.sub(r'\\mathbf\{([^}]+)\}', r'<b>\1</b>', text)
+    text = re.sub(r'\\textbf\{([^}]+)\}', r'<b>\1</b>', text)
+    text = re.sub(r'\\textit\{([^}]+)\}', r'<i>\1</i>', text)
+    text = re.sub(r'\\text\{([^}]+)\}', r'\1', text)
+    text = text.replace(r'\vec{B}', 'B').replace(r'\vec{F}', 'F').replace(r'\vec{L}', 'L')
+    text = re.sub(r'\\vec\{([^}]+)\}', r'\1', text)
+    text = text.replace(r'\approx', '≈')
+    text = text.replace(r'\to', '→')
+    text = text.replace(r'\sim', '~')
+    text = text.replace(r'\times', '×')
+    text = re.sub(r'\^\\circ\s*C?', '°C', text)
+    text = text.replace(r'^\circ', '°')
+    text = text.replace(r'$NO_x$', 'NOx').replace(r'NO_x', 'NOx')
+    text = text.replace(r'$O_3$', 'O₃').replace(r'O_3', 'O₃')
+    text = text.replace(r'$O_2$', 'O₂').replace(r'O_2', 'O₂')
+    text = text.replace(r'$N_2$', 'N₂').replace(r'N_2', 'N₂')
+    text = text.replace(r'$CO_2$', 'CO₂').replace(r'CO_2', 'CO₂')
+    text = text.replace('$', '')
+    return text
+
 def generate_chapter10_pdf(input_md, output_filename):
     doc = SimpleDocTemplate(
         output_filename,
@@ -244,16 +268,7 @@ def generate_chapter10_pdf(input_md, output_filename):
             continue
             
         # Convertir negritas, cursivas y caracteres matemáticos a texto limpio / HTML básico
-        formatted_line = line
-        formatted_line = formatted_line.replace(r'\dots', '...')
-        formatted_line = formatted_line.replace(r'\text{ nT}', ' nT')
-        formatted_line = formatted_line.replace(r'\text{ km/s}', ' km/s')
-        formatted_line = formatted_line.replace(r'\text{ km}', ' km')
-        formatted_line = formatted_line.replace(r'\text{ K}', ' K')
-        formatted_line = formatted_line.replace(r'\vec{B}', 'B')
-        formatted_line = formatted_line.replace(r'\approx', '≈')
-        formatted_line = formatted_line.replace(r'\to', '→')
-        formatted_line = formatted_line.replace('$', '')
+        formatted_line = clean_latex(line)
         
         formatted_line = re.sub(r'\*\*\*(.*?)\*\*\*', r'<b><i>\1</i></b>', formatted_line)
         formatted_line = re.sub(r'\*\*(.*?)\*\*', r'<b>\1</b>', formatted_line)

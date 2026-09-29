@@ -42,19 +42,20 @@ A principios del siglo XXI, el interferómetro gravitacional del Avatar detecta 
 Para evitar el pánico masivo y el colapso social preventivo, el Avatar establece contacto encubierto con un comité secreto de las grandes potencias: **Estados Unidos (NASA/DARPA), China (CNSA), Reino Unido y aliados europeos**. Bajo el **Protocolo Velo**, ingenieros y astrofísicos trabajan en búnkeres subterráneos compartiendo las ecuaciones del Avatar para diseñar el módulo de contraataque analógico mientras la diplomacia pública mantiene la apariencia de normalidad.
 
 ### 📍 Fase 5: Supresión Magnetosférica y el Estallido del Gran Caos
-Al llegar a L1, el cilindro semilla de B despliega una telaraña superconductora de 50 km de diámetro y genera un campo magnético planetario inverso que, por **interferencia destructiva**, anula la magnetosfera terrestre ($T=0$).
+Al llegar a L1, el cilindro semilla de B despliega una telaraña superconductora de 50 km de diámetro y genera un campo magnético planetario inverso que, por **interferencia destructiva**, anula la magnetosfera terrestre (T = 0).
 En ese instante el secreto es insostenible:
 * **Hecatombe orbital:** Caída instantánea de satélites GPS, telecomunicaciones, telecomandos aéreos y redes de sincronización financiera.
 * **Fenómenos atmosféricos:** Brújulas girando descontroladas, desaparición de auroras boreales y aparición de un resplandor fantasmal (*airglow* ionizante).
 * **El Gran Caos Global:** Las potencias se ven forzadas a confesar la verdad en cadena mundial. Se desatan revueltas, saqueos masivos, colapso de bolsas y éxodos desordenados.
-* **La Cuenta Atrás:** Se abre la ventana operativa límite de **6 a 8 meses** antes de que la destrucción del ozono por $NO_x$ y el caos civil destruyan la capacidad industrial para efectuar el lanzamiento espacial de rescate.
+* **La Cuenta Atrás:** Se abre la ventana operativa límite de **6 a 8 meses** antes de que la destrucción del ozono por NOx y el caos civil destruyan la capacidad industrial para efectuar el lanzamiento espacial de rescate.
 
 ### 📍 Cronología Atmosférica de Extinción y Ventana Operativa (6 a 8 Meses)
-1. **$T = 0$ (Silencio Magnético):** Supresión de la magnetosfera. Brújulas inertes. Auroras boreales desaparecen; *airglow* tenue global.
-2. **$T + 24$ a $72$ horas (Colapso Tecnológico Orbital):** La radiación ionizante directa destruye los microchips de satélites en LEO, GEO y MEO. Caída de redes GPS, telecomunicaciones y sincronización bancaria.
-3. **$T + 30$ a $90$ días (Catálisis de $NO_x$):** Los protones solares penetran en la estratosfera, rompiendo $N_2$ y $O_2$ para formar óxidos de nitrógeno. Estos devoran el ozono ($O_3$) a un ritmo del 4% diario. En 3 meses, la capa de ozono queda destruida.
-4. **$T + 6$ meses (Esterilización UV y Colapso Trófico):** La radiación UVC y UVB destruye el fitoplancton oceánico (base de la cadena marina y 50% de $O_2$) y abrasa los cultivos terrestres.
-5. **Ventana Operativa de la SIA (6 a 8 Meses):** Aunque la biosfera tardaría 3 años en morir del todo, a partir del mes 8 el colapso agrícola y la radiación destruyen la capacidad industrial y logística humana para fabricar y lanzar misiones espaciales. La respuesta debe ejecutarse en este plazo.
+1. **T = 0 (Silencio Magnético - 21 nov 2026, 05:30 UTC):** Supresión del dipolo por interferencia en L1 (45.000 nT → 0). Brújulas inertes. Auroras boreales desaparecen; *airglow* tenue global. **Inmunidad inmediata en superficie:** La columna de aire (1.033 g/cm², equivalente a 10 m de agua o 1 m de plomo) frena los protones solares a 80-100 km, evitando muertes radiactivas inmediatas en el suelo y permitiendo sostener la coartada oficial de Carrington.
+2. **T + 24 a 72 horas (Colapso Tecnológico Orbital y Lluvia de Chatarra):** La radiación ionizante directa genera SEU/SEL en microchips. **Dinámica orbital implacable:** Los satélites LEO (a ~7,8 km/s y período de 90 min) no pueden refugiarse en la noche; cruzan a la cara diurna en cada órbita. La termosfera diurna se expande (densidad x50). Pérdida de orientación de *magnetorquers*, *tumbling* masivo y reentrada helicoidal continua escalonada por altitudes (200 km en 12h, 400 km en 48h, 800 km en 72h).
+3. **Asimetría Estacional del 21 de Noviembre (Verano Austral vs. Invierno Boreal):** Con el eje inclinado ~23,4° (punto subsolar a ~20°S), el Hemisferio Sur recibe insolación perpendicular prolongada (14-16 h), formando la "Burbuja Termosférica Meridional" que frena violentamente a los satélites en cada pase sur. El Hemisferio Norte en invierno goza de un amortiguamiento temporal de sol rasante que preserva las factorías subterráneas de Nellis (Nevada) y Sichuan (China).
+4. **T + 30 a 90 días (Catálisis de NOx y Ceguera Austral):** Los protones solares disocian N₂ y O₂ sintetizando óxidos de nitrógeno que devoran el ozono al 4% diario. En el Hemisferio Sur (diciembre-enero), la pérdida del 30-50% del O₃ causa eritemas graves y queratitis actínica (ceguera corneal temporal) en solo 15-20 minutos de exposición diurna, forzando toques de queda diurnos ("sociedad nocturna").
+5. **T + 6 meses (Esterilización UV y Colapso Trófico - 21 mayo 2027):** Con el ozono destruido, la radiación UVC y UVB toca el suelo. La traslación terrestre invierte las estaciones: el Hemisferio Norte entra en su solsticio de verano, abrasando las cosechas continentales y aniquilando el fitoplancton marino (muerte de la cadena trófica y del 50% del O₂ biológico). Exposición mortal cutánea en menos de 3 minutos.
+6. **Ventana Operativa Límite de la SIA (6 a 8 Meses - Límite: 21 julio 2027):** Aunque la biosfera superior tardaría 3 años en extinguirse por completo (noviembre 2029), a partir del mes 8 el hambre masiva y la radiación destruyen la capacidad logística e industrial humana para ensamblar y lanzar cohetes espaciales. La misión L1 debe partir antes de esta fecha.
 
 ---
 
@@ -95,14 +96,14 @@ En ese instante el secreto es insostenible:
 * **Disipación Térmica Anisotrópica:** Redireccionamiento del calor operativo exclusivamente en el vector opuesto a la Tierra.
 
 ### 🧲 Frenado Electrodinámico (*Electrodynamic Tether*) y Muro de Lorentz
-* **Ecuación de Fuerza de Lorentz:** $\vec{F} = I (\vec{L} \times \vec{B})$
+* **Ecuación de Fuerza de Lorentz:** F = I · (L × B)
 * **El Muro de Lorentz (T - 10.000 km de L1):** El colosal campo magnético generado por la máquina enemiga induce corrientes parásitas letales (*Foucault / Lorentz*) en cualquier semiconductor a base de silicio. A menos de 10.000 km, la electrónica digital sufre un fallo masivo instantáneo.
 * **Inmunidad Biológica y Mecánica Analógica:** El cerebro humano (química iónica) y los sistemas mecánicos analógicos (válvulas hidráulicas, giroscopios de bronce, miras ópticas de cuarzo) son inmunes a la saturación electromagnética.
 
 ### 📶 Inyección de Ruido Cuántico y Colapso por Efecto Quench
 * **Física del Contraataque:** La máquina de B depende de un reloj cuántico para mantener sincronizados los millones de filamentos superconductores en fase.
 * **Máser de Ruido Cuántico:** La SIA diseña un algoritmo de caos matemático. La nave humana transmite este algoritmo mediante un pulso de microondas Máser direccional al procesador del cilindro semilla.
-* **Efecto Quench (Superconductividad):** Al recibir la desincronización, el procesador enemigo fuerza un pico de voltaje masivo para corregir el desfase. El exceso de energía supera la temperatura y corriente crítica de los hilos superconductores ($T_c, J_c$). En milisegundos, los filamentos pierden su repelencia magnética, colapsan violentamente chocando entre sí y convierten la energía almacenada en una supernova de plasma térmico, destruyendo la estructura de B.
+* **Efecto Quench (Superconductividad):** Al recibir la desincronización, el procesador enemigo fuerza un pico de voltaje masivo para corregir el desfase. El exceso de energía supera la temperatura y corriente crítica de los hilos superconductores (Tc, Jc). En milisegundos, los filamentos pierden su repelencia magnética, colapsan violentamente chocando entre sí y convierten la energía almacenada en una supernova de plasma térmico, destruyendo la estructura de B.
 
 ---
 
@@ -110,7 +111,7 @@ En ese instante el secreto es insostenible:
 
 | Término Técnico | Definición Corta para la Trama | Aplicación en Diálogos / Narrativa |
 | :--- | :--- | :--- |
-| **Vector de Caída Ciega** | Trayectoria de aproximación a $90^\circ$ de la eclíptica. | "No vino desde Marte o Júpiter; cayó en línea recta sobre el eje polar." |
+| **Vector de Caída Ciega** | Trayectoria de aproximación a 90° de la eclíptica. | "No vino desde Marte o Júpiter; cayó en línea recta sobre el eje polar." |
 | **Letargo Térmico (2.7 K)** | Enfriamiento pasivo a la temperatura del fondo cósmico. | "Para un radar infrarrojo, la sonda no existe: es tan fría como el propio espacio." |
 | **Abismo Sur (100.000 km)** | Zona orbital vacía entre la GEO y la Luna sobre la Antártida. | "A cien mil kilómetros no hay satélites ni basura espacial. Nadie mira allí." |
 | **Punto de Lagrange L1** | Punto de equilibrio gravitacional a 1,5 Mkm entre Tierra y Sol. | "B no ataca la superficie; apuntan al nudo gravitacional L1 para estrangular nuestro escudo solar." |
@@ -121,18 +122,22 @@ En ese instante el secreto es insostenible:
 | **MAA (Módulo Ataque Analógico)** | Nave de choque puramente mecánica e hidráulica guiada por dos humanos. | "El MAA es un submarino de titanio sin un solo microchip. Volamos a ciegas a través de la telaraña." |
 | **Efecto Quench** | Pérdida repentina de superconductividad por sobrecarga térmica/eléctrica. | "El virus de la SIA forzó los condensadores enemigas. El enjambre sufrió un Quench y se fundió en plasma." |
 | **Propulsión NTP** | Motor Térmico Nuclear (fisión de hidrógeno) que reduce el viaje a L1 a 21 días. | "El reactor nuclear nos pone en L1 en tres semanas en lugar de tres meses." |
+| **Escudo de Masa Atmosférico** | Blindaje pasivo de 1.033 g/cm² de aire (equivale a 10 m de agua o 1 m de plomo). | "El viento solar choca a ochenta kilómetros de altura; en la calle nadie cae fulminado en el acto." |
+| **Período de Tránsito Orbital (90 min)** | Tiempo en que un satélite LEO da una vuelta a la Tierra a 7,8 km/s (16 vueltas/día). | "La noche dura treinta minutos en órbita; cada hora y media el satélite vuelve al infierno solar." |
+| **Burbuja Termosférica Meridional** | Hinchamiento asimétrico de la alta atmósfera sobre el hemisferio sur en verano austral. | "El Sol de noviembre pega de lleno en el sur; cada vez que cruzan el paralelo veinte, el aire los frena en seco." |
+| **Queratitis Actínica por UVC** | Daño fotoquímico corneal severo por radiación ultravioleta sin filtro de ozono. | "Veinte minutos bajo el sol de diciembre bastan para quemar la córnea y dejar ciego a un hombre." |
 
 ---
 
 ## 🛠️ 5. Ficha de Entidades y Tecnología Exoplanetaria
 
 ### 🛸 La Sonda Nodriza (*La Sembradora de A*)
-* **Ubicación:** Nube de Oort ($\sim 1 \text{ AL}$, interior de un cometa).
+* **Ubicación:** Nube de Oort (~1 AL, interior de un cometa).
 * **Función:** Archivo central inviolable y relé cuántico de ultra-largo alcance.
 * **Estado:** Inerte a menos que ocurra un evento crítico de nivel atómico/tecnológico.
 
 ### 🛸 El Avatar (*La Unidad de Contacto*)
-* **Ubicación:** $100.000 \text{ km}$ sobre el Polo Sur.
+* **Ubicación:** 100.000 km sobre el Polo Sur.
 * **Masa / Dimensión:** Compacta, optimizada para sigilo y procesamiento.
 * **Capacidad:** Procesador cuántico holográfico, interceptor de espectro completo y emisor de mensajes vectorizados directos al hardware (Baseband Exploit).
 
@@ -180,7 +185,7 @@ Para garantizar la verosimilitud aeroespacial y la supervivencia realista de los
    * Maniobra el MAA a través de los huecos cambiantes de la telaraña de filamentos superconductores (de grosor molecular, letales al contacto) guiándose mediante periscopos de cuarzo.
    * Estabiliza la nave a 300 metros del cilindro semilla central alienígena.
 3. **Ingeniero de Cargas y Sistemas (a bordo del MAA - Artillero y Control de Cabina):**
-   * Controla manualmente los manómetros de presión de $O_2$ y opera la purga de $CO_2$ mediante girado físico de válvulas hacia los filtros de hidróxido de litio.
+   * Controla manualmente los manómetros de presión de O₂ y opera la purga de CO₂ mediante girado físico de válvulas hacia los filtros de hidróxido de litio.
    * Opera los engranajes mecánicos de azimut y elevación del cañón Máser exterior, fijando el objetivo en la mira telescópica cruzada.
    * Ceba los condensadores mecánicos de alto voltaje y presiona el disparador para inyectar el algoritmo de ruido cuántico de la SIA.
 
@@ -190,7 +195,7 @@ Para garantizar la verosimilitud aeroespacial y la supervivencia realista de los
 * **Fase 2: El Muro de Lorentz (T - 10.000 km):** El MAA cruza la barrera magnética. Estallan los monitores digitales y se funde la telemetría. Conmutación a sistemas analógicos.
 * **Fase 3: Infiltración en el Enjambre:** El Comandante pilota a través de los filamentos del *Phased Array* giratorio hasta situarse en el "ojo del huracán" a 300 m del procesador central enemiga.
 * **Fase 4: El Disparo y el Quench Termodinámico:** El Ingeniero alinea el cañón Máser y dispara el haz de ruido cuántico. El cilindro semilla de B entra en pánico analítico, sobrecarga los voltajes para compensar la fase y sufre un **Quench devastador**. Los filamentos pierden superconductividad y colapsan en una supernova silenciosa de plasma, fundiendo el núcleo de B.
-* **Fase 5: Rendezvous y Retorno:** El campo inverso desaparece al instante. El espacio vuelve a estar electromagnéticamente limpio. El Especialista Orbital detecta con LIDAR al MAA, vuela al encuentro y efectúa un acoplamiento óptico manual. El Comandante y el Ingeniero abandonan el chasis del MAA y se transfieren al MRD. Con las computadoras intactas y el reactor NTP reencendido, el MRD calcula la reentrada atmosférica perfecta ($2^\circ$ de margen) retornando a la Tierra en 21 días.
+* **Fase 5: Rendezvous y Retorno:** El campo inverso desaparece al instante. El espacio vuelve a estar electromagnéticamente limpio. El Especialista Orbital detecta con LIDAR al MAA, vuela al encuentro y efectúa un acoplamiento óptico manual. El Comandante y el Ingeniero abandonan el chasis del MAA y se transfieren al MRD. Con las computadoras intactas y el reactor NTP reencendido, el MRD calcula la reentrada atmosférica perfecta (2° de margen) retornando a la Tierra en 21 días.
 
 ---
 
@@ -228,3 +233,5 @@ Para evitar el pánico global, la intervención militar desordenada y la paráli
 4. **Mecanismo de Física Real:** El arma de B es elegante y plausible: interferencia destructiva de campos magnéticos en L1, sin necesidad de bombardear físicamente el planeta.
 5. **Muro de Lorentz Inflexible:** La electrónica digital no puede funcionar dentro de la zona de 10.000 km del arma enemiga. La transición a tecnología analógica/mecánica es obligatoria.
 6. **Ventana Temporal Estricta:** La respuesta humana debe estar en órbita en un plazo máximo de 6 a 8 meses antes de que la degradación atmosférica destruya la capacidad industrial de la Tierra.
+7. **Principio del Escudo de Masa Atmosférico:** La masa de aire al nivel del mar (1.033 g/cm²) impide la penetración directa de protones del viento solar hasta el suelo. Cero muertes instantáneas por radiación ionizante en superficie en T = 0. La letalidad opera por catálisis fotoquímica secundaria (destrucción del ozono por NOx) y radiación UVC.
+8. **Inexistencia de Refugio Nocturno Orbital:** Ningún satélite LEO permanece a salvo en la noche: al orbitar a 7,8 km/s en períodos de 90 minutos, toda la flota cruza a la cara diurna radiada en menos de una hora tras el colapso magnético.

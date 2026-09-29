@@ -445,10 +445,35 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    // --- LIMPIEZA DE CARACTERES Y SINTAXIS LATEX ---
+    function cleanLatexTokens(str) {
+        if (!str) return '';
+        return str
+            .replace(/\\dots/g, '…')
+            .replace(/\\mathbf\{([^}]+)\}/g, '<strong>$1</strong>')
+            .replace(/\\textbf\{([^}]+)\}/g, '<strong>$1</strong>')
+            .replace(/\\textit\{([^}]+)\}/g, '<em>$1</em>')
+            .replace(/\\text\{([^}]+)\}/g, '$1')
+            .replace(/\\to/g, '→')
+            .replace(/\\approx/g, '≈')
+            .replace(/\\sim/g, '~')
+            .replace(/\\times/g, '×')
+            .replace(/\^\\circ\s*C?/g, '°C')
+            .replace(/\^\\circ/g, '°')
+            .replace(/\\vec\{([^}]+)\}/g, '$1')
+            .replace(/NO_x/g, 'NO<sub>x</sub>')
+            .replace(/O_3/g, 'O<sub>3</sub>')
+            .replace(/O_2/g, 'O<sub>2</sub>')
+            .replace(/N_2/g, 'N<sub>2</sub>')
+            .replace(/CO_2/g, 'CO<sub>2</sub>')
+            .replace(/\$([^\$]+)\$/g, '$1');
+    }
+
     // --- PARSER DE MARKDOWN PARA CAPÍTULOS ---
     function parseChapterBody(rawMarkdown) {
         let text = rawMarkdown.replace(/^#\s+Capítulo\s+\d+:.*$/m, '');
         text = text.replace(/### FICHA DE LA ESCENA[\s\S]*?---/g, '');
+        text = cleanLatexTokens(text);
 
         // Convertir divisores `---` en divisores elegantes
         text = text.replace(/^---$/gm, '<div class="scene-divider"><span class="scene-divider-icon">✦</span></div>');
@@ -496,6 +521,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!md) return '';
         try {
             let text = md;
+            text = cleanLatexTokens(text);
             
             // Ocultar bloques mermaid no compatibles en HTML estático
             text = text.replace(/```mermaid[\s\S]*?```/g, '');

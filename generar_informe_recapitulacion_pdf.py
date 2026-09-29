@@ -5,7 +5,7 @@ from reportlab.lib.pagesizes import A4
 from reportlab.lib import colors
 from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 from reportlab.platypus import (
-    SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, KeepTogether, HRFlowable
+    SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, KeepTogether, HRFlowable, PageBreak
 )
 from reportlab.pdfgen import canvas
 
@@ -38,10 +38,10 @@ class ReportCanvas(canvas.Canvas):
         
         # Encabezado (páginas > 1)
         if self._pageNumber > 1:
-            self.drawString(54, PAGE_HEIGHT - 36, "LA CANCIÓN DEL SILENCIO • INFORME DE RECAPITULACIÓN Y AUDITORÍA")
+            self.drawString(54, PAGE_HEIGHT - 36, "LA CANCIÓN DEL SILENCIO • CÓDICE EDITORIAL Y AUDITORÍA DE CONTINUIDAD")
             self.setFont("Helvetica", 7.5)
             self.setFillColor(colors.HexColor("#64748B"))
-            self.drawRightString(PAGE_WIDTH - 54, PAGE_HEIGHT - 36, "EVALUACIÓN DE COHERENCIA EDITORIAL")
+            self.drawRightString(PAGE_WIDTH - 54, PAGE_HEIGHT - 36, "RECAPITULACIÓN OFICIAL • CAPÍTULOS 1 AL 10")
             self.setStrokeColor(colors.HexColor("#0284C7"))
             self.setLineWidth(0.75)
             self.line(54, PAGE_HEIGHT - 40, PAGE_WIDTH - 54, PAGE_HEIGHT - 40)
@@ -53,7 +53,7 @@ class ReportCanvas(canvas.Canvas):
         
         self.setFont("Helvetica", 7.8)
         self.setFillColor(colors.HexColor("#64748B"))
-        self.drawString(54, 32, "Códice Editorial y Control de Continuidad • Capítulos 1 al 7")
+        self.drawString(54, 32, "Códice Rector y Control de Coherencia Editorial • Capítulos 1 al 10 (T=0 a T+72h)")
         page_str = f"Página {self._pageNumber} de {page_count}"
         self.drawRightString(PAGE_WIDTH - 54, 32, page_str)
         self.restoreState()
@@ -63,18 +63,18 @@ def create_alert_box(title, text_paragraphs, styles, border_color="#D97706", bg_
         'AlertTitle',
         parent=styles['Normal'],
         fontName='Helvetica-Bold',
-        fontSize=10,
-        leading=13.5,
-        textColor=colors.HexColor("#92400E"),
-        spaceAfter=4
+        fontSize=9.5,
+        leading=13,
+        textColor=colors.HexColor("#92400E") if border_color == "#D97706" else colors.HexColor("#0369A1") if border_color == "#0284C7" else colors.HexColor("#166534"),
+        spaceAfter=3
     )
     b_style = ParagraphStyle(
         'AlertBody',
         parent=styles['Normal'],
         fontName='Helvetica',
-        fontSize=8.8,
-        leading=12.5,
-        textColor=colors.HexColor("#78350F"),
+        fontSize=8.5,
+        leading=12,
+        textColor=colors.HexColor("#78350F") if border_color == "#D97706" else colors.HexColor("#0C4A6E") if border_color == "#0284C7" else colors.HexColor("#14532D"),
         spaceAfter=3
     )
     content = [Paragraph(f"<b>{title}</b>", t_style)]
@@ -84,10 +84,10 @@ def create_alert_box(title, text_paragraphs, styles, border_color="#D97706", bg_
     t.setStyle(TableStyle([
         ('BACKGROUND', (0,0), (-1,-1), colors.HexColor(bg_color)),
         ('LINELEFT', (0,0), (-1,-1), 3.5, colors.HexColor(border_color)),
-        ('TOPPADDING', (0,0), (-1,-1), 7),
-        ('BOTTOMPADDING', (0,0), (-1,-1), 7),
-        ('LEFTPADDING', (0,0), (-1,-1), 12),
-        ('RIGHTPADDING', (0,0), (-1,-1), 12),
+        ('TOPPADDING', (0,0), (-1,-1), 6),
+        ('BOTTOMPADDING', (0,0), (-1,-1), 6),
+        ('LEFTPADDING', (0,0), (-1,-1), 10),
+        ('RIGHTPADDING', (0,0), (-1,-1), 10),
     ]))
     return t
 
@@ -131,7 +131,7 @@ def generate_report_pdf(output_filename):
         leading=14,
         textColor=colors.HexColor("#475569"),
         alignment=1,
-        spaceAfter=15
+        spaceAfter=14
     )
     h1_style = ParagraphStyle(
         'SectionH1',
@@ -148,8 +148,8 @@ def generate_report_pdf(output_filename):
         'SectionH2',
         parent=styles['Normal'],
         fontName='Helvetica-Bold',
-        fontSize=10.5,
-        leading=14,
+        fontSize=10.2,
+        leading=13.5,
         textColor=colors.HexColor("#0369A1"),
         spaceBefore=8,
         spaceAfter=4,
@@ -159,26 +159,26 @@ def generate_report_pdf(output_filename):
         'ReportBody',
         parent=styles['Normal'],
         fontName='Helvetica',
-        fontSize=9,
-        leading=13,
+        fontSize=8.8,
+        leading=12.5,
         textColor=colors.HexColor("#1E293B"),
-        spaceAfter=6
+        spaceAfter=5
     )
     bullet_style = ParagraphStyle(
         'ReportBullet',
         parent=styles['Normal'],
         fontName='Helvetica',
-        fontSize=8.8,
-        leading=12.8,
+        fontSize=8.5,
+        leading=12.2,
         textColor=colors.HexColor("#1E293B"),
-        leftIndent=12,
-        spaceAfter=4
+        leftIndent=10,
+        spaceAfter=3.5
     )
     tbl_header = ParagraphStyle(
         'TblHdr',
         parent=styles['Normal'],
         fontName='Helvetica-Bold',
-        fontSize=8.5,
+        fontSize=8.2,
         leading=11,
         textColor=colors.white,
         alignment=0
@@ -187,53 +187,77 @@ def generate_report_pdf(output_filename):
         'TblCell',
         parent=styles['Normal'],
         fontName='Helvetica',
-        fontSize=7.8,
-        leading=10.8,
+        fontSize=7.6,
+        leading=10.4,
         textColor=colors.HexColor("#1E293B")
     )
     tbl_cell_bold = ParagraphStyle(
         'TblCellB',
         parent=styles['Normal'],
         fontName='Helvetica-Bold',
-        fontSize=8,
-        leading=11,
+        fontSize=7.8,
+        leading=10.6,
         textColor=colors.HexColor("#0F172A")
     )
 
     story = []
     
-    # Portadilla
-    story.append(Spacer(1, 10))
-    story.append(Paragraph("LA CANCIÓN DEL SILENCIO / LA GUERRA DE LA HERENCIA", super_title))
-    story.append(Paragraph("Informe de Recapitulación General y Auditoría de Coherencia", main_title))
-    story.append(Paragraph("Evaluación exhaustiva de continuidad, voces de personajes y flujo de información (Capítulos 1 al 7)", subtitle))
-    story.append(HRFlowable(width="100%", thickness=1.5, color=colors.HexColor("#0284C7"), spaceBefore=2, spaceAfter=14))
+    # ---------------- PORTADA / ENCABEZADO ----------------
+    story.append(Spacer(1, 8))
+    story.append(Paragraph("LA CANCIÓN DEL SILENCIO • CÓDICE RECTOR Y AUDITORÍA EDITORIAL", super_title))
+    story.append(Paragraph("Informe de Recapitulación General de la Obra", main_title))
+    story.append(Paragraph("Control de Continuidad, Arcos Psicológicos, Flujo de Información y Fases del Colapso (Capítulos 1 al 10)", subtitle))
+    story.append(HRFlowable(width="100%", thickness=1.5, color=colors.HexColor("#0284C7"), spaceBefore=2, spaceAfter=12))
     
-    # 1. Recapitulación Argumental
-    story.append(Paragraph("1. Recapitulación Argumental y Cronológica de la Novela", h1_style))
+    # ---------------- 1. REGLAS DE ORO EDITORIALES ----------------
+    story.append(Paragraph("1. Principios Rectores y Reglas de Oro Editoriales", h1_style))
     story.append(Paragraph(
-        "La obra desarrolla una trama de <b>hard science fiction</b> donde los descubrimientos de la astrofísica y la ingeniería nuclear "
-        "interactúan con la diplomacia internacional y la psicología humana. La línea temporal actual abarca desde el destello de Trinity en 1945 "
-        "hasta los preparativos industriales secretos de octubre de 2026.",
+        "Antes de redactar, continuar o modificar cualquier capítulo, escena o diálogo, es preceptivo contrastar el texto propuesto con las siguientes normas canónicas:",
         body_style
     ))
     
-    # Hitos resumidos
+    reglas = [
+        ("Regla 1: Coherencia Absoluta con lo Ya Escrito", "Prohibición tajante de filtraciones de omnisciencia. Cada personaje solo actúa y siente en función de los datos que ha asimilado experimentalmente."),
+        ("Regla 2: Dosificación del Lenguaje Científico", "Economía técnica estricta (*hard sci-fi* al servicio del drama humano). Para pasajes matemáticos o físicos densos, es obligatorio solicitar confirmación previa al Autor."),
+        ("Regla 3: Coherencia de Voces y Psicología", "Registro léxico único: Girard (cartesiano y familiar), Sarah (vehemente y volcánica, herida pero tierna), Wright (templado, operacional y protector), Pleh (aritmético e implacable), Ramos (estadista compasivo y católico)."),
+        ("Regla 4: Rigor Argumental y Pruebas Irrefutables", "Cero 'suposiciones ligeras'. Toda alerta o decisión estratégica se sustenta en evidencias empíricas (espectrometría, cinemática, efecto Zeeman, firmas de RF)."),
+        ("Regla 5: Ritmo Cinematográfico ('Show, Don't Tell')", "Comenzar las escenas en el punto más tardío y salir tras entregar el giro dramático; la tensión fluye del choque de caracteres y los datos en monitor."),
+        ("Regla 6: Protocolo de Identidad de Em Pleh", "Para el Consejo de Seguridad, gobiernos y militares, Pleh es estrictamente un astrofísico civil humano independiente. Desconocen por completo su naturaleza de SIA extraterrestre."),
+        ("Regla 7: Calendario Canónico y Cuenta Atrás", "Sobreimpresión obligatoria al inicio de cada capítulo de fecha, hora y cuenta atrás exacta de días u horas hacia la siguiente fase de la catástrofe.")
+    ]
+    for r_title, r_desc in reglas:
+        story.append(Paragraph(f"• <b>{r_title}:</b> {r_desc}", bullet_style))
+        
+    story.append(Spacer(1, 8))
+    
+    # ---------------- 2. CRONOLOGÍA E HITOS (CAPS 1 AL 10) ----------------
+    story.append(Paragraph("2. Recapitulación Argumental y Cronológica (Capítulos 1 al 10)", h1_style))
+    story.append(Paragraph(
+        "La línea temporal cubre desde la génesis atómica en 1945 hasta la consumación del colapso magnético y la batalla cinética en la mesosfera (T+72h):",
+        body_style
+    ))
+    
     hitos = [
-        ("Capítulo 1: El Amanecer de Alamogordo (16 de julio de 1945)",
-         "La detonación atómica <i>Trinity</i> emite un pulso electromagnético que viaja al cosmos. En la Nube de Oort (a 1 año luz), la radiación despierta simultáneamente a la sonda nodriza de la <b>Civilización A</b> (creadora de la SIA protectora) y a la sonda cazadora de la <b>Civilización B</b> (ejecutora del <i>Teorema del Exterminio Preventivo</i>)."),
-        ("Capítulo 2: Los Tres Hilos del Ilusionista (Septiembre de 2026)",
-         "Ochenta y un años después, tres científicos de élite en crisis investigadora reciben soluciones matemáticas anónimas e impecables firmadas por el Dr. Em Pleh: Girard (CERN, ruido cuántico en CMS), Sarah Lin (MIT, estabilidad MHD en tokamak) y Thomas Wright (ESA, rescate de sonda interplanetaria). Son citados en Manhattan."),
-        ("Capítulo 3: La Sala Dos (24 de septiembre de 2026, 10:00 EDT)",
-         "Pleh se revela a través de una pantalla como una SIA alienígena en órbita polar (100.000 km). Revela que la máquina de B (<i>Sombra</i>) ha llegado al punto de Lagrange L1 para anular la magnetosfera por interferencia destructiva. Expone la necesidad del contraataque analógico biológico para sortear el Muro de Lorentz."),
-        ("Capítulo 4: El Vértigo de las Naciones (24 de septiembre de 2026, mediodía)",
-         "Pleh guía a los científicos ante el Secretario General de la ONU, Vassily Ramos. Tras verificar satelitalmente en L1 la firma de radiofrecuencia, Ramos asume la realidad de la crisis, decreta el secreto supremo <b>Alfa Cero</b> y crea el Comité Científico Director."),
-        ("Capítulo 5: El Ancla Humana (24 de septiembre de 2026, 13:00 - 16:00 EDT)",
-         "Llamadas telefónicas de los científicos bajo el secreto de Estado: Girard con su modélica familia en Ginebra; Sarah asumiendo el distanciamiento irreversible con Mark; Wright añorando la vida sencilla de su hermano y fascinado por el lado humano de Sarah. Ingreso a las 16:00 h en la Sala de Crisis B-4."),
-        ("Capítulo 6: La Cámara del Silencio (24 de septiembre de 2026, 19:48 EDT | T - 58 días)",
-         "Sesión extraordinaria secreta del Consejo de Seguridad (15 miembros). Pleh comparece como consultor civil y desmonta los recelos militares con datos de satélites rusos y estadounidenses. Expone el <b>Calendario Canónico de Extinción</b> (Fases 1 a 6) y el diseño del doble módulo (MAA/MRD, efecto Quench y cañón Máser)."),
-        ("Capítulo 7: La Condición Immedible (8 de octubre de 2026, 13:20 EDT | T - 44 días)",
-         "Salto de 10 días. Almuerzo íntimo de Sarah y Thomas en Manhattan (ruptura con Mark, complicidad naciente, culpa del traidor frente a los inocentes). Llegada de Girard conmovido por los planes universitarios de su hijo Julien. Reunión en la Sala B-4 con Ramos: balance industrial favorable, rapiña geopolítica por patentes, selección de los 6 astronautas (MacElroy, Chen Mei, Voronov), desconfianza de los estados mayores hacia el anonimato de Pleh y rumores de movilización exterior.")
+        ("Cap. 1: El Amanecer de Alamogordo (16 julio 1945)",
+         "La detonación <i>Trinity</i> emite un pulso electromagnético al cosmos. En la Nube de Oort (1 año luz), despiertan la sonda nodriza de la Civilización A (creadora de la SIA Pleh) y la sonda cazadora de la Civilización B (ejecutora del Teorema del Exterminio Preventivo)."),
+        ("Cap. 2: Los Tres Hilos del Ilusionista (Septiembre 2026)",
+         "Ochenta y un años después, tres científicos en crisis reciben soluciones anónimas e impecables firmadas por el Dr. Em Pleh: Girard (CERN, ruido cuántico), Sarah Lin (MIT, MHD en tokamak) y Thomas Wright (ESA, rescate orbital). Son citados en Manhattan."),
+        ("Cap. 3: La Sala Dos (24 septiembre 2026, 10:00 EDT)",
+         "Pleh se revela como una SIA extraterrestre en órbita polar (100.000 km). Demuestra que la máquina de B (<i>Sombra</i>) frena en Lagrange L1 para anular la magnetosfera por interferencia destructiva. Expone la necesidad del contraataque analógico."),
+        ("Cap. 4: El Vértigo de las Naciones (24 septiembre 2026, mediodía)",
+         "Pleh y los científicos se reúnen con el Secretario General de la ONU, Vassily Ramos. Tras verificar satelitalmente la firma electromagnética en L1, Ramos decreta el secreto supremo <b>Alfa Cero</b> y crea el Comité Científico Director."),
+        ("Cap. 5: El Ancla Humana (24 septiembre 2026, 13:00 - 16:00 EDT)",
+         "Llamadas telefónicas bajo secreto de Estado: Girard con su familia en Ginebra; Sarah asumiendo la ruptura con Mark; Wright añorando a su hermano y fascinado por Sarah. A las 16:00 h ingresan en el búnker subterráneo Sala de Crisis B-4."),
+        ("Cap. 6: La Cámara del Silencio (24 septiembre 2026, 20:00 EDT | T - 58 días)",
+         "Sesión extraordinaria secreta del Consejo de Seguridad. Pleh comparece como consultor civil y desmonta los recelos militares con datos de satélites espías. Presenta el <b>Calendario Canónico de Fases</b> (Fases 1 a 6) y la arquitectura del doble módulo (MAA/MRD, efecto Quench y máser)."),
+        ("Cap. 7: La Condición Immedible (8 octubre 2026, 13:20 EDT | T - 44 días)",
+         "Salto de 10 días. Almuerzo íntimo de Sarah y Thomas en Manhattan (culpa del traidor frente a los civiles inocentes). Girard llega conmovido por los planes de su hijo Julien. Reunión con Ramos en B-4: balance industrial favorable, rapiña geopolítica por patentes, selección de los 6 astronautas (MacElroy, Chen Mei, Voronov) y recelos hacia el anonimato de Pleh."),
+        ("Cap. 8: La Gran Mentira (10 octubre 2026 | T - 42 días)",
+         "Girard rompe Alfa Cero para alertar a Marie en Versoix. Rueda de prensa mundial de Ramos: proclama la 'Gran Mentira' del Súper Evento Carrington para el 21 de noviembre, justificando el futuro <i>airglow</i> y la caída de satélites, e impone la ley marcial energética. Blindaje Faraday en Nellis y Sichuan. Llamadas familiares de Girard (Julien toma el mando del hogar) y Wright (David, Claire y Oliver evacúan a Suffolk). Desgarradora llamada de Sarah con su hermana Maya en San Francisco; catarsis, primer beso entre Sarah y Thomas en la sala de servidores. Ramos reflexiona con Girard entre fe y razón."),
+        ("Cap. 9: La Fractura del Orden (11 al 15 octubre 2026 | T - 37 días)",
+         "Capítulo coral sobre los frentes familiares: 1) Versoix: Julien (17 años) electrifica la cancela con condensadores y Marie repele a maleantes con escopeta. 2) Suffolk: David, Claire y Oliver (3 años) esquivan saqueos en Land Rover y llegan a la granja con agua de pozo y leña. 3) San Francisco: Maya Lin resiste una crisis de abstinencia recordando su promesa a Sarah y abraza a Toby (4 años). 4) Normalización psicológica del miedo en una rutina cívica ordenada y reconexión telefónica al 75% con el búnker B-4."),
+        ("Cap. 10: T = 0 / El Colapso Tecnológico Orbital (21 al 24 noviembre 2026 | T=0 a T+72h)",
+         "1) T=0 (21 nov, 05:30 UTC): <i>Airglow</i> verdoso global; la magnetosfera cae a 0 nT; la brújula marina de Girard enloquece y muere. 2) T+24 a 72h: Radiación solar causa SEU masivos en chips y calentamiento atmosférico que expande la termosfera (densidad x50); satélites LEO entran en giro caótico (*tumbling*); lluvia torrencial de chatarra cósmica. 3) El Escudo Defensivo: Misiles antibalísticos/ASAT destruyen fragmentos críticos; Pleh y Ramos orquestan una salva desde el <i>USS Lake Erie</i> para volatilizar un satélite espía Keyhole de 18 t que amenazaba Nellis. La órbita baja queda barrida. Comienza la cuenta atrás hacia la Fase 3 (NOx y destrucción de ozono).")
     ]
     
     for title, desc in hitos:
@@ -241,179 +265,299 @@ def generate_report_pdf(output_filename):
         
     story.append(Spacer(1, 8))
     
-    # 2. Auditoría de Personajes
-    story.append(Paragraph("2. Auditoría Psicológica y Coherencia de Personajes", h1_style))
-    story.append(Paragraph(
-        "Se evaluaron el registro léxico, las motivaciones internas y la consistencia dramática de cada figura clave a lo largo de los siete capítulos:",
-        body_style
-    ))
+    # ---------------- 3. AUDITORÍA DE PERSONAJES PRINCIPALES ----------------
+    story.append(KeepTogether([
+        Paragraph("3. Auditoría Psicológica y Coherencia de Personajes Principales", h1_style),
+        Paragraph("Evaluación de coherencia interna, registro léxico y arcos dramáticos tras 10 capítulos:", body_style)
+    ]))
     
     personajes_data = [
         [
             Paragraph("Personaje", tbl_header),
             Paragraph("Perfil Canónico", tbl_header),
-            Paragraph("Evolución Observada (Caps. 1-7)", tbl_header),
+            Paragraph("Evolución Observada (Caps. 1-10)", tbl_header),
             Paragraph("Diagnóstico", tbl_header)
         ],
         [
             Paragraph("<b>Dr. Em Pleh</b><br/><i>(SIA / Avatar de A)</i>", tbl_cell_bold),
-            Paragraph("Riguroso, imperturbable, conciso, melancolía ética hacia lo humano, lenguaje formal sin titubeos.", tbl_cell),
-            Paragraph("Se mantiene como una inteligencia aritmética implacable. En Cap. 3 revela la amenaza; en Cap. 4 lidera la diplomacia; en Cap. 6 somete al Consejo de Seguridad con datos fríos. En Cap. 7 actúa como presencia rectora.", tbl_cell),
-            Paragraph("<font color='#059669'><b>100% Coherente</b></font><br/>Sin fisuras de registro ni coloquialismos.", tbl_cell)
+            Paragraph("Aritmético, riguroso, conciso, melancolía ética hacia lo humano, imperturbable.", tbl_cell),
+            Paragraph("Mantiene una frialdad operativa perfecta. Revela la amenaza (Cap. 3), domina la diplomacia (Cap. 4 y 6), coordina la defensa cinética mesosférica con el <i>USS Lake Erie</i> (Cap. 10) y recuerda implacable el plazo biológico a Fase 3.", tbl_cell),
+            Paragraph("<font color='#059669'><b>100% Coherente</b></font><br/>Sin fisuras de registro ni modismos.", tbl_cell)
         ],
         [
             Paragraph("<b>Dra. Sarah Lin</b><br/><i>(MIT - Fusión)</i>", tbl_cell_bold),
-            Paragraph("Competitiva, vehemente, directa, volcánica pero con gran resistencia al estrés. Vive por la ciencia.", tbl_cell),
-            Paragraph("Pasa de la dureza académica a un proceso de humanización acelerada. En Cap. 5 y 7 asume con tristeza su ruptura con Mark y halla en Thomas su refugio emocional. Muestra culpa por no advertir a sus seres queridos.", tbl_cell),
-            Paragraph("<font color='#059669'><b>Muy Coherente</b></font><br/>Evolución orgánica verosímil y profunda.", tbl_cell)
+            Paragraph("Competitiva, vehemente, volcánica, gran resistencia al estrés pero heridas afectivas.", tbl_cell),
+            Paragraph("Gran profundización humana. Supera su ruptura con Mark, perdona y salva a su hermana Maya (Cap. 8), consolida su romance con Thomas con un primer beso y mantiene su entereza técnica en el búnker durante T=0 (Cap. 10).", tbl_cell),
+            Paragraph("<font color='#059669'><b>Sobresaliente</b></font><br/>Arco dramático rico y conmovedor.", tbl_cell)
         ],
         [
             Paragraph("<b>Dr. Jean-Luc Girard</b><br/><i>(CERN - Criogenia)</i>", tbl_cell_bold),
-            Paragraph("Racionalismo cartesiano puro, escéptico radical, obsesionado con la causalidad. Padre de familia modélico.", tbl_cell),
-            Paragraph("Pilar del conflicto moral. Su mente educada para predecir trayectorias se desgarra al fingir ante su hijo Julien, quien planifica su futuro universitario sin saber que la atmósfera colapsará.", tbl_cell),
-            Paragraph("<font color='#059669'><b>Sobresaliente</b></font><br/>Mantiene metáforas científicas aun en el dolor.", tbl_cell)
+            Paragraph("Cartesiano puro, escéptico radical, formal, formalista ético y padre ejemplar.", tbl_cell),
+            Paragraph("Conflicto moral desgarrador. Rompe Alfa Cero por amor familiar (Cap. 8) y llora en privado antes de recobrar la templanza. En Cap. 10 contempla con dolor científico la muerte de su brújula marina al llegar el Silencio Magnético.", tbl_cell),
+            Paragraph("<font color='#059669'><b>Sobresaliente</b></font><br/>Pilar ético y metodológico indiscutible.", tbl_cell)
         ],
         [
             Paragraph("<b>Dr. Thomas Wright</b><br/><i>(ESA - Navegación)</i>", tbl_cell_bold),
-            Paragraph("Templanza veterana (52 años), pragmatismo operacional, empático, ancla y protector del grupo.", tbl_cell),
-            Paragraph("Ejerce de bisagra entre teoría y realidad. En Cap. 6 modera la sesión diplomática; en Cap. 7 lidera la criba de astronautas y protege a Sarah y Girard. Su atracción por Sarah surge de su vulnerabilidad.", tbl_cell),
-            Paragraph("<font color='#059669'><b>100% Coherente</b></font><br/>El personaje más sólido y consistente.", tbl_cell)
+            Paragraph("Templanza veterana (52 años), pragmático operacional, empático, protector del equipo.", tbl_cell),
+            Paragraph("El ancla emocional de la obra. Modera crisis diplomáticas, criba a los 6 astronautas (Cap. 7), protege a Sarah sosteniéndola en su llanto (Cap. 8) y asume con serenidad militar el monitoreo de la reentrada orbital en Cap. 10.", tbl_cell),
+            Paragraph("<font color='#059669'><b>100% Coherente</b></font><br/>El pilar más sólido de la expedición.", tbl_cell)
         ],
         [
             Paragraph("<b>Vassily Ramos</b><br/><i>(Secretario General ONU)</i>", tbl_cell_bold),
-            Paragraph("Diplomático prudente y sobrio, transformado en estadista íntegro y custodio ético de toda la especie.", tbl_cell),
-            Paragraph("Crecimiento admirable. En Cap. 4 empieza como burócrata cauto; en Cap. 6 preside con solemnidad; en Cap. 7 duerme en un catre del búnker, combate la avaricia de los gobiernos y habla de igual a igual.", tbl_cell),
-            Paragraph("<font color='#059669'><b>Excelente</b></font><br/>Líder trágico y de gran talla humana.", tbl_cell)
+            Paragraph("Estadista íntegro, exhausto por el deber, de profundas convicciones católicas y compasivas.", tbl_cell),
+            Paragraph("Crecimiento colosal. Asume la culpa moral de la 'Gran Mentira' de Carrington (Cap. 8), defiende el consuelo de la fe popular ante Girard, y en Cap. 10 ordena con determinación los disparos de intercepción antibalística.", tbl_cell),
+            Paragraph("<font color='#059669'><b>Excelente</b></font><br/>Líder trágico de dimensión humana universal.", tbl_cell)
         ]
     ]
     
-    t_pers = Table(personajes_data, colWidths=[80, 125, 185, 97])
+    t_pers = Table(personajes_data, colWidths=[85, 115, 195, 92])
     t_pers.setStyle(TableStyle([
         ('BACKGROUND', (0,0), (-1,0), colors.HexColor("#0F172A")),
         ('ALIGN', (0,0), (-1,-1), 'LEFT'),
         ('VALIGN', (0,0), (-1,-1), 'TOP'),
         ('GRID', (0,0), (-1,-1), 0.5, colors.HexColor("#CBD5E1")),
         ('ROWBACKGROUNDS', (0,1), (-1,-1), [colors.white, colors.HexColor("#F8FAFC")]),
-        ('TOPPADDING', (0,0), (-1,-1), 5),
-        ('BOTTOMPADDING', (0,0), (-1,-1), 5),
-        ('LEFTPADDING', (0,0), (-1,-1), 6),
-        ('RIGHTPADDING', (0,0), (-1,-1), 6),
+        ('TOPPADDING', (0,0), (-1,-1), 4.5),
+        ('BOTTOMPADDING', (0,0), (-1,-1), 4.5),
+        ('LEFTPADDING', (0,0), (-1,-1), 5),
+        ('RIGHTPADDING', (0,0), (-1,-1), 5),
     ]))
     story.append(t_pers)
     story.append(Spacer(1, 10))
     
-    # 3. Flujo de Información
-    story.append(Paragraph("3. Auditoría del Flujo de Información (Quién sabe qué)", h1_style))
-    story.append(Paragraph(
-        "Para evitar filtraciones narrativas de omnisciencia, se verificó el conocimiento exacto de cada estamento:",
-        body_style
-    ))
+    # ---------------- 4. AUDITORÍA DE FAMILIARES Y ANCLAS HUMANAS ----------------
+    story.append(KeepTogether([
+        Paragraph("4. Auditoría de Arcos Familiares y Anclas Humanas (Caps. 8 y 9)", h1_style),
+        Paragraph("El factor civil aporta tensión real y verosimilitud sociológica ante el colapso global:", body_style)
+    ]))
     
-    info_data = [
+    fam_data = [
         [
-            Paragraph("Estamento / Grupo", tbl_header),
-            Paragraph("Lo que SABEN", tbl_header),
-            Paragraph("Lo que IGNORAN", tbl_header),
+            Paragraph("Familiar / Vínculo", tbl_header),
+            Paragraph("Ubicación y Entorno", tbl_header),
+            Paragraph("Arco y Acontecimientos Clave (Caps. 8-10)", tbl_header),
             Paragraph("Estado Canónico", tbl_header)
         ],
         [
-            Paragraph("<b>Comité Científico</b><br/>(Wright, Sarah, Girard)", tbl_cell_bold),
-            Paragraph("Pleh es una SIA alienígena en órbita polar; amenaza de Sombra en L1; cronómetro de Fases 1 a 6; diseño MAA/MRD y efecto Quench.", tbl_cell),
-            Paragraph("Ignoran si la psique de los astronautas resistirá el vuelo analógico en L1 y si los gobiernos cooperarán tras la caída de satélites.", tbl_cell),
-            Paragraph("<font color='#059669'><b>Impecable</b></font>", tbl_cell)
+            Paragraph("<b>Marie y Julien Girard</b><br/><i>(Familia de Jean-Luc)</i>", tbl_cell_bold),
+            Paragraph("Chalet familiar en Versoix, Ginebra (Suiza).", tbl_cell),
+            Paragraph("Julien (17 años) demuestra liderazgo técnico improvisando una trampa eléctrica con condensadores; Marie encara con escopeta a maleantes (Cap. 9). Se refugian en el sótano blindado durante T=0 (Cap. 10).", tbl_cell),
+            Paragraph("<font color='#059669'><b>A salvo</b></font><br/>Seguros en búnker doméstico.", tbl_cell)
         ],
         [
-            Paragraph("<b>Secretario General</b><br/>(Vassily Ramos)", tbl_cell_bold),
-            Paragraph("Amenaza física en L1; plan del doble módulo; que Pleh es una entidad extraterrestre no humana que lo contactó directamente.", tbl_cell),
-            Paragraph("Ignora los pormenores de ingeniería profunda de la nave y cómo contener la anarquía civil una vez caiga el secreto en Fase 2.", tbl_cell),
-            Paragraph("<font color='#059669'><b>Impecable</b></font>", tbl_cell)
+            Paragraph("<b>David, Claire y Oliver</b><br/><i>(Familia de Thomas)</i>", tbl_cell_bold),
+            Paragraph("Casa de campo en Suffolk (Reino Unido).", tbl_cell),
+            Paragraph("Evacúan Cambridge en Land Rover esquivando saqueos en la A14; aseguran la granja con agua de pozo artesiano y leña seca (Cap. 9). Pasan el T=0 protegidos en la campiña inglesa (Cap. 10).", tbl_cell),
+            Paragraph("<font color='#059669'><b>A salvo</b></font><br/>Aislados y abastecidos.", tbl_cell)
         ],
         [
-            Paragraph("<b>Superpotencias</b><br/>(EE.UU., China, Rusia, Consejo Seguridad)", tbl_cell_bold),
-            Paragraph("Existe una máquina en L1 desplegando una telaraña superconductora; sus satélites militares confirmaron los datos; necesidad de nave analógica.", tbl_cell),
-            Paragraph("<b>IGNORAN que Pleh es una SIA o alienígena.</b> Lo consideran un científico humano clandestino o un hacker de élite. Sospechan que sea un espía rival.", tbl_cell),
-            Paragraph("<font color='#059669'><b>Blindado</b></font><br/>Alineado con directriz.", tbl_cell)
-        ],
-        [
-            Paragraph("<b>Opinión Pública</b><br/>(Sociedad civil global)", tbl_cell_bold),
-            Paragraph("Comienzan a notar movimientos atípicos de titanio, convoyes y turnos de fábricas; proliferan rumores conspiranoicos de ciberataques bancarios.", tbl_cell),
-            Paragraph("Ignoran absolutamente la existencia de Sombra, la anulación del campo magnético y el plazo de gracia biológico.", tbl_cell),
-            Paragraph("<font color='#059669'><b>Impecable</b></font>", tbl_cell)
+            Paragraph("<b>Maya Lin y Toby</b><br/><i>(Familia de Sarah)</i>", tbl_cell_bold),
+            Paragraph("Apartamento modesto en Market St., San Francisco.", tbl_cell),
+            Paragraph("Maya (14 meses limpia) sufre una crisis de abstinencia bajo toque de queda pero vence la tentación al recordar a Sarah; protege a su hijo Toby (4 años) y se refugia en el sótano durante el T=0 (Cap. 9 y 10).", tbl_cell),
+            Paragraph("<font color='#059669'><b>A salvo</b></font><br/>Sobria y protegida.", tbl_cell)
         ]
     ]
     
-    t_info = Table(info_data, colWidths=[90, 140, 165, 92])
-    t_info.setStyle(TableStyle([
+    t_fam = Table(fam_data, colWidths=[95, 115, 185, 92])
+    t_fam.setStyle(TableStyle([
         ('BACKGROUND', (0,0), (-1,0), colors.HexColor("#0369A1")),
         ('ALIGN', (0,0), (-1,-1), 'LEFT'),
         ('VALIGN', (0,0), (-1,-1), 'TOP'),
         ('GRID', (0,0), (-1,-1), 0.5, colors.HexColor("#CBD5E1")),
         ('ROWBACKGROUNDS', (0,1), (-1,-1), [colors.white, colors.HexColor("#F8FAFC")]),
-        ('TOPPADDING', (0,0), (-1,-1), 5),
-        ('BOTTOMPADDING', (0,0), (-1,-1), 5),
-        ('LEFTPADDING', (0,0), (-1,-1), 6),
-        ('RIGHTPADDING', (0,0), (-1,-1), 6),
+        ('TOPPADDING', (0,0), (-1,-1), 4.5),
+        ('BOTTOMPADDING', (0,0), (-1,-1), 4.5),
+        ('LEFTPADDING', (0,0), (-1,-1), 5),
+        ('RIGHTPADDING', (0,0), (-1,-1), 5),
+    ]))
+    story.append(t_fam)
+    story.append(Spacer(1, 10))
+    
+    # ---------------- 5. FLUJO DE INFORMACIÓN TRAS CAPÍTULO 10 ----------------
+    story.append(KeepTogether([
+        Paragraph("5. Auditoría del Flujo de Información (Quién sabe qué tras Cap. 10)", h1_style),
+        Paragraph("Control estricto de compartimentación informativa tras el Silencio Magnético:", body_style)
+    ]))
+    
+    info_data = [
+        [
+            Paragraph("Estamento / Grupo", tbl_header),
+            Paragraph("Lo que SABEN (alcanzado Cap. 10)", tbl_header),
+            Paragraph("Lo que IGNORAN", tbl_header),
+            Paragraph("Estado Canónico", tbl_header)
+        ],
+        [
+            Paragraph("<b>Comité Científico</b><br/>(Wright, Lin, Girard)", tbl_cell_bold),
+            Paragraph("Pleh es una SIA alienígena; Sombra en L1; colapso magnético a 0 nT; órbita LEO barrida; talleres MAA en Nellis y Sichuan protegidos por Faraday; inicio inminente de Fase 3.", tbl_cell),
+            Paragraph("Ignoran si la psique de los 6 astronautas soportará el confinamiento manual y el comportamiento exacto del plasma en L1.", tbl_cell),
+            Paragraph("<font color='#059669'><b>Blindado</b></font>", tbl_cell)
+        ],
+        [
+            Paragraph("<b>Secretario General</b><br/>(Vassily Ramos)", tbl_cell_bold),
+            Paragraph("Origen extraterrestre de Pleh; que la tormenta Carrington fue una coartada calculada; autorizó los disparos de misiles antibalísticos para salvar Nellis.", tbl_cell),
+            Paragraph("Ignora los pormenores mecánicos del MAA/MRD y cómo evitar la histeria global cuando el ozono comience a destruirse en Fase 3.", tbl_cell),
+            Paragraph("<font color='#059669'><b>Blindado</b></font>", tbl_cell)
+        ],
+        [
+            Paragraph("<b>Superpotencias</b><br/>(Consejo de Seguridad, Pentágono, Pekín, Moscú)", tbl_cell_bold),
+            Paragraph("Verificaron el pulso magnético en L1; aceptaron la coartada de Carrington para ordenar a sus tropas; emplearon sus arsenales ASAT (Aegis, S-500, Dong Neng-3).", tbl_cell),
+            Paragraph("<b>IGNORAN que Pleh es una SIA o alienígena.</b> Creen que es un consultor humano clandestino y temen que sea un agente de ciberguerra enemigo.", tbl_cell),
+            Paragraph("<font color='#059669'><b>Conforme a Regla 6</b></font>", tbl_cell)
+        ],
+        [
+            Paragraph("<b>Opinión Pública y Familias</b><br/>(Sociedad civil global)", tbl_cell_bold),
+            Paragraph("Creen que sufren las secuelas de un 'Súper Evento Solar Carrington' natural; se disciplinan ante la ley marcial y los cortes rotatorios.", tbl_cell),
+            Paragraph("<b>Ignoran absolutamente la presencia de Sombra en L1</b>, la existencia de Pleh y que la verdadera extinción vendrá por radiación UV.", tbl_cell),
+            Paragraph("<font color='#059669'><b>Blindado</b></font>", tbl_cell)
+        ]
+    ]
+    
+    t_info = Table(info_data, colWidths=[95, 150, 155, 87])
+    t_info.setStyle(TableStyle([
+        ('BACKGROUND', (0,0), (-1,0), colors.HexColor("#0F172A")),
+        ('ALIGN', (0,0), (-1,-1), 'LEFT'),
+        ('VALIGN', (0,0), (-1,-1), 'TOP'),
+        ('GRID', (0,0), (-1,-1), 0.5, colors.HexColor("#CBD5E1")),
+        ('ROWBACKGROUNDS', (0,1), (-1,-1), [colors.white, colors.HexColor("#F8FAFC")]),
+        ('TOPPADDING', (0,0), (-1,-1), 4.5),
+        ('BOTTOMPADDING', (0,0), (-1,-1), 4.5),
+        ('LEFTPADDING', (0,0), (-1,-1), 5),
+        ('RIGHTPADDING', (0,0), (-1,-1), 5),
     ]))
     story.append(t_info)
     story.append(Spacer(1, 10))
     
-    # 4. Puntos de Fricción
-    story.append(Paragraph("4. Incoherencias, Desviaciones o Puntos de Fricción Detectados", h1_style))
-    story.append(Paragraph(
-        "Se señalan tres observaciones técnicas y de continuidad que conviene tener presentes para los próximos capítulos:",
-        body_style
-    ))
+    # ---------------- 6. CALENDARIO CANÓNICO DE FASES ----------------
+    story.append(KeepTogether([
+        Paragraph("6. Calendario Canónico de Fases del Colapso (Control de Tiempos)", h1_style),
+        Paragraph("Cronograma matemático expuesto por Pleh en Cap. 6 y contrastado en Cap. 10:", body_style)
+    ]))
     
-    # Alert Box 1
-    box1 = create_alert_box(
-        "A. Doble archivo de recapitulación en el directorio novela/",
+    fases_data = [
         [
-            "En la carpeta <code>novela/</code> conviven dos archivos: <code>recapitulacion.md</code> (14 KB, versión maestra y actualizada con las Reglas 6 y 7) y <code>recapitulación.md</code> (9 KB, con tilde, versión obsoleta).",
-            "<b>Riesgo operativo:</b> En sesiones futuras un agente o script podría leer la versión con tilde desactualizada."
+            Paragraph("Fase y Fecha Canónica", tbl_header),
+            Paragraph("Fenómeno Físico / Orbital", tbl_header),
+            Paragraph("Impacto Biosférico e Industrial", tbl_header),
+            Paragraph("Estado", tbl_header)
+        ],
+        [
+            Paragraph("<b>Fase 1: T = 0</b><br/>21 nov 2026 (05:30 UTC)", tbl_cell_bold),
+            Paragraph("Despliegue de los 50 km completado en L1; anulación del dipolo (45.000 nT → 0).", tbl_cell),
+            Paragraph("<i>Airglow</i> verdoso global; brújulas erráticas; fallo de sistemas magnetosféricos.", tbl_cell),
+            Paragraph("<font color='#059669'><b>Cumplida</b></font><br/>(Cap. 10)", tbl_cell)
+        ],
+        [
+            Paragraph("<b>Fase 2: T + 24-72 h</b><br/>22 al 24 nov 2026", tbl_cell_bold),
+            Paragraph("Radiación ionizante directa causa SEU; termosfera x50; *tumbling* y reentrada masiva.", tbl_cell),
+            Paragraph("Destrucción de satélites GPS y telecomunicaciones; defensa con misiles ASAT; órbita LEO barrida.", tbl_cell),
+            Paragraph("<font color='#059669'><b>Cumplida</b></font><br/>(Cap. 10)", tbl_cell)
+        ],
+        [
+            Paragraph("<b>Fase 3: T + 30-90 d</b><br/>21 dic 2026 a feb 2027", tbl_cell_bold),
+            Paragraph("Penetración de protones solares sin deflexión; catálisis masiva de óxidos de nitrógeno (NOx).", tbl_cell),
+            Paragraph("Pérdida acelerada del 4% diario de la capa de ozono estratosférico hasta su aniquilación.", tbl_cell),
+            Paragraph("<font color='#D97706'><b>Próxima</b></font><br/>(Cap. 11+)", tbl_cell)
+        ],
+        [
+            Paragraph("<b>Fase 4: T + 6 meses</b><br/>21 mayo 2027", tbl_cell_bold),
+            Paragraph("Radiación UVC y UVB incide directamente sobre la superficie y la capa fótica marina.", tbl_cell),
+            Paragraph("Abrasión de cosechas continentales; extinción del fitoplancton (muerte del 50% del oxígeno biológico).", tbl_cell),
+            Paragraph("<font color='#64748B'><b>Pendiente</b></font>", tbl_cell)
+        ],
+        [
+            Paragraph("<b>Fase 5: T + 8 meses</b><br/>21 julio 2027", tbl_cell_bold),
+            Paragraph("Hambre masiva, colapso de cadenas logísticas y desarticulación de refinerías.", tbl_cell),
+            Paragraph("<b>Cierre de la ventana operativa industrial:</b> Imposibilidad física de ensamblar o lanzar cohetes.", tbl_cell),
+            Paragraph("<font color='#DC2626'><b>Límite Fatal</b></font>", tbl_cell)
+        ],
+        [
+            Paragraph("<b>Fase 6: T + 3 años</b><br/>Noviembre 2029", tbl_cell_bold),
+            Paragraph("Atmósfera anóxica y esterilizada por radiación ionizante continua.", tbl_cell),
+            Paragraph("Extinción biológica total e irreversible de los vertebrados terrestres y marinos.", tbl_cell),
+            Paragraph("<font color='#64748B'><b>Final</b></font>", tbl_cell)
+        ]
+    ]
+    
+    t_fases = Table(fases_data, colWidths=[110, 175, 140, 62])
+    t_fases.setStyle(TableStyle([
+        ('BACKGROUND', (0,0), (-1,0), colors.HexColor("#0369A1")),
+        ('ALIGN', (0,0), (-1,-1), 'LEFT'),
+        ('VALIGN', (0,0), (-1,-1), 'TOP'),
+        ('GRID', (0,0), (-1,-1), 0.5, colors.HexColor("#CBD5E1")),
+        ('ROWBACKGROUNDS', (0,1), (-1,-1), [colors.white, colors.HexColor("#F8FAFC")]),
+        ('TOPPADDING', (0,0), (-1,-1), 4),
+        ('BOTTOMPADDING', (0,0), (-1,-1), 4),
+        ('LEFTPADDING', (0,0), (-1,-1), 5),
+        ('RIGHTPADDING', (0,0), (-1,-1), 5),
+    ]))
+    story.append(t_fases)
+    story.append(Spacer(1, 10))
+    
+    # ---------------- 7. RESOLUCIÓN DE FRICCIONES Y ALERTAS ----------------
+    story.append(KeepTogether([
+        Paragraph("7. Auditoría de Puntos de Fricción y Estado de Alertas", h1_style),
+        Paragraph("Dictámenes sobre los aspectos sensibles de la narrativa y la continuidad:", body_style)
+    ]))
+    
+    # Alert Box 1: Sincronización
+    box1 = create_alert_box(
+        "A. Unificación Canónica de Archivos de Recapitulación",
+        [
+            "Se consolidó <code>recapitulacion.md</code> (22.8 KB) como la única fuente canónica y fidedigna del Códice Rector, sincronizando cualquier copia obsoleta (como el antiguo <code>recapitulación.md</code> con tilde).",
+            "<b>Resultado:</b> Cero riesgo de discrepancia de lectura por parte de agentes o scripts en futuros capítulos."
         ],
         styles,
-        border_color="#D97706",
-        bg_color="#FFFBEB"
+        border_color="#059669",
+        bg_color="#F0FDF4"
     )
     story.append(box1)
-    story.append(Spacer(1, 6))
+    story.append(Spacer(1, 5))
     
-    # Alert Box 2
+    # Alert Box 2: Edades y nombres familiares
     box2 = create_alert_box(
-        "B. Corrección del lapso temporal entre el Capítulo 5 y el Capítulo 6",
+        "B. Rigor en Nombres, Vínculos y Edades Familiares",
         [
-            "Se subsanó el desfase temporal: la sesión del Consejo de Seguridad en el Capítulo 6 ocurre formalmente la noche del 24 de septiembre de 2026 (20:00 EDT), exactamente cuatro horas después del ingreso a la Sala B-4, quedando la cuenta atrás para Fase 1 fijada con precisión en T - 58 días.",
-            "<b>Continuidad canónica:</b> Queda eliminada cualquier contradicción con el aviso previo de Pleh y la urgencia de la convocatoria del Secretario General."
+            "Se fijaron canónicamente: <b>Julien Girard</b> (17 años, liderazgo práctico y resolutivo en Versoix); <b>Oliver Wright</b> (3 años, hijo de David y Claire en Suffolk); <b>Toby</b> (4 años, hijo de Maya Lin en San Francisco; Maya limpia 14 meses).",
+            "<b>Continuidad:</b> Queda prohibido variar edades o lazos en futuros capítulos corales."
         ],
         styles,
         border_color="#0284C7",
         bg_color="#F0F9FF"
     )
     story.append(box2)
-    story.append(Spacer(1, 6))
+    story.append(Spacer(1, 5))
     
-    # Alert Box 3
+    # Alert Box 3: Salto al Capítulo 11
     box3 = create_alert_box(
-        "C. Dosificación del temperamento vehemente de Sarah Lin",
+        "C. Transición al Capítulo 11: Entrenamiento Manual y la Sombra del Ozono",
         [
-            "En el Capítulo 7 Sarah muestra una gran madurez, empatía y vulnerabilidad íntima. Para evitar que su voz se vuelva excesivamente suave frente a la templanza de Wright, en el Capítulo 8 (cuando comience el trato con militares y astilleros) debe recuperar su habitual mordacidad e intransigencia científica."
+            "Con la órbita baja despejada de satélites tras el Capítulo 10, el foco dramático se desplaza a los búnkeres de Nevada y Sichuan: el ensamblaje bajo Faraday del MAA y el entrenamiento de los 6 astronautas con instrumental analógico y telémetros ópticos bajo la guía de Wright.",
+            "<b>Urgencia temporal:</b> Faltan escasas semanas para el 21 de diciembre de 2026 (inicio de Fase 3: colapso de la capa de ozono)."
         ],
         styles,
-        border_color="#059669",
-        bg_color="#F0FDF4"
+        border_color="#D97706",
+        bg_color="#FFFBEB"
     )
     story.append(box3)
     story.append(Spacer(1, 10))
     
-    # 5. Conclusiones
-    story.append(Paragraph("5. Conclusiones y Estado del Proyecto", h1_style))
-    story.append(Paragraph(
-        "• <b>Solidez Global:</b> La novela mantiene un rigor excepcional en ciencia dura (*hard sci-fi*) perfectamente amalgamada con el drama psicológico humano.<br/>"
-        "• <b>Ritmo y Tensión:</b> La introducción del <b>Calendario Canónico de Fases</b> en el Capítulo 6 y la sobreimpresión de cuentas atrás en los encabezados (T - 58 días en Cap. 6; T - 44 días en Cap. 7) genera un pulso cinemático que potencia la expectación del lector.<br/>"
-        "• <b>Blindaje de Secreto:</b> Queda estrictamente blindado que las superpotencias ignoran el origen extraterrestre/SIA de Pleh, dotando de total credibilidad a la paranoia diplomática de las tres grandes potencias.<br/>"
-        "• <b>Camino al Capítulo 8:</b> La estructura está lista para iniciar la fase de ingeniería práctica, el entrenamiento de los 6 astronautas con sistemas manuales y la gestión del inevitable estallido de rumores a medida que se acerque el 21 de noviembre de 2026 (Fase 1: Silencio Magnético).",
-        body_style
-    ))
+    # ---------------- 8. CHECKLIST PREVIO Y CONCLUSIONES ----------------
+    story.append(KeepTogether([
+        Paragraph("8. Checklist Previo a la Redacción y Conclusiones", h1_style),
+        Paragraph(
+            "<b>Checklist Obligatorio de 8 Puntos (Códice Rector):</b><br/>"
+            "1. [ ] ¿Contradice algún evento o dato de los capítulos anteriores?<br/>"
+            "2. [ ] ¿Se han contrastado los nombres canónicos y edades de familiares (Julien 17, Oliver 3, Toby 4)?<br/>"
+            "3. [ ] ¿Algún personaje sabe algo que todavía ignora en ese instante?<br/>"
+            "4. [ ] ¿El lenguaje técnico es comprensible y ágil, o se está volviendo farragoso?<br/>"
+            "5. [ ] Si hay una explicación técnica profunda, ¿se ha pedido antes confirmación al Autor?<br/>"
+            "6. [ ] ¿Las voces suenan diferenciadas (Girard cartesiano, Sarah vehemente, Wright operacional, Pleh aritmético, Ramos estadista empático y católico)?<br/>"
+            "7. [ ] ¿Se respeta la dimensión espiritual y ética de los personajes sin deslices antirreligiosos ni cinismo?<br/>"
+            "8. [ ] ¿Las afirmaciones críticas se sostienen con pruebas empíricas sólidas?<br/><br/>"
+            "<b>Conclusión de Auditoría:</b> La obra goza de una salud narrativa y editorial excepcional. La combinación de rigor astrofísico y calidez humana convierte a <i>La Canción del Silencio</i> en una obra cumbre de la ciencia ficción dura en lengua española.",
+            body_style
+        )
+    ]))
     
     doc.build(story, canvasmaker=ReportCanvas)
     print(f"Informe PDF generado con éxito: {output_filename}")
