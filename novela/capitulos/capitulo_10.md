@@ -15,7 +15,9 @@ Junto a la consola de enlace interplanetario, Thomas Wright permanecía de pie, 
 
 A dos metros de distancia, Jean-Luc Girard presenció el contacto mientras ajustaba con meticulosidad obsesiva las bisagras de sus gafas de montura metálica. Durante las semanas previas en Darmstadt o en los pasillos acristalados de Ginebra, la sobria discreción cartesiana de Girard habría registrado con incomodidad cualquier desliz de intimidad en un centro de mando internacional. Hoy, al filo de la madrugada del 21 de noviembre, Jean-Luc simplemente asintió hacia ellos con una gravedad indulgente. El fin de la certeza humana no dejaba espacio para la hipocresía social. Frente a ellos, el Secretario General Vassily Ramos, sentado con los codos apoyados en la madera noble y los dedos entrelazados como si sostuviera una plegaria muda, contempló el contacto de las manos de ambos científicos con una melancólica ternura. El amor y el deber eran los dos únicos asideros que le quedaban a la especie.
 
-—Las últimas órdenes de resguardo han sido confirmadas por enlace de cable submarino protegido —murmuró Ramos, con su voz barítona teñida de un cansancio casi geológico—. En Suiza, el Consejo Federal activó el protocolo civil. Marie y los muchachos ya están bajo la losa de hormigón en Versoix, Jean-Luc.
+En la herradura táctica adyacente, separada apenas por una barandilla de acero cepillado, una delegación restringida de los Estados Mayores de los miembros permanentes del Consejo de Seguridad de la ONU permanecía en riguroso silencio frente a sus consolas de comunicaciones blindadas. El almirante Marcus Vance del Mando Estratégico estadounidense, el general Valeri Korolyov de las Fuerzas Aeroespaciales rusas y el general Chen Wei del Estado Mayor Conjunto del EPL chino encabezaban el enlace militar bajo el marco del Comité de Estado Mayor de la ONU. Aquellos altos oficiales no decidían la política de la supervivencia —esa carga descansaba con exclusividad en la autoridad moral y de gobierno de Vassily Ramos y en el rigor del Comité Científico—, pero eran sus manos las que gobernaban los silos de intercepción, los buques lanzamisiles y los protocolos de defensa activa que aguardaban las directrices del Secretario General.
+
+—Las últimas órdenes de resguardo han sido confirmadas por enlace de cable submarino protegido —murmuró Ramos, volviéndose un instante hacia los mandos antes de fijar la vista en Jean-Luc, con su voz barítona teñida de un cansancio casi geológico—. En Suiza, el Consejo Federal activó el protocolo civil. Marie y los muchachos ya están bajo la losa de hormigón en Versoix, Jean-Luc.
 
 Girard tragó saliva y asintió lentamente. Durante las dos semanas previas, bajo la tapadera piadosa del súper Evento Carrington que la ONU había difundido al mundo, cada uno de ellos había impartido la misma instrucción tajante y precisa a los suyos: *cuando el cielo se encienda de noche en un verde lechoso y las brújulas enloquezcan, no os quedéis a contemplarlo; descended al sótano y sellad la puerta blindada hasta nueva orden*. En Versoix, el chalet familiar contaba con un refugio reglamentario suizo, con compuerta de acero de treinta centímetros y filtrado manual de aire; Julien, con sus diecisiete años y su aplomo recién forjado, había almacenado allí bidones de agua, raciones secas y la batería auxiliar del compresor. En Suffolk, David Wright había trasladado las camas de campaña al sótano abovedado de ladrillo del siglo XVIII, guareciendo a Claire y al pequeño Oliver entre las vigas centenarias de roble. En San Francisco, Maya Lin y su hijo Toby se encontraban atrincherados en el habitáculo interior del piso de Market Street, lejos de los ventanales de cristal, con provisiones suficientes y la promesa inquebrantable de mantenerse limpia.
 
@@ -107,8 +109,10 @@ Sarah se inclinó sobre la pantalla balística:
 
 —Punto de impacto proyectado: costa del Golfo Pérsico, en las proximidades del complejo petroquímico de Ras Tanura —anunció la voz imperturbable del doctor Em Pleh—. Probabilidad de colisión en tierra: noventa y dos por ciento. Si las esferas de titanio revientan en superficie, el vapor de hidracina formará una nube tóxica corrosiva que asfixiará a cualquier ser vivo en dos kilómetros a la redonda.
 
-Vassily Ramos tomó el auricular de la línea roja protegida:
-—Mando Central Naval, aquí el Secretario General. Tienen un vector balístico pesado en reentrada terminal sobre la costa saudí. Autorizo la apertura de fuego con baterías exoatmosféricas navales bajo protocolo Alfa Cero. Repito: fuego defensivo inmediato.
+Vassily Ramos se puso en pie y miró directamente al almirante Marcus Vance en el ala militar:
+—Almirante, tenemos un desastre químico inminente sobre una refinería de hidrocarburos. Autorizo el empleo de interceptores exoatmosféricos de la Séptima Flota bajo protocolo Alfa Cero. Neutralicen ese satélite antes de que penetre en la atmósfera media.
+
+—A la orden, señor Secretario General —asintió Vance con sobria disciplina militar. Se volvió hacia su consola y activó el canal táctico naval con voz cortante—: Mando Naval Central, aquí Vance. Autorización ejecutiva concedida por Naciones Unidas. Procedan con intercepción cinética inmediata sobre sector Golfo Pérsico. Fuego defensivo ya.
 
 A trescientos kilómetros de distancia, en las aguas del golfo de Omán, el destructor de la Armada de los Estados Unidos *USS Thomas Hudner* rompió la calma de la noche con el encendido de un misil **RIM-161 Standard Missile 3 (SM-3 Block IIA)**. El proyectil trepó en vertical en medio de un bramido de fuego sólido, cruzó la estratosfera y liberó su Vehículo de Muerte Cinética a ciento veintiocho kilómetros de altura.
 
@@ -163,7 +167,9 @@ Girard dio un paso al frente, con rostro sombrío:
 Thomas bajó la mirada hacia los mapas del cono sur:
 —Y ahí es donde el verano austral se convertirá en un infierno, Vassily. Cuando el ozono caiga a la mitad, la radiación ultravioleta B y C entrará hasta el suelo. En diciembre y enero, cualquier persona que salga al sol en Australia o en Chile sufrirá quemaduras solares de primer grado profundo en apenas quince minutos. La radiación quemará las córneas de los ojos: una epidemia de queratitis y conjuntivitis actínica dejará ciega a miles de personas si no llevan gafas de protección industrial.
 
-—Tendrán que convertirse en una sociedad nocturna —murmuró Ramos, horrorizado.
+—El Comité de Coordinación Industrial ya ha puesto a trabajar a marcha forzada a todas las fábricas de polímeros y óptica del mundo que aún tienen suministro eléctrico —intervino Ramos, frotándose las sienes con pesadumbre—. Se están fabricando a gran escala gafas de protección ocular con filtro UV400 y pantallas de policarbonato para soldadura... pero los informes logísticos que recibí anoche son desoladores. Con las cadenas de distribución colapsadas y el transporte paralizado, la producción no alcanzará ni al diez por ciento de la población mundial antes de enero. El noventa por ciento restante estará completamente indefenso si pone un pie al sol.
+
+—Tendrán que convertirse en una sociedad nocturna —murmuró Girard, con el ceño fruncido.
 
 —Exactamente eso —confirmó Sarah—. Los gobiernos del cono sur no tendrán más remedio que decretar toques de queda diurnos absolutos: todo el mundo encerrado en sótanos y viviendas selladas entre las ocho de la mañana y las siete de la tarde. La agricultura, la reparación de cables y el abastecimiento tendrán que hacerse estrictamente bajo la oscuridad de la noche.
 
@@ -199,12 +205,11 @@ En Nellis, a doscientos metros bajo la roca volcánica del desierto, cientos de 
 
 —Secretario General —la voz de Pleh sonó con una urgencia matemática implacable—. Las baterías de interceptores terrestres de largo alcance en Vandenberg están agotadas tras defender San Francisco y Seattle. Nellis solo dispone de misiles *THAAD* de corto alcance en la baja atmósfera. Si la masa de berilio y titanio desciende por debajo de los cincuenta kilómetros, el choque cinético descalabrará los túneles subterráneos de ventilación de Nellis.
 
-Ramos se abalanzó sobre la terminal de mando estratégico del Pentágono:
-—Conecten con el crucero lanzamisiles *USS Lake Erie* en el golfo de California. Enlace prioritario Alfa Cero.
+Ramos se giró hacia el almirante Vance con los ojos encendidos por una determinación feroz:
+—Almirante Vance: si Nellis cae, la especie humana no saldrá jamás de este planeta. No podemos permitir que esa mole toque el suelo de Nevada bajo ninguna circunstancia. Tiene mi autorización ejecutiva plena. Ordene al crucero *USS Lake Erie* en el golfo de California vaciar su silo proel de inmediato. ¡Salven esa base!
 
-—Canal de voz asegurado, señor Secretario General —anunció el oficial de transmisiones.
-
-—Capitán Vance —habló Ramos, con la voz templada de un hombre que asume el destino de la especie humana—. Tiene autorización ejecutiva de las Naciones Unidas bajo estado de emergencia planetaria. Disparen toda la salva del silo proel contra el vector balístico que desciende sobre Nellis. No permitan que ese satélite toque el suelo de Nevada. Repito: no permitan que toque el suelo.
+Vance cuadró los hombros, tomó el micrófono de mando directo con el teatro del Pacífico y transmitió la orden con frialdad implacable:
+—Puesto de combate *Lake Erie*, aquí Vance. Transmito orden ejecutiva directa del Secretario General. Disparen salva de interceptores SM-3 contra vector balístico descendente en sector Nellis. Asignación Alfa Cero: prioridad absoluta. Fuego a discreción.
 
 A cuatrocientos kilómetros al suroeste, en las aguas templadas del golfo de California, las compuertas de acero del crucero estadounidense se abrieron en un estrépito de gases incandescentes. Dos misiles interceptores **SM-3 Block IIA** rugieron hacia la alta noche, trepando hacia la mesosfera a cuatro kilómetros por segundo.
 
@@ -253,3 +258,29 @@ En el gráfico táctico, el cronómetro de la extinción continuaba su descuento
 
 Thomas Wright miró a Sarah, apretó su mano con fuerza y asintió hacia la pantalla:
 —Entonces volvamos al trabajo.
+
+***
+
+### Epílogo: La Falsa Tregua y la Noche Esmeralda
+
+Al caer la tarde del 24 de noviembre y durante las primeras horas del día 25, la pesada losa del confinamiento comenzó a resquebrajarse en la superficie del planeta. 
+
+El cese repentino de los bólidos incandescentes y el fin de los estampidos sónicos que habían sacudido las ventanas empujaron a la población civil a asomarse, temerosa pero exhausta, al mundo exterior. En Nueva York, las familias que llevaban setenta y dos horas hacinadas en las estaciones de metro de la Octava Avenida y en los sótanos de ladrillo de Brooklyn subieron con cautela los escalones hacia la acera. En Roma, las puertas de madera maciza de las basílicas se abrieron de par en par; en Ginebra, la gente abandonó los refugios subterráneos de hormigón para volver a pisar la gravilla de los parques; en Tokio, Buenos Aires y Madrid, millones de personas salieron a las calles desiertas y miraron hacia arriba.
+
+El cielo estaba extrañamente limpio. 
+
+Por primera vez en un siglo de civilización industrial, no había una sola estela blanca de condensación de aviones comerciales cruzando el firmamento. El aire, libre del rumor distante de los motores de turbina y del tráfico pesado, poseía una quietud casi religiosa. La gente se miraba a los ojos con la incredulidad de los náufragos que despiertan en una playa después del temporal. En las plazas principales —en Times Square, en la Piazza Navona, en la Plaza de Mayo— comenzaron a formarse congregaciones espontáneas. 
+
+No hubo euforia ruidosa, sino un alivio solemne y contenido. La versión oficial del gobierno mundial y de las cadenas de radio de emergencia —aquel descomunal y único «Súper Evento Carrington» que supuestamente había descargado su golpe y quedaba atrás— había calado como un bálsamo en el alma colectiva. Creían haber soportado el peor embate que la naturaleza podía arrojar sobre ellos. 
+
+Unos encendieron velas de cera blanca sobre los bordillos, formando mosaicos parpadeantes en memoria de los escasos fallecidos por los incendios de subestaciones y el pánico inicial. En las escalinatas de los templos se improvisaron rezos ecuménicos donde católicos, protestantes, musulmanes y laicos compartían mantas de lana y termos de té caliente. Vecinos que durante años se habían cruzado en los portales sin mirarse se estrecharon las manos y se abrazaron con lágrimas silenciosas. Se sentían a salvo. Se sentían unidos, supervivientes de una tormenta cósmica que los había despojado de sus teléfonos y de sus comodidades digitales, pero que les había devuelto la vida.
+
+Sin embargo, a medida que la luz solar se apagaba en el horizonte, una sorda inquietud empezó a filtrarse en los corrillos.
+
+Al ponerse el Sol, la oscuridad no trajo el negro profundo de las noches de otoño, ni las estrellas nítidas de antaño. En su lugar, desde el cenit hasta el confín de la tierra, la bóveda celeste volvió a encenderse en aquella sábana espectral de luz esmeralda: el *airglow* fantasmal, inmóvil, mudo y continuo como el brillo de una lámpara funeraria que no se extinguía.
+
+En los salpicaderos de los coches militares y en los bolsillos de los abrigos, las brújulas de mano seguían girando en círculos lentos y erráticos, incapaces de encontrar el norte. Las pantallas de los teléfonos móviles continuaban congeladas en un implacable «Sin cobertura». En los transistores a pilas, el dial entero era una ciénaga de estática sorda, rota solo por el monótono pitido en código Morse de las emisoras de defensa civil en onda corta.
+
+Nadie quería decirlo en voz alta entre los cánticos y las oraciones de las plazas, pero en los ojos de los ancianos y en el gesto crispado de los padres que apretaban a sus hijos contra el pecho latía una sospecha instintiva e inconfesable: la atmósfera misma parecía enferma. Aquel resplandor verdoso no era el final de una tormenta, sino el sudario de un mundo que había cambiado para siempre. Algo invisible, implacable y desconocido seguía cerniéndose sobre sus cabezas.
+
+Habían resistido el primer golpe. Pero en el silencio de la noche esmeralda, la humanidad entera comenzaba a intuir que la verdadera batalla por no desaparecer apenas acababa de comenzar.

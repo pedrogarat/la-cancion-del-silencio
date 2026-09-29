@@ -50,7 +50,7 @@
   - **Explicación didáctica de Thomas:** Desmonta el mito de la noche fija. Los satélites LEO viajan a 28.000 km/h y completan una vuelta a la Tierra en **90 minutos** (16 órbitas/día). Solo pasan 35-40 min en sombra; cruzan la cara diurna radiada continuamente.
   - **Explicación de Sarah:** La deformación de la elipse orbital: el satélite frena en el día y su punto más bajo (perigeo) cae en picado en la noche. Además, los *magnetorquers* quedan inútiles sin campo magnético y la nave entra en *tumbling*, exponiendo sus paneles como velas rotas.
   - **Primer derribo crítico en combate:** Satélite de 3 toneladas con 400 litros de hidracina pura en trayectoria terminal hacia el complejo petroquímico de Ras Tanura (Golfo Pérsico).
-  - Ramos autoriza el disparo del destructor *USS Thomas Hudner*: misil interceptor **SM-3 Block IIA** pulveriza el blanco a 128 km (*Hit-to-Kill*), quemando los restos en la mesosfera.
+  - Ramos toma la decisión política y autoriza las reglas de combate al Almirante Marcus Vance (enlace militar en la B-4): este ordena el disparo al destructor *USS Thomas Hudner*, cuyo misil interceptor **SM-3 Block IIA** pulveriza el blanco a 128 km (*Hit-to-Kill*), quemando los restos en la mesosfera.
 
 ---
 
@@ -65,21 +65,22 @@
   - **La "Burbuja Termosférica Meridional":** 14-16 horas de sol vertical inflan desmesuradamente la atmósfera austral; los satélites en órbitas inclinadas sufren un freno brutal en cada paso sur.
   - **El Escudo de Masa Atmosférico (Sarah):** Alivio para Ramos sobre la supervivencia en el suelo: la masa de aire (1.033 g/cm², como 10 m de agua o 1 m de plomo) frena los protones solares a 80-100 km, evitando muertes radiactivas inmediatas y salvando la mentira de Carrington.
   - **La Verdadera Letalidad y el Cronómetro del Ozono:** La catálisis de NOx destruyendo el O₃ al 4% diario. En diciembre/enero, el hemisferio sur sufrirá quemaduras graves y queratitis actínica (ceguera corneal) en 15 minutos de sol, obligando a toques de queda diurnos y una "sociedad nocturna".
+  - **El Límite Productivo de Gafas:** Ramos expone que la reconversión industrial de emergencia para gafas UV400 y pantallas de soldador apenas cubrirá al 10% de la población mundial, dejando al 90% indefenso.
   - El alivio transitorio del invierno boreal protegiendo a Nellis y Sichuan... y la trampa del verano boreal en mayo de 2027 (Fase 4).
 
 ---
 
 ## 📍 Escena 5: El Asedio de Nellis (23:10 UTC, 23 de noviembre | T+65 horas)
 - **Tiempo:** Noche del tercer día tras el colapso.
-- **Ubicación:** Sala B-4 y enlace con la flota del Pacífico.
-- **Personajes:** Vassily Ramos, Jean-Luc Girard, Thomas Wright, Sarah Lin, Pleh; capitán Vance del *USS Lake Erie*.
+- **Ubicación:** Sala B-4 y enlace militar con la flota del Pacífico.
+- **Personajes:** Vassily Ramos, Jean-Luc Girard, Thomas Wright, Sarah Lin, Pleh; Almirante Vance (en la B-4) y enlace con el crucero *USS Lake Erie*.
 - **Conflicto:** La amenaza directa de un satélite espía pesado sobre el hangar subterráneo donde se mecaniza la nave analógica salvadora.
 - **Acción:**
   - El apogeo de la reentrada masiva: bólidos multicolores cruzando cielos urbanos a Mach 25 con estampidos sónicos triples.
   - Impacto de un rotor de 300 kg de un *Meteor-3* en Oldemburgo (Alemania), perforando una fábrica evacuada. Salvas rusas *S-500* y chinas *DN-3*.
   - **La Alarma Suprema:** Satélite espía militar de la serie *Keyhole* (18 toneladas, espejo de berilio de 2,4 m y 4 esferas de titanio) en rumbo de colisión directa contra la base aérea de Nellis (Nevada), a 11 km del búnker del MAA.
   - Pleh advierte que si la masa desciende de 50 km, el impacto cinético descalabrará los túneles subterráneos de ventilación y sepultará el MAA.
-  - Ramos contacta con el crucero *USS Lake Erie* en el golfo de California y autoriza salva de misiles *SM-3 Block IIA*.
+  - Ramos da la directriz ejecutiva suprema al Almirante Vance para salvar la base cueste lo que cueste; Vance ordena al crucero *USS Lake Erie* en el golfo de California disparar una salva de misiles *SM-3 Block IIA*.
   - En la Sala B-4, Sarah y Thomas entrelazan sus manos con fuerza en la cuenta atrás. Intercepción a 112 km: pulverización en cascada de polvo incandescente. Nellis intacto. Abrazo protector y beso en el cabello entre Thomas y Sarah presenciado con respeto por Girard y Ramos.
 
 ---
@@ -93,3 +94,17 @@
   - Balance de daños: 60 años de civilización digital borrados del cielo, pero industrias clave y vidas familiares a salvo. La brújula marina de Girard sigue inmóvil a 40° de desvío.
   - Pleh actualiza el cronómetro inexorable: faltan 27 días para el 21 de diciembre (Fase 3: catálisis de NOx y destrucción acelerada del ozono). Faltan 238 días para el límite de la ventana industrial.
   - Thomas y Sarah, unidos en un pacto inquebrantable de supervivencia, sellan el compromiso del grupo: volver a los talleres analógicos para salvar a la especie humana.
+
+---
+
+## 📍 Escena 7 (Epílogo): La Falsa Tregua y la Noche Esmeralda (24-25 de noviembre)
+- **Tiempo:** Tarde y noche del 24 y madrugada del 25 de noviembre de 2026.
+- **Ubicación:** Escenario coral exterior (Nueva York, Roma, Ginebra, Buenos Aires, Madrid, Tokio).
+- **Personajes:** Población civil ordinaria, familias, ancianos, jóvenes.
+- **Conflicto:** El alivio psicológico de creer haber superado el colapso frente a la inquietante sospecha de que lo peor aún está por venir.
+- **Acción:**
+  - La gente abandona los refugios de hormigón, bocas de metro y sótanos sellados tras el cese de los estampidos sónicos.
+  - Cielo diurno limpio sin una sola estela de condensación de aviones comerciales; quietud sepulcral de la atmósfera.
+  - Concentraciones espontáneas en plazas públicas (Times Square, Navona, Plaza de Mayo); encendido de velas, rezos ecuménicos, reparto de mantas y termos; abrazos colectivos de gratitud creyendo que el "Súper Evento Carrington" ha terminado.
+  - Al anochecer, el cielo no se vuelve negro sino que se enciende en el brillo verde espectral del *airglow* continuo; las brújulas siguen desorientadas, los teléfonos en «Sin cobertura» y las radios en estática.
+  - Sensación colectiva de que la atmósfera está enferma y de que la verdadera prueba de supervivencia apenas acaba de comenzar.
