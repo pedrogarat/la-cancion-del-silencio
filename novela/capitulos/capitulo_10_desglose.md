@@ -45,11 +45,14 @@
 - **Personajes:** Thomas Wright, Sarah Lin, Jean-Luc Girard, Pleh, operadores de NORAD y Space-Track.
 - **Conflicto:** El colapso del sistema nervioso orbital de la humanidad; la imposibilidad de contener la física del frenado atmosférico masivo.
 - **Acción:**
-  - El mapa táctico global de NORAD proyecta más de 12.000 objetos en LEO.
-  - **Fallo masivo de microchips:** El flujo de protones solares y rayos cósmicos provoca SEU y Latchup masivo (SEL) en los ordenadores de a bordo.
-  - **Inutilización de *magnetorquers*:** Al no haber campo geomagnético terrestre, los sistemas de estabilización magnética de los satélites quedan inertes. Las ruedas de reacción se saturan; los satélites entran en rotación incontrolada (*tumbling*), ofreciendo su máxima superficie contra una atmósfera entre diez y cincuenta veces más densa por el hinchamiento térmico.
+  - **Fallo masivo de microchips:** El bombardeo de partículas solares quema los procesadores y deja a los satélites ciegos y sin control de actitud (las bobinas de equilibrio magnético o *magnetorquers* quedan inertes al no haber campo magnético).
+  - **Aclaración didáctica crucial (Ramos y Wright):** Se explica con claridad pedagógica qué está cayendo:
+    1. **Satélites operativos:** La red viva (comerciales, espía, observación) que acaba de morir frita por la radiación y rueda sin timón.
+    2. **Basura espacial histórica:** Más de 60 años de restos (etapas de cohetes gastadas, viejos satélites apagados) que flotaban en el vacío y que ahora son barridos en avalancha por el hinchamiento de la alta atmósfera al calentarse con el Sol.
+    3. **Órbitas altas (GPS y geoestacionarios a 20.000-36.000 km):** Mueren calcinados pero NO caen a la Tierra porque no hay fricción atmosférica; quedan como ataúdes flotantes para siempre.
   - **El colapso del Plan de Desorbitado Controlado a Punto Nemo:** Los operadores de la ESA y NASA intentan maniobras de frenado de emergencia hacia el Pacífico, pero los paquetes de telemetría llegan corruptos o los actuadores se queman a medio encendido. Varios satélites quedan desviados hacia corredores continentales.
-  - Las baterías de iones de litio sin pasivar estallan por calor, desatando metralla orbital. En la pantalla táctica, miles de iconos verdes viran a ámbar parpadeante y luego a rojo sangre: la **lluvia de chatarra** es irreversible.
+  - Las baterías sin purgar estallan por calor, desatando metralla. En la pantalla táctica, miles de iconos verdes viran a ámbar parpadeante y luego a rojo sangre: la **lluvia de chatarra** es irreversible.
+
 
 ---
 

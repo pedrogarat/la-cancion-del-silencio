@@ -21,7 +21,7 @@ Girard tragó saliva y asintió lentamente. Durante las dos semanas previas, baj
 
 El suelo bajo el búnker estaba blindado. Pero el cielo sobre ellos estaba a punto de desmoronarse.
 
-—La telaraña superconductora en el punto Lagrange L1 ha cerrado su circuito de carga —resonó en la sala la voz del doctor Em Pleh. No procedía de un altavoz convencional, sino que emergía limpia desde el monitor principal, despojada de todo grano analógico—. La inductancia ha alcanzado el régimen de saturación: doce teslas en el solenoide axial inverso. El vector de interferencia destructiva se ha liberado.
+—La telaraña superconductora en el punto Lagrange L1 ha alcanzado el régimen de saturación —resonó en la sala la voz del doctor Em Pleh. No procedía de un altavoz convencional, sino que emergía limpia desde el monitor principal, despojada de todo grano analógico—. El vector de interferencia destructiva se ha liberado.
 
 Sarah levantó la vista hacia el cronómetro de la pantalla.
 —Distancia a L1: un millón quinientos mil kilómetros —dijo ella, con un hilo de voz firme pero cortante—. Velocidad de propagación a la velocidad de la luz.
@@ -58,19 +58,19 @@ No había auroras boreales. Las auroras requerían un campo magnético que guiar
 
 El cielo nocturno del hemisferio oscuro se encendió de pronto en un resplandor fosforescente, espectral y uniforme. Era el ***airglow*** global: una sábana estática de color verde pálido y esmeralda lechoso, provocada por la desexcitación radiativa de miles de millones de átomos de oxígeno ionizados a cien kilómetros de altura. En las calles desiertas de Edimburgo, Reikiavik y Sapporo, los árboles proyectaban sombras dobles bajo una bóveda celeste que no era de día ni de noche, sino un túnel de gas incandescente.
 
-—Las moléculas de la mesosfera están absorbiendo la radiación directamente —explicó Sarah, cuyos dedos tecleaban frenéticamente secuencias de cálculo en su terminal—. La termosfera ha comenzado a calentarse a un ritmo de cuarenta grados kelvin por hora. El gas neutro entre los ochenta y los seiscientos kilómetros de altitud se está dilatando.
+—La alta atmósfera está absorbiendo la radiación del Sol de golpe —explicó Sarah, con la mirada fija en las telemetrías—. Al calentarse de forma súbita, el gas entre los ochenta y los seiscientos kilómetros de altura ha empezado a expandirse hacia el espacio, exactamente igual que un globo que se infla al arrimarlo al fuego.
 
-Thomas se inclinó sobre la pantalla de telemetría orbital. Una gráfica ascendente en color ámbar mostraba la curva de densidad atmosférica a cuatrocientos kilómetros:
-—El hinchamiento térmico —dijo Wright con gravedad profesional—. La densidad del aire en la órbita baja terrestre está multiplicándose por diez. Y apenas estamos en la primera hora.
+Thomas se inclinó sobre la pantalla de seguimiento orbital, donde una curva gráfica ascendía en color ámbar:
+—El hinchamiento atmosférico —apuntó Wright con gravedad profesional—. A cuatrocientos kilómetros de altitud, donde antes había casi un vacío absoluto, la densidad del aire se está multiplicando por diez. Y apenas llevamos una hora de exposición.
 
-—Doctor Wright —intervino Pleh desde la pantalla—. Los satélites de navegación y telecomunicaciones en LEO acaban de perder su referencia de estabilización. 
+—Doctor Wright —intervino Pleh desde la pantalla—. Los satélites de la órbita baja acaban de perder su referencia de equilibrio.
 
 Jean-Luc miró a Thomas:
 —Los *magnetorquers*.
 
-—Exacto —respondió Thomas, con el rostro endurecido—. El noventa por ciento de los satélites civiles y comerciales en órbita baja utilizan bobinas electromagnéticas para interactuar con el campo geomagnético y descargar la saturación de sus ruedas de reacción. Sin campo magnético en el espacio, esas bobinas no tienen contra qué empujar. Son inútiles. Las ruedas de inercia alcanzarán su límite de revoluciones en menos de doce órbitas.
+—Exacto —asintió Thomas, explicando el problema mecánico con la sencillez pedagógica de un veterano de la ESA—. En el espacio no hay aire para colocar timones. Para no girar como peonzas en el vacío, casi todos los satélites llevan bobinas electromagnéticas: imanes que empujan contra el campo magnético invisible de la Tierra para mantener el equilibrio, igual que dos imanes que se repelen en la mano. Ahora que hemos apagado el magnetismo del planeta, esos imanes no tienen contra qué apoyarse. Es como intentar remar en la nada. Sus ruedas internas de giro se bloquearán en pocas órbitas... y empezarán a dar tumbos caóticos.
 
-—Y cuando se saturen —completó Sarah, cruzando una mirada sombría con él—, perderán el control de actitud. Comenzará el volteo.
+—Y en cuanto empiecen a rodar —completó Sarah—, sus paneles solares chocarán de plano contra ese aire hinchado. Será como abrir un paracaídas roto a veintiocho mil kilómetros por hora.
 
 ***
 
@@ -79,32 +79,46 @@ Jean-Luc miró a Thomas:
 
 Treinta horas después del Silencio Magnético, el búnker B-4 se había convertido en la sala de autopsias de la infraestructura espacial humana.
 
-El gran mural táctico proyectaba ahora el catálogo completo de la red de vigilancia espacial de NORAD y de la ESA: más de doce mil trazas vectoriales que representaban la totalidad de los satélites activos en la órbita baja terrestre (LEO), entre los doscientos y los ochocientos kilómetros de altitud. 
+El gran mural táctico proyectaba el catálogo completo de la red de vigilancia orbital: un enjambre de más de doce mil trazas que representaban los objetos que cruzaban la órbita baja terrestre (LEO), entre los doscientos y los ochocientos kilómetros de altitud. En condiciones normales, era un ballet regular y sereno. Ahora, miles de trazas parpadeaban en un ámbar frenético.
 
-La imagen era aterradora. En condiciones normales, el mapa era un enjambre sereno de puntos verdes surcando órbitas elípticas regulares. Ahora, miles de esos puntos parpadeaban en un ámbar frenético.
+—Informe de telemetría de Darmstadt y de Houston —leyó un oficial de comunicaciones de la ONU con la voz tomada por el cansancio—. Las constelaciones comerciales en órbita baja han enmudecido. La lluvia directa de partículas solares está perforando los microchips. Los ordenadores de a bordo se reinician en bucle o sufren cortocircuitos internos instantáneos.
 
-—Informe de telemetría de Darmstadt y del Centro Espacial Johnson —leyó un oficial de comunicaciones de la ONU con la voz quebrada por el cansancio—. Las constelaciones comerciales en banda ancha han dejado de responder. El flujo de protones solares no filtrados está provocando fallos por evento único (*Single Event Upsets*) a un ritmo de cientos por minuto en las memorias de a bordo. Los ordenadores entran en bucles de reinicio continuo.
+—La radiación los está friendo por dentro —añadió Sarah, señalando la muerte de los enlaces de datos—. No hace falta fuego: las partículas atómicas cruzan el silicio y queman las pistas microscópicas como si les metieran un rayo en miniatura a cada microchip. Se quedan ciegos y mudos en cuestión de segundos.
 
-—No son solo las memorias —añadió Sarah, proyectando en la subpantalla una simulación a nivel de silicio—. Los transistores de potencia de los controladores de carga están sufriendo *Single Event Latchups*. Cortocircuitos internos parásitos en las uniones CMOS. La corriente de alimentación se dispara, los microchips alcanzan temperaturas de fusión y las pistas internas de cobre se evaporan en nanosegundos. Se están quemando vivos por dentro.
+—Y el aire los está frenando a golpes —apuntó Thomas, señalando las curvas de frenado—. Miren los perfiles de descenso.
 
-—Y el arrastre aerodinámico los está estrangulando —apuntó Thomas, señalando la curva de frenado—. Miren el ángulo de ataque.
+Al perder la orientación y quedar sus procesadores fritos, los satélites habían comenzado a rotar sin gobierno sobre sus tres ejes. Sus enormes paneles solares, diseñados para cortar el vacío con el canto afilado hacia el frente, ofrecían ahora toda su superficie de plano contra una atmósfera expandida cientos de kilómetros hacia el espacio. El rozamiento actuaba como una lija implacable a veintiocho mil kilómetros por hora.
 
-Al saturarse las ruedas de inercia y morir los procesadores del sistema de control de actitud (ADCS), los satélites habían comenzado a rotar sin gobierno sobre sus tres ejes (*tumbling* caótico). Sus inmensos paneles solares fotovoltaicos, diseñados para cortar el vacío con el canto orientado hacia el vector de avance, giraban ahora de plano, ofreciendo superficies de hasta cincuenta metros cuadrados contra una atmósfera termosférica que se había expandido verticalmente cientos de kilómetros.
+—El plan de frenado de emergencia hacia el océano Pacífico está fracasando en tiempo real —informó Thomas a Ramos—. Para evitar que cayeran sobre tierra firme, el protocolo ordenaba encender motores y estrellarlos de forma controlada en el Punto Nemo, la zona más remota del océano. Pero las órdenes no llegan o los motores se bloquean a medio impulso por culpa de los circuitos quemados. Docenas de trayectorias se están desviando hacia zonas continentales pobladas.
 
-La fuerza de arrastre aerodinámico, multiplicada por cincuenta debido al calentamiento del aire neutro, actuaba como una lija colosal a veintiocho mil kilómetros por hora.
+En la pantalla mural, varias líneas descendentes viraron al rojo sangre, proyectando conos de impacto sobre Europa, Asia y Norteamérica.
 
-—El plan de contingencia de desorbitado seguro está colapsando en tiempo real —informó Thomas a Ramos, mientras sus dedos señalaban la cuenca del océano Pacífico—. El protocolo exigía que cada operador ejecutara un encendido retrógrado de emergencia para forzar el reingreso sobre el Polo Oceánico de Inaccesibilidad, en el Punto Nemo, lejos de cualquier costa. Pero los paquetes de telecomando están llegando corruptos por las tormentas de radiación. En los satélites que sí recibieron la orden, los transistores de las electroválvulas de hidracina se han quedado soldados por sobrecalentamiento. Los motores se apagan a medio impulso o disparan de forma asimétrica.
+Vassily Ramos se inclinó hacia delante con el ceño fruncido, abrumado por el mapa:
+—Thomas, acláreme esto de forma directa. Escucho hablar de miles de objetos y toneladas precipitándose, pero necesito entender a qué nos enfrentamos exactamente en la superficie. ¿Qué es lo que está cayendo del cielo? ¿Son los satélites modernos que teníamos trabajando hasta ayer, o toda esa basura espacial que llevamos más de medio siglo acumulando allí arriba?
 
-En el mapa táctico, decenas de líneas elípticas de reentrada rompieron el corredor previsto del Pacífico Sur. Vectores de trayectoria descendente, marcados en rojo sangre, comenzaron a proyectar sus conos de dispersión balística (*footprints*) a través de los continentes: sobre el mar del Norte, el arco mediterráneo, el centro de Norteamérica y el sudeste asiático.
+Thomas respiró hondo y miró al Secretario General con pedagógica franqueza:
+—Las dos cosas, señor Secretario General. Y ese es el verdadero desastre.
 
-—Doctor Pleh —preguntó Ramos, enderezándose en su silla con el rostro lívido—. ¿Cuánta masa tenemos en trayectoria de reentrada incontrolada en las próximas cuarenta y ocho horas?
+Wright señaló con el dedo dos sectores diferenciados en el mapa táctico:
+—Por un lado, tenemos la red viva: los miles de satélites operativos que sostenían nuestra civilización digital, desde el internet de banda ancha hasta los satélites espía. Esos acaban de morir calcinados por la radiación, han perdido el timón y el aire hinchado los arrastra hacia abajo. Pero por otro lado, está el desván olvidado de la humanidad: más de sesenta años de carrera espacial acumulando chatarra inerte en silencio. Etapas enteras de cohetes gastados, tanques vacíos, satélites espía soviéticos y estadounidenses apagados desde los años setenta... Todo eso flotaba en el vacío porque antes casi no había fricción atmosférica que lo frenara.
 
-La voz de la SIA resonó con su habitual precisión quirúrgica:
-—Siete mil cuatrocientas toneladas métricas de material artificial en LEO han cruzado el perigeo crítico por debajo de los doscientos veinte kilómetros. Trescientas ochenta naves pesadas de teleobservación, cuarenta y dos etapas superiores de cohetes criogénicos y seis mil pequeños satélites en enjambre reentrarán en la atmósfera densa antes de las setenta y dos horas del evento.
+—Y ahora la atmósfera ha subido —intervino Jean-Luc con gravedad cartesiana.
 
-—La mayor parte se desintegrará por fricción —dijo Girard, intentando apelar a la física elemental—. El aluminio, los paneles de silicio y las resinas compuestas arden a ochocientos grados en el choque de plasma.
+—Exacto —asintió Thomas—. La alta atmósfera se ha calentado con el Sol y ha subido como la espuma en una olla. Lo que antes era espacio casi vacío ahora es un muro de gas espeso. Y ese muro actúa como un rastrillo colosal que lo barre todo a la vez: atrapa a los satélites nuevos que acaban de morir y atrapa a los esqueletos metálicos de hace cuarenta años. No distingue entre tecnología punta y chatarra histórica. Se lo está llevando todo por delante en una sola avalancha.
 
-—Los tanques de combustible no, Jean-Luc —le atajó Thomas, con voz sorda—. Ni los rotores de tungsteno. Ni los motores de Inconel. El titanio no se funde hasta los mil seiscientos sesenta y ocho grados. Las esferas de combustible y presurización de helio cruzarán la barrera térmica enteras. Y caerán al suelo como munición de artillería pesada.
+Ramos palideció, asimilando la dimensión del fenómeno:
+—¿Y qué ocurre con las constelaciones lejanas? ¿El sistema de navegación GPS? ¿Las telecomunicaciones intercontinentales de órbita alta?
+
+—Esos no van a caer jamás a la Tierra —aclaró Thomas con serenidad didáctica—. El GPS orbita a veinte mil kilómetros de distancia; los satélites geoestacionarios, a casi treinta y seis mil. A esa distancia no hay atmósfera que los frene, ni ahora ni dentro de diez mil años. La radiación los ha frito igualmente; son bloques de metal y silicio completamente muertos, pero seguirán dando vueltas alrededor del planeta durante millones de años como ataúdes flotantes. Lo que nos está cayendo encima es única y exclusivamente la órbita baja: el patio trasero de nuestra propia casa.
+
+—Doctor Pleh —preguntó Ramos con la voz templada por el choque de la revelación—. ¿Cuánta masa en total tenemos en esa avalancha hacia la superficie?
+
+La voz de la SIA resonó con precisión milimétrica:
+—Siete mil cuatrocientas toneladas métricas de material artificial. Trescientas ochenta naves pesadas de teleobservación, cuarenta y dos etapas superiores de cohetes de misiones pasadas y más de seis mil satélites en enjambre cruzarán la atmósfera densa antes de setenta y dos horas.
+
+—La inmensa mayoría arderá en el cielo —apuntó Girard—. El aluminio de las carcasas, los paneles solares y el cableado se desintegran por fricción a más de mil quinientos grados.
+
+—La mayoría sí, Jean-Luc, pero no todo —replicó Thomas, señalando los esquemas estructurales—. Los tanques esféricos de titanio donde se almacena el combustible aguantan más de mil seiscientos grados sin derretirse. Los bloques macizos de acero y los motores de aleaciones pesadas cruzan la bola de fuego prácticamente intactos. Esas piezas no se vaporizan: llegan al suelo a cuatrocientos kilómetros por hora como proyectiles de artillería pesada.
 
 ***
 
@@ -125,9 +139,9 @@ En la sala táctica de la ONU, la tensión llegó al límite de la resistencia h
 
 —¡Impacto confirmado en el mar del Norte! —gritó un operador militar británico—. Un satélite de reconocimiento radar de tres toneladas ha caído en aguas abiertas a ochenta kilómetros de Aberdeen. Sin daños en plataformas petrolíferas.
 
-—¡Reentrada en el sector cuatro! —advirtió Sarah, señalando una traza roja parpadeante que descendía en picado sobre la costa del Golfo Pérsico—. Es un satélite geoestacionario de comunicaciones de última generación que quedó atrapado en una elipse de transferencia baja. Coeficiente balístico altísimo: el módulo central lleva dos esferas de titanio con cuatrocientos litros de hidracina residual.
+—¡Reentrada en el sector cuatro! —advirtió Sarah, señalando una traza roja parpadeante que descendía en picado sobre la costa del Golfo Pérsico—. Es un satélite pesado de comunicaciones atrapado en órbita baja. Su núcleo lleva dos esferas de titanio macizo con cuatrocientos litros de combustible: hidracina pura.
 
-—Cono de dispersión proyectado: complejo de refinado de Ras Tanura —anunció Pleh, superponiendo una elipse roja sobre la península arábiga—. Probabilidad de impacto en superficie terrestre: noventa y cuatro por ciento. Si el contenedor se rompe a velocidad terminal, el aerosol de hidracina generará una pluma tóxica letal en un radio de dos kilómetros.
+—Cono de dispersión proyectado: complejo de refinado de Ras Tanura —anunció Pleh, superponiendo una elipse roja sobre la península arábiga—. Probabilidad de impacto en tierra firme: noventa y cuatro por ciento. Si los contenedores de titanio se rompen al estrellarse, la hidracina liberará una nube química letal en dos kilómetros a la redonda.
 
 Vassily Ramos tomó el auricular de la línea roja con el Mando Central de Defensa:
 —General Al-Mansoor, aquí el Secretario General de las Naciones Unidas. Tienen un vector balístico hostil no identificado en reentrada terminal. Autorizo la apertura de fuego con baterías de defensa exoatmosférica.
