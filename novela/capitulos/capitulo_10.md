@@ -203,7 +203,7 @@ El aire se congeló en el pecho de Sarah.
 
 En Nellis, a doscientos metros bajo la roca volcánica del desierto, cientos de ingenieros y técnicos trabajaban día y noche contra reloj mecanizando los sellos de bronce, las válvulas de nitrógeno y los periscopios de cuarzo del Módulo de Ataque Analógico. Una detonación cinética de dieciocho toneladas a quinientos kilómetros por hora en superficie no solo perforaría los túneles de ventilación industrial: el colapso sísmico clausuraría la caverna para siempre, sepultando la única nave capaz de viajar a L1.
 
-—Secretario General —la voz de Pleh sonó con una urgencia matemática implacable—. Las baterías de interceptores terrestres de largo alcance en Vandenberg están agotadas tras defender San Francisco y Seattle. Nellis solo dispone de misiles *THAAD* de corto alcance en la baja atmósfera. Si la masa de berilio y titanio desciende por debajo de los cincuenta kilómetros, el choque cinético descalabrará los túneles subterráneos de ventilación de Nellis.
+—Secretario General —la voz de Pleh sonó con una urgencia matemática implacable—. Las baterías de interceptores terrestres de largo alcance en Vandenberg están agotadas tras defender San Francisco y Seattle. Nellis solo dispone en superficie de una batería de defensa de punto con misiles *Patriot PAC-3 MSE*. Si la masa de berilio y titanio desciende por debajo de los cincuenta kilómetros, el choque cinético descalabrará los túneles subterráneos de ventilación de Nellis.
 
 Ramos se giró hacia el almirante Vance con los ojos encendidos por una determinación feroz:
 —Almirante Vance: si Nellis cae, la especie humana no saldrá jamás de este planeta. No podemos permitir que esa mole toque el suelo de Nevada bajo ninguna circunstancia. Tiene mi autorización ejecutiva plena. Ordene al crucero *USS Lake Erie* en el golfo de California vaciar su silo proel de inmediato. ¡Salven esa base!
@@ -216,13 +216,87 @@ A cuatrocientos kilómetros al suroeste, en las aguas templadas del golfo de Cal
 En la Sala B-4, nadie respiraba. Sarah sintió los dedos de Thomas buscar los suyos; ambos entrelazaron sus manos con una fuerza desesperada, con los nudillos blancos, clavando la vista en el cronómetro de intercepción balística que descontaba los últimos segundos en la pantalla táctica:  
 *Doce... ocho... cuatro... dos...*
 
-A ciento quince kilómetros sobre las cordilleras desiertas de Nevada, en el límite exacto donde el aire comienza a ser espacio puro, el sensor infrarrojo criogénico del primer interceptor adquirió la estela ardiente de las dieciocho toneladas de berilio. El impacto cinético cuerpo a cuerpo (*Hit-to-Kill*) fue total.
+A ciento quince kilómetros sobre las cordilleras desiertas de Nevada, en el umbral exacto donde el aire enrarecido comenzaba a hervir por la expansión termosférica, los dos proyectiles liberaron sus Vehículos de Muerte Cinética. 
 
-La pantalla destelló en blanco puro. La onda de dispersión confirmó que la mole metálica había sido triturada en fragmentos de menos de dos centímetros, consumiéndose instantáneamente en una cascada de estrellas fugaces incandescentes que se disiparon en la alta atmósfera sobre el desierto deshabitado.
+Pero la atmósfera no era la de un ensayo militar en tiempos de paz.
 
-—Impacto positivo confirmado a ciento doce kilómetros —cantó el oficial con un grito que quebró la disciplina militar—. El satélite ha sido desintegrado. ¡El complejo de Nellis no ha sufrido daños! ¡Repito: Nellis está intacto!
+El primer interceptor cruzó una bolsa de gas sobrecalentado; el gradiente térmico imprevisto descalibró la ventana criogénica de su sensor infrarrojo. El sistema de guiado corrigió a destiempo y el proyectil pasó de largo a cuatrocientos metros del blanco, perdiéndose como una exhalación inútil en la negrura del espacio.
 
-Sarah dejó escapar un sollozo ahogado y enterró el rostro en el pecho de Thomas. Él la rodeó con ambos brazos con una firmeza protectora e inequívoca, besándole suavemente el cabello ante la mirada serena y comprensiva de Girard y la discreta señal de la cruz que Ramos trazó sobre su propio pecho. 
+—¡Fallo en interceptor uno! —cantó la oficial de comunicaciones con la voz estrangulada—. ¡Paso de largo! ¡Repito, vehículo uno perdido!
+
+Un escalofrío de muerte recorrió la espina dorsal de Girard. Sarah apretó los dedos de Thomas con tanta fuerza que le clavó las uñas.
+
+El segundo interceptor adquirió la firma ardiente a ciento ocho kilómetros de altitud. Encendió sus microtoberas de control de actitud en una danza espasmódica y embistió la mole a diez kilómetros por segundo. 
+
+Hubo un destello cegador en el videowall. Sin embargo, no fue la pulverización simétrica que todos rezaban por ver. 
+
+El impacto no fue frontal: fue un golpe oblicuo y rasante contra la sección de popa del satélite. La formidable energía cinética arrancó las alas solares de cuarzo y desintegró la estructura de aluminio del fuselaje en un vendaval de chispas, pero los dos componentes más densos y letales del ingenio militar permanecieron intactos: el gigantesco bloque cóncavo del **espejo de berilio macizo de dos coma cuatro metros** y dos de los tanques esféricos de titanio. Desviados violentamente de su trayectoria inicial, aquellos proyectiles incandescentes de varias toneladas continuaron cayendo a través de la estratosfera a Mach 9, envueltos en un cascarón de plasma naranja que apuntaba directamente hacia el valle de Nellis.
+
+—¡Impacto parcial! —gritó el enlace militar—. ¡El blanco no ha sido destruido! Masa residual en descenso descontrolado. Altitud: cuarenta y dos kilómetros. ¡Tiempo para el impacto en tierra: cuarenta y cinco segundos!
+
+—¡Dios eterno! —exclamó Ramos, aferrándose al borde de la mesa con los nudillos lívidos—. ¡Almirante, haga algo!
+
+—¡Activando batería Patriot de Nellis! —rugió Vance, inclinándose sobre su consola táctica—. Canal de fuego enlazado con la batería Bravo del 2.º Batallón de Artillería de Defensa Aérea. ¡Transmitan telemetría del radar MPQ-65 a esta sala ya!
+
+En la pantalla central apareció el gráfico balístico de la defensa terminal de Nellis. El radar de matriz en fase escaneaba el cielo del desierto con pulsos de milisegundos, proyectando la elipse de dispersión de los restos.
+
+—¡Desvío y filtrado completados! —anunció Thomas, descifrando los vectores con rapidez vertiginosa—. ¡Sarah, mira la parábola! El impacto del misil naval desvió el vector principal siete grados al noreste. La masa del espejo de berilio y los tanques de titanio no caerán sobre los hangares del MAA: pasarán de largo e impactarán en el lecho baldío del desierto, a **cuatro kilómetros al norte del perímetro de la base**.
+
+—¿Cuatro kilómetros? —bramó Vance por el micrófono de enlace—. ¡Coronel Miller, evalúe criterio de disparo de la batería Patriot! ¿Lanzamos salva completa o aguantamos?
+
+Desde el búnker de tiro en Nevada, la voz del oficial de la batería Patriot llegó entrecortada por la estática de la reentrada:
+—*¡Negativo a salva general, Almirante! Si interceptamos ese bloque de berilio a quince kilómetros con metralla fragmentaria, pulverizaremos el metal en el aire y la onda expansiva lloverá sobre toda la base. Si la trayectoria va al desierto baldío, ¡es más seguro dejar que se estrelle contra la arena! Pero esperen... ¡tenemos una escisión aerodinámica! ¡Repito, escisión a treinta kilómetros!*
+
+En el radar, un eco secundario se desprendió bruscamente de la nube principal. Uno de los soportes estructurales de titanio, al alabearse por el calor abrasador, había generado una fuerza de sustentación asimétrica. Guiado por un planeo errático y letal, el fragmento de seiscientos kilos había virado de rumbo y caía en barrena vertical directamente hacia los respiraderos de ventilación del búnker sur de Nellis.
+
+—¡Ese fragmento va directo a las tomas de aire del MAA! —gritó Sarah, con los ojos desorbitados—. ¡Si revienta los conductos, los técnicos se asfixiarán bajo tierra!
+
+—¡Batería Patriot Bravo, intercepción de contingencia selectiva! —bramó Vance sin dudar un instante—. ¡Disparen un PAC-3 MSE contra el blanco secundario! ¡Fuego!
+
+En el suelo de Nevada, a la sombra de los hangares en penumbra, uno de los tubos del lanzador cuádruple M903 escupió una llamarada ensordecedora. El misil **MIM-104 Patriot PAC-3 MSE** despegó con una aceleración atroz, rugiendo hacia la estratosfera propulsado por su motor de dos etapas. A veinticinco kilómetros de altitud, guiado por su radar activo milimétrico y corrigiendo la trayectoria mediante los ciento ochenta micromotores de combustible sólido de su anillo frontal, el misil impactó cuerpo a cuerpo (*Hit-to-Kill*) contra el fragmento de titanio.
+
+Una detonación sorda brilló en la cota de veinticinco mil metros. El bloque de titanio quedó pulverizado en fragmentos del tamaño de monedas que se dispersaron inofensivamente en la alta atmósfera.
+
+Quince segundos después, el núcleo principal cruzó el cielo bajo.
+
+A cuatro kilómetros al norte de la base de Nellis, en una llanura desierta de caliche y roca volcánica, el bloque de berilio macizo y los tanques de titanio chocaron contra el suelo a mil doscientos kilómetros por hora.
+
+La sacudida sísmica registró una magnitud de 3,8 en los sismógrafos de Las Vegas. En la Sala B-4, las pantallas mostraron la señal de las cámaras perimetrales de Nellis: una llamarada colosal de polvo, roca pulverizada y fragmentos metálicos incandescentes se elevó cincuenta metros en el aire nocturno, esculpiendo un cráter humeante en la soledad del desierto.
+
+Las infraestructuras de la base, los hangares de superficie y los túneles subterráneos del MAA permanecieron intactos. La onda de choque sónica golpeó los muros exteriores como un portazo telúrico lejano, sin agrietar una sola viga ni quebrar un solo conducto de los niveles profundos.
+
+—¡Impacto en tierra a cuatro kilómetros de la base! —cantó la oficial de guardia militar, conteniendo el llanto—. ¡Cero daños mecánicos en el complejo de ensamblaje! ¡El hangar del MAA reporta integridad estructural al cien por cien!
+
+Un murmullo de alivio comenzó a extenderse por la sala, pero se congeló al instante cuando una alarma acústica de tono agudo y estridente comenzó a aullar en la consola de telemetría ambiental de la ONU.
+
+En el monitor meteorológico de Nellis, una mancha de color púrpura comenzó a expandirse desde el cráter exterior.
+
+—¡Alarma química de superficie! —gritó Sarah, abalanzándose sobre los datos atmosféricos con el rostro desencajado—. ¡El berilio! El impacto cinético a mil grados ha pulverizado el espejo contra la roca caliza. Tenemos una nube de aerosol tóxico: **polvo de óxido de berilio metálico puro en suspensión aérea**.
+
+Vassily Ramos se inclinó sobre la pantalla, desorientado:
+—¿Polvo de berilio? ¿Qué riesgo entraña?
+
+—¡Es un veneno respiratorio atroz, señor Secretario General! —exclamó Sarah con vehemencia implacable—. Si el personal en superficie o los operarios respiran una sola mota microscópica de ese polvo, desencadenará una beriliosis aguda inmediata: inflamación pulmonar fulminante, edema alveolar y muerte por asfixia química en cuestión de horas. ¡Y miren la veleta de la base!
+
+Girard señaló el vector del viento con dedos temblorosos:
+—Viento en superficie del nornoroeste a quince nudos... Sopla directamente desde el cráter hacia la pista y los fosos de entrada de Nellis. La pluma química llegará al perímetro en **seis minutos**.
+
+Vance agarró el micrófono de mando con una ferocidad salvaje, transmitiendo la directriz con autoridad absoluta:
+—¡Mando de Nellis, aquí Vance! ¡Alarma roja NBQ! Decretada contingencia MOPP-4 inmediata en toda la instalación. ¡Cierren de inmediato las compuertas de admisión exterior de aire! ¡Conmuten la ventilación de los búnkeres a circuito cerrado con filtros de carbón activado y catalizadores químicos! ¡Nadie sale al exterior sin traje hermético y máscara de presión positiva! ¡Sellado hermético de los talleres del MAA ya, ya, ya!
+
+A miles de kilómetros de distancia, las sirenas de evacuación química aullaron en la noche de Nevada. En los túneles subterráneos, los técnicos cerraron las compuertas blindadas de diez toneladas con un chasquido hidráulico neumático, aislando los talleres de montaje en una burbuja sellada y presurizada con botellas de oxígeno puro.
+
+Tres minutos después, una nube blanquecina, densa y fantasmal como humo de caliza barrió la pista de aterrizaje de Nellis, cubriendo los cazas vacíos y las torres de radar antes de disiparse lentamente hacia el sur del valle.
+
+En los monitores de la Sala B-4, los sensores de toxicidad en el interior de los túneles marcaron cero partes por millón. La barrera de filtros y compuertas había resistido. El aire subterráneo seguía puro.
+
+—Nellis sellado al cien por cien —confirmó el oficial de transmisiones, dejándose caer contra el respaldo de su asiento, exhausto—. La nube química ha pasado sobre la base sin penetrar en las galerías. Los ingenieros y el chasis del MAA están a salvo.
+
+El silencio que siguió en el búnker de la ONU fue tan profundo que solo se escuchaba el murmullo de los ventiladores.
+
+Sarah se quedó inmóvil frente a la pantalla. De pronto, sus piernas cedieron ante la descarga brutal de adrenalina acumulada. Thomas la sostuvo en el aire antes de que cayera al suelo, atrayéndola con firmeza hacia su pecho. Sarah enterró el rostro en su chaqueta de lana, rompiendo en un llanto contenido y silencioso que sacudió sus hombros. Thomas la rodeó con ambos brazos, cerrando los ojos mientras le besaba suavemente la coronilla, susurrándole al oído palabras de consuelo que solo ella pudo escuchar.
+
+A dos metros de distancia, Jean-Luc Girard los contempló en silencio, ajustándose las gafas con una mano que por primera vez en muchas horas no temblaba. El físico francés cruzó una mirada con Vassily Ramos; el Secretario General asintió con una gravedad dulce y paternal, mientras trazaba discretamente la señal de la cruz sobre su pecho en una silenciosa plegaria de gratitud.
 
 La nave de la humanidad seguía viva.
 

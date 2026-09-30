@@ -72,16 +72,23 @@
 
 ## 📍 Escena 5: El Asedio de Nellis (23:10 UTC, 23 de noviembre | T+65 horas)
 - **Tiempo:** Noche del tercer día tras el colapso.
-- **Ubicación:** Sala B-4 y enlace militar con la flota del Pacífico.
-- **Personajes:** Vassily Ramos, Jean-Luc Girard, Thomas Wright, Sarah Lin, Pleh; Almirante Vance (en la B-4) y enlace con el crucero *USS Lake Erie*.
-- **Conflicto:** La amenaza directa de un satélite espía pesado sobre el hangar subterráneo donde se mecaniza la nave analógica salvadora.
+- **Ubicación:** Sala B-4, enlace con el crucero *USS Lake Erie* y puesto de mando de la batería Patriot en Nellis (Nevada).
+- **Personajes:** Vassily Ramos, Jean-Luc Girard, Thomas Wright, Sarah Lin, Pleh; Almirante Vance (en la B-4) y enlace militar con Nevada.
+- **Conflicto:** La amenaza directa de un satélite espía pesado sobre el hangar subterráneo donde se mecaniza la nave analógica salvadora; fallo inicial de interceptores y defensa terminal de contingencia.
 - **Acción:**
   - El apogeo de la reentrada masiva: bólidos multicolores cruzando cielos urbanos a Mach 25 con estampidos sónicos triples.
   - Impacto de un rotor de 300 kg de un *Meteor-3* en Oldemburgo (Alemania), perforando una fábrica evacuada. Salvas rusas *S-500* y chinas *DN-3*.
   - **La Alarma Suprema:** Satélite espía militar de la serie *Keyhole* (18 toneladas, espejo de berilio de 2,4 m y 4 esferas de titanio) en rumbo de colisión directa contra la base aérea de Nellis (Nevada), a 11 km del búnker del MAA.
   - Pleh advierte que si la masa desciende de 50 km, el impacto cinético descalabrará los túneles subterráneos de ventilación y sepultará el MAA.
-  - Ramos da la directriz ejecutiva suprema al Almirante Vance para salvar la base cueste lo que cueste; Vance ordena al crucero *USS Lake Erie* en el golfo de California disparar una salva de misiles *SM-3 Block IIA*.
-  - En la Sala B-4, Sarah y Thomas entrelazan sus manos con fuerza en la cuenta atrás. Intercepción a 112 km: pulverización en cascada de polvo incandescente. Nellis intacto. Abrazo protector y beso en el cabello entre Thomas y Sarah presenciado con respeto por Girard y Ramos.
+  - Ramos da la directriz ejecutiva suprema al Almirante Vance para salvar la base cueste lo que cueste; Vance ordena al crucero *USS Lake Erie* en el golfo de California disparar una salva de dos misiles *SM-3 Block IIA*.
+  - **Fallo y Golpe Oblicuo en Exoatmósfera:** En la cuenta atrás, el primer interceptor se descalibra por la turbulencia térmica mesosférica y pasa de largo. El segundo impacta oblicuamente a 108 km: destruye paneles y fuselaje, pero el núcleo macizo del espejo de berilio y los tanques de titanio continúan en descenso hipersónico a Mach 9 hacia Nellis.
+  - **Plan de Defensa Terminal Patriot (Fase Terminal en Nevada):**
+    - *Desvío y Filtrado:* El radar de matriz en fase AN/MPQ-65 de Nellis calcula la trayectoria de la nube principal: el desvío proyecta el impacto a 4 km al norte en desierto baldío.
+    - *Criterio de Disparo:* Se decide no lanzar salva general contra el bloque principal para evitar fragmentar el berilio en el aire y arrojar metralla sobre las pistas.
+    - *Interceptación de Contingencia:* A 30 km, un fragmento angular de titanio de 600 kg sufre sustentación errática hacia los respiraderos del búnker sur del MAA. Vance ordena el disparo de un misil **Patriot PAC-3 MSE** de la batería Bravo, que pulveriza el blanco secundario limpiamente a 25 km de altitud.
+    - *Impacto Sísmico en el Desierto:* El bloque de berilio y tanques de titanio se estrellan contra el desierto baldío a 4 km de la base (sismo de 3,8, cráter focalizado). Hangares e infraestructuras del MAA quedan físicamente intactos.
+    - *Amenaza Química Desplazada y Confinamiento Inmediato:* La fricción y choque a 1.000 °C genera una densa nube de aerosol tóxico de óxido de berilio. Viento norte de 15 nudos la empuja hacia la base en 6 minutos. Vance declara alerta NBQ MOPP-4; compuertas hidráulicas sellan los túneles del MAA y conmutan a circuito cerrado con filtros de carbón activado. Nellis queda a salvo.
+  - Alivio y catarsis afectiva: Sarah colapsa en brazos de Thomas; abrazo protector y beso en el cabello ante la mirada solemne de Girard y la bendición íntima de Ramos. La nave analógica sigue viva.
 
 ---
 
