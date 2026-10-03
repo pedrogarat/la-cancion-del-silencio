@@ -22,6 +22,10 @@
   * **Capítulo 7:** *La Condición Immedible* (4.100 palabras, Acto II: Salto de 10 días, almuerzo íntimo de Sarah y Thomas en Manhattan, llegada conmovida de Girard por sus hijos, reunión confidencial en la Sala B-4 con Vassily Ramos, selección de los 6 astronautas, desconfianza hacia Pleh y rumores de movilización exterior).
   * **Capítulo 8:** *La Gran Mentira* (4.400 palabras, Acto II: Transgresión de Alfa Cero por Girard para alertar a Marie; comparecencia global de Ramos anunciando el falso "Súper Evento Carrington" del 21 de noviembre a las 05:30 UTC y ley marcial energética; dolor moral de Ramos en el descenso a B-4; llamadas familiares de Girard a Julien y de Wright a su hermano David; confesión, reconciliación y llanto de Sarah con su hermana Maya; primer beso entre Thomas y Sarah en la sala de servidores; primer impacto de la histeria global y bolsas colapsadas bajo la mirada de Pleh).
   * **Capítulo 9:** *La Fractura del Orden* (5.400 palabras, Acto II: Días 11 al 15 de octubre de 2026. Estados de excepción globales, suspensión escolar y distribución bajo control militar; oportunismo criminal en la periferia. 1) Versoix: asedio e intento de allanamiento repelido con coraje y astucia técnica por Marie y Julien mediante una trampa electrostática capacitiva. 2) Suffolk: odisea de David Wright, Claire y Oliver por vías rurales esquivando tiroteos en la A14 hasta refugiarse seguros en la casa de campo. 3) San Francisco: Maya Lin batallando contra el síndrome de abstinencia, tentando la recaída en un callejón y recapacitando para abrazar a Toby y resistir juntas. 4) La desescalada: reflexión filosófica sobre la normalización del miedo bajo el engaño solar transitorio; las comunicaciones se restablecen al 75%, permitiendo llamadas familiares reconfortantes con Girard, Wright y Lin en B-4 mientras el cronómetro descuenta 37 días para Fase 1).
+  * **Capítulo 10:** *T=0* (6.800 palabras, Acto II: 21 al 24 de noviembre de 2026. Colapso vertical de la magnetosfera a cero en T=0, hecatombe orbital por calentamiento de la termosfera y desorbitación en cascada, asedio terminal de Nellis frente a la reentrada del satélite espía Keyhole y sellado NBQ MOPP-4, falsa tregua civil bajo el cielo esmeralda).
+- **Códices y Guías Canónicas Editoriales:**
+  * **Códex de Personajes:** [personajes.md](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/novela/personajes.md) y [Personajes_La_Cancion_del_Silencio.pdf](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/Personajes_La_Cancion_del_Silencio.pdf) (y copia en `novela/`).
+  * **Atlas de Localizaciones:** [localizaciones.md](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/novela/localizaciones.md) y [Localizaciones_La_Cancion_del_Silencio.pdf](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/Localizaciones_La_Cancion_del_Silencio.pdf) (y copia en `novela/`).
 - **PDFs Disponibles (Sincronizados en raíz y novela/):**
   * `Capitulo_1_El_Amanecer_de_Alamogordo.pdf`
   * `Capitulo_2_Los_Tres_Hilos_del_Ilusionista.pdf`
@@ -32,6 +36,9 @@
   * `Capitulo_7_La_Condicion_Immedible.pdf`
   * `Capitulo_8_La_Gran_Mentira.pdf`
   * `Capitulo_9_La_Fractura_del_Orden.pdf`
+  * `Capitulo_10_T0.pdf`
+  * `Personajes_La_Cancion_del_Silencio.pdf`
+  * `Localizaciones_La_Cancion_del_Silencio.pdf`
   * `Notas_Cientificas_La_Cancion_del_Silencio.pdf`
   * `La_Cancion_del_Silencio_Cronica_L1.pdf`
   * `Informe_Recapitulacion_y_Auditoria_Coherencia.pdf`
