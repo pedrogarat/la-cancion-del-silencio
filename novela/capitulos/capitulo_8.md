@@ -4,7 +4,7 @@
 *Cabina de comunicaciones seguras C-12, Subsuelo B-4, Sede de la ONU — 10 de octubre de 2026, 09:00 EDT*  
 *Cuenta atrás: Faltan 42 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC)*
 
-El cubículo olía a polímero sintético recién extruido y al ozono estático que desprendían los filtros de blindaje electromagnético. Apenas medía dos metros cuadrados: una silla atornillada al piso técnico de goma, un panel de aislamiento acústico perforado en gris plomo y una consola de fibra óptica con tres diodos ámbar parpadeando en la oscuridad relativa.
+El cubículo olía a polímero sintético recién extruido y al aire ionizado y seco de los filtros de blindaje electromagnético. Apenas medía dos metros cuadrados: una silla atornillada al piso técnico de goma, un panel de aislamiento acústico perforado en gris plomo y una consola de fibra óptica con tres diodos ámbar parpadeando en la oscuridad relativa.
 
 El doctor Jean-Luc Girard tenía los dedos apoyados sobre el teclado analógico de baquelita. Le temblaban de forma casi imperceptible, una anomalía neuromuscular que en cualquier otra circunstancia habría analizado con frío desapego clínico.
 

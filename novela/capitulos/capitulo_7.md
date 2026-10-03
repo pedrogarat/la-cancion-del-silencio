@@ -104,7 +104,7 @@ Al cruzar la puerta del restaurante, el bullicio de Nueva York los golpeó en el
 
 El contraste entre la luz dorada de Manhattan y la penumbra funcional del subsuelo fue inmediato y opresivo.
 
-Tras superar tres controles biométricos y la doble esclusa blindada de la planta B-4, el Comité Científico ingresó en la sala central de operaciones. El aire aquí abajo no olía a otoño ni a café fresco: olía a ozono de circuitos sobrecalentados, plástico nuevo y la sequedad metálica de los filtros de aire de alta eficiencia.
+Tras superar tres controles biométricos y la doble esclusa blindada de la planta B-4, el Comité Científico ingresó en la sala central de operaciones. El aire aquí abajo no olía a otoño ni a café fresco: olía a cobre templado de transformadores, plástico nuevo y la sequedad metálica de los filtros de aire de alta eficiencia.
 
 En las paredes del búnker, cuatro pantallas gigantes proyectaban flujos de datos en permanente actualización: curvas de suministro logístico de titanio desde los yacimientos siberianos y chinos, telemetría de pruebas de vacío criogénico en las instalaciones de la ESA en Noordwijk, y diagramas estructurales del Módulo de Ataque Analógico (MAA) cuyo chasis comenzaba a moldearse en el mayor de los secretos en los astilleros de Nevada.
 

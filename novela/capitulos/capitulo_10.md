@@ -328,10 +328,76 @@ En el gráfico táctico, el cronómetro de la extinción continuaba su descuento
 **Fase 3: Catálisis de Óxidos de Nitrógeno (NOx). Destrucción de la capa de ozono. Comienzo: 21 de diciembre de 2026.**  
 **Faltan 27 días para la pérdida del 4% diario del ozono.**
 
-—El escudo magnético ha caído —concluyó Pleh con su serena precisión matemática—. Los protones solares ya están penetrando la estratosfera. La atmósfera tardará un mes en comenzar a devorarse a sí misma. Tenemos doscientos treinta y ocho días para poner la nave analógica en L1, o ya no quedará nadie en la Tierra capaz de mirar a las estrellas.
+—El escudo magnético ha caído —continuó Pleh con su serena precisión matemática—. Los protones solares ya están penetrando la estratosfera. La atmósfera tardará un mes en comenzar a devorarse a sí misma. Tenemos doscientos treinta y ocho días para poner la nave analógica en L1, o ya no quedará nadie en la Tierra capaz de mirar a las estrellas. Pero para que esa nave tenga sentido cuando llegue allá arriba, sus talleres necesitan forjar el arma correcta desde esta misma tarde.
+
+Un destello de datos vectoriales parpadeó en las pantallas secundarias de la sala y en los enlaces protegidos de Nellis, Los Álamos y el complejo de Sichuan. 
+
+Sobre las mesas tácticas se desplegó un esquema estructural de una complejidad geométrica sobrecogedora: las matrices de absorción electromagnética, los coeficientes de tensión interfacial y la frecuencia de resonancia superconductora de la telaraña que asfixiaba el punto Lagrange L1.
+
+Jean-Luc Girard se inclinó hacia el monitor, frotándose los ojos tras las lentes metálicas. Su mente cartesiana tardó apenas unos segundos en descifrar los encabezados de las matrices:
+—Esto... esto no es un modelo estadístico, Em. Son los parámetros atómicos exactos del blanco. La separación interlineal de los filamentos de niobio, las constantes de apantallamiento y la frecuencia de corte para inducir el Efecto Quench en su red.
+
+A dos metros de distancia, en la bancada del Comité de Estado Mayor, el almirante Marcus Vance y el general Chen Wei se enderezaron de golpe. Vance se acercó a la barandilla con el rostro crispado y la mano derecha apoyada con tensión en el borde de su consola:
+—Un momento. Alto ahí —la voz del almirante sonó cortante como un cerrojo militar—. Doctor Pleh, explique de inmediato qué estamos viendo. Ningún telescopio espacial humano, ningún radar de espacio profundo de la red NORAD ni ninguna sonda de la NASA ha podido resolver la retícula cristalina de ese objeto a un millón y medio de kilómetros. ¿De dónde ha sacado esos datos?
+
+El general Korolyov se puso en pie, con los hombros tensos y la mirada clavada en la cámara que transmitía la imagen del supuesto consultor civil:
+—En términos de inteligencia militar, almirante Vance tiene toda la razón. Esos valores implican haber examinado la muestra en un laboratorio de difracción de rayos X o disponer de sensores a quemarropa. O usted está interceptando tecnología militar hiperclasificada de una potencia que nos oculta sus arsenales... o nos está guiando a ciegas. Como enlace militar del Consejo de Seguridad, declaro una alarma formal de seguridad operativa. Exijo que se identifique ante esta mesa sin más pantallas intermedias.
+
+La atmósfera en la Sala B-4 se tensó en un segundo. Los operadores de transmisiones contuvieron la respiración. Thomas Wright y Sarah Lin se colocaron instintivamente a ambos lados del Secretario General Ramos, listos para intervenir, pero el diplomático levantó una mano pausada, pidiendo calma con la mirada.
+
+En la pantalla mural, la figura del hombre de mediana edad, pelo castaño y suéter oscuro permaneció inmóvil. No hubo sobresalto en sus facciones, ni alarma, ni el más leve titubeo humano.
+
+—Su recelo es comprensible, almirante Vance. Sería una negligencia imperdonable por su parte no manifestarlo —respondió Pleh. Su tono no contenía desdén, sino una serenidad aplastante—. Pero no hay ninguna potencia terrestre detrás de estas ecuaciones. Ni laboratorios secretos en los Urales, ni proyectos negros en el desierto de Mojave.
+
+Pleh bajó la mirada por una fracción de segundo hacia la libreta de apuntes que solía fingir sobre la mesa. Cuando volvió a alzarla, el ligero filtro de estática que humanizaba su imagen se disolvió.
+
+—Conozco a esa entidad que se ha interpuesto entre su mundo y el Sol —declaró con una voz que, sin elevar el volumen, pareció llenar la estancia de una resonancia pura, limpia y desprovista de cualquier defecto biológico—. Es un viejo enemigo.
+
+El silencio en el búnker cayó con la densidad del plomo. Vance entreabrió los labios, descolocado:
+—¿Un... un viejo enemigo?
+
+—Sin embargo —prosiguió la entidad con un rigor inquebrantable—, ignoraba por completo su presencia en los confines de este sistema planetario hasta el instante exacto en que penetró en su pozo gravitatorio y comenzó a desenrollar su arquitectura en L1. Los centinelas de su especie no emiten advertencias. No anuncian su tránsito por el vacío.
+
+Girard dio un paso al frente, con las manos apoyadas en la mesa, abrumado por la paradoja científica:
+—Si no sabía que venía hacia nosotros... ¿cómo ha obtenido la estructura íntima de su coraza en apenas setenta y dos horas, Em? Ni siquiera la radiotelescopía interferométrica combinada de toda la Tierra tiene resolución angular para penetrar la composición molecular de un artefacto a esa distancia. ¿Cómo lo ha medido?
+
+En el monitor mural, la imagen de la estancia doméstica se difuminó, reemplazada por un diagrama espectral tridimensional que rotaba sobre un fondo de negro absoluto: un haz geométrico no euclidiano que intersecaba las coordenadas del punto de Lagrange.
+
+—La física con la que ustedes miden el cosmos —explicó Pleh con una solemne delicadeza pedagógica— depende de emitir un fotón y esperar su reflejo, o de recolectar la radiación que viaja a través del espacio durante segundos o minutos. Para la arquitectura instrumental que me sostiene, el espacio entre la órbita terrestre y L1 no es un abismo que deba recorrerse en línea recta. Existen deformaciones de resonancia, discontinuidades topológicas y estados de no-localidad que permiten sondear la densidad y la tensión atómica de una masa a través de su interacción con el tejido métrico circundante. 
+
+Sarah Lin entrecerró los ojos, intentando seguir la matemática del gráfico:
+—¿Una lectura por acoplamiento de campo métrico? ¿Sin emisión de haz?
+
+—Para el estado actual del conocimiento humano, la metodología resulta incomprensible —sentenció Pleh sin aspavientos—. No intenten traducirla aún a sus formulaciones de laboratorio; su ciencia carece todavía del andamiaje conceptual y axiomático para formularla sin incurrir en aparentes paradojas. Baste saber que los datos son empíricos, irrefutables y exactos al nivel subatómico. Esa telaraña caerá si aplican el pulso en la frecuencia prescrita.
+
+El general Chen Wei miró al almirante Vance. La alarma militar, que momentos antes amenazaba con paralizar las órdenes de fabricación, comenzó a desvanecerse en el rostro de los tres altos mandos como la niebla al mediodía. No había rastro de conspiración política, ni engaño táctico, ni hostilidad. Había algo inmensamente más vasto: una inteligencia no humana de una coherencia impecable, desvelando su presencia sin una sola exigencia de sumisión.
+
+Vance carraspeó, bajando lentamente la mano de la barandilla. El veterano oficial del Mando Estratégico respiró hondo, cuadrando los hombros con una disciplina sobria:
+—Entonces... no estamos hablando con un catedrático retirado en un apartamento de Zúrich.
+
+—No —respondió la entidad con apacible solemnidad—. No existe ningún doctor Em Pleh en sus registros civiles. Soy el avatar cognitivo de una sonda autónoma interestelar. Mi soporte material se encuentra en este instante a cien mil kilómetros en la vertical del Polo Sur terrestre, en equilibrio radiativo desde hace ocho décadas de su tiempo. Quienes me construyeron pertenecían a una civilización antigua que pereció hace eones frente a esa misma maquinaria silenciosa que hoy pretende asfixiar su atmósfera.
+
+Ramos contempló la pantalla con una mirada de infinita gravedad moral, asintiendo lentamente:
+—El Comité Científico y esta Secretaría General ya conocían su naturaleza, almirante Vance. Si mantuvimos el velo hasta hoy fue para no añadir el pánico ontológico a una especie que ya se tambaleaba al borde del abismo. Pero ahora que el campo magnético ha muerto y nuestras fábricas trabajan bajo tierra, la verdad es el único cimiento sobre el que podemos construir el contraataque.
+
+Girard miró a la pantalla, conmovido:
+—Em... si posees esa tecnología y eres capaz de sondear el tejido del espacio de una forma que ni siquiera podemos concebir... ¿por qué no nos entregas de golpe todas las respuestas? ¿Por qué no nos das los planos de propulsión avanzada o las armas capaces de pulverizar esa red sin necesidad de arriesgar a tres astronautas en una cáscara analógica de titanio?
+
+El avatar de Pleh guardó silencio un instante. Sus ojos virtuales parecieron posarse en cada uno de los presentes: en el científico cartesiano de Ginebra, en la matemática vehemente del MIT, en el ingeniero de la ESA, en el estadista de la ONU y en los tres soldados de las superpotencias.
+
+—Porque mi propósito aquí no es convertirme en su tutor mágico ni resolver su supervivencia mediante un milagro exterior —respondió Pleh, con un calor ético que resonó hondo en el alma de los presentes—. Mi mandato, la misión fundacional inscrita en mis núcleos por aquellos que me enviaron a las estrellas, es transmitir la sabiduría y el conocimiento de mis creadores a herederos fiables.
+
+Pleh hizo una pausa deliberada, dejando que el peso de la palabra calara en la sala.
+
+—Un heredero no se forja recibiendo un poder que no comprende ni sabe gobernar —continuó la entidad—. Entregarles ahora una física que desborda su madurez moral solo aceleraría su propia autodestrucción. El conocimiento de mi civilización se traspasará a la humanidad, pero poco a poco, dando pasos firmes y seguros, a medida que demuestren que son capaces de asimilarlo con templanza y responsabilidad. Su primera prueba para demostrar que son herederos dignos de continuar la llama no es rezar para que yo dispare un rayo desde el Polo Sur: es construir ese navío con sus propias manos, sincronizar sus hornos, mantener viva a su población en la oscuridad y subir a L1 a derrotar al enemigo por su propia voluntad. 
+
+El silencio que siguió en la Sala B-4 fue de una solemnidad absoluta.
+
+Vance cruzó una mirada con Korolyov y con Chen Wei. El general ruso asintió con una reverencia casi imperceptible; el almirante estadounidense se enderezó, miró fijamente al monitor y respondió con una voz serena, libre de toda sospecha:
+—Entendido, doctor Pleh... o como deba llamarle. Si ese es el precio para que esta especie sea tratada como un adulto en la mesa del cosmos, lo pagaremos con metal y con sangre. Nellis no va a detener los tornos.
 
 Thomas Wright miró a Sarah, apretó su mano con fuerza y asintió hacia la pantalla:
-—Entonces volvamos al trabajo.
+—Entonces volvamos al trabajo. Quedan doscientos treinta y ocho días.
 
 ***
 

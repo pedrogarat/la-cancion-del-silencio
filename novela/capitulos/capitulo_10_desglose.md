@@ -92,15 +92,21 @@
 
 ---
 
-## 📍 Escena 6: El Silencio del Vacío y el Umbral de Fase 3 (12:00 UTC, 24 de noviembre | T+78 horas)
+## 📍 Escena 6: El Silencio del Vacío y la Revelación del Guardián (12:00 UTC, 24 de noviembre | T+78 horas)
 - **Tiempo:** Mediodía del 24 de noviembre de 2026.
 - **Ubicación:** Sala B-4.
-- **Personajes:** Girard, Sarah, Wright, Ramos, Pleh.
+- **Personajes:** Girard, Sarah, Wright, Ramos, Pleh; Almirante Vance, General Korolyov, General Chen Wei.
 - **Resolución:**
   - La lluvia de chatarra espacial cesa por completo: la órbita baja (LEO) ha quedado barrida y limpia.
   - Balance de daños: 60 años de civilización digital borrados del cielo, pero industrias clave y vidas familiares a salvo. La brújula marina de Girard sigue inmóvil a 40° de desvío.
-  - Pleh actualiza el cronómetro inexorable: faltan 27 días para el 21 de diciembre (Fase 3: catálisis de NOx y destrucción acelerada del ozono). Faltan 238 días para el límite de la ventana industrial.
-  - Thomas y Sarah, unidos en un pacto inquebrantable de supervivencia, sellan el compromiso del grupo: volver a los talleres analógicos para salvar a la especie humana.
+  - Pleh actualiza el cronómetro: faltan 27 días para la Fase 3 (catálisis de NOx y destrucción acelerada del ozono). Faltan 238 días para el límite de la ventana industrial.
+  - **Entrega de especificaciones críticas:** Pleh despliega las matrices atómicas y frecuencias de corte para inducir el Efecto Quench en la red superconductora de L1.
+  - **Alarma militar:** Vance y Korolyov detectan que los datos exigen resolución subatómica a 1,5 millones de km; surge una alarma formal de seguridad operativa ante el temor de una infiltración o engaño tecnológico.
+  - **El Destape de Pleh:** Pleh abandona su fachada civil; revela que la entidad de L1 es un "viejo enemigo" de sus creadores, aunque aclara tajantemente que ignoraba su presencia en este sistema hasta que se situó en L1.
+  - **La Física Incomprensible:** Explica que su medición no requirió fotones en línea recta sino acoplamientos topológicos del espacio métrico, un método incomprensible e intraducible para el estado axiomático actual de la física humana.
+  - **Disipación de la desconfianza militar:** La majestad lógica, transparencia y coherencia de Pleh desvanecen la alarma; Vance y los generales asumen la trascendencia del momento con respeto solemne.
+  - **La Misión y los Herederos Fiables:** Pleh proclama que su mandato es traspasar el conocimiento y sabiduría de sus creadores a herederos fiables, pero poco a poco, dando pasos firmes y seguros según la madurez moral de la humanidad, cuya primera prueba ineludible es forjar su propia nave y defenderse por sí misma.
+  - Thomas, Sarah, Girard, Ramos y los mandos militares sellan el pacto: volver a los talleres analógicos de Nellis y Sichuan. Quedan 238 días.
 
 ---
 

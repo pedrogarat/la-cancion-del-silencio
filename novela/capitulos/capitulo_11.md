@@ -7,7 +7,7 @@
 
 ***
 
-En el nivel más profundo de la Primera Avenida, el aire olía a aislamiento forzado, a ozono residual de los filtros de ventilación y a la sequedad fría de las pantallas encendidas las veinticuatro horas. 
+En el nivel más profundo de la Primera Avenida, el aire olía a aislamiento forzado, a polvo fino retenido en las mallas de carbón activo y a la sequedad fría de las pantallas encendidas las veinticuatro horas. 
 
 Sobre el videowall central, el mapa del mundo continuaba teñido por una calma engañosa. Allá afuera, en la superficie, la humanidad creía haber dejado atrás lo peor de una tormenta solar monstruosa; en las capitales de Europa y América, los ingenieros de guardia tendían cables de emergencia por las calles desiertas y los gobiernos racionaban la energía para el invierno. Pero en el búnker subterráneo de la ONU nadie dormía más de cuatro horas seguidas. El cronómetro en fósforo verde no daba tregua: dieciocho días para que los protones solares comenzaran a devorar la capa de ozono.
 

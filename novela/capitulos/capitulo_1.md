@@ -4,7 +4,7 @@
 *02:35 AM — 16 de julio de 1945*  
 *Paraje de Jornada del Muerto, Desierto de Alamogordo, Nuevo México*
 
-El viento del desierto arrastraba un hedor espeso a creosota mojada y ozono quemado. 
+El viento del desierto arrastraba un hedor espeso a creosota mojada, tierra calcinada y lluvia tibia evaporándose sobre la roca. 
 
 En lo alto de la torre de acero de treinta metros, la estructura gemía bajo las ráfagas de una tormenta que nadie había previsto en los partes meteorológicos. El doctor David Miller se sujetó con una mano enguantada a la barandilla de hierro empapada, mientras con la otra sostenía una linterna militar cuyo haz temblaba sobre el vientre de la bestia.
 

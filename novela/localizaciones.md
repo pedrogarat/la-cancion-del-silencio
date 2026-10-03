@@ -78,7 +78,7 @@
   - **Puesto de Telemetría de Em Pleh:** Gran pantalla mural donde se manifiesta el canal de comunicación telemática del Avatar a través de una interfaz sobria.
   - **Área de Descanso y Catres:** Cubículos mínimos donde Sarah, Thomas y Jean-Luc pernoctan en vigilias interminables.
   - **Sala de Servidores Criogénicos:** Espacio de máquinas refrigeradas donde Thomas y Sarah comparten su primer beso y confiesan sus miedos y afectos íntimos (Capítulo 8).
-  - Atmósfera cargada de café recalentado, ozono de los relés, rumor de ventiladores y luz blanca difusa de paneles LED de espectro continuo.
+  - Atmósfera cargada de café recalentado, baquelita tibia de los relés, rumor de ventiladores y luz blanca difusa de paneles LED de espectro continuo.
 - **Relevancia Dramática:**
   - **Capítulos 4 a 10:** Corazón indiscutible de la resistencia humana. Sede permanente de trabajo conjunto entre el Comité Científico (Lin, Wright, Girard), el Secretario General Ramos y los mandos militares (Vance, Korolyov, Chen Wei).
   - **Capítulo 10:** Centro de control de la vigilia en T=0, donde la brújula marina de Girard muere y se autoriza el fuego exoatmosférico.
