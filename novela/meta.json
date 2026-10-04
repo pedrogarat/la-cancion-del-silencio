@@ -94,6 +94,15 @@
       "location": "Sala de Crisis y Mando Táctico B-4, Sede de la ONU, Nueva York",
       "readTime": "15 min",
       "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 11,
+      "title": "Capítulo 11: La Geometría Ajena",
+      "act": "Acto II: La Caída del Escudo y el Gran Caos",
+      "pov": "Dra. Chen Mei / Dr. Thomas Wright / Dra. Sarah Lin / Dr. Em Pleh / Vassily Ramos",
+      "location": "Base de Nellis (Nevada) / Sala de Crisis B-4 ONU, Nueva York",
+      "readTime": "15 min",
+      "povImage": "img/char_protagonista.png"
     }
   ]
 }
