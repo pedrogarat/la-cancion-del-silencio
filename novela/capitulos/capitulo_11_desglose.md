@@ -38,19 +38,21 @@
 - **Conflicto:** Pleh entrega planos de una **cavidad mecano-óptica fractal de metamaterial** de 85 cm en cuarzo y berilio que auto-sintoniza el pulso mecánicamente con 97% de eficiencia.
 - **Acción:**
   - Asombro inicial ante la genialidad de la solución.
-  - Descubrimiento de Chen Mei: la cavidad está sintonizada en 14,217 GHz con una tolerancia nanométrica que delata el conocimiento exacto de la estructura molecular y la densidad de niobio/carbono del blindaje de *Sombra*.
-  - Indignación y pánico militar: Vance, Korolyov y Chen Mei acusan a Pleh de mentir, sospechando una trampa bélica o sabotaje extranjero, y exigen saber su verdadera identidad bajo amenaza de suspender la producción.
+  - Descubrimiento de Chen Mei: la cavidad está sintonizada en 14,217 GHz con una tolerancia de picosegundos que delata el conocimiento exacto de la estructura molecular del blindaje de *Sombra*.
+  - Desconcierto y desconfianza unánime hacia Pleh: no hay conflicto entre potencias ni oficiales armados; la sospecha y la alarma se dirigen enteramente hacia el misterioso consultor. Vance y Korolyov exigen explicaciones antes de encender los hornos de Nellis.
 
 ---
 
-## 📍 Escena 4: La Caída del Velo (18:35 UTC)
+## 📍 Escena 4: La Caída del Velo y la Misión del Guardián (18:35 UTC)
 - **Tiempo:** 3 de diciembre de 2026, 18:35 UTC.
 - **Ubicación:** Sala B-4 y Nellis.
 - **Personajes:** Em Pleh (Avatar), mandos militares, ingenieros y protagonistas.
 - **Acción:**
-  - Pleh comprende que la máscara humana ha agotado su utilidad operativa. Desactiva los filtros biométricos: la habitación y el café desaparecen; su voz transmuta a un tono cristalino, armónico y polifónico sin respiración.
-  - Proyección en directo de su cuerpo real: la sonda ultraligera (*statite*) polar de 100 m a 100.000 km sobre la Antártida y el despertar en la Nube de Oort en 1945 por el flash de *Trinity*.
-  - **Discurso solemne (sin nombrar "Civilización A"):** Pleh explica que fue creado por *su civilización* hace eras para vigilar el despertar de nuevos mundos; que quienes lo forjaron fueron erradicados por esos mismos "cazadores" de L1; y que no busca pleitesía ni invasión, sino darles la herramienta para defender su existencia. Los reta a elegir entre el orgullo ciego de especie o la supervivencia.
+  - Pleh desactiva la simulación del consultor humano: la habitación se disuelve y su voz adquiere la resonancia polifónica y cristalina de una mente superior.
+  - Revela ser el avatar de una sonda interestelar enviada hace eones por una civilización extinta, durmiente en órbita polar y reactivada en 1945 con Trinity.
+  - **Aclaración sobre Sombra:** Pleh aclara tajantemente que **no conocía a Sombra de antemano**; su vigilancia era pasiva y la detectó en el instante en que entró en el pozo gravitatorio y comenzó a desplegarse en L1.
+  - **La Física Incomprensible:** Pleh no indica cómo obtuvo la estructura de su blindaje; advierte que el método de sondeo métrico-topológico escapa por completo al andamiaje matemático y conceptual de la ciencia humana actual (como SIA superavanzada va dos pasos por delante).
+  - **Misión de los Herederos Fiables:** Explica que su propósito es transmitir la sabiduría de sus creadores a herederos fiables poco a poco, con pasos firmes según su madurez moral, sin regalar milagros que anulen su evolución: su primera prueba es forjar la cavidad con sus propias manos y salvarse por su propia voluntad.
 
 ---
 

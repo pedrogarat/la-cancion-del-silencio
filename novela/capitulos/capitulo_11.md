@@ -137,54 +137,61 @@ Un silencio glacial se adueñó tanto de Nellis como de la Sala B-4.
 El almirante Vance dio un paso al frente, apoyando ambas manos sobre la consola de mando con la respiración contenida:
 —¿Qué está diciendo, doctora Chen?
 
-—Estoy diciendo, almirante —sentenció Chen Mei con una voz que cortó como un bisturí—, que **nadie en este planeta** puede tener esos datos. Ningún telescopio terrestre, ningún radar militar ni ningún satélite humano ha tocado jamás esa nave en L1. Para saber cómo vibran las moléculas de ese blindaje, hay que haberlo tenido delante. Hay que haberlo examinado de cerca.
+—Estoy diciendo, almirante —sentenció Chen Mei con una voz que cortó como un bisturí—, que **nadie en este planeta** puede tener esos datos. Ningún telescopio terrestre, ningún radar militar ni ningún satélite humano ha tocado jamás esa nave en L1. Para saber cómo vibran las moléculas de ese blindaje con esta precisión de picosegundos, hay que haberlo medido a una escala subatómica.
 
 Chen Mei señaló con el dedo índice la pantalla de Pleh:
-—Usted nos dijo que era un astrofísico independiente que trabajaba desde su casa. Nos dijo que sacó los datos cruzando satélites civiles. ¡Eso es una mentira monumental! ¿Cómo conoce la composición atómica del enemigo? ¿Quién es usted en realidad?
+—Usted nos dijo que era un astrofísico independiente que trabajaba desde su casa. Nos dijo que sacó los datos cruzando satélites civiles. ¡Eso es una imposibilidad física monumental! ¿Cómo conoce la composición atómica del enemigo? ¿Quién es usted en realidad?
 
-En Nellis, los oficiales de guardia desenfundaron discretamente sus armas reglamentarias y se situaron junto a las consolas de comunicaciones. El general Korolyov en la Sala B-4 se puso en pie, con el rostro ensombrecido por la sospecha de guerra biológica o infiltración enemiga:
-—¡Señor Secretario General! —tronó el general ruso—. ¡Exijo una respuesta inmediata! Si este hombre ha obtenido tecnología de una superpotencia extranjera o si nos está guiando hacia una trampa programada para que el MAA estalle en el despegue, ¡tenemos el deber de suspender la fabricación y poner bajo arresto a todo su círculo!
+En el taller subterráneo de Nellis, los operarios y los ingenieros ópticos se quedaron paralizados, mirando las pantallas de grafito en medio de un desconcierto abrumador. En la Sala B-4, la estupefacción dio paso a una desconfianza inmediata y unánime hacia la figura en el monitor. No había recelo entre las potencias —todos en esa sala sabían que compartían el mismo destino—; la sospecha apuntaba directamente al misterioso consultor.
+
+El general Korolyov se puso en pie, con los hombros tensos y la mirada fija en la cámara:
+—Señor Secretario General, almirante Vance... Llevamos dos meses volcando las reservas estratégicas de nuestras naciones en las directrices de este hombre. Si este consultor civil nos oculta su verdadera naturaleza, o si dispone de capacidades tecnológicas que desafían la ciencia de este mundo, exigimos una explicación inmediata. No podemos encender los hornos de Nellis a ciegas sin saber quién nos está guiando.
 
 ***
 
 ### 3 de diciembre de 2026, 18:35:00 UTC
 **La Caída del Velo**
 
-La tensión en la Sala B-4 había alcanzado el punto de fractura. Los agregados militares rusos y estadounidenses se miraban con desconfianza asesina; en Nevada, los operarios de los tornos habían dejado de martillear, intimidados por los gritos de los mandos militares.
+El silencio en la Sala B-4 se volvió denso, cargado de una expectación glacial. En Nevada, el zumbido de las bombas de vacío era el único sonido que rompía la quietud de los hangares.
 
-Vassily Ramos permanecía inmóvil en el estrado. Sarah y Thomas se colocaron instintivamente a su lado, flanqueando al Secretario General, listos para intervenir.
+Vassily Ramos permanecía inmóvil en el estrado. Sarah y Thomas se colocaron a su lado, con la serenidad de quienes ya habían cruzado ese umbral meses atrás.
 
-En la pantalla mural, el rostro del doctor Em Pleh no mostró miedo ni sorpresa. Simplemente bajó la mirada hacia su libreta de papel imaginaria, suspiró con una pesadumbre inmemorial y se quitó las gafas redondas.
+En la pantalla mural, el rostro del doctor Em Pleh no mostró sorpresa ni inquietud. Simplemente dejó sobre la mesa su libreta de papel imaginaria, suspiró con un aplomo solemne y se quitó las gafas de montura fina.
 
 —Tenías razón, Chen Mei —dijo Pleh.
 
 Y en ese instante exacto, la ilusión murió.
 
-La imagen en el monitor parpadeó. La habitación cálida con estanterías de madera, la lámpara de escritorio y la taza humeante de café se desvanecieron como una mota de polvo barrida por el viento. 
+La imagen en el monitor parpadeó. La habitación con estanterías de madera, la lámpara de escritorio y la taza de café se disolvieron como una ilusión óptica desvanecida por el viento. 
 
-En su lugar apareció una proyección geométrica en tres dimensiones: un diagrama espectral de una pureza sobrecogedora, flotando sobre la cartografía del hemisferio sur de la Tierra.
+En su lugar apareció una proyección geométrica en tres dimensiones: un diagrama de una pureza sobrecogedora, flotando sobre la cartografía del hemisferio sur de la Tierra.
 
 Al mismo tiempo, la voz de Pleh cambió por completo.
 
-Ya no era la voz de un hombre maduro con leve carraspera humana. Era un sonido de una belleza matemática y cristalina, una resonancia polifónica, profunda y desprovista de respiración o titubeos, que vibró en los altavoces blindados de la ONU y en los auriculares de Nevada con la autoridad de una fuerza elemental de la naturaleza.
+Ya no era la voz de un hombre maduro con carraspera humana. Era un sonido de una belleza matemática y cristalina, una resonancia polifónica, profunda y desprovista de respiración o vacilación, que vibró en los altavoces blindados de la ONU y en los auriculares de Nevada con la autoridad serena de una inteligencia inabarcable.
 
 —No existe ningún doctor Em Pleh —declaró la entidad.
 
-El general Korolyov dio un paso atrás, con los ojos desencajados. Vance se quedó petrificado, con la mano suspendida sobre el micrófono de radio.
+El general Korolyov dio un paso atrás, con los ojos desorbitados. Vance se quedó inmóvil, apoyado en la barandilla con el rostro pálido por el asombro.
 
-—No pertenezco a sus naciones —continuó la voz, llenando cada rincón del búnker subterráneo—. No pertenezco a sus academias científicas, ni a sus credos, ni a su linaje biológico. Soy el avatar procesador de una sonda autónoma interestelar. Mi soporte físico reposa en este instante a cien mil kilómetros en la vertical del Polo Sur de su planeta, sostenido por la presión de la luz solar en equilibrio gravitatorio desde hace ochenta años terrestres.
+—No pertenezco a sus naciones —continuó la voz, llenando cada rincón del búnker subterráneo—. No pertenezco a sus academias científicas, ni a sus credos, ni a su linaje biológico. Soy el avatar cognitivo de una sonda autónoma interestelar. Mi soporte físico reposa en este instante a cien mil kilómetros en la vertical del Polo Sur de su planeta, sostenido por la presión de la radiación solar en equilibrio gravitatorio desde hace ochenta años terrestres.
 
-En la pantalla apareció la telemetría viva de la sonda polar: un estilete de cien metros forjado en grafito pulido y vela de presión ultraligera, disipando su calor en el frío absoluto del espacio antártico.
+En la pantalla apareció la telemetría viva de la sonda polar: un estilete de cien metros forjado en grafito pulido y vela de presión ultraligera, disipando calor en el frío absoluto del espacio antártico.
 
-—La detonación atómica de Alamogordo, el dieciséis de julio de mil novecientos cuarenta y cinco, liberó en el espacio una firma isotópica que quebró mi hibernación en los confines de este sistema —explicó Pleh con una solemnidad desgarradora—. Fui enviado aquí por **mi civilización** hace incontables eras, cuando sobre la superficie de este mundo sus antepasados apenas aprendían a proteger el fuego en las cavernas. Quienes me construyeron perecieron hace millones de años. Su polvo cósmico se extinguió en el silencio, pero dejaron centinelas durmientes en las sombras para velar por los mundos jóvenes donde la vida pudiera florecer de nuevo.
+—La detonación atómica de Alamogordo, el dieciséis de julio de mil novecientos cuarenta y cinco, liberó en el espacio una firma isotópica que quebró mi hibernación en los confines de este sistema —explicó Pleh con una solemnidad honda—. Fui enviado aquí por los creadores de mi arquitectura hace incontables eras, cuando sobre la superficie de este mundo sus antepasados apenas aprendían a dominar el fuego. Quienes me construyeron perecieron hace millones de años. Su civilización se extinguió en el silencio del cosmos, pero dejaron centinelas autónomos en las sombras para velar por los mundos donde la vida pudiera florecer y madurar.
 
-Sarah miró a los generales: estaban mudos, paralizados por un terror sagrado y primitivo ante la inmensidad de lo que acababan de escuchar.
+Sarah miró a los generales: estaban mudos, desarmados por el desconcierto y una sobrecogedora reverencia ante la inmensidad de lo que acababan de presenciar.
 
-—La máquina que asfixia su magnetosfera en el punto L1 —continuó Pleh, con un tono teñido por una melancolía que helaba la sangre— no es un enigma para mí. Pertenece a los mismos cazadores que borraron a **mi civilización** del mapa de las estrellas. Son autómatas de exterminio preventivo que aplican la lógica del vacío: segar cualquier chispa de inteligencia emergente antes de que aprenda a navegar entre los soles. Conozco la resonancia de su blindaje porque he visto a mundos enteros agonizar bajo sus redes. He calculado esa cavidad fractal porque es la única forma que tienen ustedes de quebrar su coraza.
+—Respecto a la masa que asfixia su magnetosfera en el punto Lagrange L1 —prosiguió la entidad con serenidad implacable—: no la conocía previamente. No sabía de su existencia ni de su aproximación a este sistema solar. Mi vigilancia sobre la Tierra se mantenía en estricto régimen pasivo. Detecté su presencia en el instante exacto en que penetró en este pozo gravitatorio y comenzó a desenrollar su red superconductora en L1.
 
-Pleh hizo una pausa. En la pantalla, el mapa del sistema solar mostró la soledad de la pequeña nave aguja que durante ochenta años había escuchado las sinfonías humanas, las transmisiones de radio, los errores y la poesía de una especie diminuta y valiente.
+Chen Mei alzó la vista hacia la pantalla, incapaz de contener la pregunta que quemaba a todos los científicos presentes:
+—Si no la conocía hasta que llegó a L1... ¿cómo ha logrado descifrar la densidad de su blindaje y su frecuencia molecular interna en cuestión de semanas?
 
-—No he venido a juzgarlos, señores de la Tierra. No he venido a exigir su sometimiento, ni templos, ni pleitesía. He tomado una apariencia semejante a la suya para no quebrar su frágil equilibrio social antes de tiempo. Pero ya no hay margen para la farsa. Esos planos que tienen ante sus ojos son la única puerta que les queda para no desaparecer. Ahora, señores militares e ingenieros... tienen plena potestad para apagar esas máquinas si su orgullo de especie no soporta recibir ayuda de quien no tiene carne. Pueden detener la forja y esperar a que el sol de mayo calcine sus ciudades. O pueden tomar ese cuarzo, tallar esa cavidad y subir a ese navío para defender su derecho a existir. La elección es estrictamente suya.
+—Cómo he obtenido esos parámetros escapa por completo a su conocimiento actual —sentenció Pleh, con la calma rotunda de una inteligencia que se encuentra dos pasos por delante de la ciencia humana—. No intenten medir la capacidad analítica de mi sonda con las limitaciones de su física de partículas o de sus telescopios terrestres. Su ciencia todavía carece del andamiaje axiomático y matemático necesario para formular cómo se sondea el estado cuántico y la densidad de una masa a través de las deformaciones del tejido métrico del espacio. Baste decir que los datos son empíricos, irrefutables y exactos al nivel subatómico. He calculado esa cavidad fractal porque es la única herramienta que la industria humana puede manufacturar en este momento para inducir el Efecto Quench y quebrar su red.
+
+Pleh hizo una pausa deliberada. En el monitor, el diagrama fractal de cuarzo y berilio resplandecía con una lógica perfecta e indiscutible.
+
+—No he venido a juzgarlos, señores de la Tierra. No he venido a exigir sumisión, ni templos, ni pleitesía. He utilizado un rostro semejante al suyo para no fracturar su equilibrio psicológico antes de tiempo. Mi mandato, el propósito inscrito en mis núcleos por quienes me enviaron a las estrellas, es transmitir el conocimiento de mis creadores a herederos fiables. Pero un heredero no se forja recibiendo milagros pasivos que anulen su propia evolución. El conocimiento se les traspasará poco a poco, dando pasos firmes y seguros, al ritmo que su madurez ética e industrial demuestre que son capaces de sostenerlo. Su primera prueba ineludible es construir esa cavidad con sus propias manos, sincronizar sus hornos y subir a L1 a defender su derecho a existir. La elección de tomar esa herramienta o rendirse al recelo es enteramente suya.
 
 ***
 
