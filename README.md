@@ -36,6 +36,13 @@
 
 ---
 
+## 🤖 Agentes del Proyecto (`.agents/skills/`)
+
+- **Asesor Científico-Técnico** — [`asesor-cientifico/SKILL.md`](.agents/skills/asesor-cientifico/SKILL.md): audita el rigor físico de capítulos/escenas (✅ ⚠️ ❌ 🔮), comprueba la coherencia con el canon y propone simplificaciones de la jerga. Uso: *"Usa el asesor científico para revisar el capítulo 11"*.
+- **Comprobación de sincronización** — [`example-workflow/SKILL.md`](.agents/skills/example-workflow/SKILL.md).
+
+---
+
 ## 🛠️ Compilación y Sincronización del Lector Web
 
 Para compilar el lector interactivo y regenerar los datos JSON/JS con sistema anti-caché:
