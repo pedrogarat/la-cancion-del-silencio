@@ -39,6 +39,7 @@
 ## 🤖 Agentes del Proyecto (`.agents/skills/`)
 
 - **Asesor Científico-Técnico** — [`asesor-cientifico/SKILL.md`](.agents/skills/asesor-cientifico/SKILL.md): audita el rigor físico de capítulos/escenas (✅ ⚠️ ❌ 🔮), comprueba la coherencia con el canon y propone simplificaciones de la jerga. Uso: *"Usa el asesor científico para revisar el capítulo 11"*.
+- **Asesor de Trama** — [`asesor-trama/SKILL.md`](.agents/skills/asesor-trama/SKILL.md): audita continuidad y coherencia, estructura y ritmo, arcos de personajes y cabos sueltos, y propone ideas para capítulos futuros. Uso: *"Usa el asesor de trama para analizar el capítulo 11"* o *"Propón ideas para el capítulo 12"*.
 - **Comprobación de sincronización** — [`example-workflow/SKILL.md`](.agents/skills/example-workflow/SKILL.md).
 
 ---
