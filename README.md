@@ -40,6 +40,7 @@
 
 - **Carl (Asesor Científico-Técnico)** — [`carl/SKILL.md`](.agents/skills/carl/SKILL.md): inspirado en Carl Sagan. Audita el rigor físico y astrodinámico de capítulos y escenas (✅ ⚠️ ❌ 🔮), comprueba la coherencia con el canon técnico y propone analogías claras para traducir la jerga compleja sin perder verosimilitud hard sci-fi. Uso: *"Pide a Carl que revise el capítulo 11"*.
 - **Alfred (Asesor de Trama y Suspense)** — [`alfred/SKILL.md`](.agents/skills/alfred/SKILL.md): inspirado en Alfred Hitchcock. Audita la continuidad, calibra la curva de suspense y la «bomba bajo la mesa», vigila arcos de personajes y cabos sueltos (*Chekhov's guns*), y propone giros dramáticos para capítulos futuros. Uso: *"Pide a Alfred que analice la tensión del capítulo 11"* o *"Pide ideas a Alfred para el capítulo 12"*.
+- **Miguel (Maestro de Prosa y Redacción Literaria)** — [`miguel/SKILL.md`](.agents/skills/miguel/SKILL.md): inspirado en Miguel de Cervantes. Redacta escenas y capítulos, afila diálogos con voces canónicas diferenciadas, aporta prosa inmersiva y sensorial, y garantiza un ritmo dramático ágil (*show, don't tell*) con elegancia literaria. Uso: *"Pide a Miguel que redacte la escena 2 del capítulo 12"* o *"Miguel, pule este diálogo"*.
 - **Comprobación de sincronización** — [`example-workflow/SKILL.md`](.agents/skills/example-workflow/SKILL.md).
 
 ---
