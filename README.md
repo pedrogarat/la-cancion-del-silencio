@@ -38,8 +38,8 @@
 
 ## 🤖 Agentes del Proyecto (`.agents/skills/`)
 
-- **Asesor Científico-Técnico** — [`asesor-cientifico/SKILL.md`](.agents/skills/asesor-cientifico/SKILL.md): audita el rigor físico de capítulos/escenas (✅ ⚠️ ❌ 🔮), comprueba la coherencia con el canon y propone simplificaciones de la jerga. Uso: *"Usa el asesor científico para revisar el capítulo 11"*.
-- **Asesor de Trama** — [`asesor-trama/SKILL.md`](.agents/skills/asesor-trama/SKILL.md): audita continuidad y coherencia, estructura y ritmo, arcos de personajes y cabos sueltos, y propone ideas para capítulos futuros. Uso: *"Usa el asesor de trama para analizar el capítulo 11"* o *"Propón ideas para el capítulo 12"*.
+- **Carl (Asesor Científico-Técnico)** — [`carl/SKILL.md`](.agents/skills/carl/SKILL.md): inspirado en Carl Sagan. Audita el rigor físico y astrodinámico de capítulos y escenas (✅ ⚠️ ❌ 🔮), comprueba la coherencia con el canon técnico y propone analogías claras para traducir la jerga compleja sin perder verosimilitud hard sci-fi. Uso: *"Pide a Carl que revise el capítulo 11"*.
+- **Alfred (Asesor de Trama y Suspense)** — [`alfred/SKILL.md`](.agents/skills/alfred/SKILL.md): inspirado en Alfred Hitchcock. Audita la continuidad, calibra la curva de suspense y la «bomba bajo la mesa», vigila arcos de personajes y cabos sueltos (*Chekhov's guns*), y propone giros dramáticos para capítulos futuros. Uso: *"Pide a Alfred que analice la tensión del capítulo 11"* o *"Pide ideas a Alfred para el capítulo 12"*.
 - **Comprobación de sincronización** — [`example-workflow/SKILL.md`](.agents/skills/example-workflow/SKILL.md).
 
 ---
