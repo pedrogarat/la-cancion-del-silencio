@@ -4,8 +4,8 @@
 - **Acto:** Acto II - La Caída del Escudo y el Gran Caos
 - **Fecha Narrativa:** 24 de diciembre (Nochebuena) y primeras horas del 25 de diciembre de 2026 (Navidad).
 - **Cuenta atrás:** T + 33 días tras el Silencio Magnético. Han transcurrido 3 días desde el inicio de la Fase 3 (catálisis de NOx y destrucción acelerada del ozono — 21 de diciembre de 2026). Faltan 209 días para el cierre definitivo de la ventana industrial (21 de julio de 2027).
-- **Puntos de Vista (POV):** Coral cercano: Dr. Thomas Wright, Dra. Sarah Lin, Dr. Jean-Luc Girard, Vassily Ramos, Marie Girard (Versoix), Maya Lin (San Francisco) y Dra. Chen Mei (Nellis).
-- **Tono y Atmósfera:** Íntimo, nostálgico, contenido y de una belleza trágica sobrecogedora; el choque entre la tradición humana más cálida y la fría crueldad del cosmos bajo la noche esmeralda, culminando en la primera evidencia empírica de que la atmósfera está muriendo en el sur.
+- **Puntos de Vista (POV):** Coral cercano: Dr. Thomas Wright, Dra. Sarah Lin, Dr. Jean-Luc Girard, Vassily Ramos, Marie Girard (Versoix), Maya Lin (San Francisco), David Wright (Suffolk) y Dra. Chen Mei (Nellis).
+- **Tono y Atmósfera:** Íntimo, nostálgico, contenido y de una belleza trágica sobrecogedora; el choque entre la tradición humana más cálida —el misterio de la Navidad cristiana como lección de amor y unidad— y la implacable cuenta atrás del cosmos bajo la noche esmeralda.
 
 ---
 
@@ -14,10 +14,10 @@
 - **Ubicación:** Sala de descanso y almacén de reserva óptica, Nivel B-5, búnker de la ONU.
 - **Personajes:** Dr. Thomas Wright y Dra. Sarah Lin.
 - **Acción:**
-  - Tras un turno de catorce horas revisando tolerancias térmicas del MAA, Thomas y Sarah se refugian en la penumbra de B-5.
-  - Thomas rescata de su taquilla una vela de cera y una tableta de chocolate negro suizo que guardaba desde septiembre. La encienden sobre una lata vacía de café.
-  - La intimidad amorosa consolidada: el recuerdo de la nieve en Manhattan, la certeza de que ya no pertenecen al mundo de arriba y la promesa renovada de la casa de campo de Suffolk (el fuego de leña, el pozo y la vida que les aguarda si vencen en L1).
-  - Sarah confiesa el dolor de saber que su hermana Maya y su sobrino Toby están a cuatro mil kilómetros bajo la vigilancia de la Guardia Nacional.
+  - Tras un turno agotador revisando tolerancias mecánicas del actuador analógico del MAA, Thomas y Sarah se refugian en la penumbra de B-5.
+  - Thomas enciende un cabo de vela de cera de abejas inglesa y comparte chocolate negro suizo que rescató de la reserva de Girard.
+  - La intimidad amorosa consolidada: la evocación de los inviernos de la infancia, la promesa de la casa de campo de Suffolk (el fuego de manzano, el pozo y la vida que les aguarda tras L1).
+  - Sarah confiesa el desgarro de saber a su hermana Maya y a su sobrino Toby solos en San Francisco bajo toque de queda militar; Thomas le ofrece consuelo y fe en que su trabajo salvará a los suyos.
 
 ---
 
@@ -26,41 +26,48 @@
 - **Ubicación:** Chalet de la familia Girard a orillas del lago Lemán, Versoix (Ginebra), en enlace por hilo de cobre seguro con la Sala B-4.
 - **Personajes:** Dr. Jean-Luc Girard (en B-4), Marie Girard, Julien (17), Chloé (15) y Émilie (10) en Versoix.
 - **Acción:**
-  - En Ginebra hay cortes rotatorios de red eléctrica; la chimenea arde con leña seca y el abeto navideño está iluminado con velas de cera blanca. En la mesa, Julien ha colocado una silla vacía con la servilleta de su padre.
-  - Ramos autoriza a Girard una llamada de tres minutos a través del cable submarino coaxial militar.
-  - Girard escucha las voces de sus hijas cantando en francés (*«Douce nuit, sainte nuit»*). Julien le habla con la madurez práctica del hijo que ha asumido el mando del hogar: le asegura que el sótano está abastecido y que Marie está serena.
-  - Girard, el hombre de la lógica cartesiana, lucha en silencio contra el llanto en su cubículo de Nueva York, despidiéndose con un susurro quebrado antes de que el conmutador corte la línea.
+  - En Versoix rige el racionamiento eléctrico cantonal; la chimenea arde con leña de pino seco y el abeto silvestre se ilumina con velas de cera blanca. En la cabecera de la mesa, un plato limpio y una servilleta doblada en triángulo esperan a Girard.
+  - Girard llama por la línea subterránea militar. Habla con Julien, quien demuestra aplomo en el mantenimiento práctico del hogar (baterías y leña), y con Marie.
+  - Sus hijas pequeñas cantan *«Douce nuit, sainte nuit»* al teléfono con inocencia limpia. Girard, hombre de rigurosa armadura cartesiana, se conmueve hasta las lágrimas en su cubículo de Manhattan, despidiéndose con un sentido *"Os quiero con toda mi alma"* en perfecto español peninsular antes del corte de línea.
 
 ---
 
-## 📍 Escena 3: Las Luces de la Bahía y el Refugio de Suffolk (21:45 EST)
-- **Tiempo:** Noche de vigilia.
-- **Ubicación:** San Francisco (Market St.) y Suffolk (Reino Unido).
-- **Personajes:** Maya Lin y Toby (4 años) en San Francisco; David, Claire y Oliver (3 años) en la campiña inglesa.
+## 📍 Escena 3: Dos Luces en la Noche: Market Street y la Granja de Suffolk (21:45 PST / 05:45 GMT)
+- **Tiempo:** Noche de vigilia en la costa oeste americana y madrugada en la campiña inglesa.
+- **Ubicación:** Apartamento de Market St. (San Francisco) y Casa de Campo de pedernal y roble (Suffolk, Reino Unido).
+- **Personajes:** Maya Lin y Toby (4 años) en San Francisco; David Wright, Claire y Oliver (3 años) en Suffolk.
 - **Acción:**
-  - **San Francisco:** Maya Lin cena judías enlatadas y pan tostado con el pequeño Toby. Por la ventana, la bahía no refleja estrellas sino la luz verdosa y espectral del *airglow*. Es su primera Navidad limpia de sustancias tras años de infierno; abraza a su hijo contra el pecho y mira una fotografía arrugada de Sarah en la graduación del MIT.
-  - **Suffolk:** David Wright aviva la chimenea en la casa de campo de ladrillo rojo. Afuera, la nieve cubre los robles en un silencio absoluto sin aviones en el cielo. Oliver duerme abrazado a un tren de madera. David mira hacia el sur deseando que su hermano Thomas siga con vida en el secreto de Nueva York.
+  - **San Francisco (21:45 PST):** Maya Lin cena judías y pan tostado mientras el pequeño Toby duerme arropado. El puente Golden Gate se recorta sobre un mar que refleja el *airglow* verde. Tras catorce meses limpia de adicciones, Maya contempla la foto de graduación de Sarah en el MIT y promete mantenerse en pie por su hermana.
+  - **Suffolk (05:45 GMT):** Bloque equilibrado y ampliado en profundidad emocional. David Wright atiza la gran chimenea de la casa familiar con leña de manzano curada, perfumando la estancia con aroma dulce y frutal. Claire le sirve té negro caliente. El pequeño Oliver duerme abrazado a la locomotora de madera que su tío Thomas le talló a navaja antes de marchar. La radio de onda corta emite coros de la catedral de Salisbury en la BBC. David contempla el cielo esmeralda por el ventanal emplomado y alza una plegaria por el regreso de su hermano mayor.
 
 ---
 
-## 📍 Escena 4: El Brindis de los Tres en el Desierto (19:30 PST | 22:30 EST)
+## 📍 Escena 4: El Brindis de los Tres en Nellis (19:30 PST | 22:30 EST)
 - **Tiempo:** Noche de Nochebuena en Nevada.
-- **Ubicación:** Cantina subterránea y hangar de montaje del MAA, Base de Nellis.
+- **Ubicación:** Cantina subterránea y complejo de integración del MAA, Base Aérea de Nellis.
 - **Personajes:** Dra. Chen Mei (China), Comandante John MacElroy (EE.UU.) y Coronel Alexei Voronov (Rusia).
 - **Acción:**
-  - En el hangar subterráneo, el zumbido de los hornos de inducción mecanizando los 85 cm de cuarzo fractal no se detiene por ser Navidad.
-  - Al pie del chasis de titanio del MAA, los tres astronautas titulares comparten una lata de carne de buey y una botella de vodka ruso aportada por Voronov.
-  - MacElroy hace gala de su humor ácido de aviador naval, pero confiesa el vértigo de volar una máquina sin chips; Voronov recuerda la nieve sobre los abedules de Siberia; Chen Mei levanta su vaso de plástico por la nave que los llevará al Sol.
-  - Los tres pilotos sellan su fraternidad: no representan a bloques geopolíticos rivales, sino a la sangre y la respiración de una especie que se niega a rendirse.
+  - A pocos metros de la sala limpia donde los hornos mecanizan el cristal fractal y el berilio sin descanso, la tripulación titular comparte raciones de pavo militar y vodka ruso clandestino.
+  - MacElroy defiende el valor del instinto humano para pilotar una nave mecánica ciega; Voronov recuerda las palabras de los pioneros espaciales soviéticos; Chen Mei brinda por la Tierra y por la hermandad de los tres hombres y mujeres que entrarán en el fuego cósmico.
 
 ---
 
-## 📍 Escena 5: La Misa del Centinela y el Teletipo del Sur (23:55 EST, 24 de diciembre)
-- **Tiempo:** Minutos antes de la medianoche del 24 de diciembre.
-- **Ubicación:** Sala de Crisis B-4, Sede de la ONU, Manhattan.
-- **Personajes:** Vassily Ramos, Girard, Wright, Lin, guardias de seguridad de la ONU y operadores.
+## 📍 Escena 5: La Mesa de B-4: El Amor frente a la Máquina (23:00 EST, 24 de diciembre)
+- **Tiempo:** Final de la noche del 24 de diciembre.
+- **Ubicación:** Sala de Crisis y Mando B-4, Sede de la ONU, Manhattan.
+- **Personajes:** Vassily Ramos, Jean-Luc Girard, Sarah Lin, Thomas Wright, Almirante Vance, General Yuri Korolyov, Ministro Chen Wei, guardias y operadores.
 - **Acción:**
-  - Ramos reúne a una docena de operarios, secretarias y centinelas que llevan semanas confinados en el búnker para una vigilia ecuménica austera. Con voz grave y paternal, lee un pasaje del Evangelio y reza por la paz de las almas que esta noche intentan soñar sobre la faz de la Tierra.
-  - A las 00:03 del 25 de diciembre, el teletipo militar de emergencias escupe un informe clasificado de la Organización Meteorológica Mundial (WMO) con datos de Sídney, Perth, Johannesburgo y Valparaíso.
-  - **El impacto de la Fase 3:** En pleno verano austral, la caída acumulada del 12% del ozono en tres días de catálisis de NOx ha disparado el índice ultravioleta a valores extremos (UVI 15+); los hospitales notifican miles de casos de conjuntivitis actínica aguda y quemaduras solares severas en bañistas y agricultores expuestos al mediodía.
-  - La tregua de las velas concluye: el tiempo de la humanidad se está desangrando en el sur.
+  - En la gran mesa de conferencias de nogal, Ramos dispone manteles blancos de lino, velas de cera, hogazas de pan de centeno, queso curado y vino de protocolo.
+  - **La fe y el humanismo cristiano de Ramos:** El Secretario General parte el pan y ofrece una profunda reflexión sin tono de homilía: la Navidad como el misterio de la extrema vulnerabilidad de un niño en un pesebre que revela que la mayor fuerza del universo no son los ejércitos, los misiles ni las computadoras, sino el amor desinteresado, el cuidado del prójimo y la unidad humana.
+  - La coraza de los líderes militares (Korolyov, Chen Wei, Vance) se disuelve ante el gesto de hermandad; Girard y los científicos reconocen que lo que defienden en sus cálculos no son números fríos, sino los rostros y vidas de quienes aman.
+
+---
+
+## 📍 Escena 6: El Teletipo de la Medianoche (00:03 EST, 25 de diciembre)
+- **Tiempo:** Primeros minutos del día de Navidad.
+- **Ubicación:** Consola central de telecomunicaciones, Sala B-4.
+- **Personajes:** Vassily Ramos, Almirante Vance, Dr. Girard, Dr. Wright, Dra. Lin.
+- **Acción:**
+  - A las 00:03, el teletipo militar rompe el silencio con el Boletín Alfa-1 de la WMO desde el hemisferio sur (Sídney, Perth, Valparaíso, Ciudad del Cabo).
+  - **Impacto empírico de la Fase 3:** En pleno solsticio de verano austral, se confirma una pérdida del 12,4% de ozono en 72 horas y un índice UVI extremo de 16,2; miles de ingresos hospitalarios por fotoqueratitis aguda y eritemas de segundo grado.
+  - Ramos se persigna con sobria solemnidad y pronuncia: *"La tregua de las velas ha terminado, caballeros... La Tierra acaba de recibir su primera herida"*. Ordena comunicar con Nellis. Cuenta atrás: 209 días.

@@ -48,7 +48,7 @@ Sarah bajó la mirada hacia los dedos de Thomas, ásperos y manchados de lubrica
 
 Sarah apretó sus dedos con fuerza, conteniendo un temblor en los labios:
 
-—Mi hermana Maya... Ella y Toby están solos en San Francisco, Thomas. Esta es la primera Navidad que pasa limpia de adicciones en seis años. La llamé hace dos días desde la terminal segura, pero la línea civil se cortó a los cuarenta segundos. Apenas pude escuchar la voz del niño antes de que el cable se fuera a negro. Si esa atmósfera se desgarra antes de que terminemos la nave... si el sol empieza a abrasar el asfalto en primavera...
+—Mi hermana Maya... Ella y Toby están solos en San Francisco, Thomas. Esta es la primera Navidad que pasa limpia en seis años. La llamé hace dos días desde la terminal segura, pero la línea civil se cortó a los cuarenta segundos. Apenas pude escuchar la voz del niño antes de que el cable se fuera a negro. Si esa atmósfera se desgarra antes de que terminemos la nave... si el sol empieza a abrasar el asfalto en primavera...
 
 Thomas se inclinó sobre la mesa, posó su otra mano sobre la mejilla de Sarah y la obligó a mirarlo a los ojos con una templanza dulce e inquebrantable:
 
@@ -70,7 +70,7 @@ En el interior del chalet de madera y piedra de la familia Girard, la luz eléct
 
 La chimenea de ladrillo refractario del salón crepitaba con leña de pino seco, arrojando lenguas de lumbre anaranjada sobre la alfombra de lana. En el rincón más cálido de la estancia, un pequeño abeto silvestre de un metro de altura sostenía diez pequeñas velas de cera blanca montadas sobre pinzas de latón. 
 
-Alrededor de la mesa de roble macizo, Marie Girard servía una sopa caliente de calabaza y queso gruyer en platos hondos de porcelana. A su derecha, Chloé, de quince años, y la pequeña Émilie, de diez, miraban la comida con ojos cansados pero tranquilos. 
+Alrededor de la mesa de roble macizo, Marie Girard servía una sopa caliente de calabaza y queso gruyer en platos hondos de porcelana. A su derecha, Chloé, de quince años, y la pequeña Émilie, de diez, miraban la comida con ojos cansados pero serenos. 
 
 En la cabecera de la mesa, una silla de madera de cerezo permanecía vacía. Frente a ella descansaba un plato limpio, los cubiertos alineados a la perfección y la servilleta de lino blanco doblada en triángulo, exactamente como a su dueño le gustaba encontrarla antes de cenar.
 
@@ -78,7 +78,7 @@ Julien, de diecisiete años, permanecía de pie junto al aparador, con un destor
 
 Un timbre bronco y metálico, seco como un golpe de martillo sobre cobre, sonó dos veces desde el teléfono negro de pared conectado a la línea fija subterránea de la defensa cantonal.
 
-Marie dejó el cucharón de plata sobre la mesa; sus manos temblaron levemente antes de recomponerse. Julien se adelantó con paso firme, descolgó el auricular baquelita y escuchó la estática distante de los cables submarinos transatlánticos:
+Marie dejó el cucharón de plata sobre la mesa; sus manos temblaron levemente antes de recomponerse. Julien se adelantó con paso firme, descolgó el auricular de baquelita y escuchó la estática distante de los cables submarinos transatlánticos:
 
 —¿Diga?
 
@@ -90,33 +90,33 @@ La voz al otro lado del océano llegó con un rumor sordo de fondo, fría y filt
 
 En el cubículo blindado de la Sala B-4 en Manhattan, Jean-Luc Girard cerró los ojos y se apretó el auricular contra la oreja con tanta fuerza que los nudillos se le pusieron blancos. Tenía la corbata desanudada y un vaso de agua mineral intacto sobre el teclado:
 
-—Feliz Navidad, hijo mío. ¿Están todos bien? ¿La calefacción funciona?
+—Feliz Navidad, hijo mío. ¿Estáis todos bien? ¿La calefacción tira como debe?
 
-—La chimenea tira perfectamente y tenemos tres estéreos de leña apilados bajo el porche cubierto —respondió el muchacho con serenidad metódica—. Las baterías del sótano están al ochenta y cinco por ciento gracias al generador de gasolina que encendí al mediodía. Mamá preparó sopa. Tu silla está puesta en la cabecera.
+—La chimenea tira perfectamente y tenemos tres estéreos de leña apilados bajo el porche cubierto —respondió el muchacho con serenidad metódica—. Las baterías del sótano están al ochenta y cinco por ciento gracias al generador de gasolina que arranqué al mediodía. Mamá ha preparado sopa. Tu silla está puesta en la cabecera, papá. No la hemos tocado.
 
-Girard sintió que el pecho se le desgarraba en dos. Él, que había pasado treinta años midiendo la simetría de los campos magnéticos en el CERN y que se enorgullecía de no permitir que ninguna emoción enturbiara la formulación de una hipótesis, tuvo que morderse el labio inferior para no quebrar la voz frente a su hijo:
+Girard sintió que el pecho se le partía en dos. Él, que había pasado treinta años midiendo la simetría de los campos magnéticos en el CERN y que se enorgullecía de no permitir jamás que una emoción enturbiara la formulación de una hipótesis, tuvo que morderse el labio inferior para no quebrar la voz frente a su hijo:
 
 —Pásame a tu madre, Julien... Por favor.
 
-—Un momento, papá. Te queremos.
+—Un momento, papá. Te queremos mucho.
 
 Marie tomó el auricular. Su respiración al teléfono fue un bálsamo que cruzó seis mil kilómetros de océano en la oscuridad:
 
 —*Jean-Luc...*
 
-—Marie... —susurró el científico, bajando la cabeza hacia sus rodillas—. Perdóname por no estar allí. Perdóname por dejarte con todo el peso de la casa.
+—Marie... —susurró el científico, bajando la cabeza hacia sus rodillas—. Perdóname por no estar ahí. Perdóname por dejarte con todo el peso de la casa.
 
-—No digas tonterías, Jean-Luc —respondió ella con una firmeza cálida y maternal que no admitía réplica—. Sé que estás en el único lugar del mundo donde debes estar. Las niñas están bien. Venid aquí, pequeñas... Hablad con papá.
+—Ni se te ocurra decir tonterías, Jean-Luc —respondió ella con una firmeza cálida y maternal que no admitía réplica—. Sé de sobra que estás en el único sitio del mundo donde tienes que estar. Las niñas están estupendamente. Venid aquí, pequeñas... Hablad con papá.
 
 Girard escuchó el crujido de las sillas sobre el suelo de tarima y dos vocecillas agudas y cantarinas que se atropellaron contra el micrófono:
 
 —¡Papá! ¡Papá, Noël nos ha dejado mazapán en las botas junto al fuego! ¡Y Julien dice que el cielo verde es un regalo del Polo Norte para que no tengamos miedo de noche!
 
-—Émilie... Chloé... —murmuró Girard, con una lágrima solitaria rodándole por la mejilla hasta la comisura de los labios—. Sois las niñas más valientes de Suiza. Escuchad a vuestra madre y a Julien, ¿me lo prometéis?
+—Émilie... Chloé... —murmuró Girard, con una lágrima solitaria rodándole por la mejilla hasta la comisura de los labios—. Sois las niñas más valientes de Suiza. Haced caso a vuestra madre y a Julien, ¿me lo prometéis?
 
-—¡Sí, papá! ¡Escucha lo que ensayamos para ti!
+—¡Sí, papá! ¡Escucha lo que hemos ensayado para ti!
 
-A través del hilo de cobre blindado, bajo el rumor de la estática del Atlántico y el zumbido de los transformadores de Manhattan, llegaron dos voces infantiles cantando al unísono con una inocencia luminosa:
+A través del hilo de cobre blindado, bajo el rumor de la estática del Atlántico y el zumbido de los transformadores de Manhattan, llegaron dos voces infantiles cantando al unísono con una inocencia limpia y luminosa:
 
 *«Douce nuit, sainte nuit !*  
 *Dans les cieux l'astre luit...»*
@@ -125,15 +125,15 @@ Girard se cubrió los ojos con la mano izquierda, estremeciéndose en silencio e
 
 —*Tiempo cumplido. Conmutación en diez segundos* —anunció la voz neutra y mecánica del operador de telecomunicaciones de la ONU en la línea.
 
-—Os amo —susurró Girard con el último hilo de voz que le quedaba antes del corte—. Os amo con toda mi alma. Volveré a casa.
+—Os quiero —susurró Girard con el último hilo de voz que le quedaba antes del corte—. Os quiero con toda mi alma. Volveré a casa, os lo juro.
 
-El chasquido del relé cayó como una guillotina. La línea quedó muda. Girard permaneció inmóvil durante dos minutos en la penumbra del cubículo, escuchando solo el zumbido de su propia sangre antes de secarse la cara, ponerse las gafas y volver a abrir las ecuaciones criogénicas del Muro de Lorentz.
+El chasquido del relé cayó como una guillotina. La línea quedó muda. Girard permaneció inmóvil durante dos minutos en la penumbra del cubículo, escuchando solo el zumbido de su propia sangre antes de secarse la cara, encajarse las gafas en el puente de la nariz y salir al pasillo para reunirse con los demás.
 
 ***
 
-### 24 de diciembre de 2026, 21:45:00 PST
+### 24 de diciembre de 2026, 21:45:00 PST (San Francisco) / 25 de diciembre, 05:45 GMT (Suffolk)
 **T + 33 días tras el Silencio Magnético**  
-*Ubicación: Calle Market, San Francisco (EE.UU.) — Suffolk (Reino Unido)*
+*Ubicación: Calle Market, San Francisco (EE.UU.) — Casa de Campo en Suffolk (Reino Unido)*
 
 En la costa oeste americana, la Navidad olía a niebla salina y a humo de leña quemada en bidones de metal.
 
@@ -151,13 +151,37 @@ Maya pasó la yema del pulgar sobre el cristal:
 
 —Sé que estás haciendo algo grande allá afuera, Sarah —susurró al silencio de la estancia—. No sé dónde estás ni qué te han pedido... pero no voy a fallarte. Esta noche tu sobrino ha cenado caliente y su madre está despierta para cuidarlo.
 
-A nueve mil kilómetros al este, en la campiña inglesa de Suffolk, David Wright colocaba con cuidado una taza de té sobre la mesita de noche de su esposa Claire. 
+A nueve mil kilómetros al este, en las llanuras onduladas de Suffolk, la noche invernal inglesa guardaba un silencio que parecía venir de otro siglo.
 
-En la habitación contigua, el pequeño Oliver, de tres años, dormía abrazado a una locomotora de madera de fresno. Afuera, la nieve cubría los campos de labranza hasta donde alcanzaba la vista. No se oía un solo motor de tractor, ni el crujido de una rama, ni el zumbido de un avión comercial a diez mil metros. La paz era absoluta, limpia y sobrecogedora como el primer día de la creación.
+La casa de campo de los Wright, levantada con pedernal gris y vigas maestras de roble centenario, se alzaba al final de un camino flanqueado por setos que la nieve había convertido en muros algodonosos. Afuera, la escarcha había cuajado sobre las ramas desnudas de los sauces y sobre la boca de piedra del viejo pozo artesiano. No se escuchaba el ronquido de un tractor lejano, ni el zumbido de un avión de carga atravesando el corredor del mar del Norte. La quietud del campo era tan honda que se podía oír el leve chasquido de la nieve al desprenderse de las tejas.
 
-David se acercó al ventanal del salón abovedado, con la mano apoyada en el marco de roble macizo, y miró hacia el firmamento verde.
+En la sala abovedada de la planta baja, la lumbre de la gran chimenea ardía con un resplandor dorado y manso. David Wright, con un jersey grueso de lana cruda y las mangas remangadas hasta los antebrazos, atizó el fuego con el atizador de hierro forjado. Colocó con esmero dos troncos gruesos de manzano viejo, bien curados al resguardo del cobertizo. Al contacto con las ascuas, la madera desprendió un chasquido suave y un aroma dulzón, casi frutal, que inundó toda la estancia hasta las vigas del techo.
 
-—Vuelve a casa, Thomas —dijo en voz baja, elevando su plegaria al vacío del espacio—. El manzano está seco y la casa te está esperando.
+—Huele a las Navidades de antes —dijo una voz suave a su espalda.
+
+Claire se había acercado sin hacer ruido, descalza sobre la alfombra de estameña, con dos tazas humeantes de té negro con leche en las manos. Le tendió una y apoyó la frente en el hombro de su marido mientras ambos contemplaban la danza de las llamas.
+
+—Thomas siempre insistía en el manzano —dijo David con una sonrisa melancólica, envolviendo la taza tibia entre los dedos—. Decía que el roble dura más, pero que el manzano tiene alma, que huele al huerto de nuestra infancia. Cada 24 de diciembre me obligaba a acompañarle con la carretilla al fondo del cobertizo a elegir los tres mejores leños antes de que anocheciera.
+
+Claire sonrió con dulzura, apretándose contra él:
+
+—Oliver no se ha querido dormir hasta que no le he dejado poner la locomotora bajo la almohada.
+
+David dirigió la mirada hacia la puerta entreabierta del dormitorio contiguo. Allí, arropado bajo un edredón de plumas en su cuna de barrotes de fresno, el pequeño Oliver, de tres años, dormía plácidamente. Su mano regordeta asomaba por fuera de la colcha, aferrada a una pequeña locomotora de vapor tallada a navaja con maderas de haya y nogal. En la base del tren de juguete se leía una inscripción grabada con esmero: *«Para Oliver. De su tío Thomas. Vuela alto»*.
+
+—Es lo último que le regaló antes de marcharse a Ginebra en agosto —susurró David, sintiendo cómo se le encogía la garganta—. El niño casi no se acuerda de su cara, pero no suelta ese pedazo de madera por nada del mundo.
+
+Sobre el aparador victoriano, una vieja radio de válvulas de onda corta alimentada por una batería de tractor emitía un murmullo amortiguado. En la frecuencia de emergencia de la BBC ya no se retransmitían noticias ni partes del tiempo, solo una grabación continua de coros de la catedral de Salisbury cantando villancicos medievales ingleses, entreverada por el rumor intermitente de la estática atmosférica.
+
+David caminó hacia el ventanal del salón. Apartó el cortinón de terciopelo verde y miró a través de los cristales emplomados. 
+
+Afuera, sobre la blancura inmaculada de los pastos ingleses y las siluetas negras de los robles, no brillaba la Osa Mayor ni la estrella polar. El cielo entero era una bóveda de fosforescencia esmeralda, vibrante y muda, que convertía el paisaje de Suffolk en un lienzo fantasmal.
+
+David apoyó la palma de la mano contra el cristal frío:
+
+—¿Dónde estarás esta noche, Thomas? —murmuró con la voz templada por el afecto y la devoción fraternal—. Sé que estás cargando con un peso que no nos puedes contar. Pero aquí sigue tu fuego encendido. Tu leña de manzano sigue ardiendo y tu sobrino te espera despierto. No nos falles, hermano. Vuelve a casa.
+
+Claire colocó su mano sobre el hombro de David en la penumbra del salón. Y durante largos minutos, en el corazón aislado de la campiña, los dos permanecieron en silencio, custodiando aquella lumbre viva mientras el planeta entero contenía el aliento bajo la noche verde.
 
 ***
 
@@ -185,7 +209,7 @@ MacElroy soltó una carcajada seca, empujando uno de los vasos hacia la botella 
 
 Voronov llenó los tres vasos con una medida generosa de líquido transparente. Sus ojos grises, curtidos por los inviernos de la estepa rusa, miraron primero a la científica china y luego al piloto estadounidense:
 
-—John tiene razón, Mei. En Star City, los viejos instructores que entrenaron a Leonov decían que el espacio no perdona a los políticos, pero respeta a los hombres que comparten el mismo aire en una lata de conserva. Esta noche no somos Washington, ni Pekín, ni Moscú. Somos tres primates en un búnker de Nevada preparándose para subir a apagar una máquina cósmica con una lanza de cuarzo.
+—John tiene razón, Mei. En Ciudad de las Estrellas, los viejos instructores que entrenaron a Leonov decían que el espacio no perdona a los políticos, pero respeta a los hombres que comparten el mismo aire en una lata de conserva. Esta noche no somos Washington, ni Pekín, ni Moscú. Somos tres primates en un búnker de Nevada preparándose para subir a apagar una máquina cósmica con una lanza de cuarzo.
 
 Voronov alzó su vaso de plástico hacia la luz de los fluorescentes del techo:
 
@@ -197,9 +221,61 @@ MacElroy chocó su vaso con el del cosmonauta ruso:
 
 Chen Mei contempló a sus dos compañeros durante un segundo interminable. En sus rostros no había rastro de diplomacia impostada ni de sospecha de Estado: solo la fraternidad sobria, honesta y visceral de los soldados que saben que van a entrar juntos en una tormenta de la que tal vez ninguno regrese.
 
-Alzó su vaso, tocó el de ambos con un golpe limpio y bebió el trago ardiente de un solo golpe:
+Alzó su vaso, tocó el de ambos con un golpe limpio y bebió el trago ardiente de un solo trago:
 
 —Por la Tierra —sentenció Chen Mei, dejando el plástico sobre la mesa con firmeza—. Ahora terminad la carne. El turno de pruebas de vacío de las tres de la mañana no va a esperar por nosotros.
+
+***
+
+### 24 de diciembre de 2026, 23:00:00 EST
+**La Mesa de B-4: El Amor frente a la Máquina**  
+*Ubicación: Sala de Crisis y Mando B-4, Sede de la ONU, Manhattan*
+
+En la biblioteca táctica del búnker B-4, a treinta metros bajo el pavimento congelado de la Primera Avenida, se había obrado un pequeño milagro de intendencia.
+
+Sobre la gran mesa de conferencias de nogal —la misma donde semanas atrás se habían desplegado los mapas clasificados del Silencio Magnético y los informes de inteligencia de los misiles ASAT— alguien había extendido dos manteles blancos de hilo de la vieja cafetería de delegados. No había lujos ni adornos superfluos, pero en el centro de la madera ardían tres velas gruesas de cera de abejas colocadas sobre platillos de porcelana desparejados. 
+
+Alrededor de la mesa se congregaba el núcleo más íntimo y extenuado de la resistencia planetaria: Vassily Ramos presidiendo en la cabecera; a sus costados, Jean-Luc Girard con los ojos aún brillantes tras la llamada a Suiza; Sarah Lin y Thomas Wright sentados hombro con hombro; el almirante Vance con la guerrera desabotonada en el cuello; el general Yuri Korolyov con su austera serenidad soviética; el ministro Chen Wei frotándose las sienes canosas; y un par de operadores de teletipo y guardias nepaleses de las fuerzas de paz que hacían guardia en el umbral del búnker.
+
+Sobre las fuentes no había banquetes de gala: unas hogazas de pan de centeno tostado en hornillos eléctricos, queso curado de montaña, lonchas de carne ahumada de las raciones de reserva diplomática y unas botellas de vino tinto que el propio Ramos había hecho rescatar de la bodega de protocolo de la secretaría general.
+
+El almirante Vance descorchó una de las botellas con un crujido seco. El sonido pareció resonar con una extraña solemnidad entre las paredes acorazadas.
+
+Vassily Ramos se puso en pie con lentitud. Su cuerpo de casi setenta años acusaba las infinitas noches en vela y las ojeras le surcaban la piel cetrina, pero su mirada conservaba aquella hondura paternal y apacible que tantas veces había contenido el pánico en las cumbres internacionales.
+
+Tomó una hogaza de pan entre las manos y la partió en dos con un movimiento firme y pausado. El aroma a cereal tostado se expandió por la sala.
+
+—Sé muy bien lo que están pensando todos ustedes —comenzó Ramos con una voz baja, grave y templada que llenó cada rincón sin necesidad de alzar el tono—. Llevamos treinta y tres días encerrados en esta cripta hablando de megavatios, de interferencias destructivas, de metamateriales de berilio, de satélites espía y de códigos de lanzamiento. Nos hemos visto forzados a calcular la supervivencia de nuestra especie como si fuéramos contables de un naufragio universal.
+
+Hizo una pausa y miró a los ojos de cada uno de los presentes: a Korolyov, a Chen Wei, a Vance, a Girard y a los dos jóvenes físicos.
+
+—Esta noche es Nochebuena. Para muchos de nosotros, según la fe en la que fuimos educados, es la noche en que Dios decidió entrar en la historia de los hombres. Pero no lo hizo como un emperador galáctico, ni blandiendo un rayo de energía infinita, ni con un ejército de autómatas invencibles. Nació en un pesebre de paja, desvalido, desnudo y tiritando de frío en una noche oscura de invierno. Nació necesitando que una madre lo envolviera en pañales y que un padre carpintero velara su sueño para que no muriera de frío.
+
+Ramos sostuvo los pedazos de pan en alto, ofreciéndolos a los que estaban sentados a su vera:
+
+—Esa es la lección más grande que la humanidad ha aprendido jamás, caballeros. Lo que nos define, lo que nos rescata de la noche y de la nada cósmica, no son nuestros misiles ni nuestras computadoras. Es nuestra inmensa, frágil e invencible capacidad de amar. De cuidar al que tenemos al lado. De partir el pan con el que tiene hambre y de interponer nuestro propio cuerpo para proteger a un hijo o a un hermano que duerme a miles de kilómetros de aquí.
+
+Girard bajó la cabeza hacia la mesa, conmovido hasta lo más hondo de su ser, recordando las voces de Chloé y Émilie cantando *Douce nuit*. A su lado, Sarah deslizó los dedos sobre los de Thomas bajo el mantel; sintió cómo la mano firme del inglés le devolvía un apretón cálido y protector.
+
+—Nuestros astrónomos y nuestros ingenieros van a construir la nave más extraordinaria que haya surcado el vacío —continuó Ramos, con un brillo humilde y limpio en los ojos—. Pero si esa nave vuela y si el escudo se restaura, no será por puro orgullo de la inteligencia artificial ni por miedo al castigo de las estrellas. Será porque en Ginebra hay un padre que quiere volver a ver a sus hijas; porque en San Francisco hay una madre que lucha por su niño; porque en Suffolk una familia espera a su hermano; y porque aquí, en este sótano, hemos aprendido a ser una sola familia humana.
+
+Ramos depositó los pedazos de pan en el plato de Korolyov y en el de Chen Wei:
+
+—Que este pan y este vino nos recuerden por quién luchamos. Por el amor, por la dignidad y por la esperanza que ninguna tiniebla podrá apagar jamás. Bendita sea esta mesa y benditos sean todos ustedes. Feliz Navidad.
+
+El general Korolyov, ateo convencido por doctrina y soldado veterano de mil crisis, tomó su pedazo de pan con ambas manos y lo apretó con reverencia. Luego alzó la mirada hacia Ramos y asintió con una lentitud solemne:
+
+—*Spasibo*, señor Secretario General. Que así sea.
+
+Chen Wei tomó su porción y la partió a su vez para ofrecérsela a Vance:
+
+—Por la paz de los hogares, almirante.
+
+Vance tomó el pedazo de pan de manos del ministro chino, lo miró durante un segundo y una sonrisa tenue desarmó por completo la rigidez de su rostro castrense:
+
+—Por los hogares, Chen. Y por el día en que podamos salir todos a ver la luz del sol sin miedo.
+
+Durante la siguiente media hora, en el refugio de B-4, las diferencias ideológicas, las fronteras nacionales y los cálculos balísticos quedaron suspendidos. Aquellos hombres y mujeres comieron pan, bebieron vino y hablaron de sus familias, de sus pueblos natales y de los árboles que plantaron de niños. No hubo jerarquías militares ni rangos científicos; solo un puñado de seres humanos compartiendo calor y consuelo en el corazón del invierno más largo de la historia.
 
 ***
 
@@ -207,19 +283,15 @@ Alzó su vaso, tocó el de ambos con un golpe limpio y bebió el trago ardiente 
 **El Teletipo de la Medianoche**  
 *Ubicación: Sala de Crisis y Mando B-4, Sede de la ONU, Manhattan*
 
-En la biblioteca táctica del búnker B-4, la vigilia de Nochebuena había concluido hacía apenas quince minutos.
+La tregua de la mesa acababa de expirar cuando el reloj de pared de la sala marcó los primeros minutos del día de Navidad.
 
-Vassily Ramos permanecía de pie frente a una mesa baja de nogal donde ardían dos velas de cera sobre un mantel blanco improvisado con un paño de lino. Una docena de secretarias, analistas de datos, guardias armados de las fuerzas de paz de la ONU y técnicos de comunicaciones habían permanecido en silencio mientras el anciano Secretario General leía las palabras del profeta Isaías sobre el pueblo que caminaba en tinieblas y que vio una gran luz.
+Sarah y Thomas aún permanecían de pie junto a las velas, compartiendo la última taza de café solo, cuando el sonido que todos temían en la sala rompió de golpe la quietud fraterna de la noche.
 
-No hubo sermones políticos ni arengas bélicas. Ramos les había estrechado la mano uno a uno, deseándoles paz y bendiciones para sus familias lejanas, con aquella mirada paternal y compasiva de quien carga sobre su conciencia el peso de la supervivencia colectiva.
+No era una alarma de ataque aéreo ni un timbre telefónico estridente. Era el repiqueteo seco, rápido y despiadado del teletipo de cifrado militar de la Organización Meteorológica Mundial (WMO), conectado por cable coaxial transatlántico directamente a la consola principal de guardia.
 
-Sarah y Thomas se encontraban en el pasillo de enlace cuando el sonido que todos temían en la sala rompió la quietud de la noche.
+Ramos dejó su vaso sobre la mesa de nogal y se acercó a la máquina con paso pausado pero grave. El almirante Vance, Korolyov y Jean-Luc Girard se colocaron de inmediato a su alrededor.
 
-No era una alarma de ataque ni un timbre telefónico. Era el repiqueteo seco, rápido y metálico del teletipo de cifrado militar de la Organización Meteorológica Mundial (WMO), conectado por cable coaxial transatlántico directamente a la consola central.
-
-Ramos se acercó a la máquina con paso solemne. El almirante Vance y Jean-Luc Girard se colocaron a su lado.
-
-El rollo de papel continuo escupía líneas de texto bajo la cinta entintada:
+El rollo de papel continuo escupía líneas de texto bajo la cinta entintada con un golpeteo que sonaba como ráfagas de ametralladora en la noche silenciosa:
 
 ```
 BOLETÍN URGENTE / PRIORIDAD MÁXIMA ALFA-1
@@ -238,26 +310,28 @@ INCIDENCIA SANITARIA CIVIL:
 — GAFAS DE PROTECCIÓN UV400 AGOTADAS EN EL MERCADO FORMAL; MERCADO NEGRO COBRA PRECIOS PROHIBITIVOS.
 
 ESTADO DE ALERTA:
-POBLACIÓN CIVIL IGNORA QUE EL FENÓMENO ES CONTINUO. DISTURBIOS INCILPANTES EN CENTROS DE SALUD DE PERTH Y BUENOS AIRES EXIGIENDO EXPLICACIONES SOBRE LA MENTIRA DEL CARRINGTON.
+POBLACIÓN CIVIL IGNORA QUE EL FENÓMENO ES CONTINUO. DISTURBIOS INCIPIENTES EN CENTROS DE SALUD DE PERTH Y BUENOS AIRES EXIGIENDO EXPLICACIONES SOBRE LA MENTIRA DEL CARRINGTON.
 SE SOLICITA AUTORIZACIÓN PARA DECLARAR LEY MARCIAL DIURNA Y CONFINAMIENTO EN HORAS DE SOL.
 ```
 
-El papel se detuvo con un chasquido del carro metálico.
+El carro metálico del teletipo se detuvo con un chasquido final.
 
-En la Sala B-4, el silencio volvió a caer con la pesadez de una losa funeraria.
+En la Sala B-4, la atmósfera festiva se evaporó al instante, dejando tras de sí un silencio denso y glacial como el lecho del océano.
 
 El almirante Vance leyó las cifras con la mandíbula apretada:
-—Doce por ciento de ozono barrido en tres días. En el sur están en pleno verano... El sol de mediodía les está cayendo a plomo en ángulo de noventa grados.
 
-Girard se ajustó las gafas, mirando el gráfico de proyección climática en la pantalla secundaria con una frialdad cartesiana desprovista de consuelo:
-—Es la cinemática de la catálisis de óxidos de nitrógeno que Pleh nos describió en octubre. En febrero habrán perdido el cien por cien del escudo. Ahora solo es queratitis y eritema... Para cuando el solsticio llegue al hemisferio norte en mayo, no habrá un solo brote de trigo ni una sola espiga verde sobre los continentes. La esterilización trófica comenzará exactamente según el cronómetro.
+—Doce por ciento de ozono barrido en solo tres días. En el sur están en pleno verano... El sol de mediodía les cae a plomo en un ángulo de noventa grados.
 
-Vassily Ramos contempló el teletipo durante diez segundos interminables. Luego alzó la mirada hacia el techo del búnker, hacia los pisos invisibles de Manhattan y el cielo esmeralda que envolvía a miles de millones de personas que en ese instante dormían bajo el engaño piadoso de su gobierno.
+Girard se ajustó las gafas, contemplando el rollo impreso con una seriedad implacable:
 
-El anciano diplomático cerró los ojos y se persignó discretamente con un movimiento sobrio de la mano derecha.
+—Es la cinemática exacta de la catálisis fotoquímica de óxidos de nitrógeno que Pleh nos describió en octubre. En febrero habrán perdido el cien por cien del escudo en las latitudes medias. Ahora solo es queratitis y eritema... Para cuando el solsticio llegue al hemisferio norte en mayo, no habrá un solo brote de trigo ni una sola espiga verde sobre los campos de cultivo. La esterilización trófica comenzará exactamente según el cronómetro.
 
-—La tregua de las velas ha terminado, caballeros —dijo Ramos con una voz grave, templada y solemne que llenó cada rincón de la sala—. La naturaleza no espera a que celebremos la Navidad. 
+Vassily Ramos contempló el teletipo durante diez segundos interminables. Luego alzó la mirada hacia el techo del búnker, hacia los pisos invisibles de Manhattan y el cielo esmeralda que envolvía a miles de millones de personas que en ese instante dormían bajo el engaño piadoso de los gobiernos.
+
+El anciano diplomático cerró los ojos y se persignó con sobriedad y reverencia.
+
+—La tregua de las velas ha terminado, caballeros —dijo Ramos con una voz grave, templada y solemne que resonó en el pecho de todos los presentes—. La naturaleza no espera a que celebremos la Navidad. 
 
 Se volvió hacia Thomas Wright y Sarah Lin:
 
-—Comuniquen con Nevada de inmediato. Que Chen Mei y los coroneles no salgan de la sala limpia. Faltan doscientos nueve días para el cierre industrial... y la Tierra acaba de recibir su primera herida.
+—Comuniquen con Nevada de inmediato. Que Chen Mei y los pilotos no salgan de la sala limpia. Faltan doscientos nueve días para el cierre industrial... y la Tierra acaba de recibir su primera herida.
