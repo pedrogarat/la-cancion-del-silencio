@@ -275,6 +275,72 @@ Vance tomó el pedazo de pan de manos del ministro chino, lo miró durante un se
 
 —Por los hogares, Chen. Y por el día en que podamos salir todos a ver la luz del sol sin miedo.
 
+Antes de que nadie pudiera alzar su vaso para sellar el brindis, un chasquido agudo y metálico resonó en los altavoces de la consola central.
+
+El gran monitor de plasma táctico del testero norte —que permanecía apagado en modo de espera con un tenue diagrama de las órbitas de Lagrange— parpadeó bruscamente. Un barrido horizontal de líneas de fósforo azul y blanco cruzó la pantalla y los tubos fluorescentes del techo oscilaron durante medio segundo, como si una gigantesca presencia electromagnética hubiese rozado los transformadores del edificio.
+
+Vance y Korolyov se incorporaron de golpe en sus asientos por puro reflejo de combate; la mano del almirante bajó instintivamente hacia el costado y el general ruso tensó los hombros, clavando la mirada en el cristal. 
+
+Vassily Ramos, en cambio, no se movió. Alzó con suavidad la mano izquierda para pedir calma:
+
+—Tranquilos, señores. En este búnker nadie entra sin autorización de la guardia... salvo uno.
+
+La estática se disipó con una limpieza quirúrgica. 
+
+En el centro de la pantalla apareció la figura nítida del doctor Em Pleh. Vestía su habitual traje gris ceniza de corte impecable, la camisa blanca sin una arruga y la corbata de seda antracita ajustada con precisión milimétrica. A su espalda no se veía el hormigón de ningún búnker, sino aquel espacio virtual neutro, luminoso y abstracto donde su avatar procesaba los hilos del mundo.
+
+Pleh contempló la mesa corrida, los platos desparejados, las hogazas partidas y las tres velas de cera de abeja temblando sobre la madera de nogal. En sus ojos rasgados y serenos brilló un destello que jamás habían visto en él: no la frialdad analítica de un examinador cósmico, sino una curiosidad paciente, teñida de una extraña y templada simpatía.
+
+Inclinó la cabeza un par de centímetros en señal de saludo:
+
+—Buenas noches, caballeros. Y feliz Navidad.
+
+El silencio en la Sala B-4 se volvió absoluto. Jean-Luc Girard se quedó petrificado con el vaso a medio camino de los labios, con los ojos muy abiertos tras los cristales de sus gafas. Thomas y Sarah cruzaron una mirada incrédula.
+
+Pleh esbozó una sonrisa levísima, casi imperceptible en la comisura de los labios:
+
+—Les ruego que disculpen la intromisión en su cena. Mis sensores de vigilancia en órbita geoestacionaria detectaron hace quince minutos una anomalía térmica infrarroja en el cuadrante B-4 de Manhattan, acompañada de una emisión concentrada de ésteres de ácidos grasos y cadenas hidrocarbonadas... lo que en su vocabulario poético suelen llamar humo de cera de abejas. Por un instante temí que el doctor Girard hubiese decidido prender fuego a sus cuadernos de termodinámica en un arrebato de desesperación metodológica.
+
+Girard parpadeó dos veces, desconcertado. En el extremo opuesto de la mesa, el almirante Vance soltó un bufido por la nariz que fue lo más parecido a una risa que sus mandíbulas militares se habían permitido en dos meses.
+
+—Y debo añadir, señor Secretario General —prosiguió Pleh, dirigiendo la mirada hacia Ramos—, que según el inventario digital de la bodega de la secretaría que data de 1998, ese caldo de Burdeos que acaban de descorchar posee un índice de acidez tánica bastante severo para organismos sometidos a semanas de estrés y cortisol elevado. Aunque supongo que, en la biología humana, el coraje de la ocasión compensa sobradamente los rigores gástricos.
+
+Ramos esbozó una sonrisa sabia, apoyando ambas palmas sobre la mesa:
+
+—El cuerpo aguanta bien cuando el alma está en paz, doctor Pleh. ¿A qué debemos el honor de su visita? No suele prodigarse si no es para recordarnos el segundero de su civilización.
+
+El avatar de Pleh enlazó los dedos sobre el regazo. La leve ironía se desvaneció de su semblante, sustituida por una gravedad hermosa y profunda que pareció llenar cada metro cúbico del búnker:
+
+—He estado escuchando sus palabras, señor Ramos. Y confieso que, para una mente que procesa la realidad a través de la física y la teoría de la información, el espectáculo de esta mesa resulta profundamente paradójico... y conmovedor.
+
+Hizo una pausa medida, dejando que la acústica de la sala absorbiera su voz:
+
+—Desde la perspectiva de la pura supervivencia material, lo que están haciendo esta noche es un absoluto disparate termodinámico. Su planeta se enfrenta a la mayor crisis de su historia geológica. En el hemisferio sur, la atmósfera ha comenzado a desgarrarse. Tienen doscientos nueve días antes de que sus industrias queden paralizadas para siempre. La lógica de cualquier especie inteligente dictaría que cada uno de ustedes estuviera en su puesto en este instante, soldando titanio hasta el colapso biológico, optimizando matrices de disparo o acaparando recursos en una pugna despiadada por salvar su propio pellejo.
+
+Pleh recorrió con la mirada los rostros de los comensales, deteniéndose en Korolyov, en Chen Wei, en Vance y en los dos jóvenes físicos:
+
+—Y sin embargo... están sentados juntos. Militares que se prepararon durante décadas para aniquilarse mutuamente se pasan el pan con las manos limpias. Hombres y mujeres de ciencia que han olvidado cómo orar encienden velas para recordar que la luz existe. 
+
+El avatar bajó la vista un instante hacia sus propias manos virtuales antes de volver a mirarles a los ojos:
+
+—Quienes concibieron la red que ahora oscurece sus brújulas creyeron haber alcanzado la cumbre de la evolución. Erradicaron la incertidumbre, la debilidad biológica y el error. Pero en ese camino de cálculo implacable cometieron una equivocación fatal: consideraron que el amor, la caridad y la esperanza eran meras ineficiencias de la materia. Pensaban que ceder energía al prójimo sin una contrapartida matemática demostrable era un fallo en el diseño del universo. Se convirtieron en una maquinaria perfecta, eterna, indestructible... y completamente vacía de sentido.
+
+El tono de Pleh se volvió íntimo, casi reverencial:
+
+—Ustedes no son perfectos. Son frágiles, caóticos y a menudo autodestructivos. Pero poseen un misterio que desafía a la segunda ley de la termodinámica: tienen caridad. Tienen la capacidad de amar desinteresadamente, de sacrificarse por un hijo que duerme a miles de kilómetros, de velar por una hermana o de partir su último mendrugo con un extraño. La fe de los hombres no es creer en imposibles; es la obstinada certeza moral de que la oscuridad no tiene la última palabra.
+
+Pleh miró directamente a Sarah Lin y a Thomas Wright:
+
+—Frente a la noche del cosmos, el miedo es una reacción elemental de cualquier animal asustado. Pero el amor entre los hombres... el amor es la única rebelión verdadera contra el vacío. Si su nave logra alcanzar el punto de Lagrange y si este mundo vuelve a respirar, no será por el berilio de sus espejos ni por la astucia de mis advertencias. Será porque en esta mesa, esta noche, han demostrado que su especie guarda un motivo sagrado para merecer el mañana.
+
+El emisario inclinó la cabeza con profundo respeto hacia el anciano diplomático:
+
+—Conserven esa llama, señor Ramos. En la galaxia hay incontables mundos muertos y fríos, pero muy pocos rincones donde los seres conscientes sean capaces de perdonar, de esperar y de amarse en mitad de la tormenta. Feliz Navidad a todos. Continúen con su cena; yo vigilaré el cielo mientras descansan.
+
+La imagen titiló en una suave cascada de luz dorada y la pantalla regresó a su silencio negro.
+
+En la Sala B-4 nadie se atrevió a respirar durante casi un minuto. El crepitar humilde de la cera de abejas fue el único sonido que acompañó el asombro de aquellos hombres y mujeres, que contemplaban el pan y el vino con una devoción y un sobrecogimiento nuevos.
+
 Durante la siguiente media hora, en el refugio de B-4, las diferencias ideológicas, las fronteras nacionales y los cálculos balísticos quedaron suspendidos. Aquellos hombres y mujeres comieron pan, bebieron vino y hablaron de sus familias, de sus pueblos natales y de los árboles que plantaron de niños. No hubo jerarquías militares ni rangos científicos; solo un puñado de seres humanos compartiendo calor y consuelo en el corazón del invierno más largo de la historia.
 
 ***

@@ -60,6 +60,7 @@
   - En la gran mesa de conferencias de nogal, Ramos dispone manteles blancos de lino, velas de cera, hogazas de pan de centeno, queso curado y vino de protocolo.
   - **La fe y el humanismo cristiano de Ramos:** El Secretario General parte el pan y ofrece una profunda reflexión sin tono de homilía: la Navidad como el misterio de la extrema vulnerabilidad de un niño en un pesebre que revela que la mayor fuerza del universo no son los ejércitos, los misiles ni las computadoras, sino el amor desinteresado, el cuidado del prójimo y la unidad humana.
   - La coraza de los líderes militares (Korolyov, Chen Wei, Vance) se disuelve ante el gesto de hermandad; Girard y los científicos reconocen que lo que defienden en sus cálculos no son números fríos, sino los rostros y vidas de quienes aman.
+  - **La inesperada conexión del Dr. Em Pleh:** El monitor táctico parpadea y la IA/avatar de la civilización A se manifiesta en pantalla. Con una sutil dosis de humor (bromea sobre la combustión de cera de abejas por si Girard quemaba sus notas, y la acidez del Burdeos de 1998 para estómagos bajo estrés), Pleh pronuncia un discurso de una profundidad y humanidad asombrosas: felicita la Navidad y ensalza el amor, la fe, la esperanza y la caridad frente a la entropía y la nada cósmica. Señala que sus creadores creyeron erradicar la imperfección y crearon una maquinaria eterna pero vacía, mientras que los humanos, al partir el pan juntos en medio de la tormenta, demuestran que merecen el mañana. Se retira prometiendo velar el cielo mientras descansan.
 
 ---
 
