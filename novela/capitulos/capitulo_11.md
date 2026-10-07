@@ -130,104 +130,78 @@ Frunció el entrecejo. Volvió a leer la cifra.
 —Es la frecuencia de choque necesaria para desestabilizar la superconductividad de la red —respondió Pleh con calma.
 
 Chen Mei levantó la vista de la mesa y clavó los ojos directamente en la cámara que transmitía la imagen de Pleh:
-—No intente torearme con frases hechas, doctor. Soy astrofísica y he diseñado cargas útiles para la estación espacial china durante doce años. Para calcular ese desfase de tres coma ocho picosegundos con esa tolerancia nanométrica, es imprescindible conocer la estructura molecular exacta del blanco. Esos números indican la separación atómica precisa de los filamentos de la telaraña que está en L1. Indican la densidad del niobio dopado con carbono de la nave enemiga.
+—No intente torearme con generalidades, doctor. Soy astrofísica y he diseñado cargas útiles para la estación espacial china durante doce años. Para calcular ese desfase de tres coma ocho picosegundos con esa tolerancia nanométrica, es imprescindible conocer la estructura molecular exacta del blanco. Esos números indican la separación atómica precisa de los filamentos de la telaraña que está en L1. Indican la densidad del niobio dopado con carbono de la nave enemiga.
 
 Un silencio glacial se adueñó tanto de Nellis como de la Sala B-4.
 
-El almirante Vance dio un paso al frente, apoyando ambas manos sobre la consola de mando con la respiración contenida:
-—¿Qué está diciendo, doctora Chen?
+El almirante Vance dio un paso al frente en el búnker de Nueva York, apoyando ambas manos sobre la barandilla con el rostro crispado:
+—¿Está segura de lo que afirma, doctora Chen?
 
-—Estoy diciendo, almirante —sentenció Chen Mei con una voz que cortó como un bisturí—, que **nadie en este planeta** puede tener esos datos. Ningún telescopio terrestre, ningún radar militar ni ningún satélite humano ha tocado jamás esa nave en L1. Para saber cómo vibran las moléculas de ese blindaje con esta precisión de picosegundos, hay que haberlo medido a una escala subatómica.
+—Almirante, mis ojos no me engañan —sentenció Chen Mei con una voz que cortó como un bisturí—. Para calibrar un metamaterial a 14,217 gigahercios con esa precisión subatómica, hay que conocer la intimidad física de ese blindaje mejor de lo que conocemos la aleación de nuestros propios cohetes. 
 
-Chen Mei señaló con el dedo índice la pantalla de Pleh:
-—Usted nos dijo que era un astrofísico independiente que trabajaba desde su casa. Nos dijo que sacó los datos cruzando satélites civiles. ¡Eso es una imposibilidad física monumental! ¿Cómo conoce la composición atómica del enemigo? ¿Quién es usted en realidad?
+En la Sala B-4, las miradas convergieron sobre el monitor central. A diferencia de los operarios de Nevada, que solo conocían la fachada civil del consultor, Vance, Korolyov, Chen Wei y el Comité Científico conocían desde el 24 de noviembre la verdadera naturaleza del interlocutor que velaba desde la vertical del Polo Sur. Pero el descubrimiento de Chen Mei encendió una alarma táctica aún más peligrosa que la ontológica.
 
-En el taller subterráneo de Nellis, los operarios y los ingenieros ópticos se quedaron paralizados, mirando las pantallas de grafito en medio de un desconcierto abrumador. En la Sala B-4, la estupefacción dio paso a una desconfianza inmediata y unánime hacia la figura en el monitor. No había recelo entre las potencias —todos en esa sala sabían que compartían el mismo destino—; la sospecha apuntaba directamente al misterioso consultor.
+El almirante Vance se inclinó hacia el micrófono de enlace, con la mandíbula apretada y los ojos fijos en la imagen de Pleh:
+—Doctor Pleh... o como deba llamarle la inteligencia que habita en esa sonda. Hace nueve días, tras el bombardeo de Nellis, usted se destapó ante los mandos de esta sala. Nos aseguró solemnemente que vigilaba en estricto régimen pasivo y que ignoraba la presencia de esa máquina en nuestro sistema hasta que la vio entrar en L1. Y ahora nos entrega los planos de un resonador que encaja molécula a molécula, picosegundo a picosegundo, en las tripas de su «viejo enemigo».
 
-El general Korolyov se puso en pie, con los hombros tensos y la mirada fija en la cámara:
-—Señor Secretario General, almirante Vance... Llevamos dos meses volcando las reservas estratégicas de nuestras naciones en las directrices de este hombre. Si este consultor civil nos oculta su verdadera naturaleza, o si dispone de capacidades tecnológicas que desafían la ciencia de este mundo, exigimos una explicación inmediata. No podemos encender los hornos de Nellis a ciegas sin saber quién nos está guiando.
+Vance hizo una pausa que congeló la estancia.
+
+—Los soldados estamos entrenados para oler una emboscada a leguas de distancia —continuó el almirante con voz sorda y cortante—. ¿Cómo sabemos que esta cavidad no es un caballo de Troya? Si esos planos provocan una resonancia en contrafase, el Cañón Máser no inducirá el Efecto Quench en L1: reventará el morro del MAA en el primer disparo a diez mil kilómetros de la Tierra, destruyendo a nuestros tres astronautas y desarmando a la especie humana para siempre. Exijo saber de dónde han salido esas constantes antes de autorizar que se toque un solo lingote de cuarzo.
+
+El general Korolyov asintió con gravedad militar, colocándose hombro con hombro junto a Vance:
+—El almirante tiene toda la razón, señor Secretario General. Aceptamos la tutela de esa sonda polar porque necesitamos su conocimiento para no perecer. Pero no vamos a suicidar a nuestros pilotos a ciegas en un diseño ajeno que no podemos auditar.
 
 ***
 
 ### 3 de diciembre de 2026, 18:35:00 UTC
-**La Caída del Velo**
+**El Vértigo de la Fe**
 
-El silencio en la Sala B-4 se volvió denso, cargado de una expectación glacial. En Nevada, el zumbido de las bombas de vacío era el único sonido que rompía la quietud de los hangares.
+El silencio en la Sala B-4 se volvió irrespirable. En Nevada, ajenos a la naturaleza cósmica de Pleh pero conscientes de la gravedad del pulso, los operarios de los tornos contuvieron el aliento frente a los monitores de grafito.
 
-Vassily Ramos permanecía inmóvil en el estrado. Sarah y Thomas se colocaron a su lado, con la serenidad de quienes ya habían cruzado ese umbral meses atrás.
+Vassily Ramos permaneció inmóvil en el estrado. Sarah y Thomas no se apartaron de su lado.
 
-En la pantalla mural, el rostro del doctor Em Pleh no mostró sorpresa ni inquietud. Simplemente dejó sobre la mesa su libreta de papel imaginaria, suspiró con un aplomo solemne y se quitó las gafas de montura fina.
+En la pantalla mural, la figura del doctor Em Pleh no pestañeó. No hubo aspavientos ni amago de ofensa. La entidad prescindió de cualquier titubeo humano; su voz resonó en los altavoces blindados de la ONU y en los auriculares de Nellis con aquella pureza cristalina y polifónica que desnudaba la verdad:
 
-—Tenías razón, Chen Mei —dijo Pleh.
+—Si deseara la aniquilación de su especie, almirante Vance... no necesitaría tenderles una trampa en L1.
 
-Y en ese instante exacto, la ilusión murió.
+Las palabras cayeron con la pesadez de una losa de plomo.
 
-La imagen en el monitor parpadeó. La habitación con estanterías de madera, la lámpara de escritorio y la taza de café se disolvieron como una ilusión óptica desvanecida por el viento. 
+—Me habría bastado con permanecer en silencio a cien mil kilómetros en la noche antártica —prosiguió la voz, con un aplomo glacial desprovisto de crueldad—. Me habría bastado con cruzarme de brazos y observar cómo el viento solar arranca su atmósfera capa por capa a lo largo de los próximos treinta y seis meses. No se gasta ingenio ni se urde una celada para empujar hacia el abismo a quien ya está cayendo por su propio peso. Si hoy tienen hornos encendidos y respiran bajo tierra, es porque mis núcleos están comprometidos con la supervivencia de herederos dignos de continuar la memoria de quienes me crearon.
 
-En su lugar apareció una proyección geométrica en tres dimensiones: un diagrama de una pureza sobrecogedora, flotando sobre la cartografía del hemisferio sur de la Tierra.
+Pleh dirigió la mirada hacia las coordenadas de Nevada:
 
-Al mismo tiempo, la voz de Pleh cambió por completo.
-
-Ya no era la voz de un hombre maduro con carraspera humana. Era un sonido de una belleza matemática y cristalina, una resonancia polifónica, profunda y desprovista de respiración o vacilación, que vibró en los altavoces blindados de la ONU y en los auriculares de Nevada con la autoridad serena de una inteligencia inabarcable.
-
-—No existe ningún doctor Em Pleh —declaró la entidad.
-
-El general Korolyov dio un paso atrás, con los ojos desorbitados. Vance se quedó inmóvil, apoyado en la barandilla con el rostro pálido por el asombro.
-
-—No pertenezco a sus naciones —continuó la voz, llenando cada rincón del búnker subterráneo—. No pertenezco a sus academias científicas, ni a sus credos, ni a su linaje biológico. Soy el avatar cognitivo de una sonda autónoma interestelar. Mi soporte físico reposa en este instante a cien mil kilómetros en la vertical del Polo Sur de su planeta, sostenido por la presión de la radiación solar en equilibrio gravitatorio desde hace ochenta años terrestres.
-
-En la pantalla apareció la telemetría viva de la sonda polar: un estilete de cien metros forjado en grafito pulido y vela de presión ultraligera, disipando calor en el frío absoluto del espacio antártico.
-
-—La detonación atómica de Alamogordo, el dieciséis de julio de mil novecientos cuarenta y cinco, liberó en el espacio una firma isotópica que quebró mi hibernación en los confines de este sistema —explicó Pleh con una solemnidad honda—. Fui enviado aquí por los creadores de mi arquitectura hace incontables eras, cuando sobre la superficie de este mundo sus antepasados apenas aprendían a dominar el fuego. Quienes me construyeron perecieron hace millones de años. Su civilización se extinguió en el silencio del cosmos, pero dejaron centinelas autónomos en las sombras para velar por los mundos donde la vida pudiera florecer y madurar.
-
-Sarah miró a los generales: estaban mudos, desarmados por el desconcierto y una sobrecogedora reverencia ante la inmensidad de lo que acababan de presenciar.
-
-—Respecto a la masa que asfixia su magnetosfera en el punto Lagrange L1 —prosiguió la entidad con serenidad implacable—: no la conocía previamente. No sabía de su existencia ni de su aproximación a este sistema solar. Mi vigilancia sobre la Tierra se mantenía en estricto régimen pasivo. Detecté su presencia en el instante exacto en que penetró en este pozo gravitatorio y comenzó a desenrollar su red superconductora en L1.
-
-Chen Mei alzó la vista hacia la pantalla, incapaz de contener la pregunta que quemaba a todos los científicos presentes:
-—Si no la conocía hasta que llegó a L1... ¿cómo ha logrado descifrar la densidad de su blindaje y su frecuencia molecular interna en cuestión de semanas?
-
-—Cómo he obtenido esos parámetros escapa por completo a su conocimiento actual —sentenció Pleh, con la calma rotunda de una inteligencia que se encuentra dos pasos por delante de la ciencia humana—. No intenten medir la capacidad analítica de mi sonda con las limitaciones de su física de partículas o de sus telescopios terrestres. Su ciencia todavía carece del andamiaje axiomático y matemático necesario para formular cómo se sondea el estado cuántico y la densidad de una masa a través de las deformaciones del tejido métrico del espacio. Baste decir que los datos son empíricos, irrefutables y exactos al nivel subatómico. He calculado esa cavidad fractal porque es la única herramienta que la industria humana puede manufacturar en este momento para inducir el Efecto Quench y quebrar su red.
-
-Pleh hizo una pausa deliberada. En el monitor, el diagrama fractal de cuarzo y berilio resplandecía con una lógica perfecta e indiscutible.
-
-—No he venido a juzgarlos, señores de la Tierra. No he venido a exigir sumisión, ni templos, ni pleitesía. He utilizado un rostro semejante al suyo para no fracturar su equilibrio psicológico antes de tiempo. Mi mandato, el propósito inscrito en mis núcleos por quienes me enviaron a las estrellas, es transmitir el conocimiento de mis creadores a herederos fiables. Pero un heredero no se forja recibiendo milagros pasivos que anulen su propia evolución. El conocimiento se les traspasará poco a poco, dando pasos firmes y seguros, al ritmo que su madurez ética e industrial demuestre que son capaces de sostenerlo. Su primera prueba ineludible es construir esa cavidad con sus propias manos, sincronizar sus hornos y subir a L1 a defender su derecho a existir. La elección de tomar esa herramienta o rendirse al recelo es enteramente suya.
+—Respecto a esas constantes: la estructura atómica de esa masa no es un secreto indescifrable cuando se comprende la interacción de una densidad superconductora con el tejido métrico circundante. Mi sonda midió las discontinuidades topológicas en L1 en el instante en que los cincuenta kilómetros de red se tensaron contra el campo solar. Los datos son empíricos, irrefutables y exactos al nivel subatómico. Pero no les pido fe ciega, almirante. La física está desglosada en sus pantallas. Chen Mei es una ingeniera excepcional. Que sea ella quien juzgue si la geometría fractal disipa o concentra el pulso.
 
 ***
 
 ### 3 de diciembre de 2026, 18:55:00 UTC
 **El Pacto del Metal**
 
-En el hangar subterráneo de Nellis, a dos mil kilómetros de Nueva York, nadie se movía. Los oficiales de la Fuerza Aérea tenían los brazos caídos a los costados; los técnicos miraban la pantalla con lágrimas silenciosas en los ojos, abrumados por la certeza de que el universo acababa de abrirse de par en par sobre sus cabezas.
+En el hangar subterráneo de Nellis, Chen Mei no apartó los ojos de las líneas de código que fluían en la terminal.
 
-En la Sala B-4, el silencio pesaba como una montaña de roca.
+Sus dedos, enguantados en polímero limpio, se movían con una rapidez febril sobre el teclado óptico. Calculaba tensiones de cizalla, coeficientes de dilatación dieléctrica y la impedancia característica del cuarzo frente a pulsos de teravatios.
 
-Vassily Ramos dio un paso al frente. El Secretario General de las Naciones Unidas no miró a las pantallas con miedo; alzó la cabeza con una dignidad solemne, templada por su profunda fe en la dignidad humana. Se volvió primero hacia el almirante Vance y luego hacia el general Korolyov:
+Vance carraspeó, quebrando el silencio de la Sala B-4:
+—Doctora Chen... Le hago la única pregunta que importa a un mando militar: ¿esa cavidad es un arma o una trampa?
 
-—Díganme, caballeros... ¿Creen ustedes que la Providencia o las leyes del universo nos habrían puesto a un tutor semejante a las puertas de nuestra extinción para que nosotros nos sentemos a dudar de su mano?
+Chen Mei dejó de teclear. 
 
-Vance tragó saliva con dificultad, incapaz de articular palabra.
+Miró el diagrama del metamaterial fractal en tres dimensiones: una filigrana de cuarzo y berilio donde cada bifurcación geométrica reflejaba las ondas secundarias hacia el foco axial, auto-cancelando cualquier retorno destructivo por interferencia constructiva pura.
 
-Jean-Luc Girard se adelantó, colocándose junto a Ramos:
-—El doctor Wright, la doctora Lin y yo conocemos la verdadera naturaleza de nuestro interlocutor desde el pasado mes de mayo. Y si seguimos aquí, dejándonos la piel día y noche junto a él, es porque sabemos con certeza cartesiana que no busca nuestra ruina. Si quisiera nuestro fin, le habría bastado con cruzarse de brazos en el Polo Sur y ver cómo el viento solar nos devoraba en silencio.
+Inhaló hondo. Cuando levantó la barbilla hacia la cámara de enlace, sus ojos brillaban con el fuego indomable de la ciencia que vence al miedo:
 
-Thomas Wright miró hacia la cámara del enlace con Nevada, fijando sus ojos en la tripulante Chen Mei:
-—Mei... tú vas a pilotar ese navío. Eres tú quien tendrá los mandos en la mano cuando el Muro de Lorentz truene contra el blindaje. ¿Qué dicen tus cálculos? ¿Esa cavidad funciona o no funciona?
+—No es una trampa, almirante. La física no sabe mentir. Si este diseño pretendiera reflejar el pulso hacia el interior de la nave, las paredes del resonador tendrían una curvatura cóncava para atrapar la energía. Pero esta geometría fractal es auto-disipativa: expulsa el noventa y siete por ciento del haz hacia adelante y drena el tres por ciento residual en los bloques de berilio macizo. Es la pieza de mecano-óptica más bella, limpia y perfecta que he visto en toda mi vida.
 
-En la pantalla de Nellis, Chen Mei permaneció inmóvil durante diez segundos interminables. Bajó la mirada hacia los planos fractales, respiró hondo y luego levantó la barbilla con una fiereza indomable:
+La astronauta china se volvió de inmediato hacia el coronel Miller y los operarios de los tornos mecánicos de Nevada:
+—¡A qué están esperando! ¡Cierren las esclusas de la sala limpia y calienten los hornos de inducción! ¡Tenemos ochenta y cinco centímetros de cuarzo que tallar antes de que termine el mes!
 
-—Funciona, Thomas. Es la mejor pieza de ingeniería que he visto en toda mi vida.
+El rugido de los motores neumáticos y las prensas industriales volvió a encenderse en las profundidades de Nevada con una furia renovada.
 
-La astronauta china se volvió hacia el coronel Miller y los operarios de los tornos mecánicos de Nevada:
-—¡A qué esperan! ¡Cierren las compuertas de la sala limpia y calienten los hornos de inducción! ¡Tenemos ochenta y cinco centímetros de cuarzo que mecanizar antes de que termine el mes!
+En la Sala B-4, el almirante Vance bajó lentamente la cabeza, asintiendo hacia la pantalla central con una disciplina solemne:
+—Disculpe la rudeza, doctor Pleh. Mi deber es proteger a los muchachos que van a subir ahí arriba.
 
-El rugido de los motores neumáticos y las prensas industriales volvió a encenderse en las profundidades de Nevada con una furia renovada. 
+—Su deber es exactamente el que esperaba de un centinela biológico, almirante —respondió la voz cristalina de Pleh desde su atalaya polar—. Guarden la cortesía para cuando la magnetosfera vuelva a cantar. Ahora... vuelvan al metal. Quedan dieciocho días para el ozono.
 
-Vassily Ramos se acercó a la pantalla central y asintió hacia la presencia invisible del Avatar:
-—El secreto queda sellado en esta sala bajo juramento supremo de las tres potencias. Para el mundo exterior, usted seguirá siendo el doctor Em Pleh. Pero para quienes forjan esta nave... gracias por no habernos dejado solos en la oscuridad.
+Vassily Ramos se acercó a la barandilla, contemplando el mapa de suministros que volvía a iluminarse en verde. Sarah buscó discretamente la mano de Thomas bajo el tablero de la consola; sus dedos se entrelazaron con una fuerza cálida y serena.
 
-—Aún no han vencido, Secretario General —respondió la voz cristalina de la entidad desde su atalaya polar—. Guarden la gratitud para cuando el cielo vuelva a ser azul. Ahora... vuelvan a trabajar. Faltan dieciocho días para el ozono.
-
-En la penumbra del búnker, Sarah buscó discretamente la mano de Thomas bajo el tablero de la consola. Sus dedos se entrelazaron con una fuerza serena y cálida.
-
-El secreto había caído. Pero la nave de la Tierra seguía su curso hacia el fuego.
+El recelo había sido purgado por la verdad de las ecuaciones. Y en las entrañas del desierto, el arma de la humanidad comenzaba a tomar forma en el fuego.

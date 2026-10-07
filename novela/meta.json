@@ -103,6 +103,15 @@
       "location": "Base de Nellis (Nevada) / Sala de Crisis B-4 ONU, Nueva York",
       "readTime": "15 min",
       "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 12,
+      "title": "Capítulo 12: La Tregua de las Velas",
+      "act": "Acto II: La Caída del Escudo y el Gran Caos",
+      "pov": "Dr. Thomas Wright / Dra. Sarah Lin / Dr. Jean-Luc Girard / Vassily Ramos / Dra. Chen Mei",
+      "location": "Sala B-4 (Nueva York) - Versoix (Ginebra) - San Francisco - Suffolk - Base de Nellis",
+      "readTime": "16 min",
+      "povImage": "img/char_protagonista.png"
     }
   ]
 }
