@@ -83,20 +83,23 @@
 
 ## 🚀 NIVEL 4: La Tripulación de Ataque Analógico e Intercepción Orbital
 
-### 👨‍✈️ 8. Coronel James «Mace» MacElroy
+### 👨‍✈️ 8. Comandante James «Mace» MacElroy
 - **Rol:** Comandante Analógico Titular del Módulo de Ataque Analógico (MAA).
-- **Filiación:** Fuerza Aérea de los Estados Unidos (USAF).
-- **Perfil:** Piloto de pruebas de élite con más de tres mil horas de vuelo en cazas supersónicos y suborbitales. Famoso por su legendaria pericia manual y nervios de acero para maniobrar cazas desprovistos de computadoras de vuelo en situaciones de fallo electrónico crítico. Destinado a gobernar el timón manual de nitrógeno frío y los periscopios de cuarzo del MAA dentro del Muro de Lorentz.
+- **Filiación:** Aviación Naval / Fuerza Aérea de los Estados Unidos (USAF).
+- **Perfil:** Piloto de pruebas de élite con miles de horas de vuelo en cazas embarcados y aparatos suborbitales. Famoso por su legendaria pericia manual y nervios de acero para apontajes nocturnos sin instrumental digital. En el Cap. 12, en la cantina subterránea de Nellis, demuestra su humor socarrón y su lealtad indomable, asumiendo que ningún simulador sustituye la sincronización a ciegas de sus manos con las de sus dos compañeros. Destinado a gobernar las toberas manuales y periscopios de cuarzo del MAA dentro del Muro de Lorentz.
 
 ### 👩‍🔬 9. Dra. Chen Mei
 - **Rol:** Ingeniera de Cargas y Sistemas Titular del Módulo de Ataque Analógico (MAA).
 - **Filiación:** Administración Espacial Nacional China (CNSA).
-- **Perfil:** Astrofísica de élite y especialista de primer orden en dinámica de fluidos en vacío y sistemas cuánticos en microgravedad. Responsable táctica del alineamiento balístico y la inyección en fase del cañón Máser que descargará el caos matemático contra el núcleo de Sombra para desencadenar el Efecto Quench.
+- **Perfil:** Astrofísica de élite, doctora por Tsinghua y especialista de primer orden en dinámica de fluidos y sistemas cuánticos en vacío.
+- **Acciones Clave:**
+  - **Capítulo 11:** Descubre que la cavidad fractal de Pleh resuena a 14,217 GHz; ante la alarma militar de Vance y Korolyov, audita las ecuaciones, confirma que la geometría disipa el pulso sin efecto rebote y valida que es un arma perfecta y no una trampa, ordenando encender los hornos de inducción de Nellis.
+  - **Capítulo 12:** En Nochebuena, comparte raciones MRE y vodka con MacElroy y Voronov al pie del chasis de titanio del MAA, brindando «por la Tierra» antes de iniciar el turno de pruebas de vacío de madrugada.
 
-### 👨‍🚀 10. Alexei Voronov
+### 👨‍🚀 10. Coronel Alexei Voronov
 - **Rol:** Especialista Orbital Titular a cargo del Módulo de Retorno Digital (MRD).
 - **Filiación:** Corporación Espacial Estatal Roscosmos (Rusia).
-- **Perfil:** Cosmonauta veterano con dos misiones de larga permanencia en estaciones orbitales internacionales y el récord mundial de acoplamientos manuales en emergencias extremas. Su cometido es aguardar en la órbita de Halo a 12.000 km fuera del alcance del Muro de Lorentz, manteniendo operativos los sistemas digitales de soporte vital para rescatar y atracar con el MAA en su viaje de vuelta a la Tierra.
+- **Perfil:** Cosmonauta veterano con tres misiones de larga permanencia orbital y el récord mundial de acoplamientos manuales de emergencia. Hombre de pocas palabras, ojos grises curtidos por la estepa y sabiduría noble. En el Cap. 12 rescata de su taquilla una botella de vodka para brindar con Chen Mei y MacElroy bajo el principio cosmonáutico de que «el espacio respeta a los hombres que comparten el mismo aire en una lata de conserva». Destinado a pilotar el MRD para rescatar al MAA tras la inducción del Efecto Quench.
 
 ### 👥 11. Tripulación de Reserva (3 Astronautas)
 - **Composición:** Un piloto de la USAF (EE.UU., suplente de MacElroy), una astrofísica de la CNSA (China, suplente de Chen Mei) y un cosmonauta de Roscosmos (Rusia, suplente de Voronov). Entrenados con el mismo rigor psicotécnico y manual para reemplazar a cualquier titular en caso de baja o contingencia médica antes del lanzamiento en la ventana operativa de Nellis/Wenchang.

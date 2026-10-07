@@ -22,7 +22,7 @@
 | **9** | La Fractura del Orden | [capitulo_9.md](novela/capitulos/capitulo_9.md) | [Desglose](novela/capitulos/capitulo_9_desglose.md) | [PDF](Capitulo_9_La_Fractura_del_Orden.pdf) |
 | **10** | T=0 (El Silencio Magnético) | [capitulo_10.md](novela/capitulos/capitulo_10.md) | [Desglose](novela/capitulos/capitulo_10_desglose.md) | [PDF](Capitulo_10_T0.pdf) |
 | **11** | La Geometría Ajena | [capitulo_11.md](novela/capitulos/capitulo_11.md) | [Desglose](novela/capitulos/capitulo_11_desglose.md) | [PDF](Capitulo_11_La_Geometria_Ajena.pdf) |
-| **12** | La Tregua de las Velas | [capitulo_12.md](novela/capitulos/capitulo_12.md) | [Desglose](novela/capitulos/capitulo_12_desglose.md) | |
+| **12** | La Tregua de las Velas | [capitulo_12.md](novela/capitulos/capitulo_12.md) | [Desglose](novela/capitulos/capitulo_12_desglose.md) | [PDF](Capitulo_12_La_Tregua_de_las_Velas.pdf) |
 
 ---
 

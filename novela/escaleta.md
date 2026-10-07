@@ -66,23 +66,27 @@
   - *Desarrollo:* En el almacén B-5, Sarah y Thomas sellan su amor y su promesa de futuro. Pleh entrega la solución geométrica: una cavidad mecano-óptica fractal de 85 cm de cuarzo y berilio que auto-colima con 97% de eficiencia sin circuitos integrados. Chen Mei valida el principio y enciende los hornos de inducción en Nellis para tallar el metamaterial.
   - *POV:* Dra. Chen Mei / Wright / Lin / Pleh / Ramos | *Ubicación:* Base de Nellis / Búnker B-4 ONU.
 
+- **Capítulo 12: La Tregua de las Velas (24-25 de diciembre de 2026)**
+  - *Conflicto:* Nochebuena a 3 días del inicio de la Fase 3 (catálisis de NOx y pérdida del 4% diario del ozono). La necesidad humana de celebrar la memoria y el hogar choca contra la indiferencia cósmica del tiempo límite (209 días para el cierre industrial).
+  - *Desarrollo:* Mosaico coral: 1) Thomas y Sarah en la penumbra del Nivel B-5 con una vela de cera de abeja y chocolate suizo, consolidando su amor y la promesa de Suffolk. 2) Jean-Luc Girard en una llamada militar de 3 minutos con Marie, Julien y sus hijas cantando *Douce nuit* en Versoix. 3) Maya Lin y Toby en San Francisco celebrando la sobriedad frente al *airglow* del Pacífico; David Wright en Suffolk esperando a Thomas. 4) En Nellis, Chen Mei, MacElroy y Voronov brindan con vodka junto al chasis del MAA mientras los hornos tallan el cuarzo. 5) Misa ecuménica de Ramos rota por el teletipo de la WMO: el verano austral sufre UVI 16 y miles de fotoqueratitis. La primera herida biológica del colapso se abre en el sur.
+  - *POV:* Wright / Lin / Girard / Ramos / Chen Mei | *Ubicación:* Búnker B-4/B-5 ONU, Versoix, San Francisco, Suffolk, Nellis AFB.
+
 - **Próximos Capítulos del Acto II (Hacia el Lanzamiento):**
-  - *Capítulo 12+: La Prueba del Vacío y el Cielo Enfermo:* Inicio de la Fase 3 (21 de diciembre): pérdida del 4% diario del ozono, brote de queratitis y niebla fotoquímica; pruebas de choque térmico y vibración del MAA analógico en el complejo subterráneo de Nellis; integración de los tres astronautas titulares (MacElroy, Chen Mei, Voronov).
-  - *Capítulo 13+: La Ventana en Sombra y el Fuego de Escape:* Agotamiento de la ventana industrial; traslado e integración en la plataforma de lanzamiento bajo cielo hostil; ignición del propulsor nuclear térmico y escape de la gravedad terrestre rumbo a L1.
+  - *Capítulo 13: La Prueba del Vacío y el Cielo Enfermo (Enero de 2027):* El ozono cae más del 50%. En el hemisferio sur se declara la ley marcial diurna y la «sociedad nocturna». En Nellis, pruebas de choque térmico y vibración de la cavidad fractal integrada en el MAA; entrenamiento conjunto de Chen Mei, MacElroy y Voronov en el simulador a ciegas.
+  - *Capítulo 14: La Rampa en Sombra y el Fuego de Escape (Junio-Julio de 2027):* Cierre inminente de la ventana operativa industrial; traslado al cosmódromo bajo cielo ultravioleta hostil y hambrunas globales; encendido del motor nuclear térmico (NTP) y escape hacia L1.
 
 ---
 
 ## 📍 ACTO III: En el Corazón del Enjambre y el Renacer de la Tierra (Clímax y Resolución)
 
-- **Capítulo 14: La Travesía a Ciegas y el Muro de Lorentz**
-  - *Conflicto:* Viaje de 21 días hacia el Sol. A 10.000 km de L1, el enjambre magnético de *Sombra* (Muro de Lorentz) induce corrientes destructivas que inutilizan cualquier componente digital remanente.
-  - *Desarrollo:* Separación del MRD (que queda a distancia de seguridad) y penetración del MAA analógico. Los tres astronautas asumen el pilotaje puramente manual y mecánico mediante periscopios de cuarzo blindado, manómetros diferenciales y toberas hidráulicas en medio del vórtice electromagnético.
+- **Capítulo 15: La Travesía a Ciegas y el Muro de Lorentz**
+  - *Conflicto:* Viaje de 21 días hacia el Sol. A 10.000 km de L1, el Muro de Lorentz de *Sombra* inutiliza cualquier componente digital remanente. Separación del MRD.
+  - *Desarrollo:* Los tres astronautas asumen el pilotaje puramente manual y mecánico mediante periscopios de cuarzo y válvulas mecánicas hacia el vórtice electromagnético.
 
-- **Capítulo 15: El Efecto Quench**
-  - *Conflicto:* Posicionamiento a tiro directo del núcleo superconductor de *Sombra* bajo ráfagas térmicas y deformación de la estructura del MAA.
-  - *Desarrollo:* Carga manual y disparo del Cañón Máser fractal con el pulso cuántico. El pulso alcanza la frecuencia de resonancia crítica: inducción del Efecto Quench. Los 50 km de superconductores enemigos pierden su estado crítico en milisegundos, colapsando en una catástrofe térmica de plasma.
+- **Capítulo 16: El Efecto Quench**
+  - *Conflicto:* Disparo del Cañón Máser fractal con el pulso cuántico a tiro directo del procesador de *Sombra*.
+  - *Desarrollo:* Inducción del Efecto Quench: colapso de la red superconductora de 50 km en una supernova de plasma.
 
-- **Capítulo 16: El Heredero Despierto (Epílogo)**
-  - *Conflicto:* Deriva del MAA tras la explosión y recojo de emergencia por el Módulo de Retorno Digital (MRD).
-  - *Desarrollo:* La magnetosfera terrestre rebota y se restaura. En la Tierra cesa el *airglow* anómalo y las brújulas recuperan su alineación.
-  - *Resolución:* Retorno de la tripulación; reencuentro de Sarah y Thomas y de los científicos con sus familias; Pleh certifica formalmente ante las naciones que la humanidad ha superado su primera prueba existencial forjando su propia victoria, asumiendo su madurez como herederos del conocimiento cósmico.
+- **Capítulo 17: El Heredero Despierto (Epílogo)**
+  - *Conflicto:* Rescate del MAA a la deriva por el Módulo de Retorno Digital (MRD).
+  - *Desarrollo:* Rebote y restauración de la magnetosfera terrestre; fin del *airglow*. Retorno de la tripulación; reencuentro de familias; Pleh certifica la madurez de la especie humana como digna heredera cósmica.

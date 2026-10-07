@@ -235,3 +235,29 @@ Para evitar el pánico global, la intervención militar desordenada y la paráli
 6. **Ventana Temporal Estricta:** La respuesta humana debe estar en órbita en un plazo máximo de 6 a 8 meses antes de que la degradación atmosférica destruya la capacidad industrial de la Tierra.
 7. **Principio del Escudo de Masa Atmosférico:** La masa de aire al nivel del mar (1.033 g/cm²) impide la penetración directa de protones del viento solar hasta el suelo. Cero muertes instantáneas por radiación ionizante en superficie en T = 0. La letalidad opera por catálisis fotoquímica secundaria (destrucción del ozono por NOx) y radiación UVC.
 8. **Inexistencia de Refugio Nocturno Orbital:** Ningún satélite LEO permanece a salvo en la noche: al orbitar a 7,8 km/s en períodos de 90 minutos, toda la flota cruza a la cara diurna radiada en menos de una hora tras el colapso magnético.
+
+---
+
+## ☢️ 8. Física y Cinemática de la Fase 3: Catálisis de NOx y Cavidad Fractal (Capítulos 11 y 12)
+
+### 8.1 La Cavidad Mecano-Óptica Fractal de Metamaterial (Capítulo 11)
+* **El Problema Óptico Clásico:** En ausencia de microprocesadores digitales (inutilizables bajo el Muro de Lorentz), la colimación de un pulso Máser de teravatios a 1,5 millones de km exigiría por difracción de Fraunhofer una cavidad resonante tradicional de más de **200 metros de longitud**, físicamente imposible de montar en el morro del Módulo de Ataque Analógico (MAA).
+* **La Solución Fractal de Pleh:** Una estructura fractal tridimensional autosemejante de **85 centímetros** tallada en cuarzo óptico de pureza extrema y berilio macizo.
+* **Mecanismo Físico:** Las reflexiones internas en los límites fractales inducen interferencia constructiva en el eje axial de emisión y cancelan la dispersión lateral por desfase armónico.
+* **Rendimiento:** **97% de eficiencia de transmisión directa**; el 3% residual se disipa térmicamente en los bloques de berilio como absorbedor de masa sin recalentar la cabina ni rebotar hacia la tripulación.
+* **Frecuencia Fundamental:** Calibrada en **14,217 GHz** con tolerancia de picosegundos, coincidiendo exactamente con la frecuencia de resonancia superconductora de la red de *Sombra* para inducir el Efecto Quench.
+
+### 8.2 Cinética de la Catálisis Fotoquímica de Óxidos de Nitrógeno (Fase 3: 21 de Diciembre de 2026)
+* **Mecanismo de Reacción:** En ausencia de magnetosfera, los protones solares de alta energía (10–100 MeV) penetran hasta la mesosfera y estratosfera superior (30–60 km), disociando las moléculas diatómicas de nitrógeno ($N_2 \rightarrow N + N$).
+* **Ciclo Catalítico Destructivo:**
+  $$N + O_2 \rightarrow NO + O$$
+  $$NO + O_3 \rightarrow NO_2 + O_2$$
+  $$NO_2 + O \rightarrow NO + O_2$$
+* **Efecto Neto:** Una única molécula de $NO$ destruye miles de moléculas de ozono ($O_3$) antes de ser neutralizada.
+* **Tasa de Pérdida Canónica:** **4% diario** del grosor de la capa de ozono (columna Dobson). Al cabo de 72 horas (Nochebuena, Capítulo 12), la pérdida global acumulada alcanza el **12,4%**. En febrero de 2027, el escudo de ozono habrá colapsado al 100%.
+
+### 8.3 Asimetría Estacional y Patología Radiativa (Navidad de 2026)
+* **Asimetría por Solsticio:** El 21 de diciembre marca el solsticio de verano en el hemisferio sur y de invierno en el boreal.
+  * **Hemisferio Sur:** Ángulo cenital solar perpendicular (90° en el Trópico de Capricornio), 14 a 16 horas diarias de luz directa y masa óptica atmosférica mínima. Con el 12,4% de ozono barrido, la radiación ultravioleta de banda media (UVB: 290–315 nm) penetra con índices UVI extremos (**UVI > 16**).
+  * **Patologías Inmediatas:** Fotoqueratitis aguda (quemadura corneal dolorosa con ceguera temporal en 18–25 minutos de exposición a mediodía) y eritema solar de segundo grado.
+  * **Hemisferio Norte:** El invierno boreal otorga una tregua temporal por el bajo ángulo solar y noches largas (15 horas de *airglow* verdoso a 557,7 nm), retrasando la esterilización biológica directa hasta el solsticio de mayo (Fase 4: colapso trófico y muerte de cosechas).

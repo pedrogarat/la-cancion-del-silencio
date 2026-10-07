@@ -294,3 +294,5 @@
 | **8** | *La Gran Mentira* | Sala de Prensa de la ONU • Búnker B-4 • Boston • Versoix | Rueda de prensa global del falso Carrington; llamadas emotivas; primer beso en servidores. |
 | **9** | *La Fractura del Orden* | Versoix (Chalet) • Suffolk (Casona / A14) • San Francisco (Market St.) | Cap. coral civil: defensa de Marie y Julien, éxodo rural de David y redención de Maya. |
 | **10** | *T=0* | Sala B-4 • Termosfera • Nellis AFB (Nevada) • USS Lake Erie • USS Hudner | T=0: colapso geomagnético; lluvia de chatarra; asedio de Nellis y cielo esmeralda. |
+| **11** | *La Geometría Ajena* | Almacén Óptico B-5 (ONU) • Taller Criogénico Subterráneo Nellis | Callejón sin salida del Máser; beso íntimo de Sarah y Thomas en B-5; tallado del cuarzo fractal. |
+| **12** | *La Tregua de las Velas* | B-5 ONU • Versoix • San Francisco • Suffolk • Cantina Nellis | Nochebuena coral; vela de cera y chocolate; llamada de Girard; brindis de astronautas; teletipo WMO. |
