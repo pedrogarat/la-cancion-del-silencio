@@ -25,6 +25,10 @@ De pronto, amortiguado por la distancia y el viento de la bahía, llegó un soni
 
 No eran sirenas. Eran las campanas de bronce de la catedral de San Patricio, a diez manzanas de allí. Doce campanadas lentas, graves y majestuosas que flotaron sobre las azoteas vacías de Nueva York saludando el nacimiento de 2027.
 
+Y entonces, tras la última resonancia del bronce, ocurrió algo extraordinario.
+
+Como si aquellas doce notas hubiesen roto un dique invisible, la ciudad apagada empezó a responder desde el confinamiento. No hubo multitudes en las aceras, pero sí un rumor sordo, creciente y obstinado que ascendió desde los patios de luces y las ventanas entornadas. Comenzó con un chasquido disperso de aplausos solitarios asomados al aire helado; luego, el repiqueteo metálico y febril de cacerolas golpeadas con cucharas tras los visillos corridos, silbidos agudos que rasgaron la niebla del East River y gritos lejanos y roncos de júbilo desafiante. Desde las dársenas apagadas, la sirena grave de un remolcador bramó con fuerza en el agua oscura, secundada por los toques breves de claxon de algunas patrullas en los cruces desiertos y golpes rítmicos contra las barandillas de hierro de las escaleras de incendios. Era una fiesta clandestina, sorda y conmovedora: millones de personas celebrando el mero milagro de estar vivas, haciendo ruido con todo lo que tenían a mano para conjurar el miedo y saludar el año nuevo con una chispa indomable de esperanza.
+
 Sarah giró la cabeza hacia él. Tenía los ojos húmedos, brillantes bajo el fulgor esmeralda del firmamento.
 
 —Es el año, Thomas —dijo con la voz temblando por algo más que el frío—. Este es el año en que se decide todo. Si fallamos... no habrá un 2028.
@@ -35,7 +39,7 @@ Thomas se volvió hacia ella. Con un movimiento sereno y seguro, se quitó el gu
 
 Sarah no esperó. Deslizó sus manos bajo las solapas del abrigo de Thomas, se alzó sobre las puntas de las botas y buscó su boca en la noche helada de Manhattan.
 
-Fue un beso hondo, lento y desesperado, nacido del pavor a la muerte y de una devoción salvaje por la vida. Las campanas de San Patricio terminaron de dar la última campanada sobre los tejados mientras sus labios se fundían, respirando el mismo aire en mitad del vacío. Durante diez segundos, el colapso planetario, el niobio, las toberas analógicas y la red de L1 desaparecieron de la faz de la creación; solo existían el pulso de su sangre, el aroma a lana húmeda y la promesa sellada entre dos seres que se negaban a rendirse.
+Fue un beso hondo, lento y desesperado, nacido del pavor a la muerte y de una devoción salvaje por la vida. Aquel coro sordo y valiente de aplausos, metales y bocinas flotó a su alrededor sobre las azoteas mientras sus labios se fundían, respirando el mismo aire en mitad del vacío. Durante diez segundos, el colapso planetario, el niobio, las toberas analógicas y la red de L1 desaparecieron de la faz de la creación; solo existían el pulso de su sangre, el aroma a lana húmeda y la promesa sellada entre dos seres que se negaban a rendirse.
 
 Cuando se separaron, con las frentes unidas y la respiración entrecortada, Thomas la abrazó con fuerza contra su pecho, resguardándola del viento.
 

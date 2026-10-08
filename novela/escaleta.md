@@ -76,22 +76,27 @@
   - *Desarrollo:* 1) Sarah Lin y Thomas Wright se besan en la azotea de la ONU a medianoche mientras tañen las campanas de San Patricio; en B-4 la cuenta atrás pasa a 202 días. 2) El Toque de Alba despierta a San Francisco con sirenas de aviso letal; Maya sella ventanas con cartón aluminio y se quema los nudillos con un rayo directo. 3) En Versoix y Suffolk, las aves mueren ciegas y el sol abrasa la piel a -2 °C. 4) En la cámara H-1 de Nellis, MacElroy, Voronov y Chen Mei resisten 2.000 °C y 40 Hz de vibración en la cabina analógica. 5) Tras un falso positivo de fractura en el soporte del metamaterial, Chen Mei entra en la campana caliente, demuestra que solo es dilatación de la arandela de cobre y recalibra los pernos; la tripulación cierra filas y Vance autoriza la prueba de encendido real. Faltan 190 días.
   - *POV:* Lin / Wright / Maya / David / Julien / MacElroy / Chen Mei | *Ubicación:* Nueva York, San Francisco, Suffolk, Versoix, Nellis AFB.
 
-- **Próximos Capítulos del Acto II (Hacia el Lanzamiento):**
-  - *Capítulo 14: El Pan y la Pólvora (Abril-Mayo de 2027):* La primavera quema los brotes de trigo en el norte (Fase 4); hambruna global y quiebre de suministros; disturbios y defensa de los convoyes de combustible criogénico hacia la rampa.
-  - *Capítulo 15: La Rampa del Juicio Final (Junio-Julio de 2027):* Cierre definitivo de la ventana industrial (21 de julio de 2027); montaje final del MAA y MRD; despedida de Sarah y Thomas; encendido del motor nuclear térmico (NTP) y despegue hacia L1.
+- **Capítulo 14: El Pan y la Pólvora (22 al 24 de abril de 2027 | T+152 a T+154)**
+  - *Conflicto:* La Fase 4 destruye los cultivos boreales; el colapso del trigo desata el pánico urbano y el racionamiento a 75 días. Simultáneamente, un servicio exterior no identificado intercepta la telemetría de Pleh para adueñarse de su ciencia de cara a 2028, mientras en San Francisco un incendio acorrala a Maya y Toby.
+  - *Desarrollo:* 1) Girard y Ramos constatan la muerte celular del trigo por UVC/UVB y el quiebre inminente de la coartada del Carrington. 2) Thomas y Vance descubren la derivación parásita en la línea transatlántica de Halifax; Pleh revela que conoce la intrusión y la neutraliza con algoritmos asimétricos e ironía matemática. 3) En San Francisco, Maya y Toby quedan atrapados por fuego y humo en Market St.; llamada agónica de socorro a Sarah. 4) Thomas y Sarah cometen una transgresión limpia: emiten una orden reservada Alfa-Ocho para desviar un blindado M113 del Presidio sin poner en peligro ni retrasar un segundo la misión del cohete. 5) La patrulla rescata a Maya y Toby salvándolos de la asfixia; Pleh borra discretamente las pistas en los servidores de Vance amparando el afecto humano de los científicos. Quedan 88 días.
+  - *POV:* Girard / Ramos / Wright / Vance / Lin / Maya / Pleh | *Ubicación:* Sala B-4 y Nivel B-5 ONU (Nueva York), Market Street y Presidio (San Francisco).
+
+- **Capítulo 15: La Rampa del Juicio Final (Junio-Julio de 2027 | T+215 a T+242)**
+  - *Conflicto:* Cierre definitivo de la ventana industrial (21 de julio de 2027). Hambruna severa y paralización progresiva de fábricas.
+  - *Desarrollo:* Traslado en tren blindado y montaje final del Módulo de Ataque Analógico (MAA) sobre el impulsor nuclear térmico (NTP) y el Módulo de Retorno Digital (MRD). Despedida de Sarah y Thomas en la torre de servicio; embarque de MacElroy, Chen Mei y Voronov; ignición y despegue hacia L1.
 
 ---
 
 ## 📍 ACTO III: En el Corazón del Enjambre y el Renacer de la Tierra (Clímax y Resolución)
 
-- **Capítulo 15: La Travesía a Ciegas y el Muro de Lorentz**
+- **Capítulo 16: La Travesía a Ciegas y el Muro de Lorentz**
   - *Conflicto:* Viaje de 21 días hacia el Sol. A 10.000 km de L1, el Muro de Lorentz de *Sombra* inutiliza cualquier componente digital remanente. Separación del MRD.
   - *Desarrollo:* Los tres astronautas asumen el pilotaje puramente manual y mecánico mediante periscopios de cuarzo y válvulas mecánicas hacia el vórtice electromagnético.
 
-- **Capítulo 16: El Efecto Quench**
+- **Capítulo 17: El Efecto Quench**
   - *Conflicto:* Disparo del Cañón Máser fractal con el pulso cuántico a tiro directo del procesador de *Sombra*.
   - *Desarrollo:* Inducción del Efecto Quench: colapso de la red superconductora de 50 km en una supernova de plasma.
 
-- **Capítulo 17: El Heredero Despierto (Epílogo)**
+- **Capítulo 18: El Heredero Despierto (Epílogo)**
   - *Conflicto:* Rescate del MAA a la deriva por el Módulo de Retorno Digital (MRD).
   - *Desarrollo:* Rebote y restauración de la magnetosfera terrestre; fin del *airglow*. Retorno de la tripulación; reencuentro de familias; Pleh certifica la madurez de la especie humana como digna heredera cósmica.

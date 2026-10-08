@@ -112,6 +112,24 @@
       "location": "Sala B-4 (Nueva York) - Versoix (Ginebra) - San Francisco - Suffolk - Base de Nellis",
       "readTime": "16 min",
       "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 13,
+      "title": "Capítulo 13: El Toque de Alba",
+      "act": "Acto II: La Caída del Escudo y el Gran Caos",
+      "pov": "Dra. Sarah Lin / Dr. Thomas Wright / Maya Lin / David Wright / Julien Girard / Dra. Chen Mei",
+      "location": "Azotea Nivel 38 ONU - San Francisco - Versoix - Suffolk - Cámara H-1 Nellis AFB",
+      "readTime": "15 min",
+      "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 14,
+      "title": "Capítulo 14: El Pan y la Pólvora",
+      "act": "Acto II: La Caída del Escudo y el Gran Caos",
+      "pov": "Dr. Jean-Luc Girard / Dr. Thomas Wright / Dra. Sarah Lin / Maya Lin / Dr. Em Pleh",
+      "location": "Sala B-4 y Nivel B-5 ONU (Nueva York) - Market Street y Presidio (San Francisco)",
+      "readTime": "15 min",
+      "povImage": "img/char_protagonista.png"
     }
   ]
 }
