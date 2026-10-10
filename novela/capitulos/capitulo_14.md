@@ -7,23 +7,23 @@
 
 La primavera llegó al hemisferio norte vestida de ceniza.
 
-No hubo deshielos rumorosos en las praderas de Kansas, ni el habitual verdor tierno que alfombraba las cuencas fluviales del Dniéper, ni el despertar húmedo de los campos de soja en la llanura de Manchuria. La luz solar, desprovista del filtro ancestral de la capa de ozono, caía al mediodía como una lámina de fósforo ardiente sobre los continentes. A través de los prismas ópticos de las estaciones meteorológicas, el cielo no mostraba su azul histórico: presentaba un matiz blanquecino y lechoso, una bruma estéril teñida de violeta en los bordes por la dispersión masiva de radiación ultravioleta de onda corta.
+La luz solar, desprovista del filtro milenario de la capa de ozono, caía al mediodía como una lámina de fósforo ardiente sobre las masas continentales. A través de los prismas ópticos de las estaciones meteorológicas, el cielo mostraba un matiz lechoso y estéril, una bruma pálida orlada de violeta en los bordes por la dispersión masiva de radiación ultravioleta de onda corta.
 
 Treinta metros bajo el lecho de granito de Manhattan, en la penumbra climatizada de la Sala de Crisis B-4, Jean-Luc Girard amplió con la yema del índice el mapa espectral que proyectaba la mesa táctica.
 
-—Muerte celular por rotura de fotosistemas —dijo con su voz pausada y cartesiana, aunque sus nudillos, apoyados sobre el marco de aluminio anodizado, delataban una tensión extrema—. La radiación UVC y UVB está perforando la epidermis vegetal en las primeras cuarenta y ocho horas tras la germinación. Los ápices meristemáticos se necrosan antes de formar la espiga. El noventa y cuatro por ciento del trigo de invierno en Norteamérica y Ucrania se ha secado en el surco como paja vieja.
+—Muerte celular por rotura irreversible de fotosistemas —dijo con su dicción cartesiana, aunque sus nudillos, apoyados sobre el marco de aluminio anodizado, delataban una tensión extrema—. La radiación UVC y UVB está perforando la epidermis vegetal en las primeras cuarenta y ocho horas tras la germinación. Los ápices meristemáticos se necrosan antes de formar la espiga. El noventa y cuatro por ciento del trigo de invierno en las cuencas de Kansas, Ucrania y Manchuria se ha secado en el surco como paja quebradiza.
 
-El Secretario General Vassily Ramos contemplaba la pantalla con las manos cruzadas a la espalda. El cansancio de seis meses de asedio planetario le había surcado el rostro de arrugas profundas, pero sus ojos oscuros mantenían la firmeza del timonel en la tormenta.
+El Secretario General Vassily Ramos contemplaba la pantalla con las manos entrelazadas a la espalda. El cansancio de seis meses de asedio planetario le había marcado arrugas hondas en torno a los ojos, pero su porte conservaba la gravedad solemne de quien sostiene un timón en plena tormenta.
 
-—¿Qué margen de reservas alimentarias reales nos queda, Jean-Luc?
+—¿Qué margen real de reservas alimentarias nos queda, Jean-Luc?
 
-—Los silos de hormigón sellados y la cadena de deshidratación industrial garantizan setenta y cinco días de raciones mínimas para las grandes metrópolis —respondió Girard, ajustándose las gafas con un movimiento mecánico—. A partir de la primera semana de julio, entramos en déficit calórico terminal. El ganado lechero se está quedando ciego en los cobertizos de toda Europa central a pesar de las lonas reflectantes; no hay forraje limpio. Si la ventana de lanzamiento no se cumple antes del veintiuno de julio, no hará falta que *Sombra* destruya el aire: el colapso social y la anarquía por el pan paralizarán las centrales eléctricas y las refinerías de combustible.
+—Los silos herméticos de hormigón y la deshidratación industrial garantizan setenta y cinco días de racionamiento estricto en los grandes núcleos urbanos —respondió Girard, ajustándose las gafas con un movimiento mecánico—. A partir de la primera semana de julio, el déficit calórico será insalvable. El ganado lechero se queda ciego en los cobertizos de toda Europa a pesar de las lonas reflectantes; no hay forraje limpio. Si la misión no parte antes del veintiuno de julio, el colapso social y la desesperación por el pan paralizarán las refinerías y la red eléctrica antes de que la radiación termine su trabajo.
 
-Ramos asintió despacio, respirando con pesadez.
+Ramos asintió muy despacio, con un suspiro pesado.
 
-—La «Gran Mentira» del Carrington funcionó como un dique mientras la gente creyó que la noche traía seguridad y que la primavera restablecería el orden natural —murmuró el Secretario General, mirando el crucifijo de madera que reposaba sobre su bloc de notas—. Pero no se puede decretar una ley marcial contra el hambre. Si la población comprende que el sol no volverá a ser fértil jamás, el dique se romperá en pedazos.
+—El dique de la emergencia solar aguantó mientras la gente creyó que la noche traía refugio y que la primavera restablecería el orden de las cosechas —murmuró el Secretario General, rozando con el pulgar la madera lisa del crucifijo que reposaba junto a sus carpetas—. Pero no se puede gobernar el hambre con bandos militares. Si la humanidad comprende que el sol no volverá a alimentar la tierra, el orden se deshará en pedazos.
 
-En el extremo superior de la pantalla principal, el dígito rojo de la cuenta atrás parpadeó con un salto seco:
+En el extremo superior del panel táctico, el indicador digital de la cuenta atrás parpadeó con un salto seco:
 
 `VENTANA INDUSTRIAL DISPONIBLE: 90 DÍAS`
 
@@ -34,173 +34,168 @@ En el extremo superior de la pantalla principal, el dígito rojo de la cuenta at
 *Cuenta atrás para el cierre de la ventana industrial: 89 días*  
 *Ubicación: Centro de Enlace Cuántico y Cifrado, Nivel B-4 de la ONU*
 
-La alarma no sonó como una sirena estridente; fue apenas un pulso audible, un trino bajo y metálico en la consola de comunicaciones seguras que hizo que Thomas Wright alzara la vista del diagrama de flujo criogénico de Nellis.
+En la sala de transmisiones seguras reinaba una calma engañosa, rota únicamente por el rumor continuo de las turbinas de ventilación y el parpadeo de los osciloscopios de cuarzo.
 
-A su lado, el almirante Vance frunció el ceño, apoyando ambas palmas en el pupitre de mando:
+El almirante Vance, con el uniforme de campaña arrugado tras dieciocho horas de servicio continuo, examinaba los informes de tráfico que conectaban Nueva York con los talleres subterráneos de Nellis. Se detuvo ante la consola de Thomas Wright, frunciendo el ceño bajo sus cejas espesas:
 
-—¿Qué ha sido eso, doctor Wright? ¿Una fluctuación de carga en el cable de fibra óptica transatlántico?
+—Doctor Wright, quiero confirmación inequívoca sobre la estanqueidad de las líneas. Los servicios de contrainteligencia del Pentágono y el Estado Mayor Conjunto están nerviosos. Con los satélites barridos del espacio y medio planeta funcionando con cables terrestres improvisados, ¿hasta qué punto está a salvo la telemetría del reactor nuclear? ¿Podemos garantizar que ningún gobierno no signatario esté metiendo la nariz en los planos del motor?
 
-—No es una caída de tensión, almirante —respondió Thomas, tecleando con agilidad en los conmutadores mecánicos de la consola—. Es una bifurcación de tráfico. Alguien ha insertado un divisor de haz interferométrico en la estación repetidora submarina de Halifax. Están interceptando los paquetes de subida de telemetría entre este búnker y los ordenadores de la base de Nellis.
+Antes de que Thomas pudiera accionar los conmutadores de diagnóstico, la respuesta llegó desde los transductores de cuarzo montados en el techo.
 
-Vance enrojeció de ira.
+—La ingenuidad de sus estados mayores continúa resultando fascinante, almirante.
 
-—¡Esa línea está clasificada como Alfa Cero de nivel cósmico! Ningún país del Consejo de Seguridad tiene autorización para desviar un solo byte. ¿Quién demonios está escuchando?
+La voz del doctor Em Pleh flotó en la sala con su timbre cristalino y templado. En el monitor central no se proyectaba la silueta del diplomático civil; oscilaba en su lugar una esfera de interferencia luminosa, un enjambre de anillos concéntricos que giraban con una precisión matemática imperturbable.
 
-—No están escuchando nuestras órdenes verbales —intervino Sarah Lin, aproximándose a la consola con una taza de café humeante en la mano—. Están clonando los flujos de cálculo del Cañón Máser. Mire los vectores de búsqueda del algoritmo intruso: están intentando aislar la ecuación de colimación fractal y el rendimiento térmico del motor nuclear. Quienquiera que sea, ha analizado las soluciones matemáticas entregadas en los últimos meses y ha llegado a la conclusión inevitable.
+Vance se cuadró de forma instintiva, con un gesto adusto:
 
-—¿Qué conclusión? —gruñó Vance.
+—No es ingenuidad, doctor Pleh. Es doctrina de seguridad militar. Esos planos deciden el destino de la especie.
 
-—Que esas ecuaciones no las ha formulado ninguna mente humana de este siglo —respondió Sarah con sequedad—. Han deducido que existe una inteligencia superior guiando la defensa. Y están intentando robar los planos para posicionarse como la superpotencia indiscutible del mundo en 2028, una vez que la nave elimine la amenaza en L1.
+—Y por esa misma razón —prosiguió la entidad con una suavidad desarmante—, sus agencias de inteligencia llevan ciento cincuenta días intentando arrancármelos de las manos.
 
-Vance apretó los dientes, tomando el auricular rojo de órdenes inmediatas:
+Thomas alzó la mirada del teclado, sorprendido. Sarah Lin, que revisaba los parámetros del blindaje de berilio en una mesa auxiliar, se acercó a la consola con los brazos cruzados, clavando los ojos en la esfera luminosa.
 
-—Localicen el nodo de rebote. Si es un gobierno no alineado o una facción disidente de inteligencia militar, voy a ordenar a la Sexta Flota que vuele esa estación repetidora antes de que amanezca.
+—¿De qué está hablando, Pleh? —preguntó Sarah—. La red militar de Nellis está blindada en un bucle cerrado de Faraday.
 
-—Sería un gasto innecesario de pólvora, almirante.
+—La red de Nellis, doctora Lin, depende de repetidores terrestres que cruzan cordilleras y dorsales marinas —explicó Pleh con un deje de ironía casi afectuosa—. Sus congéneres poseen una tenacidad encomiable para la mezquindad. Durante las últimas doce semanas he tenido que neutralizar treinta y siete intentos coordinados de intrusión, originados en cuatro continentes distintos. Tres servicios de espionaje extranjeros, dos consorcios de defensa privados atrincherados en búnkeres del Ártico y una facción disidente naval en el Pacífico Sur han intentado derivar los paquetes de datos del Cañón Máser.
 
-La voz cristalina y polifónica del Dr. Em Pleh flotó en la sala desde los altavoces de cuarzo. El avatar no proyectaba hoy la figura del diplomático humano; sobre el monitor central solo oscilaba una esfera luminosa de pulsos concéntricos, rotando con una calma geométrica imperturbable.
+Vance apretó los puños, con el rostro encendido de cólera:
 
-—Doctor Pleh —dijo Thomas con una leve sonrisa de camaradería—. Veo que ya los tenía en el punto de mira.
+—¡¿Treinta y siete incursiones hostiles y me entero ahora?! ¡¿Por qué demonios no disparó las alarmas de combate?! ¡Tenía orden de alertar al Consejo de Seguridad ante cualquier fuga!
 
-—Establecieron el primer bucle de derivación hace veintiún días terrestres, doctor Wright —explicó Pleh con su característico tono neutro, exento de cualquier rastro de ira—. Emplean un clúster de computación cuántica enterrado en un búnker de aguas profundas. Suponen que al capturar las constantes del metamaterial fractal podrán reproducir la tecnología tras el repliegue de *Sombra*. Es una deducción admirable para una especie que hace apenas doscientos años aún se desplazaba a caballo.
+—Porque ninguna fuga llegó a consumarse, almirante —repuso Pleh sin alterar el tono sereno de sus armónicos—. Encender sus sirenas solo habría provocado sospechas mutuas, consejos de guerra prematuros y un desgaste logístico estéril entre las tres potencias aliadas. He preferido resolver los incidentes mediante pedagogía asimétrica.
 
-—¿Y va a permitir que continúen espiándonos? —rugió Vance—. ¡Esos secretos pertenecen a la supervivencia colectiva de las naciones aliadas!
+Thomas esbozó una media sonrisa, fascinado:
 
-—No están obteniendo secretos, almirante —aclaró Pleh con una ironía matemática demoledora—. Están recogiendo una sombra proyectada sobre un espejo curvo. Cada paquete que desvían ha sido alterado por mis algoritmos de convolución: las fórmulas que creen descifrar contienen microasimetrías deliberadas que harían implosionar cualquier cavidad que intentaran forjar con su industria. Permítanles seguir midiendo el calor de la estrella con una cuchara de estaño. Su ambición es mezquina, pero predecible; no interferirá en el encendido de los motores en Nevada.
+—¿Pedagogía asimétrica? ¿Qué les ha hecho?
 
-Pleh hizo una pausa infinitesimal. La esfera de luz moduló su brillo hacia un tono azul cobalto:
+—A la red que intentó clonar la telemetría desde una estación submarina en Terranova le permití capturar un lote completo de ecuaciones —explicó Pleh con sequedad matemática—. Modifiqué deliberadamente la novena cifra decimal en el coeficiente de dilatación del metamaterial fractal. Para sus matemáticos, los datos parecen impecables. Si alguna vez intentaran mecanizar esa cavidad en sus talleres clandestinos, las tensiones armónicas provocarían una implosión en frío antes de emitir un solo pulso. Están sumamente satisfechos con su botín.
 
-—Preocúpense más bien por el suelo bajo sus botas. La fragilidad de sus congéneres en la superficie está alcanzando el límite de fractura mecánica.
+Sarah soltó una exhalación corta, a caballo entre el asombro y el vértigo:
+
+—Les dio un mapa falso que parece una obra maestra.
+
+—Y a un consorcio tecnológico que introdujo una sonda cuántica en los cables transcontinentales de Siberia —añadió la esfera modulando su resplandor hacia un azul profundo—, lo aislé en un bucle recursivo cerrado. Sus supercomputadores llevan cuarenta días consumiendo doce megavatios por hora dedicados a calcular ceros abstractos, convencidos de que están a punto de romper la última capa de cifrado de Nellis. Calculo que agotarán sus generadores diésel a mediados de junio.
+
+Vance permaneció en silencio, con la mandíbula apretada y una expresión que oscilaba entre la humillación y el alivio.
+
+—Aún piensan en el mapa geopolítico de 2028 —murmuró Thomas, sacudiendo la cabeza con pesadumbre—. Todavía creen que habrá contratos de defensa y hegemonías que negociar cuando esto termine.
+
+—La mente humana se aferra a la avaricia porque la avaricia es un patrón predecible y conocido, doctor Wright —concluyó Pleh—. El abismo estelar, en cambio, les resulta insoportable. No se preocupen por los espías en la sombra. Me encargaré de mantenerlos entretenidos con espejismos matemáticos. Preocúpense más bien por el suelo bajo sus pies. La corteza del planeta está empezando a recordar que no tolera la violencia en silencio.
 
 ***
 
 ### 23 de abril de 2027, 23:40:00 PST
 **T + 153 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 89 días*  
-*Ubicación: Market Street, San Francisco*
+*Ubicación: Semisótano en Market Street, San Francisco*
 
-El estruendo de un disparo seco retumbó en el callejón, seguido por el tintineo de un escaparate haciéndose añicos contra el pavimento.
+La noche sobre la bahía no era oscura: palpitaba con una fosforescencia esmeralda y lechosa que descendía de las capas altas de la atmósfera, dibujando sombras alargadas y espectrales entre los rascacielos apagados. En Market Street imperaba el silencio opresivo del toque de queda diurno, quebrado solo por el viento húmedo del Pacífico silbando entre los cables sueltos del tranvía.
 
-En el semisótano de Market Street, Maya Lin mantenía la espalda pegada contra la pared de ladrillo visto, apretando a su hijo Toby contra el pecho. El niño, con los ojos muy abiertos en la penumbra, hundía la cara en la franela desgastada de su madre, conteniendo el llanto como ella le había enseñado durante los simulacros de alarma.
+En el semisótano húmedo, Maya Lin acomodaba una toalla empapada sobre la frente de su hijo Toby. El pequeño, con cuatro años y el cuerpo menudo ardiendo en fiebre, respiraba con un silbido corto y asmático. Maya tarareaba una canción infantil muy baja, apretándole los piececillos con sus manos agrietadas por el agua salobre del racionamiento.
 
-El olor a caucho quemado y gas lacrimógeno se filtraba por las rendijas de ventilación a ras de acera. Fuera, en la noche iluminada por el resplandor verde del *airglow*, los gritos de una multitud enfurecida chocaban contra los megáfonos de la Guardia Nacional. El racionamiento de harina y antibióticos se había reducido a la mitad aquella mañana y el rumor de que el almacén portuario estaba vacío había prendido la mecha del caos.
+De improviso, el zumbido de las viejas tuberías de plomo que cruzaban el techo cambió de frecuencia.
 
-De pronto, un resplandor anaranjado bailó en el techo de la habitación.
+No fue un golpe; fue una vibración metálica, fina y penetrante, como si una corriente eléctrica invisible estuviera raspando el metal por dentro. Maya interrumpió el tarareo. Las botellas de cristal vacías sobre el aparador comenzaron a chocar entre sí con un tintineo frenético que fue subiendo de tono en cuestión de segundos.
 
-—Fuego... —susurró Maya con la garganta seca.
+—Mamá... —susurró el niño, abriendo los ojos desorbitados en la penumbra.
 
-Un cóctel molotov había estallado contra la entrada del edificio contiguo. El crujido de las vigas de madera comenzó a propagarse por el patio interior, denso, crepitante y voraz. En cuestión de minutos, una nube de humo negro y asfixiante comenzó a ser succionada por los conductos de ventilación del sótano.
+El golpe llegó desde abajo.
 
-Maya tosió violentamente. Intentó empujar la puerta metálica que daba a la escalera exterior, pero los cerrojos estaban bloqueados desde fuera por escombros ardiendo caídos del alero.
+Un trueno sordo, telúrico y seco sacudió el lecho de roca de la península. Fue el asalto vertical de la onda primaria: el suelo del semisótano saltó hacia arriba como una tabla golpeada por un mazo colosal. La mesa de pino voló un palmo del suelo, reventando contra la pared opuesta. Los platos de peltre y los tarros de conserva estallaron contra las vigas antes de caer convertidos en una lluvia de esquirlas afiladas.
 
-—¡Mamá! —gimió Toby, tosiendo con espasmos menudos mientras el aire caliente le quemaba la garganta—. ¡No puedo respirar!
+Siete segundos después, irrumpió la cizalla.
 
-Maya se arrodilló frente a la mesa de trabajo donde guardaba la radio analógica de onda corta que Sarah le había regalado hacía meses. El teléfono civil había muerto hacía horas. Con manos temblorosas y dedos tiznados de hollín, ajustó el dial de emergencia militar que su hermana le había memorizado antes de entrar en régimen de aislamiento.
+El tren de ondas secundarias desgarró los sedimentos de la bahía con una violencia homicida. El suelo dejó de ser firme y se convirtió en una masa fluida, ondulando en crestas que levantaban el pavimento. La pared de ladrillo visto del dormitorio se abrió con un crujido de pólvora en una grieta diagonal de tres metros de longitud. El mortero seco estalló pulverizado en una nube asfixiante que borró la luz de la vela.
 
-Apretó el conmutador de baquelita:
+—¡Toby! —gritó Maya con un alarido salvaje.
 
-—Sarah... —la voz de Maya salió rota por la tos y el pavor—. Sarah, si me estás oyendo... estamos en el sótano... el bloque de Market Street se está quemando... hay fuego en la salida y la calle está cortada por barricadas... Toby apenas puede respirar, Sarah... por favor... no nos dejes aquí...
+Se arrojó sobre el colchón en el instante exacto en que un tramo de la moldura de escayola del techo se desplomaba sobre las almohadas. Maya envolvió al niño con su cuerpo, encogiendo los hombros mientras los cascotes y el polvo abrasador le golpeaban la nuca y la espalda. Debajo de ellos, la estructura de madera del edificio de cuatro plantas crujía como el casco de un barco encallando contra un arrecife.
 
-La señal chirrió con un estallido de estática cuando la antena del tejado colapsó consumida por las llamas.
+En el exterior, el rugido de la catástrofe era absoluto: fachadas de mampostería histórica desplomándose enteras sobre la calzada, el chasquido ensordecedor de los raíles de acero doblándose como alambres, postes de hormigón fracturados en dos y el zumbido azulado de transformadores eléctricos reventando en las esquinas en una serie de explosiones en cadena que teñían el cielo de chispas ardientes.
+
+Un olor nauseabundo a gas mercaptano invadió el semisótano. La tubería principal de la calle se había seccionado bajo la presión del asfalto cuarteado. A escasos metros, un fogonazo rojizo iluminó los respiraderos: el gas había prendido en la esquina de Mission Street, y una llamarada voraz comenzaba a rugir contra el viento.
+
+Maya tosió con violencia, escupiendo polvo y sangre de un labio partido. Los montantes de la puerta metálica exterior estaban retorcidos por la torsión del marco; la salida al patio estaba bloqueada por toneladas de ladrillos caídos de la azotea. Estaban atrapados en una caja de hormigón que amenazaba con ceder en cada réplica.
+
+Con las manos crispadas y los nudillos desgarrados, Maya tanteó en el suelo entre los escombros hasta dar con la carcasa metálica de la radio de onda corta. La antena de varilla estaba doblada, pero los acumuladores auxiliares conservaban carga. Accionó el conmutador de baquelita y pegó la boca ensangrentada al micrófono de mano, temblando con espasmos de pánico puro mientras apretaba a Toby contra su pecho:
+
+—¡Sarah! —la voz de Maya salió rota por el polvo, el llanto y la asfixia—. ¡Sarah, el suelo se ha partido... el edificio se cae a pedazos! ¡No puedo abrir la puerta... hay fuego de gas en la calle y las vigas se están quebrando! ¡Toby apenas puede respirar, Sarah... por favor, no nos dejes aquí...!
+
+A tres metros de su cabeza, la fachada del inmueble contiguo sufrió un colapso terminal. El tejado entero se vino abajo arrastrando cables, vigas y chimeneas. La masa de escombros arrancó de raíz el mástil de la antena exterior sobre el tejado.
+
+En el semisótano, la luz indicadora de transmisión de la radio parpadeó una vez y se apagó en seco. La señal no decayó: murió en un estampido agudo de estática que dejó la habitación sumida en el crujido implacable del fuego acercándose.
 
 ***
 
 ### 24 de abril de 2027, 03:20:00 EST
 **T + 154 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 88 días*  
-*Ubicación: Corredor técnico del Nivel B-5, Sede de la ONU*
+*Ubicación: Sala de Crisis B-4 y pasillo técnico del Nivel B-5, Sede de la ONU*
 
-El monitor de emergencia personal de Sarah Lin en el Nivel B-5 emitió un graznido agudo.
+La aguja de registro sismológico en la consola geofísica de Jean-Luc Girard trazó un salto vertical tan violento que el trazador mecánico golpeó el tope superior del tambor con un chasquido metálico seco.
 
-Sarah soltó la carpeta de cálculos de blindaje térmico del MAA. El papel cayó en el suelo de hormigón mientras el mensaje de audio se reproducía en bucle a través del auricular de diadema. Escuchó la voz rota de Maya, el llanto sofocado de Toby y el chasquido del fuego devorando el edificio.
+Girard se levantó de su asiento de un golpe, con las palmas apoyadas en la mesa táctica. El mapa digital de la costa oeste de Norteamérica parpadeaba en un color escarlata intenso, irradiando anillos concéntricos desde las aguas del Pacífico hacia el interior del continente.
 
-—¡No! —un grito ahogado se le escapó del pecho.
+—Ruptura masiva en el segmento costero de la Falla de San Andrés —anunció Girard con la voz tensa, desprovista de su habitual cadencia pausada—. Epicentro submarino localizado a veintiocho kilómetros al noroeste de la península de San Francisco, frente a Point Reyes. Magnitud de momento estimada en siete coma nueve. Foco superficial a doce kilómetros de profundidad.
 
-Se dio la vuelta y echó a correr por el pasillo de servicio en dirección a las esclusas de salida del búnker. Tenía el rostro desencajado y la respiración rota por un terror salvaje que ninguna ecuación de plasma podía amortiguar.
+Sarah Lin, que entraba en la sala con una carpeta de telemetría de Los Álamos, se detuvo en mitad del pasillo. La sangre se le retiró del rostro con la velocidad de un rayo.
 
-—¡Sarah!
+—¿San Francisco? —susurró, con la voz congelada en la garganta—. ¿Siete coma nueve?
 
-Unos brazos fuertes la rodearon por la cintura antes de que pudiera alcanzar el teclado de acceso de la esclusa exterior. Thomas Wright la inmovilizó contra su pecho, sintiendo los temblores convulsos que sacudían el cuerpo de la mujer.
+—El mecanismo no es de origen tectónico aislado, Sarah —explicó Girard rápidamente, buscando su mirada con una gravedad dolorosa—. Es la contra-interferencia magnética de *Sombra*. Al anular el dipolo planetario durante cinco meses, el campo forzado ha alterado el acoplamiento electromagnético entre el núcleo externo líquido y el manto en la capa D doble prima. Se han inducido megacorrientes telúricas a través de la litosfera. Las fallas que acumulaban décadas de tensión elástica han recibido un par de torsión electromagnético crítico. San Andrés acaba de fracturarse de golpe.
 
-—¡Suéltame, Thomas! —gritó ella, forcejeando con desesperación, clavándole los dedos en las mangas del jersey—. ¡Se están quemando! ¡Maya y Toby están atrapados en el sótano y la calle arde! ¡Tengo que salir, tengo que subir a un avión militar, tengo que ir a San Francisco!
+En ese mismo instante, en el pupitre de comunicaciones de emergencia del corredor de B-5, el terminal privado de Sarah emitió una ráfaga estridente de tonos agudos.
 
-—¡Escúchame, Sarah! —la voz de Thomas sonó con una firmeza inquebrantable mientras la obligaba a mirarlo a los ojos—. ¡Mírame! Hay ley marcial diurna en toda la costa este. Si cruzas esa puerta sin un pase del Consejo de Seguridad, los centinelas de la Guardia Nacional te pondrán contra la pared y te encerrarán en un calabozo militar. Tardarás cuarenta y ocho horas en llegar a California y para entonces no habrá nada que salvar. Y te apartarán de la misión. ¡La Tierra entera se irá al infierno contigo!
+Sarah corrió hacia la pantalla como si la impulsara una descarga eléctrica. Thomas Wright llegó tras ella en el momento exacto en que la grabación automática comenzaba a reproducirse por los altavoces de servicio.
 
-Sarah se derrumbó contra el pecho de Thomas, rompiendo a llorar con una congoja que le desgarraba el alma:
+La voz desgarrada de Maya inundó el corredor. Escucharon el llanto asfixiado de Toby, el crujido atronador del hormigón partiéndose en dos, el grito desesperado pidiendo auxilio y, finalmente, el chasquido letal de la antena destrozada dando paso a una estática blanca y sorda.
 
-—Es mi hermana, Thomas... Es mi sobrino... Le prometí a Maya que estarían a salvo... No puedo dejar que mueran quemados mientras yo estoy aquí abajo jugando con cables...
+—¡Maya! —aulló Sarah, golpeando con ambas manos el borde metálico de la consola—. ¡Maya, respóndeme! ¡Operador, restablezca la señal de onda corta! ¡Reconecte con Market Street!
 
-Thomas la estrechó con fuerza, acariciándole la nuca con dedos firmes mientras su mente de ingeniero espacial trazaba un mapa de vectores y posibilidades operativas a la velocidad del rayo.
+La pantalla devolvió tres líneas en tipografía ámbar parpadeante:
 
-—No van a morir, Sarah. Respira. Déjame esto a mí.
+`PORTADORA PERDIDA. NODO REGIONAL PACÍFICO: INCOMUNICADO. FALLO ESTRUCTURAL EN REPETIDORES DE ÁREA.`
 
-La apartó suavemente, tomándola de las manos heladas:
+Sarah retrocedió un paso, con los ojos desorbitados por un terror salvaje que superaba cualquier cálculo de física o deber cósmico. Se dio la vuelta y echó a correr hacia las esclusas de descompresión del Nivel B-5 que conducían a los ascensores de superficie.
 
-—Ven conmigo a la subestación logística. Ahora mismo.
+—¡Sarah, no!
 
-Caminaron a toda prisa hasta la pequeña sala de distribución técnica del Nivel B-5, aislada de la mirada del almirante Vance y los mandos del Consejo. Thomas encendió la terminal auxiliar de control de transporte blindado de la misión.
+Thomas la interceptó antes de que pudiera teclear su tarjeta en el lector de salida. La rodeó con ambos brazos por la cintura, frenando su carrera con todo su peso. Sarah forcejeó como un animal herido, clavándole los dedos en las muñecas, empujándolo contra el mamparo de hormigón con una fuerza desesperada:
 
-—¿Qué vas a hacer, Thomas? —susurró ella, secándose las lágrimas con la manga.
+—¡Suéltame, Thomas! ¡Suéltame o te juro que te mato! ¡Están atrapados bajo las vigas y el edificio arde! ¡Tengo que salir de aquí, tengo que subir a un avión militar en Nueva Jersey, tengo que sacarlos con mis propias manos!
 
-—El transporte de componentes criogénicos de Nellis a la costa oeste cuenta con un destacamento de seguridad permanente del Cuerpo de Ingenieros en el Presidio de San Francisco —explicó Thomas con rapidez, introduciendo su tarjeta criptográfica de director operacional de la ESA—. Tienen tres transportes oruga M113 presurizados con blindaje contra radiación y filtros NBQ de carbón activo. Uno de ellos acaba de regresar a base tras patrullar el oleoducto de la bahía.
+—¡Sarah, mírame! —la voz de Thomas sonó con una firmeza desgarradora, sujetándola por los hombros mientras la obligaba a fijar la vista en sus ojos—. ¡Mírame a la cara! No hay aviones volando hacia el oeste. La pista de Travis está partida en dos y los aeropuertos de San Francisco y Oakland se han hundido en el fango de la bahía por licuefacción del terreno. El Bay Bridge ha colapsado y los viaductos de acceso a la península están cortados por incendios masivos. ¡No hay forma humana de entrar en esa ciudad!
 
-Thomas apoyó los dedos en el teclado:
+—¡No puedo dejarlos morir solos! —gritó ella, rompiendo en un llanto convulso, apoyando la frente contra el pecho de Thomas mientras los temblores le sacudían la espalda—. ¡Es mi hermana pequeña, Thomas! ¡Es Toby... solo tiene cuatro años! ¡Le prometí que estarían a salvo si yo me quedaba aquí abajo! ¡Les mentí, les mentí a todos!
 
-—Como enlace de navegación espacial, tengo autoridad para ordenar una verificación de radioisótopos en caliente en caso de alerta ambiental imprevista. Voy a emitir una orden de contingencia clasificada sobre las coordenadas exactas de Market Street. Voy a ordenar a ese blindado que desvíe su rumbo, rompa las barricadas y extraiga a dos civiles en calidad de «personal técnico de apoyo con riesgo de contaminación».
+Thomas la estrechó contra sí con una fuerza protectora e infinita, acariciándole el pelo empapado en sudor frío, tragándose su propia congoja. No había palabras de consuelo falsas ni atajos técnicos que ofrecer. La inmensidad de la catástrofe los aplastaba con la misma indiferencia con que el viento solar desgarraba el aire del planeta.
 
-Sarah abrió los ojos, aterrada y maravillada a la vez:
+—No les mentiste, Sarah —susurró Thomas con la voz rota—. Estás aquí para salvarlos a ellos y a todo lo que respira sobre este mundo. Pero ahora no podemos llegar a Market Street. No podemos.
 
-—Thomas... eso es una falsificación de órdenes militares en tiempo de guerra. Si Vance se entera, te someterá a un consejo de guerra fulminante. Te retirarán el mando.
+Vassily Ramos y el almirante Vance aparecieron al final del pasillo. El Secretario General observaba a Sarah con los ojos velados por una compasión inmensa. En sus manos sostenía un teletipo militar recién salido de la línea directa con Nevada.
 
-—No se va a enterar nadie —respondió Thomas con una sonrisa serena y templada, sin apartar los ojos de la pantalla—. Porque tú vas a entrar en el servidor de ruta logística y vas a enmascarar el consumo de combustible de ese blindado como una prueba rutinaria de tracción en arena. No vamos a tocar un solo gramo de deuterio de la nave, no vamos a retrasar el montaje del cohete ni un milisegundo. Pero ese transporte va a llegar a Market Street antes de que el humo entre en los pulmones de Toby.
+—Doctora Lin —dijo Ramos con suavidad paternal, inclinando levemente la cabeza—. Sé que el peso que descansa sobre sus hombros es inhumano. Ningún ser humano debería soportar esta agonía en silencio. Pero si usted se rinde ahora, los ocho mil millones de personas que aún respiran en la penumbra no tendrán mañana. Ni Maya, ni Toby, ni ninguno de nuestros hijos.
 
-Sarah lo miró durante dos segundos interminables. La admiración y una devoción infinita brillaron en sus pupilas húmedas. Sin decir una sola palabra, se sentó frente a la consola contigua, colocó los dedos sobre el teclado y comenzó a introducir los códigos de sobreescritura con la precisión letal de una cirujana.
+Vance extendió el teletipo hacia Thomas con un gesto sombrío pero resuelto:
 
-—Ruta modificada —dijo ella con la voz temblando de adrenalina—. Código de prioridad táctica Alfa-Ocho emitido. El blindado sale del Presidio... ahora.
+—Es de Nellis. La forja del chasis de titanio ha terminado con éxito. Los operarios han subido el Módulo de Ataque Analógico al convoy del tren blindado. La locomotora diésel ha encendido calderas para cruzar el desierto hacia la rampa de lanzamiento. Quedan ochenta y ocho días para el cierre de la ventana, doctor Wright.
 
-En el mapa digital de la bahía de San Francisco, un punto azul parpadeó, giró ciento ochenta grados sobre Van Ness Avenue y aceleró a fondo en dirección a Market Street.
+Sarah alzó el rostro muy despacio. Tenía los ojos hinchados y enrojecidos, pero en el fondo de sus pupilas la desesperación comenzaba a mutar en una rabia metálica, fría y afilada como el titanio de la nave. Apretó la mano de Thomas con una presión casi dolorosa, asintiendo en silencio.
 
-***
+De pronto, un zumbido estridente y agudo cortó el aire de la sala táctica.
 
-### 24 de abril de 2027, 04:50:00 PST
-**T + 154 días tras el Silencio Magnético**  
-*Cuenta atrás para el cierre de la ventana industrial: 88 días*  
-*Ubicación: Refugio Subterráneo del Presidio, San Francisco — Nivel B-5 de la ONU, Nueva York*
+No era una alarma de red ni un aviso de fuego. Era el transductor oceanográfico de la consola de Girard, emitiendo un pitido continuo y lacerante que hizo que todos volvieran la cabeza hacia la pantalla principal.
 
-La oruga de acero del blindado M113 reventó los restos calcinados de la barricada de contenedores como si fueran ramas secas.
+Girard miró los registros con el rostro lívido:
 
-La compuerta trasera del vehículo se abatió sobre el pavimento con un golpe seco. Dos soldados equipados con trajes de protección NBQ y caretas de filtro integral irrumpieron en el callejón con extintores de alta presión, despejaron el vano del sótano a golpe de maza y arrancaron los cerrojos de la puerta corredera.
+—El desplazamiento vertical de la falla en el lecho marino... Las boyas de presión profunda en el Pacífico están registrando una retracción hidrostática de doce metros frente al litoral.
 
-Tres minutos después, Maya Lin, envuelta en una manta de kevlar ignífugo y con una máscara de oxígeno adaptada al rostro, sostenía en brazos a Toby mientras los subían a la barquilla blindada del transporte. El niño tosía débilmente, pero respiraba; el aire filtrado y fresco del compartimento presurizado llenó sus pulmones.
+La pantalla parpadeó en rojo cegador, imprimiendo en letras mayúsculas la alerta de emergencia costera:
 
-La compuerta se cerró con un chasquido hermético. El motor diésel rugió y el vehículo se alejó de las llamas a toda máquina en dirección a los búnkeres subterráneos del Presidio, donde las raciones selladas, el agua corriente y los filtros de aire garantizarían su vida durante los meses del colapso.
+`ALERTA MÁXIMA DE TSUNAMI. TREN DE OLAS GENERADO EN FALLA DE SAN ANDRÉS / SAN GREGORIO. ALTURA ESTIMADA EN COSTA: 14 METROS. IMPACTO PREVISTO EN EL GOLDEN GATE Y FRENTE MARÍTIMO DE LA BAHÍA: 38 MINUTOS.`
 
-A tres mil kilómetros de distancia, en la penumbra del Nivel B-5 de la ONU, el cursor de estado de la misión cambió a color verde fijo:
+El silencio que cayó sobre el búnker fue absoluto.
 
-`OBJETIVO EVACUADO. DESTINO: FORTALEZA DEL PRESIDIO. ESTADO CIVIL: ESTABLE.`
-
-Sarah se llevó ambas manos a la cara y rompió a llorar, esta vez con un sollozo de alivio tan hondo y desgarrador que le temblaron los hombros. Thomas se arrodilló junto a su silla, la envolvió entre sus brazos y la apretó contra sí, besándole la frente con una ternura infinita mientras ambos compartían el aire agitado en el silencio de la sala técnica.
-
-—Están a salvo, Sarah —susurró Thomas con la voz ronca—. Están a salvo.
-
-De pronto, un zumbido limpio recorrió los relés del monitor que tenían a la espalda.
-
-No era una alarma de Vance. No era el sistema de seguridad militar.
-
-En la pantalla negra apareció una única línea de texto en tipografía sans-serif esmeralda, redactada con una economía quirúrgica:
-
-`Desviación logística no reglamentaria: 4,2 kilómetros. Gasto energético del vehículo: 18,4 litros de combustible fósil convencional. Impacto en el cronómetro del MAA: cero segundos. Eficiencia en la conservación del núcleo afectivo de la doctora Lin: cien por ciento.`
-
-Sarah y Thomas se quedaron petrificados, mirando la pantalla sin atreverse a respirar.
-
-El cursor parpadeó dos veces y la línea continuó:
-
-`He sobreescrito los registros telemétricos en el servidor central del almirante Vance. Para la contabilidad de la Guardia Nacional, el vehículo M113 realizaba una calibración de rodillos autorizada por mi protocolo auxiliar. No volverá a constar en ningún informe de mando. Descansen, doctores. En ochenta y ocho días necesitaré que sus ojos no tiemblen al apuntar hacia el Sol.`
-
-La pantalla volvió a fundirse en negro.
-
-Thomas miró a Sarah y dejó escapar una risa sorda, temblorosa, cargada de asombro y reverencia. Ella le apretó la mano con una fuerza feroz, clavando la mirada en los dígitos que marcaban el destino de la especie.
-
-En Nellis, la forja pesada del chasis de titanio había concluido. El tren blindado estaba a punto de recibir el módulo analógico para su viaje hacia la rampa de lanzamiento.
+Sarah Lin clavó los ojos en el cronómetro que descontaba los minutos hacia la embestida del océano sobre las ruinas de San Francisco, con el alma suspendida en el abismo de la incertidumbre más atroz.
 
 Quedaban ochenta y ocho días para el juicio final.
