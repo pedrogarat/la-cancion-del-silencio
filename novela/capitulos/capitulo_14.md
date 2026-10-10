@@ -115,15 +115,13 @@ En el exterior, el rugido de la catástrofe era absoluto: fachadas de mamposter�
 
 Un olor nauseabundo a gas mercaptano invadió el semisótano. La tubería principal de la calle se había seccionado bajo la presión del asfalto cuarteado. A escasos metros, un fogonazo rojizo iluminó los respiraderos: el gas había prendido en la esquina de Mission Street, y una llamarada voraz comenzaba a rugir contra el viento.
 
-Maya tosió con violencia, escupiendo polvo y sangre de un labio partido. Los montantes de la puerta metálica exterior estaban retorcidos por la torsión del marco; la salida al patio estaba bloqueada por toneladas de ladrillos caídos de la azotea. Estaban atrapados en una caja de hormigón que amenazaba con ceder en cada réplica.
+Maya tosió con violencia, escupiendo polvo y sangre de un labio partido. Los montantes de la puerta metálica exterior estaban retorcidos por la torsión del marco; la salida al patio estaba bloqueada por toneladas de ladrillos caídos de la azotea. Estaban atrapados en una trampa de hormigón que amenazaba con ceder en cada réplica, aislados del mundo bajo un cielo que no ofrecía piedad.
 
-Con las manos crispadas y los nudillos desgarrados, Maya tanteó en el suelo entre los escombros hasta dar con la carcasa metálica de la radio de onda corta. La antena de varilla estaba doblada, pero los acumuladores auxiliares conservaban carga. Accionó el conmutador de baquelita y pegó la boca ensangrentada al micrófono de mano, temblando con espasmos de pánico puro mientras apretaba a Toby contra su pecho:
+No había teléfonos, ni alarmas civiles, ni auxilio posible. En medio del fragor de la noche rota, Maya apretó a Toby contra su pecho con una fuerza desesperada, hundiéndose bajo el dintel del marco maestro mientras los cascotes llovían sobre sus hombros. Con la voz desgarrada, tragándose el pánico para no aterrorizar al pequeño, le susurró al oído con una fiereza que no sabía que poseía:
 
-—¡Sarah! —la voz de Maya salió rota por el polvo, el llanto y la asfixia—. ¡Sarah, el suelo se ha partido... el edificio se cae a pedazos! ¡No puedo abrir la puerta... hay fuego de gas en la calle y las vigas se están quebrando! ¡Toby apenas puede respirar, Sarah... por favor, no nos dejes aquí...!
+—Respira hondo, Toby... No mires, mi amor, no mires... Mamá está aquí. Mamá no te va a soltar.
 
-A tres metros de su cabeza, la fachada del inmueble contiguo sufrió un colapso terminal. El tejado entero se vino abajo arrastrando cables, vigas y chimeneas. La masa de escombros arrancó de raíz el mástil de la antena exterior sobre el tejado.
-
-En el semisótano, la luz indicadora de transmisión de la radio parpadeó una vez y se apagó en seco. La señal no decayó: murió en un estampido agudo de estática que dejó la habitación sumida en el crujido implacable del fuego acercándose.
+A tres metros de su cabeza, la fachada del inmueble contiguo sufrió un colapso terminal. El tejado entero se vino abajo con un estruendo ensordecedor que levantó una marejada de cascotes y ceniza, sepultando las ventanas a ras de suelo y dejando el semisótano sumido en la más negra y asfixiante oscuridad, con el crepitar implacable del fuego devorando la calle.
 
 ***
 
@@ -144,17 +142,15 @@ Sarah Lin, que entraba en la sala con una carpeta de telemetría de Los Álamos,
 
 —El mecanismo no es de origen tectónico aislado, Sarah —explicó Girard rápidamente, buscando su mirada con una gravedad dolorosa—. Es la contra-interferencia magnética de *Sombra*. Al anular el dipolo planetario durante cinco meses, el campo forzado ha alterado el acoplamiento electromagnético entre el núcleo externo líquido y el manto en la capa D doble prima. Se han inducido megacorrientes telúricas a través de la litosfera. Las fallas que acumulaban décadas de tensión elástica han recibido un par de torsión electromagnético crítico. San Andrés acaba de fracturarse de golpe.
 
-En ese mismo instante, en el pupitre de comunicaciones de emergencia del corredor de B-5, el terminal privado de Sarah emitió una ráfaga estridente de tonos agudos.
+Sarah se abalanzó hacia la consola de comunicaciones geográficas. Con dedos convulsos, introdujo los códigos de prioridad para interrogar a las subestaciones de enlace civil y militar en la bahía de San Francisco.
 
-Sarah corrió hacia la pantalla como si la impulsara una descarga eléctrica. Thomas Wright llegó tras ella en el momento exacto en que la grabación automática comenzaba a reproducirse por los altavoces de servicio.
+La pantalla devolvió un muro negro de silencio estricto:
 
-La voz desgarrada de Maya inundó el corredor. Escucharon el llanto asfixiado de Toby, el crujido atronador del hormigón partiéndose en dos, el grito desesperado pidiendo auxilio y, finalmente, el chasquido letal de la antena destrozada dando paso a una estática blanca y sorda.
+`SECTOR PACÍFICO CENTRAL: CAÍDA TOTAL DE LÍNEAS. REPETIDORES DE ÁREA: DESTRUIDOS. CERO SEÑAL TELEMÉTRICA O CIVIL EN LA PENÍNSULA.`
 
-—¡Maya! —aulló Sarah, golpeando con ambas manos el borde metálico de la consola—. ¡Maya, respóndeme! ¡Operador, restablezca la señal de onda corta! ¡Reconecte con Market Street!
+—¡No hay nada! —la voz de Sarah se quebró en un nudo de angustia atroz—. ¡Los repetidores terrestres están muertos! ¡Girard, abra un canal secundario con el Presidio o con la Guardia Nacional! ¡Maya y Toby están en Market Street, sobre los sedimentos blandos de la bahía!
 
-La pantalla devolvió tres líneas en tipografía ámbar parpadeante:
-
-`PORTADORA PERDIDA. NODO REGIONAL PACÍFICO: INCOMUNICADO. FALLO ESTRUCTURAL EN REPETIDORES DE ÁREA.`
+—Sarah, no hay canal que abrir —respondió Girard con una compasión dolorosa—. Los cables submarinos y las líneas terrestres de la bahía se han seccionado con la deriva horizontal de la falla. San Francisco es un punto ciego.
 
 Sarah retrocedió un paso, con los ojos desorbitados por un terror salvaje que superaba cualquier cálculo de física o deber cósmico. Se dio la vuelta y echó a correr hacia las esclusas de descompresión del Nivel B-5 que conducían a los ascensores de superficie.
 

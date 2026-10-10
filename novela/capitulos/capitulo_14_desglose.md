@@ -42,8 +42,7 @@
   - Comienza el preludio infrasónico: las tuberías vibran con un silbido metálico agudo.
   - Irrumpe la onda P con un salto vertical seco que derriba muebles y arroja objetos por los aires. Siete segundos después, el tren masivo de ondas S de magnitud 7,9 sacude la bahía con una cizalla horizontal feroz generada por la rotura de la Falla de San Andrés.
   - La mampostería cede; los sedimentos de relleno de la bahía sufren licuefacción violenta; las paredes se agrietan en diagonal y caen vigas. Tuberías de gas se fracturan y chispazos eléctricos iluminan la noche entre el estruendo de fachadas desplomándose.
-  - Maya protege a Toby con su propio cuerpo bajo el dintel, herida y asfixiada por el polvo; alcanza la radio de onda corta para pedir auxilio a Sarah, pero la transmisión se corta abruptamente en mitad de un derrumbe que arranca el mástil exterior, dejando solo estática.
-
+  - Maya protege a Toby con su propio cuerpo bajo el dintel, herida y asfixiada por el polvo. No hay tecnología, ni auxilio civil posible; la ciudad queda a oscuras y el derrumbe sepulta los respiraderos del sótano.
 ---
 
 ## Escena 4: La Ruptura del Manto (24 de abril de 2027, 03:20 EST | T+154)
@@ -53,7 +52,7 @@
 - **Acción:**
   - Las agujas de los sismógrafos en la consola de Girard trazan picos extremos: seísmo de magnitud 7,9 en el segmento costero de la Falla de San Andrés (Point Reyes).
   - Girard explica el mecanismo geofísico: la contra-interferencia magnética de Sombra aplicada durante cinco meses contra el geodínamo ha alterado el acoplamiento núcleo-manto en la capa D'', induciendo megacorrientes telúricas que han acelerado la ruptura de fallas al límite de tensión elástica.
-  - Sarah recibe el fragmento de voz agónico de Maya y el corte brutal de la señal. Entra en estado de pánico absoluto intentando romper el confinamiento para volar a California.
+  - Sarah descubre la caída total de repetidores y líneas en la bahía de San Francisco; se enfrenta al horror del silencio absoluto sabiendo que Maya y Toby están en Market Street sobre los sedimentos blandos de la bahía. Entra en estado de pánico intentando romper el confinamiento para volar a California.
 
 ---
 
