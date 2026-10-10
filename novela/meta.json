@@ -130,6 +130,15 @@
       "location": "Sala B-4 y Nivel B-5 ONU (Nueva York) - Market Street (San Francisco)",
       "readTime": "15 min",
       "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 15,
+      "title": "Capítulo 15: El Vientre de la Bahía",
+      "act": "Acto II: La Caída del Escudo y el Gran Caos",
+      "pov": "Maya Lin (con Toby, 4 años)",
+      "location": "Market Street, Powell Street Station y Auditorio Cívico (San Francisco)",
+      "readTime": "16 min",
+      "povImage": "img/char_protagonista.png"
     }
   ]
 }
