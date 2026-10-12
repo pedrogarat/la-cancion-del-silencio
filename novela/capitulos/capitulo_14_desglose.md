@@ -42,7 +42,8 @@
   - Comienza el preludio infrasónico: las tuberías vibran con un silbido metálico agudo.
   - Irrumpe la onda P con un salto vertical seco que derriba muebles y arroja objetos por los aires. Siete segundos después, el tren masivo de ondas S de magnitud 7,9 sacude la bahía con una cizalla horizontal feroz generada por la rotura de la Falla de San Andrés.
   - La mampostería cede; los sedimentos de relleno de la bahía sufren licuefacción violenta; las paredes se agrietan en diagonal y caen vigas. Tuberías de gas se fracturan y chispazos eléctricos iluminan la noche entre el estruendo de fachadas desplomándose.
-  - Maya protege a Toby con su propio cuerpo bajo el dintel, herida y asfixiada por el polvo. No hay tecnología, ni auxilio civil posible; la ciudad queda a oscuras y el derrumbe sepulta los respiraderos del sótano.
+  - Maya protege a Toby con su propio cuerpo bajo el dintel, herida y asfixiada por el polvo; alcanza la radio de onda corta para pedir auxilio a Sarah, pero la transmisión se corta abruptamente en mitad de un derrumbe que arranca el mástil exterior, dejando solo estática.
+
 ---
 
 ## Escena 4: La Ruptura del Manto (24 de abril de 2027, 03:20 EST | T+154)

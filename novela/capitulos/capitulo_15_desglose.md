@@ -2,75 +2,75 @@
 
 ## Título: El Vientre de la Bahía
 - **Acto:** Acto II - La Caída del Escudo y el Gran Caos
-- **Fecha Narrativa:** 24 de abril de 2027, 00:05 a 06:30 PST (T+154 días tras el Silencio Magnético).
+- **Fecha Narrativa:** 24 de abril de 2027, 00:05 a 06:15 PST (T+154 días tras el Silencio Magnético).
 - **Cuenta atrás:** Faltan 88 días para el cierre definitivo de la ventana industrial (21 de julio de 2027).
 - **Punto de Vista (POV):** Exclusivo: Maya Lin (con su hijo Toby, 4 años).
-- **Tono y Atmósfera:** Trepidante, sensorial, claustrofóbico, implacable y profundamente conmovedor. La lucha salvaje por la supervivencia de una madre que se descubre inquebrantable; la violencia de los elementos (fuego, fango, tsunami y luz solar letal) frente a la pureza del instinto de protección.
+- **Tono y Atmósfera:** Humano, creíble, tenso, angustioso y profundamente emotivo. Una madre corriente, sin armas ni adiestramiento, que saca fuerzas de donde no creía tenerlas para proteger a su hijo frente a los escombros, el agua marina y el sol asesino.
 
 ---
 
-## Escena 1: La Fractura del Semisótano (24 de abril de 2027, 00:05 PST | T+154)
+## Escena 1: El Semisótano Fracturado (24 de abril de 2027, 00:05 PST | T+154)
 - **Tiempo:** Minutos después del seísmo de magnitud 7,9.
-- **Ubicación:** Semisótano en Market Street, cerca de 6th Street, San Francisco.
+- **Ubicación:** Semisótano en Market Street, San Francisco.
 - **Personajes:** Maya Lin y Toby (4 años).
 - **Acción:**
-  - El semisótano está sumido en tinieblas, polvo asfixiante y un olor penetrante a gas mercaptano tras el derrumbe de la fachada contigua que cegó los respiraderos.
-  - Maya, herida en la espalda y con un labio partido, combate la tos y el pánico; localiza a tientas una barra de hierro forjado de una mesa rota.
-  - Con un esfuerzo físico descomunal que le desgarra las palmas, hace palanca y fuerza el cerrojo desencajado de la compuerta trasera hacia el foso de ventilación.
-  - Envuelve a Toby en una manta de lana humedecida y trepa por una tubería rota hacia el callejón justo antes de que una bolsa de gas deflagre en el sótano.
+  - El semisótano está a oscuras, lleno de polvo de yeso y con olor a gas de una conducción exterior rota.
+  - Maya recupera el sentido aturdida, dolorida y asustada. Protege a Toby, que tose y llora en la penumbra.
+  - La puerta exterior está encallada en su marco por el temblor, pero la carpintería de madera vieja ha cedido; empujando con desesperación con el hombro y una pata de silla rota para desencajar el pestillo, Maya logra abrir una rendija suficiente para salir al patio trasero y ganar el callejón.
 
 ---
 
-## Escena 2: La Ciudad Quebrada y el Retiro del Mar (24 de abril de 2027, 00:25 PST | T+154)
-- **Tiempo:** Veinte minutos tras el temblor.
+## Escena 2: La Sirena del Puerto y el Instinto de Huida (24 de abril de 2027, 00:25 PST | T+154)
+- **Tiempo:** Veinte minutos tras el terremoto.
 - **Ubicación:** Calles entre Tenderloin y Market Street.
-- **Personajes:** Maya Lin, Toby y multitud de supervivientes.
+- **Personajes:** Maya Lin, Toby y multitud de vecinos.
 - **Acción:**
-  - Panorama devastador bajo el resplandor esmeralda del airglow: asfalto quebrado por licuefacción, cables eléctricos zumbando en charcos, fachadas de ladrillo derruidas e incendios sin control.
-  - Sirenas de alarma costera de accionamiento manual aúllan desde el puerto: el mar se ha retirado más de doscientos metros mar adentro en Embarcadero. El tsunami generado en la falla de Point Reyes es inminente.
-  - Maya comprende que no puede alcanzar las colinas altas de Nob Hill a pie antes de la llegada de la ola; decide correr hacia la estación subterránea de Powell Street para buscar refugio estructural.
+  - En la calle reina el caos: postes caídos, charcos con chispas de transformadores y gente en camisón gritando desorientada.
+  - Sirenas costeras aúllan desde los muelles: el mar se ha retirado en Embarcadero y el tsunami es inminente.
+  - Maya sabe que con Toby en brazos no puede correr cuesta arriba hacia Nob Hill entre escombros e incendios; ve la boca de la estación de metro de Powell Street abierta a pocos metros y decide refugiarse en su estructura subterránea para evitar ser barrida por el agua.
 
 ---
 
-## Escena 3: La Embocadura de Powell Street y la Ola Negra (24 de abril de 2027, 00:45 PST | T+154)
+## Escena 3: La Ola en Market Street (24 de abril de 2027, 00:45 PST | T+154)
 - **Tiempo:** Cuarenta minutos tras el seísmo.
-- **Ubicación:** Entrada y nivel intermedio (Mezzanine) de Powell Street Station (BART / Muni).
+- **Ubicación:** Entrada y entreplanta (Mezzanine) de Powell Street Station.
 - **Personajes:** Maya Lin y Toby.
 - **Acción:**
-  - Un estruendo brutal resuena desde el este: la ola de catorce metros penetra por el Golden Gate y barre el frente del Ferry Building, canalizándose a sesenta kilómetros por hora por la vaguada de Market Street.
-  - Maya corre contra el fango y los cascotes con Toby aferrado a su cuello mientras el agua gélida y sucia le azota las rodillas.
-  - Logra alcanzar la escalinata de granito de la estación y asciende hacia el nivel intermedio de distribución (Mezzanine), atrancando una compuerta estanca cortafuegos de acero antes de que la masa de agua arrastre vehículos y anegue los andenes inferiores.
+  - El rugido del agua marina subiendo por la vaguada de Market Street a gran velocidad; la riada arrastra lodo y restos urbanos.
+  - Maya baja apresuradamente los peldaños de granito junto a otros vecinos, alcanzando el nivel intermedio de torniquetes (seco y elevado) mientras el agua comienza a colarse hacia las vías profundas del fondo.
+  - Sola en un rincón con su hijo, abrazándolo contra su pecho mientras escucha el estruendo del agua en el exterior, siente el alivio de haber librado la primera trampa.
 
 ---
 
-## Escena 4: El Asedio en las Tinieblas (24 de abril de 2027, 03:30 PST | T+154)
+## Escena 4: La Noche en el Andén Seco (24 de abril de 2027, 02:30 a 04:30 PST | T+154)
 - **Tiempo:** Madrugada profunda en el subsuelo.
-- **Ubicación:** Galerías técnicas y entreplanta de Powell Street Station.
-- **Personajes:** Maya Lin, Toby y supervivientes refugiados.
+- **Ubicación:** Nivel intermedio de la estación de Powell Street.
+- **Personajes:** Maya Lin, Toby y otros refugiados.
 - **Acción:**
-  - El agua ruge en los niveles inferiores y las salidas hacia la superficie están bloqueadas por fango y escombros. Medio centenar de personas se hacinan en la penumbra húmeda.
-  - Cuando una filtración de lodo amenaza con inundar el sector seco, Maya toma la iniciativa: organiza a los refugiados ilesos para apuntalar mamparas con perfiles de acero, atiende a heridos y raciona pastillas potabilizadoras.
-  - Maya contempla a su hijo dormido y experimenta una metamorfosis íntima: sus antiguas inseguridades y fantasmas de debilidad quedan sepultados por una determinación implacable.
+  - Decenas de personas aguardan en la penumbra, empapadas, silenciosas y asustadas.
+  - Maya atiende a Toby, limpiándole el polvo de la cara con una manga y racionando el agua de su botella. Comparte un sorbo con una mujer anciana a su lado.
+  - Sin aspavientos heroicos ni poses de líder militar, Maya muestra una entereza serena: el autocontrol de quien aprendió a no ceder al pánico en los peores momentos de su vida. Se sorprende de no sentirse rota, sino firme y protectora.
+  - Hacia las 04:45 h, voluntarios y miembros de la guardia informan de que la estación no es segura para el día por el agua estancada y falta de ventilación, y que el refugio fortificado del Auditorio del Centro Cívico está acogiendo a supervivientes a pocas manzanas antes del amanecer.
 
 ---
 
-## Escena 5: La Carrera contra el Sol Asesino (24 de abril de 2027, 05:40 a 06:15 PST | T+154)
-- **Tiempo:** Amanecer boreal (06:00 PST).
-- **Ubicación:** Calles adyacentes al Centro Cívico / Refugio Subterráneo del Auditorio Cívico.
+## Escena 5: La Carrera contra la Luz (24 de abril de 2027, 05:20 a 05:55 PST | T+154)
+- **Tiempo:** Alba temprana, antes de la salida del Sol (05:55 PST).
+- **Ubicación:** Calles adyacentes al Centro Cívico.
 - **Personajes:** Maya Lin y Toby.
 - **Acción:**
-  - El tsunami drena hacia la bahía, pero el reloj astronómico marca la salida inminente del Sol. Sin capa de ozono, la radiación UVC y UVB (UVI 24+) provocará ceguera corneal y quemaduras letales a quien quede a cielo abierto.
-  - Maya fabrica una armadura improvisada para Toby: máscara de cartón aluminio, gafas protectoras de soldador encontradas en el taller de mantenimiento del metro y vendas de franela tupida para tapar cada centímetro de piel.
-  - Avanzan sorteando escombros y pegados a las sombras de los edificios derruidos mientras el cielo adquiere un tono violeta fosforescente.
-  - En los últimos cien metros, el sol rasante asoma y el calor radiativo quema los nudillos de Maya. En un sprint agónico con Toby en brazos, se arroja por la rampa del refugio blindado de hormigón armado justo cuando los centinelas sellan las esclusas por la ley marcial diurna.
+  - El peligro supremo de la mañana sin ozono: la radiación ultravioleta UVC/UVB abrasará cualquier piel y ojo expuesto en minutos una vez despunte el Sol.
+  - Sin inventos estrafalarios ni máscaras imposibles, Maya utiliza el sentido común: abriga a Toby con su chaqueta, le baja la capucha gruesa, le cruza una bufanda sobre el rostro pidiéndole que mantenga los ojos cerrados pegado a su pecho, y lo envuelve en una manta de lana. Ella se cubre la cabeza y el cuello con un pañuelo tupido y gafas de sol corrientes.
+  - Salen a la superficie en la penumbra helada y avanzan a paso vivo bajo los soportales y marquesinas en ruinas.
+  - Cuando el horizonte oriental empieza a clarear con un brillo lechoso y el aire se siente hostil en la piel descubierta, Maya apura el paso con el corazón en la garganta y alcanza la rampa del refugio del Centro Cívico, entrando junto a los últimos rezagados antes de que las compuertas se cierren por la ley marcial diurna.
 
 ---
 
-## Escena 6: Epílogo: El Santuario de los Vivos (24 de abril de 2027, 06:30 PST | T+154)
-- **Tiempo:** Pleno mediodía civil / toque de queda diurno.
-- **Ubicación:** Sala de triaje del Refugio Subterráneo del Centro Cívico.
-- **Personajes:** Maya Lin, Toby y personal de rescate.
+## Escena 6: El Refugio de Hormigón (24 de abril de 2027, 06:15 PST | T+154)
+- **Tiempo:** Amanecer / inicio del toque de queda diurno.
+- **Ubicación:** Interior del refugio del Auditorio Cívico.
+- **Personajes:** Maya Lin, Toby y personal de auxilio civil.
 - **Acción:**
-  - Toby es atendido por médicos de campaña con oxígeno y suero; se encuentra estable y fuera de peligro.
-  - Maya se sienta en el suelo de hormigón, exhausta pero henchida de un orgullo maternal imbatible.
-  - Se mira las manos ennegrecidas y comprende que ha derrotado a la catástrofe y a sus propios miedos.
+  - En el interior protegido, Toby recibe leche y una manta limpia; está cansado pero sano y a salvo.
+  - Maya se sienta en el suelo, con las manos magulladas y la ropa tiznada, respirando con alivio hondo.
+  - Se abraza a su hijo sabiendo que ha sido capaz de guiarlo a través de la noche más oscura de la ciudad.

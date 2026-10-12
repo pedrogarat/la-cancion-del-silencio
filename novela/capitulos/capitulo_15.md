@@ -5,31 +5,27 @@
 *Cuenta atrás para el cierre de la ventana industrial: 88 días*  
 *Ubicación: Semisótano en Market Street, San Francisco*
 
-La oscuridad olía a yeso pulverizado y azufre.
+La oscuridad olía a cal apagada y tierra revuelta.
 
-En el fondo del semisótano, el silencio que siguió al desplome de la fachada duró apenas dos segundos, devorado de inmediato por un siseo continuo y amenazante: la tubería de gas fracturada en la acera exterior escupía su carga hacia el foso de ventilación.
+El silencio que siguió al derrumbe duró apenas unos segundos, roto pronto por un goteo persistente en una esquina y el siseo áspero de una tubería de gas rota en algún punto de la acera exterior.
 
-Bajo los restos del marco maestro de madera, Maya Lin abrió los ojos. Tenía la boca pastosa de polvo y un hilo de sangre tibia le resbalaba desde la sien hasta la comisura de los labios, pero sus brazos no habían cedido. Apretado contra su pecho, con la cabeza hundida en el hueco de su cuello, Toby respiraba con espasmos menudos y aterrorizados.
+Bajo el marco de pino del dormitorio, Maya Lin abrió los ojos con el corazón golpeándole en las sienes. Tenía la boca pastosa de polvo y un dolor punzante en el omóplato izquierdo, pero sus brazos seguían apretados alrededor de Toby. El niño lloraba contra su cuello con un quejido débil, asustado por el estruendo.
 
-—Mamá... —sollozó el niño con una voz ahogada—. No veo... no puedo respirar.
+—Mamá... me duele la cabeza... está todo negro.
 
-—Estoy aquí, mi amor. Estoy aquí —susurró Maya.
+—Ya pasó, cariño. Ya pasó —murmuró ella con la voz ronca, acariciándole la nuca con dedos trémulos—. Mamá está aquí contigo. No te sueltes.
 
-Su voz no tembló. Durante meses, el fantasma de su antigua debilidad, el recuerdo de las noches de temblores y síndrome de abstinencia en aquel mismo cuarto, la había perseguido como una sombra acusadora. Siempre se había considerado el eslabón roto de la familia, la hermana menor que necesitaba ser rescatada por la brillantez de Sarah. Pero en aquel instante, sepultada bajo dos toneladas de cascotes en una ciudad que se desmoronaba, el miedo se evaporó de su sangre, sustituido por una frialdad lúcida y feroz.
+Maya se sentó despacio sobre el colchón. La polvareda suspendida en el aire le quemaba la garganta a cada bocanada. Miró hacia arriba: el techo de escayola se había combado en el centro, y la entrada habitual hacia la escalera principal estaba completamente cegada por ladrillos y vigas caídas del piso superior. El olor dulzón del gas comenzaba a colarse por los resquicios del falso techo.
 
-No había nadie a quien pedir auxilio. No había milagros en el cielo verdoso. Solo estaban ellos dos.
+Tenían que salir de allí de inmediato.
 
-Maya tanteó en la penumbra hasta que sus dedos rozaron el cilindro de hierro forjado de una pata de mesa retorcida por el temblor. Se incorporó sobre las rodillas, ignorando la punzada aguda en sus costillas, y avanzó a gatas arrastrando a Toby sobre el colchón. La salida principal hacia la calle estaba bloqueada por una masa compacta de ladrillos y vigas astilladas, pero al fondo del pasillo de servicio existía un montacargas en desuso que conectaba con el patio de luces trasero.
+Avanzó a gatas entre los cascotes, tanteando con una mano en la penumbra mientras sujetaba a Toby con la otra. Al fondo del pasillo, la puerta que daba al patio de luces trasero estaba atrancada; la sacudida del seísmo había descuadrado el marco de madera vieja, encallando el pestillo. Maya apoyó la espalda contra la hoja astillada y empujó con las piernas con toda la fuerza que le quedaba, tosiendo por el polvo. La madera crujió, pero no cedió.
 
-El cerrojo de la compuerta metálica estaba desencajado por la torsión de los muros. Maya encajó el extremo de la barra de hierro en el hueco del marco, apoyó ambos pies descalzos contra la pared de hormigón y tiró hacia atrás con todo el peso de su cuerpo.
+Desesperada, tanteó en el suelo hasta encontrar una pata de mesa rota, una pieza pesada de roble con un perno metálico en la punta. La encajó entre el marco y el pestillo, haciendo palanca con el peso de su cuerpo mientras contenía la respiración.
 
-El metal gimió. El óxido cedió un milímetro. La barra le cortó las palmas de las manos, llenándolas de herrumbre y sangre, pero Maya no aflojó la presa. Apretó los dientes hasta que le crujió la mandíbula y descargó un segundo tirón con un bramido sordo que le nació de las entrañas.
+El marco se desgarró con un chasquido sordo. La puerta se abrió hacia afuera unos palmos, dejando entrar un soplo de aire frío y húmedo.
 
-El cerrojo saltó con un chasquido seco.
-
-La compuerta se abrió de golpe, revelando el pozo vertical del montacargas. Un soplo de aire gélido, cargado del humo de los incendios de la superficie, la golpeó en el rostro. Maya envolvió a Toby en la manta de lana empapada en el agua que goteaba de una conducción rota, se lo ató firmemente al pecho con el cinturón de su abrigo y comenzó a trepar por los peldaños de servicio de hierro empotrados en el muro.
-
-Subió a pulso, peldaño a peldaño, sintiendo el desgarro de sus músculos y el peso del niño como el único ancla que la ataba a la vida. Cuando sus manos alcanzaron el brocal del patio de luces y sacó el cuerpo al callejón, un estruendo sordo sacudió el subsuelo: una chispa eléctrica prendió la bolsa de gas en el semisótano, escupiendo una lengua de fuego azulado por los respiraderos que acababan de abandonar.
+Maya no perdió un segundo. Envolvió a Toby en su manta de lana, se ajustó bien la cazadora y empujó al niño primero a través de la rendija hacia el callejón trasero. Luego se escurrió ella, raspándose las caderas contra las astillas de la madera. Apenas habían dado unos pasos hacia la salida a la calle cuando una llamarada azulada iluminó el respiradero del sótano a sus espaldas con un soplido caliente: el gas había prendido en alguna chispa eléctrica en el interior.
 
 ***
 
@@ -38,158 +34,116 @@ Subió a pulso, peldaño a peldaño, sintiendo el desgarro de sus músculos y el
 *Cuenta atrás para el cierre de la ventana industrial: 88 días*  
 *Ubicación: Confluencia de Market Street y 6th Street, San Francisco*
 
-La calle era un cuadro de guerra sin trincheras.
+Market Street parecía una herida abierta.
 
-Bajo el resplandor fosforescente del *airglow*, que teñía las nubes bajas de un verde espectral, Market Street parecía haber sido bombardeada desde el interior de la tierra. Las vías del tranvía sobresalían del asfalto como costillas de hierro retorcido. Bloques enteros de edificios victorianos se habían desfondado sobre las aceras, y las tuberías de agua reventadas formaban torrentes de lodo grisáceo que arrastraban muebles, carteles comerciales y vehículos abandonados.
+Bajo la luz verde y lechosa del *airglow*, la avenida mostraba la violencia de la fractura. Las aceras estaban levantadas en bloques desiguales, los escaparates reventados alfombraban el suelo de vidrios rotos y una humareda densa subía desde los edificios bajos de Tenderloin. Decenas de vecinos deambulaban aturdidos, cubiertos de polvo blanco, llamando a voces a sus familiares o sentados en los bordillos con la mirada perdida.
 
-Cientos de personas deambulaban en camisón o ropa de abrigo deshilachada, gritando nombres en la penumbra o buscando a sus familiares entre montones de mampostería ardiente.
+Maya cargó a Toby sobre la cadera, sujetándolo firme contra su pecho. El niño temblaba de frío, apretando la cara contra el cuello de su abrigo.
 
-Maya avanzó con paso firme, esquivando cables de alta tensión que chicoteaban chispas en los charcos. Protegía la cabeza de Toby con su brazo derecho, obligando al niño a mantener los ojos cerrados contra su hombro.
+De repente, un sonido bronco y prolongado comenzó a vibrar desde la bahía. Eran las sirenas de aviso marítimo del puerto, operadas manualmente por cuadrillas de emergencia en los muelles de Embarcadero. A las pocas manzanas, una camioneta de la policía municipal avanzaba a paso de hombre sorteando cascotes con un megáfono en el techo:
 
-De pronto, un sonido nuevo quebró el clamor de los incendios.
+—¡Aléjense de los muelles! ¡El agua de la bahía se ha retirado más de doscientos metros! ¡Viene una ola grande, suban a terreno alto!
 
-No fue un trueno telúrico. Fue un aullido bronco, estridente y manual: las sirenas neumáticas de aviso marítimo situadas en los muelles de Embarcadero comenzaron a sonar con un ritmo entrecortado y agónico. Un todoterreno de la Guardia Nacional cruzó a toda velocidad sobre la mediana destrozada, con un soldado asomado a la ventanilla gritando a través de un megáfono a pilas:
+El anuncio desató carreras desesperadas en todas direcciones. La gente comenzó a empujarse en las esquinas, buscando escapar hacia las colinas del oeste, pero las calles empinadas estaban bloqueadas por cables caídos y postes de luz tumbados sobre el pavimento.
 
-—¡Aléjense de la costa! ¡El mar se ha retirado en los muelles! ¡Tsunami en la bahía! ¡Busquen terreno elevado de inmediato!
+Maya se detuvo junto a la pared de ladrillo de una farmacia cerrada, respirando con agitación. Miró hacia las pendientes lejanas de Nob Hill. Con un niño de cuatro años en brazos y el suelo cuarteado, tardaría una hora en llegar a una cota segura. La ola tardaría mucho menos.
 
-La multitud enloqueció. La masa de supervivientes comenzó a correr en tropel hacia el oeste, tropezando con los escombros y bloqueando las intersecciones estrechas en una avalancha de pánico ciego.
+A menos de sesenta metros, en la acera de enfrente, vio la barandilla de hierro de la entrada a la estación de metro de Powell Street. Los peldaños de granito descendían bajo tierra, pero la boca era amplia y la estructura del suburbano era de hormigón reforzado. Si el agua entraba por la calle, una estación profunda ofrecía plataformas intermedias donde no la arrastraría la corriente de superficie.
 
-Maya se detuvo junto a la fachada ruinosa de unos grandes almacenes, clavando los pies en el asfalto quebrado mientras su cerebro calculaba con una frialdad milimétrica.
+—Agárrate fuerte, Toby —le pidió Maya, asegurando la manta alrededor del niño.
 
-Point Reyes estaba a menos de treinta kilómetros al noroeste. Si el mar se había retirado en el frente del Ferry Building, la masa de agua ya había cruzado la bocana del Golden Gate. En menos de quince minutos, la muralla marina penetraría por la garganta de la bahía y buscaría su cauce natural por la vaguada más baja de la península: la propia avenida de Market Street.
-
-Llegar a pie a las colinas de Nob Hill o Twin Peaks con Toby en brazos a través de calles taponadas por incendios y multitudes aterrorizadas era una imposibilidad geométrica. Los alcanzaría el agua a mitad de cuesta.
-
-Miró al suelo, hacia la rejilla de ventilación de acero forjado empotrada en la acera a cincuenta metros de distancia.
-
-—El metro —murmuró para sí, con los ojos brillando en la penumbra—. El cajón de hormigón de Powell Street.
+Cruzó la calzada esquivando charcos y escombros, y bajó las escaleras de la estación.
 
 ***
 
 ### 24 de abril de 2027, 00:45:00 PST
 **T + 154 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 88 días*  
-*Ubicación: Estación de Powell Street (BART / Muni), Market Street*
+*Ubicación: Entreplanta de Powell Street Station, San Francisco*
 
-El rugido del océano llegó antes que la vista de las olas.
+El estruendo del agua marina llegó con la fuerza de un vendaval ciego.
 
-Era un sonido grave, visceral, un bramido de miles de toneladas de agua marina comprimiéndose contra los muelles de madera y hormigón de la bahía. A lo lejos, en el fondo oriental de Market Street, la línea de árboles y farolas desapareció de golpe, tragada por una masa líquida y negruzca que avanzaba como un pistón hidráulico a sesenta kilómetros por hora, arrastrando furgonetas, contenedores marítimos y vigas como si fueran hojas secas.
+Desde el rellano intermedio de la estación, donde se encontraban los torniquetes de cobro y los paneles informativos apagados, Maya escuchó el choque brutal de la ola al penetrar por la avenida de Market Street. No era una rompiente limpia: era una lengua espesa de lodo, maderas, ramas y contenedores volcados que bajaba rugiendo por la superficie a gran velocidad.
 
-—¡Corre, mamá, corre! —gritó Toby, señalando con su dedito la marea de escombros que se acercaba rugiendo.
+Una catarata de agua turbia comenzó a precipitarse por la escalinata de acceso desde la calle, cubriendo el suelo del vestíbulo de una capa lodosa de varios palmos que buscaba de inmediato los huecos de las escaleras mecánicas hacia los andenes inferiores de la línea de trenes.
 
-Maya no miró atrás. Apretó al niño contra sus costillas y esprintó sobre el pavimento agrietado. El lodo helado le salpicaba los muslos; una corriente sucia y veloz comenzó a rodearle los tobillos, tirando de sus piernas con una fuerza traicionera. Tropezó con un fragmento de cornisa, se desgarró la rodilla izquierda contra el asfalto, pero rodó sobre su hombro protegiendo el cuerpo de Toby y volvió a levantarse de un salto sin soltar un solo gemido.
+Maya, con el agua fría rozándole las botas, retrocedió hacia la zona elevada de las oficinas técnicas de la estación, subiéndose a un zócalo de hormigón seco junto a otros cuarenta refugiados que se apretaban en silencio en la penumbra.
 
-Alcanzó la boca de la estación de Powell Street en el instante en que el primer oleaje rompía contra los quioscos de superficie.
+Abrazó a Toby con fuerza, tapándole los oídos para que no escuchara los crujidos que venían de arriba ni el rugir sordo del agua inundando las vías profundas bajo sus pies. El niño cerró los ojos, agotado por el llanto, y se quedó quieto contra su hombro.
 
-Se lanzó escaleras abajo. El agua bajaba en cascada por los peldaños de granito, amenazando con barrerla hacia los andenes inferiores de la línea BART, donde la inundación sería mortal y completa. Maya frenó su descenso clavando las botas en el rellano del nivel intermedio, la galería de distribución técnica (Mezzanine), situada ocho metros bajo la rasante de la calle pero diez metros por encima de las vías profundas.
-
-Frente a ella, la compuerta cortafuegos y estanca de acero que dividía el sector de torniquetes de los pasillos de mantenimiento estaba entreabierta. Maya se deslizó por la hendidura con Toby en brazos y empujó la pesada plancha de acero con la espalda, calzando el pasador de seguridad en el suelo justo cuando una tromba de agua lodosa y escombros golpeaba el exterior con la fuerza de un ariete.
-
-El metal tembló bajo el impacto, pero aguantó.
-
-Maya cayó de rodillas sobre las baldosas secas del pasillo técnico, jadeando con la respiración rota, sintiendo el corazón de su hijo latiendo desbocado contra su pecho.
-
-Estaban a salvo del agua.
+Durante más de una hora, el agua corrió por la calle exterior hasta que la fuerza del reflujo comenzó a amainar, dejando tras de sí un silencio húmedo y un olor penetrante a cieno y salitre.
 
 ***
 
 ### 24 de abril de 2027, 03:30:00 PST
 **T + 154 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 88 días*  
-*Ubicación: Galería técnica intermedia, Powell Street Station*
+*Ubicación: Nivel de taquillas, Powell Street Station*
 
-La galería era un túnel de hormigón armado de cuatro metros de ancho, iluminado únicamente por dos linternas químicas de emergencia colgadas de los cables del techo. En el suelo se refugiaban medio centenar de personas que habían logrado entrar antes del cierre de las mamparas: oficinistas empapados, ancianos en estado de shock y familias enteras sentadas en silencio, escuchando el sordo bramido del agua que aún circulaba por los niveles inferiores.
+La estación estaba en penumbra casi total, iluminada apenas por dos linternas a pilas que alguien había colocado sobre el mostrador de información. La gente hablaba en susurros. El frío calaba hondo en la ropa húmeda de los supervivientes.
 
-En una esquina, un hombre corpulento con una herida sangrante en el brazo sollozaba con la cabeza entre las rodillas, repitiendo que la ciudad entera se había hundido en el Pacífico.
+Maya se sentó en el suelo, con la espalda apoyada en un pilar macizo, acomodando a Toby sobre sus piernas. Sacó de su bolso una botella de agua que había llenado la tarde anterior y le dio de beber despacio. Luego tomó un pañuelo, lo humedeció con unas gotas y le limpió la frente tiznada y los ojos con infinita paciencia.
 
-Maya dejó a Toby sentado sobre un fardo de mantas limpias que encontró en un armario de intendencia de la estación. Le dio un trago de agua limpia de su cantimplora y le acarició la frente con ternura infinita:
+A su lado, una mujer mayor de pelo cano temblaba bajo un abrigo empapado. Maya la miró a los ojos, le ofreció la botella de agua y le colocó sobre los hombros el extremo libre de la manta de lana de Toby.
 
-—Descansa un poco, mi vida. Mamá tiene que ayudar a esta gente.
+—Beba un poco, señora. Estamos a cubierto.
 
-El niño la miró con sus ojos grandes y oscuros, asintiendo con una madurez impropia de sus cuatro años.
+La anciana bebió con manos temblorosas y asintió en silencio, agradecida.
 
-Maya se puso en pie. No sentía frío ni dolor en la rodilla vendada con una tira de su camisa. Se acercó a un grupo de tres jóvenes que contemplaban con pánico una junta de dilatación en el techo por donde comenzaba a filtrarse una cascada de lodo.
+Maya contempló la oscuridad del túnel. Años atrás, cualquier momento de angustia le provocaba una necesidad desesperada de huir, de anestesiarse, de rendirse ante su propia debilidad. Pero ahora, sentada sobre baldosas sucias en una estación a oscuras, sentía una calma templada que nacía de lo más profundo de su ser. El miedo estaba ahí, pero el amor por su hijo era mucho más grande que el miedo.
 
-—Dejen de mirar y muévanse —ordenó Maya. Su voz sonó con una autoridad tan seca y serena que los tres hombres levantaron la vista de inmediato—. Esas filtraciones van a ceder si la presión del agua acumulada en la calle sigue subiendo. Necesitamos apuntalar ese panel ahora mismo.
+Hacia las cuatro y media de la madrugada, dos jóvenes que habían subido a inspeccionar la salida regresaron con noticias:
 
-—No hay herramientas... —balbuceó uno de ellos.
+—El agua ya se ha retirado de la calzada, pero la estación se está llenando de humedad y no hay salida de aire. Han abierto el Auditorio del Centro Cívico, a unas pocas manzanas hacia el oeste. Hay generadores, médicos y comida. Pero hay que llegar antes de que amanezca. En cuanto salga el sol, nadie podrá poner un pie en la calle.
 
-—Hay perfiles de acero en el taller de mantenimiento del fondo y traviesas de repuesto —cortó ella, señalando el pasillo con el dedo—. Traigan tres puntales y dos barras de palanca. Ustedes dos, ayuden a mover a los heridos hacia el sector este, lejos de la pared húmeda.
-
-Durante las dos horas siguientes, Maya coordinó las labores de contención como si hubiera dirigido cuadrillas de rescate toda su vida. Ayudó a cargar las vigas, tensó los pernos con una llave inglesa pesada y distribuyó las pocas pastillas potabilizadoras que llevaba en su mochila entre los ancianos y los niños del refugio.
-
-Cuando el flujo de agua en el techo finalmente remitió y la galería quedó estabilizada, Maya volvió a la esquina donde descansaba Toby. Se sentó junto a él y lo atrajo hacia su regazo.
-
-Miró sus manos tiznadas de grasa y cal, con las palmas en carne viva y las uñas rotas. Eran las manos de una mujer que hacía apenas un año temblaba en un centro de desintoxicación, convencida de que su vida no valía nada. Sonrió en la penumbra, sintiendo un calor limpio y poderoso que le llenaba el pecho: no había necesitado a Sarah, ni al ejército, ni a nadie. Había mantenido a su hijo con vida a través del fuego y del océano.
-
-Pero al mirar su reloj de pulsera mecánico, la sonrisa se congeló en sus labios.
-
-Eran las 05:25 de la madrugada. Faltaban treinta y cinco minutos para el alba.
+Maya alzó la vista hacia el techo. Conocía la regla de la luz solar: sin ozono, el sol de la mañana quemaba como plomo fundido. Tenían menos de una hora.
 
 ***
 
-### 24 de abril de 2027, 05:40:00 PST
+### 24 de abril de 2027, 05:20:00 PST
 **T + 154 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 88 días*  
-*Ubicación: Salida de ventilación hacia 7th Street y Centro Cívico*
+*Ubicación: Calles de San Francisco hacia Civic Center Plaza*
 
-El agua del tsunami había drenado casi en su totalidad hacia la bahía, dejando las calles cubiertas por una capa viscosa de lodo gris, carcasas de automóviles volcados y peces muertos. Pero la retirada del mar abría la puerta a una amenaza incomparablemente más implacable.
+El aire de la madrugada cortaba la piel.
 
-El Sol estaba a punto de asomar sobre las colinas orientales.
+Maya preparó a Toby con todo lo que llevaba encima. Le puso la sudadera con la capucha gruesa bien calada hasta las cejas, le cruzó una bufanda de lana alrededor de la nariz y la boca, y lo envolvió completamente en la manta oscura, de modo que solo quedaran a la vista dos pequeñas rendijas de sombra.
 
-Sin capa de ozono que dispersara los fotones más energéticos, la luz diurna en primavera era una sentencia de muerte inmediata a cielo abierto. Los índices de radiación UVC y UVB superarían los 24 puntos al amanecer. Dos minutos de exposición directa a la luz solar sin blindaje quemaban la córnea, provocando ceguera insoportable por fotoqueratitis, y calcinaban la piel descubierta en ampollas de segundo grado.
+—Toby, mírame —le pidió en un susurro, mirándolo fijamente a los ojos antes de salir—. Vas a mantener la cabeza escondida en mi pecho todo el camino. Aunque sientas frío o calor, no mires al cielo. ¿Me oyes? Mantén los ojos cerrados.
 
-A setecientos metros de la salida de la estación, sobre la elevación de Civic Center Plaza, se alzaba el Auditorio Cívico Bill Graham: un búnker gubernamental de hormigón reforzado, con filtros de aire NBQ, blindaje de plomo en las claraboyas y compuertas de sellado hermético que operaban bajo la ley marcial diurna. Si lograban entrar antes de que el sol superara la línea de los tejados, Toby estaría a salvo durante los meses del colapso.
+—Sí, mami —dijo el pequeño, rodeándole el cuello con sus bracitos.
 
-Maya trabajó con una rapidez febril en el taller subterráneo de la estación.
+Maya se subió el cuello de su propia cazadora, se anudó un pañuelo tupido cubriéndose la cabeza y las orejas, y se puso unas gafas de sol oscuras que llevaba en el bolsillo. Cargó a Toby en brazos y subió las escaleras de la estación hacia la superficie.
 
-Encontró un rollo de cartón forrado en aluminio reflectante, dos máscaras de soldador con cristales oscuros de grado 12 y varias capas de lona ignífuga. Cortó el cartón con unas cizallas y confeccionó una escafandra improvisada para Toby, sellando el visor con cinta aislante industrial para que no pudiera filtrarse ni un solo haz de luz oblicua. Envolvió el cuerpecito del niño en tres capas de franela gruesa y guantes de trabajo, cubriendo cada milímetro de piel.
+La calle era un páramo desolado de lodo grisáceo y coches amontonados contra las fachadas. El cielo oriental sobre la bahía comenzaba a clarear con una tonalidad pálida y lechosa, anunciando el alba.
 
-Ella misma se vendó el cuello y las mejillas con vendas de lona gruesa, se caló la segunda máscara de soldador sobre los ojos y se colocó una cazadora pesada de cuero sobre los hombros.
+Maya echó a andar a paso vivo, casi trotando sobre los escombros de la acera. Buscaba instintivamente la sombra de las cornisas y los soportales de los edificios, esquivando las esquinas abiertas donde el cielo despejado empezaba a brillar. El peso de Toby le quemaba en los brazos y el dolor de las costillas le acortaba la respiración, pero apretaba los dientes y seguía adelante sin detenerse.
 
-—Toby, escúchame bien —le dijo con voz firme a través del visor—. Cuando salgamos ahí fuera, no te puedes quitar la máscara por nada del mundo. Aunque sientas calor, aunque te pique la cara, no te toques los cristales. ¿Me lo prometes?
+Faltaban dos manzanas para Civic Center Plaza cuando una claridad hiriente coronó las azoteas más altas. El aire sobre la calzada pareció encenderse de pronto con una calidez seca y amenazante. Maya sintió un escozor agudo en el dorso de la mano derecha, donde la piel quedaba expuesta entre la manga y los dedos; era un calor punzante, como el roce de una plancha caliente.
 
-—Te lo prometo, mamá —respondió la voz apagada del niño desde el interior del cartón.
+Apretó a Toby con más fuerza aún, cubriéndole la nuca con su propio cuerpo, y aceleró el paso en un último esfuerzo desesperado.
 
-Maya subió por la escala de ventilación que desembocaba en el callejón de 7th Street. Empujó la reja exterior y asomó la cabeza.
+Alcanzó la rampa de acceso del Auditorio Cívico justo cuando los guardias de protección civil comenzaban a orientar a los últimos rezagados hacia las compuertas de hormigón.
 
-El cielo sobre la bahía ya no era verde: presentaba un matiz lechoso, blanquecino, con un borde violeta intenso en el horizonte oriental. Faltaban seis minutos para que el disco solar asomara sobre los rascacielos del distrito financiero.
+—¡Rápido, adentro! —gritó un voluntario con pasamontañas y gafas protectoras, sujetándole el brazo para ayudarla a cruzar el umbral.
 
-Maya cargó a Toby en sus brazos y echó a correr.
-
-Avanzó pegada a los muros de los edificios en ruinas, utilizando los soportales y los voladizos de hormigón para mantenerse en sombra permanente. El fango le frenaba los pasos, pero su cuerpo respondía con una potencia que desafiaba la fatiga acumulada. A doscientos metros de la plaza, el primer rayo de sol directo coronó la antena de un edificio de oficinas: el metal comenzó a emitir un chasquido térmico seco, y el asfalto húmedo humeó instantáneamente al contacto con la radiación ionizante.
-
-Cruzó la explanada de Civic Center Plaza en un sprint desesperado. La luz rasante tocó el dorso de su mano derecha: el dolor fue inmediato, punzante y feroz, como si una barra de hierro candente le rozara los nudillos. Maya ahogó un grito de dolor, apretó los dientes y no aflojó la carrera.
-
-Alcanzó la rampa de acceso subterránea del Auditorio Cívico cuando la sirena de cierre de compuertas comenzaba a aullar en los altavoces exteriores.
-
-Dos centinelas con trajes NBQ integrales y visores reflectantes la vieron llegar a través de las rendijas de observación. Uno de ellos accionó la palanca de emergencia para detener el cierre hidráulico de la plancha de acero a escasos centímetros del suelo.
-
-Maya se lanzó en plancha por la hendidura, rodando sobre el hormigón del vestíbulo interior con Toby protegido entre sus brazos.
-
-Detrás de ellos, la compuerta de treinta toneladas se cerró con un golpe sordo y neumático, sellando el refugio contra el infierno ultravioleta de la superficie.
+Maya cruzó la entrada protegida, bajó los escalones del vestíbulo subterráneo y sintió a sus espaldas el golpe sordo de las compuertas al cerrarse, dejando fuera el resplandor mortal del sol naciente.
 
 ***
 
-### 24 de abril de 2027, 06:30:00 PST
+### 24 de abril de 2027, 06:15:00 PST
 **T + 154 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 88 días*  
-*Ubicación: Sala de triaje del Refugio Subterráneo del Centro Cívico, San Francisco*
+*Ubicación: Refugio del Centro Cívico, San Francisco*
 
-La sala de triaje olía a antiséptico, suero fisiológico y aire filtrado por carbón activo.
+En el interior del refugio soplaba un aire fresco y filtrado que sabía a salvación.
 
-Toby estaba sentado sobre una camilla de campaña, despojado ya de la escafandra de cartón. Una enfermera militar le limpiaba las mejillas con gasas húmedas mientras el niño bebía a sorbos pequeños un vaso de leche reconstituida. Tenía la piel pálida y los ojos cansados, pero no había rastro de quemaduras en su rostro ni síntomas de queratitis.
+En una de las salas laterales, habilitada con colchonetas y mantas del ejército, una sanitaria le entregó a Toby un vaso de leche templada y una galleta seca. El niño comía despacio, sentado en la colchoneta, con los ojos limpios y la piel tibia, a salvo del polvo y de la radiación exterior.
 
-—El pequeño está perfecto, señora Lin —dijo la sanitaria con una sonrisa cálida—. Un poco de deshidratación y tos por el humo, pero sus pulmones están limpios. Ese blindaje casero le ha salvado los ojos. Ha hecho usted un milagro.
+Maya se sentó en el suelo a su lado, apoyando la cabeza contra la pared maciza de hormigón. Tenía los nudillos enrojecidos por el calor del sol temprano y la ropa manchada de barro seco, pero el dolor del cuerpo era apenas un murmullo comparado con la inmensa paz que le llenaba el pecho.
 
-Maya no respondió de inmediato.
+Miró a su hijo comer en silencio. Por primera vez en muchos años, no sintió culpa, ni vergüenza, ni miedo al porvenir. Había sacado a su pequeño de los escombros, había burlado al mar en la noche y lo había protegido de un cielo que mataba.
 
-Estaba sentada en el suelo, con la espalda apoyada en el muro macizo de hormigón armado, sosteniendo con ambas manos una taza de café caliente que le acababan de entregar. Tenía los nudillos de la mano derecha vendados con gasa estéril y ungüento para quemaduras, y el uniforme improvisado manchado de lodo seco y ceniza.
+Se llevó la mano de Toby a los labios y le besó los dedos con ternura infinita.
 
-Miró a su hijo sonreír a la enfermera. Después alzó la vista hacia el techo del búnker, imaginando las millas de distancia, los continentes en llamas y los túneles subterráneos de Manhattan donde su hermana Sarah libraba su propia guerra contra las estrellas.
-
-Una lágrima solitaria le limpió una franja de hollín en la mejilla, pero en sus labios floreció una sonrisa orgullosa, tranquila y definitiva.
-
-—No ha sido un milagro, enfermera —susurró Maya con voz queda pero inquebrantable—. Ha sido una madre.
-
-Apoyó la cabeza en el hormigón fresco y cerró los ojos, sabiendo que mientras el mundo se preparaba para su juicio final, ellos dos habían conquistado el derecho a vivir.
+—Estamos bien, mi amor —susurró con una sonrisa limpia, cerrando los ojos para descansar al fin—. Estamos bien.
