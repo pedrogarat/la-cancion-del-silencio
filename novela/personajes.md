@@ -222,3 +222,12 @@
 ### 💊 40. «Dex»
 - **Rol:** Contacto callejero / Pasador de sustancias en San Francisco (Capítulo 9).
 - **Perfil:** El antiguo camello de Maya Lin en el callejón de Stevenson Street; su recuerdo desencadena la lucha moral interna de Maya, quien opta por la vida, la sobriedad y la protección de su hijo Toby.
+
+### 🔪 41. Éric
+- **Rol:** Superviviente desesperado y asaltante en Versoix (Capítulo 16).
+- **Perfil:** Hombre de unos cuarenta años que llega de noche al chalet de los Girard guiando a su hermana ciega en busca de cobijo. Tras ser alimentado y acogido, la desesperación y la codicia por el búnker y las reservas familiares lo empujan a intentar expulsar a los Girard a punta de cuchillo; hiere a Marie y resulta abatido en defensa propia por Julien Girard (17 años).
+
+### 👁️ 42. Thérèse
+- **Rol:** Víctima de la radiación UV y refugiada desorientada en Versoix (Capítulo 16).
+- **Perfil:** Hermana de Éric; ciega irreversible por fotoqueratitis terminal de 3er grado y graves quemaduras en la piel tras quedar atrapada a la luz diurna en marzo. Rechaza con pánico la violencia de su hermano; tras el disparo que abate a este, huye aterrorizada al jardín justo al despuntar el alba, falleciendo en el acto calcinada por la radiación UVC extrema sin ozono.
+

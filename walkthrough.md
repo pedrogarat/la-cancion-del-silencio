@@ -12,7 +12,7 @@
   * **La Caída del Escudo y el Gran Caos:** Al desplegarse la telaraña en L1 y anularse la magnetosfera, el secreto estalla públicamente: hecatombe de satélites, auroras fantasma, caos social e histeria colectiva en una ventana límite de 6 a 8 meses.
   * **La Misión Analógica y el Quench:** Vuelo del doble módulo (MRD + MAA), Muro de Lorentz a 10.000 km, inyección de caos cuántico vía Máser y colapso térmico de los superconductores enemigos.
 - **Fuente Técnica:** Sincronizada en [notas_cientificas.md](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/novela/notas_cientificas.md) y exportada a PDF editorial de alta fidelidad en [Notas_Cientificas_La_Cancion_del_Silencio.pdf](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/Notas_Cientificas_La_Cancion_del_Silencio.pdf) (y copia en `novela/`) mediante [generar_notas_cientificas_pdf.py](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/generar_notas_cientificas_pdf.py).
-- **Capítulos redactados:** 9 completos:
+- **Capítulos redactados:** 16 completos:
   * **Capítulo 1:** *El Amanecer de Alamogordo* (3.007 palabras, Acto I).
   * **Capítulo 2:** *Los Tres Hilos del Ilusionista* (2.833 palabras, Acto I).
   * **Capítulo 3:** *La Sala Dos* (6.328 palabras, Acto I / Acto II: Demostración cuántica de SIA, crisis existencial y revelación del ataque a la geodinamo).
@@ -23,6 +23,12 @@
   * **Capítulo 8:** *La Gran Mentira* (4.400 palabras, Acto II: Transgresión de Alfa Cero por Girard para alertar a Marie; comparecencia global de Ramos anunciando el falso "Súper Evento Carrington" del 21 de noviembre a las 05:30 UTC y ley marcial energética; dolor moral de Ramos en el descenso a B-4; llamadas familiares de Girard a Julien y de Wright a su hermano David; confesión, reconciliación y llanto de Sarah con su hermana Maya; primer beso entre Thomas y Sarah en la sala de servidores; primer impacto de la histeria global y bolsas colapsadas bajo la mirada de Pleh).
   * **Capítulo 9:** *La Fractura del Orden* (5.400 palabras, Acto II: Días 11 al 15 de octubre de 2026. Estados de excepción globales, suspensión escolar y distribución bajo control militar; oportunismo criminal en la periferia. 1) Versoix: asedio e intento de allanamiento repelido con coraje y astucia técnica por Marie y Julien mediante una trampa electrostática capacitiva. 2) Suffolk: odisea de David Wright, Claire y Oliver por vías rurales esquivando tiroteos en la A14 hasta refugiarse seguros en la casa de campo. 3) San Francisco: Maya Lin batallando contra el síndrome de abstinencia, tentando la recaída en un callejón y recapacitando para abrazar a Toby y resistir juntas. 4) La desescalada: reflexión filosófica sobre la normalización del miedo bajo el engaño solar transitorio; las comunicaciones se restablecen al 75%, permitiendo llamadas familiares reconfortantes con Girard, Wright y Lin en B-4 mientras el cronómetro descuenta 37 días para Fase 1).
   * **Capítulo 10:** *T=0* (6.800 palabras, Acto II: 21 al 24 de noviembre de 2026. Colapso vertical de la magnetosfera a cero en T=0, hecatombe orbital por calentamiento de la termosfera y desorbitación en cascada, asedio terminal de Nellis frente a la reentrada del satélite espía Keyhole y sellado NBQ MOPP-4, falsa tregua civil bajo el cielo esmeralda).
+  * **Capítulo 11:** *La Geometría Ajena* (Acto II: Cuello de botella del cañón Máser sin chips; solución fractal de metamaterial de Pleh; validación por Chen Mei).
+  * **Capítulo 12:** *La Tregua de las Velas* (Acto II: Navidad bajo el corte eléctrico; llamadas familiares de Girard y Wright; brindis en Nellis; mensaje de Pleh sobre la rebelión contra la entropía; primeros teletipos de fotoqueratitis en el sur).
+  * **Capítulo 13:** *El Toque de Alba* (Acto II: Nochevieja en Manhattan; Directiva de Inversión Circadiana; pruebas de vibración y vacío del MAA en Nellis).
+  * **Capítulo 14:** *El Pan y la Pólvora* (Acto II: Pérdida del trigo boreal; guerra silenciosa contra hackeos; gran seísmo de magnitud 7,9 en San Francisco inducido por corrientes telúricas; megatsunami en camino).
+  * **Capítulo 15:** *El Vientre de la Bahía* (Acto II: Odisea de Maya Lin y su hijo Toby tras el derrumbe y el tsunami; escape por Powell Street Station hasta el búnker del Centro Cívico al alba).
+  * **Capítulo 16:** *El Umbral de Ceniza* (Acto II: Versoix calcinada; asalto nocturno y traición de forasteros; Marie herida y defensa de Julien abatiendo al agresor; muerte de la mujer ciega al sol sin ozono; avance criogénico pasivo de Jean-Luc Girard en B-4 para salvar la misión).
 - **Códices y Guías Canónicas Editoriales:**
   * **Códex de Personajes:** [personajes.md](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/novela/personajes.md) y [Personajes_La_Cancion_del_Silencio.pdf](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/Personajes_La_Cancion_del_Silencio.pdf) (y copia en `novela/`).
   * **Atlas de Localizaciones:** [localizaciones.md](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/novela/localizaciones.md) y [Localizaciones_La_Cancion_del_Silencio.pdf](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/Localizaciones_La_Cancion_del_Silencio.pdf) (y copia en `novela/`).
@@ -37,6 +43,12 @@
   * `Capitulo_8_La_Gran_Mentira.pdf`
   * `Capitulo_9_La_Fractura_del_Orden.pdf`
   * `Capitulo_10_T0.pdf`
+  * `Capitulo_11_La_Geometria_Ajena.pdf`
+  * `Capitulo_12_La_Tregua_de_las_Velas.pdf`
+  * `Capitulo_13_El_Toque_de_Alba.pdf`
+  * `Capitulo_14_El_Pan_y_la_Polvora.pdf`
+  * `Capitulo_15_El_Vientre_de_la_Bahia.pdf`
+  * `Capitulo_16_El_Umbral_de_Ceniza.pdf`
   * `Personajes_La_Cancion_del_Silencio.pdf`
   * `Localizaciones_La_Cancion_del_Silencio.pdf`
   * `Notas_Cientificas_La_Cancion_del_Silencio.pdf`
