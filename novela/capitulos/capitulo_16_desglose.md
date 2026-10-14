@@ -34,14 +34,15 @@
 
 ---
 
-## Escena 3: La Piedad Traicionada (16 de mayo de 2027, 04:10 CEST | T+175)
-- **Tiempo:** Antes del amanecer.
+## Escena 3: La Falsa Calma y la Quiebra Moral (16 de mayo de 2027, 04:10 a 05:15 CEST | T+175 a T+176)
+- **Tiempo:** Madrugada prolongada antes del amanecer.
 - **Ubicación:** Cocina del chalet.
-- **Personajes:** Marie, Julien, Chloé, el forastero y la mujer ciega.
+- **Personajes:** Marie, Julien, Chloé, Éric y Thérèse.
 - **Acción:**
-  - Los Girard les ofrecen agua fresca, caldo caliente y vendajes limpios.
-  - La actitud del forastero muta: sus ojos calculan el valor de la comida, la solidez del búnker y la aparente indefensión de una mujer con sus hijos adolescentes.
-  - El hombre extrae un cuchillo oculto y exige las llaves de la despensa, la escopeta y la posesión de la casa, dispuesto a expulsar a la familia a la intemperie.
+  - Los recién llegados muestran una actitud noble y respetable: Éric (antiguo maestro de geografía en Nyon) y su hermana Thérèse (enfermera cantonal que perdió la visión rescatando pacientes) agradecen conmovidos el auxilio.
+  - Éric ayuda con las tareas domésticas, charla de ciencias con Julien y repara la alacena, logrando que los Girard relajen la guardia y sientan la recuperación de un retazo de civilización perdida.
+  - Hacia las 05:00 h, cuando Marie les indica con amabilidad que descansen durante el día en el semisótano y que al caer la noche les preparará víveres para que sigan camino, Éric colapsa psicológicamente: sabe que en el exterior no queda nadie vivo y que salir de esa casa equivale a una sentencia de muerte abrasada.
+  - El hombre honrado se quiebra ante el terror animal; se apodera de un cuchillo del bloque de cocina y, fuera de sí, exige adueñarse de la casa y del búnker para salvar a su hermana a costa de los Girard.
 
 ---
 
@@ -73,8 +74,8 @@
 - **Ubicación:** Sala de Crisis B-4, Sede de la ONU.
 - **Personajes:** Dr. Jean-Luc Girard, Dra. Sarah Lin, Dr. Thomas Wright, Vassily Ramos y Dr. Em Pleh.
 - **Acción:**
-  - Jean-Luc recibe un escueto teletipo militar suizo informándole del ataque en Versoix: Marie está herida pero estable, Julien mantuvo el bastión intacto.
-  - Girard sufre un quiebre íntimo en silencio en los pasillos de refrigeración, ahogando su llanto para luego transformar su angustia en una determinación metodológica de acero.
-  - Regresa a la mesa táctica para resolver el cuello de botella que bloqueaba la integración en rampa: la estabilización criogénica pasiva del helio supercrítico para el cañón Máser ante la potencia térmica del reactor NTP.
+  - Incomunicación absoluta: las redes civiles y militares están caídas; no hay teletipos ni noticias de Suiza desde hace cuatro meses. Jean-Luc ignora por completo el asalto ocurrido en su casa y si su familia sigue con vida.
+  - Girard contempla en soledad la fotografía de Marie y sus hijos junto a los racks criogénicos, sufriendo el dolor de la incertidumbre; transforma su angustia en una resolución cartesiana inquebrantable para salvar la Tierra.
+  - Regresa a la mesa táctica para resolver el cuello de botella que bloqueaba la integración en rampa: la estabilización criogénica pasiva del helio supercrítico con lecho de sinterizado de berilio para el cañón Máser ante la potencia térmica del reactor NTP.
   - Pleh valida el modelo de Girard con rigor aritmético. Sarah y Wright confirman la viabilidad total.
   - El Módulo de Ataque Analógico (MAA) tiene luz verde definitiva para su montaje final sobre la rampa en Nellis. La salvación de la Tierra ya no es una conjetura: es un curso de acción irreversible.

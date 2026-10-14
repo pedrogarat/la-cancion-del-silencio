@@ -224,8 +224,8 @@
 - **Perfil:** El antiguo camello de Maya Lin en el callejón de Stevenson Street; su recuerdo desencadena la lucha moral interna de Maya, quien opta por la vida, la sobriedad y la protección de su hijo Toby.
 
 ### 🔪 41. Éric
-- **Rol:** Superviviente desesperado y asaltante en Versoix (Capítulo 16).
-- **Perfil:** Hombre de unos cuarenta años que llega de noche al chalet de los Girard guiando a su hermana ciega en busca de cobijo. Tras ser alimentado y acogido, la desesperación y la codicia por el búnker y las reservas familiares lo empujan a intentar expulsar a los Girard a punta de cuchillo; hiere a Marie y resulta abatido en defensa propia por Julien Girard (17 años).
+- **Rol:** Antiguo maestro de geografía en Nyon y superviviente desesperado en Versoix (Capítulo 16).
+- **Perfil:** Hombre de unos cuarenta años que llega de noche al chalet de los Girard guiando a su hermana ciega. Muestra al principio una educación, honradez y gratitud genuinas, colaborando en la casa y ganándose el aprecio de Marie y Julien; sin embargo, al acercarse el alba y constatar que volver al exterior sin ozono supondrá una muerte segura para ambos, el pánico animal quiebra sus principios: empuña un cuchillo de cocina intentando adueñarse del búnker y expulsar a los Girard; hiere a Marie en el forcejeo y es abatido en defensa propia por Julien (17 años).
 
 ### 👁️ 42. Thérèse
 - **Rol:** Víctima de la radiación UV y refugiada desorientada en Versoix (Capítulo 16).

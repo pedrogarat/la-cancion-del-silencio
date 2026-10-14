@@ -85,54 +85,53 @@ Marie sentó a la mujer en una silla de anea junto al fuego apagado. Con infinit
 
 Marie le acercó un cuenco de peltre con agua y una taza de caldo de verduras caliente. La mujer bebió con avidez animal, derramando parte del líquido por su barbilla chamuscada.
 
-El hombre, que dijo llamarse Éric, devoró dos rebanadas de pan seco y un trozo de cecina que Julien le sirvió en un plato de barro. Al principio sus palabras fueron solo de gratitud:
+El hombre, que dijo llamarse Éric, aceptó con manos temblorosas un plato con pan y cecina que Julien le sirvió, pero antes de probar bocado esperó a que Marie terminase de acomodar a su hermana. Sus modales eran comedidos, propios de un hombre educado que aún recordaba las normas de un mundo civilizado.
 
-—Que Dios los bendiga... no creíamos que quedara nadie vivo en esta orilla del lago... Pensamos que las casas estaban todas saqueadas.
+—Perdónenme... —susurró Éric, bajando la vista con vergüenza mientras se limpiaba las comisuras con el dorso de la mano—. Antes del colapso yo enseñaba historia y geografía en el colegio secundario de Nyon. Mi hermana Thérèse era enfermera en el hospital cantonal... Se quemó los ojos en marzo, intentando ayudar a evacuar a los pacientes del pabellón diurno cuando fallaron las persianas automáticas.
 
-Sin embargo, a medida que el alimento y el calor del refugio devolvían la fuerza a sus músculos, la mirada de Éric comenzó a cambiar.
+Thérèse asintió en silencio con la cabeza vendada, apretando entre sus dedos el borde del paño húmedo.
 
-Julien, de pie junto al aparador con los brazos cruzados, no le quitó los ojos de encima. Notó cómo las pupilas del forastero recorrían cada rincón de la estancia: los sacos de patatas apilados en el rincón seco, las conservas de cristal alineadas en los estantes altos, la solidez de las vigas del techo y, sobre todo, la trampilla de hierro blindada que daba acceso al sótano cantonal fortificado.
+—No queríamos asustarlos al llamar —continuó Éric con voz queda, cargada de una tristeza sincera—. Llevamos tres semanas refugiados en zanjas y garajes abandonados, caminando solo en las horas de oscuridad más profunda. Pero las reservas de agua del vecindario se pudrieron con el calor y la falta de corriente. Si ustedes no nos hubieran abierto, Thérèse no habría superado la mañana.
 
-—Tenéis comida para meses aquí dentro —comentó Éric con una sonrisa forzada, pasándose la manga sucia por la boca—. Y agua corriente de pozo. Una casa sólida... con paredes de hormigón que aguantan el calor.
+Marie contempló al hombre conmovida. En su mirada no había la agresividad hueca de los merodeadores que habían rondado Versoix en otoño, sino la fatiga infinita de quien ha agotado sus fuerzas protegiendo a los suyos.
 
-—Es lo que pudimos guardar antes de que cayera el invierno —respondió Marie con tono sobrio, retirando el cuenco de la mesa—. Les dejaremos mantas en el cuarto de la lavandería para que descansen durante las horas de sol. Mañana por la noche, cuando caiga la luz, les prepararemos una mochila con provisiones y agua para que puedan llegar al centro de auxilio de la Cruz Roja en Coppet.
+—Mi marido es científico, trabaja en proyectos de investigación fuera del país —dijo Marie en tono amable—. Nosotros también hemos tenido que aprender a resistir en la penumbra. Julien se ocupa de la leña y de la bomba de agua.
 
-Éric dejó escapar una risa seca, sin una pizca de alegría.
+Durante más de dos horas, la cocina de los Girard recuperó un sosiego que parecía olvidado. Éric ayudó a recoger la mesa sin que nadie se lo pidiese, habló en voz baja con Julien sobre las lecturas del muchacho y la escuela de ingeniería, e incluso reparó con un trozo de alambre la bisagra suelta de la alacena. Julien, que no se había separado de la escopeta durante la primera media hora, terminó por dejar el arma apoyada en el rincón del pasillo, sintiendo que la alerta inicial se disipaba ante la evidente decencia de los recién llegados.
 
-—¿Coppet? No hay nada en Coppet, señora. Solo cenizas y perros muertos. De aquí no nos vamos a ninguna parte.
+Hacia las cinco de la madrugada, Marie preparó dos mantas gruesas de lana y un termo con agua hervida.
 
-El aire en la cocina se congeló en un instante.
+—Pronto empezará a clarear —les explicó Marie con suavidad—. Les he preparado un rincón en la lavandería del semisótano. Allí la pared es de hormigón macizo y no entra ni una rendija de luz. Podrán descansar seguros todo el día. Mañana por la noche, cuando el sol se haya puesto, les prepararemos una mochila con víveres secos y agua embotellada para que puedan intentar llegar a la sede de la administración cantonal en Coppet.
 
-Julien dio un paso al frente, bajando la mano hacia la culata de la Browning, que descansaba apoyada contra la pared del pasillo.
+Fue en ese instante exacto cuando el aire en la cocina se enrareció.
 
-—Han comido y están a cubierto —dijo el muchacho con voz firme—. Mi madre ha sido clara. Pasarán el día aquí, pero mañana se marcharán.
+Éric se quedó inmóvil junto a la mesa. La taza de peltre que sostenía entre las manos comenzó a temblar ligeramente.
 
-Éric se levantó despacio de la banqueta. Su complexión era maciza, curtida por meses de supervivencia en la intemperie. Despacio, sin apartar los ojos de Marie, metió la mano derecha en el bolsillo interior de su cazadora y extrajo un cuchillo de desollar con la hoja curva, mellada y ennegrecida por el óxido.
+—¿Coppet? —repitió el hombre con un tono que había perdido toda su calidez anterior, volviéndose una lámina rígida—. Pasamos por Coppet hace cuatro noches, señora Girard. No hay administración. No hay médicos. Solo hay calles llenas de cadáveres hinchados por la radiación, humo negro y jaurías de perros salvajes muriéndose de sed.
 
-—Vosotros sois una mujer y tres críos —dijo el hombre, con una frialdad repentina que destilaba desesperación y codicia—. Mi hermana y yo necesitamos este sitio. Nosotros nos quedamos abajo, en el búnker. Vosotros os quedáis con lo que llevéis puesto y os vais al lago.
+Marie frunció el ceño, desconcertada por el cambio de tono:
 
-—¡Éric, no!... ¿Qué estás haciendo? —gritó la mujer ciega desde la silla, agitando los brazos en el vacío presa del pánico—. ¡Nos han dado agua!... ¡Por favor, no hagas esto!
+—Lo lamento, Éric. Pero nosotros apenas tenemos reservas para mis tres hijos. Les daremos cuanto podamos compartir para el camino, pero...
 
-—¡Cállate, Thérèse! —bramó él sin mirarla—. ¡Si salimos de aquí, estamos muertos!
+—No hay camino —la interrumpió él, con los ojos de pronto dilatados, brillantes por un pánico repentino y asfixiante—. Si cruzamos esa puerta y volvemos a la carretera, mi hermana morirá en dos días. Yo moriré en dos días.
 
-Marie se interpuso de inmediato entre el hombre y el pasillo que conducía a las habitaciones de sus hijas, abriendo los brazos.
+Julien, alarmado por el temblor en la voz del hombre, dio un paso atrás hacia el pasillo para alcanzar la Browning. Pero Éric, con la agilidad desesperada de quien se siente acorralado por la muerte, vio el movimiento: de un salto rodeó la mesa y cogió del bloque de madera el cuchillo largo de cortar pan, interponiéndose entre el muchacho y el pasillo.
 
-—¡Baje ese cuchillo ahora mismo! ¡No sabe con quién está tratando!
+—¡Quieto ahí, chico! —gritó Éric, con la respiración entrecortada y la voz quebrada por el terror más que por la ira—. ¡No toques esa escopeta!
 
-—Sé que tenéis comida y yo tengo un cuchillo —replicó él, dando un paso largo y violento hacia ella con la hoja alzada—. ¡Dame las llaves del sótano!
+—¡Éric, por Dios!... ¿Qué haces? —gritó Thérèse desde la banqueta, levantándose a tientas con los brazos abiertos en la oscuridad—. ¡Son buenas personas, nos han salvado!
 
-***
+—¡Cállate, Thérèse! ¡No lo entiendes! —sollozó el hombre, con la hoja temblando en su puño mientras miraba alternativamente a Marie y a Julien—. Esta casa tiene pozo propio. Tiene paredes que no dejan pasar el calor y comida para un año. Si salimos de aquí somos carne muerta... ¡No voy a dejar que te mueras achicharrada en una cuneta!
 
-### 16 de mayo de 2027, 05:25:00 CEST
-**T + 176 días tras el Silencio Magnético**  
-*Cuenta atrás para el cierre de la ventana industrial: 66 días*  
-*Ubicación: Salón principal y porche del chalet, Versoix*
+Marie se colocó con presteza delante de su hijo, abriendo los brazos con entereza materna:
 
-La violencia estalló con la rapidez de un chispazo.
+—Baje ese cuchillo, Éric. Estaba siendo un hombre digno. No tire su humanidad por la borda.
 
-Éric se abalanzó sobre Marie para apartarla de un empellón contra la pared. La mujer forcejeó con él con uñas y dientes, tratando de sujetarle la muñeca armada; el filo curvo del cuchillo rasgó el aire y se hundió con un chasquido sordo en el costado izquierdo de Marie, entre las costillas y la cadera.
+—¡La dignidad no se come, señora! —bramó él, fuera de sí, dando un paso violento hacia ella—. ¡Bajarán ustedes al sótano o se irán al lago, pero nosotros nos quedamos aquí! ¡Dame las llaves de la despensa!
 
-Marie soltó un grito ahogado y cayó de rodillas sobre las baldosas, apretándose el vientre mientras una mancha espesa y escarlata comenzaba a empapar su delantal de lino.
+Marie intentó desarmarlo sujetándole la muñeca antes de que pudiera avanzar hacia el pasillo de las niñas; en el forcejeo ciego, el filo de acero resbaló con violencia y se clavó en el costado izquierdo de Marie.
+
+Marie soltó un grito ahogado y cayó de rodillas sobre las baldosas, apretándose el flanco mientras la sangre manaba caliente empapando su ropa.
 
 —¡Mamá! —rugió Julien.
 
@@ -222,33 +221,19 @@ Habían sobrevivido a la noche. El bastión de Versoix seguía en pie.
 
 Bajo tres plantas de hormigón blindado en Manhattan, el aire olía a aceite de transformador y a ozono filtrado por turbinas.
 
-En el pasillo lateral de la sala de servidores criogénicos, apartado del bullicio de los teletipos y las consolas de telemetría, el Dr. Jean-Luc Girard sostenía una tira de papel perforado amarillo entre sus dedos delgados. Era un despacho cifrado de la red de emergencia militar suiza, transmitido a través de la línea de cable submarino trasatlántico militar de la OTAN.
+En el pasillo lateral de la sala de servidores criogénicos, apartado del zumbido de las consolas de telemetría y las discusiones del estado mayor, el Dr. Jean-Luc Girard contemplaba una pequeña fotografía en blanco y negro que acababa de extraer de su billetera de cuero gastado. En la imagen, tomada dos veranos atrás a orillas del Lemán, Marie sonreía con el viento despeinándole el cabello mientras Julien sostenía en hombros a la pequeña Émilie y Chloé saludaba a la cámara.
 
-El texto era lacónico, de una precisión castrense:
+Llevaba ciento cuarenta días sin escuchar sus voces.
 
-```
-DE: COMANDO TERRITORIAL 1 - GINEBRA / SUBOFICIAL DE ENLACE VERSOIX
-PARA: DR. JEAN-LUC GIRARD (COMITÉ CIENTÍFICO B-4, ONU)
-ASUNTO: ESTADO DE SEGURIDAD FAMILIAR (CHALET GIRARD)
+Desde el corte total de las redes a finales del invierno, las comunicaciones con la Europa civil habían dejado de existir. No había líneas terrestres, ni enlaces de radio, ni despachos diplomáticos que pudieran cruzar el silencio de un continente sumido en el toque de queda y la devastación ultravioleta. En los registros militares de la ONU, Suiza era un mapa mudo: cuadrantes sombreados donde no se recibía una sola señal. Jean-Luc no sabía si el chalet de Versoix seguía en pie. No sabía si el pozo del sótano continuaba dando agua, si las provisiones habían bastado o si su familia yacía bajo la tierra quemada junto a los millones de víctimas de la primavera.
 
-INCIDENTE DE INTRUSIÓN ARMADA REPELIDO EN DOMICILIO PRIVADO (05:30 CEST).
-DOS ASALTANTES FALLECIDOS (UNO POR ARMA DE FUEGO EN DEFENSA PROPIA, UNO POR EXPOSICIÓN SOLAR DIRECTA).
-MARIE GIRARD PRESENTA HERIDA POR ARMA BLANCA EN REGIÓN COSTAL IZQUIERDA. 
-ATENDIDA POR PRIMEROS AUXILIOS FAMILIARES. HEMORRAGIA CONTROLADA. ESTABLE Y FUERA DE PELIGRO VITAL.
-JULIEN GIRARD (17 AÑOS) ASUMIÓ EL MANDO DEFENSIVO CON TOTAL EFICACIA. HIJAS MENORES IL قطAS.
-PERÍMETRO DE VERSOIX ASEGURADO POR CUADRILLA LOCAL. EL HOGAR RESISTE.
-FIN DEL TRANSMISIÓN.
-```
+Esa ignorancia total era un veneno lento que le perforaba el pecho cada noche.
 
-Jean-Luc leyó el papel tres veces.
+Se quitó las gafas metálicas con un gesto pausado, apoyó la frente contra la pared de acero frío de un rack de condensadores y cerró los ojos. Sus hombros delgados temblaron bajo la chaqueta de tweed. Durante unos minutos, el físico cartesiano del CERN se permitió llorar en soledad absoluta: un llanto silencioso, seco y desgarrador, el desahogo de un hombre devorado por la impotencia de no saber y la culpa de hallarse a seis mil kilómetros de distancia mientras sus hijos peleaban en la sombra.
 
-Luego se quitó las gafas metálicas con un gesto lento, apoyó la frente contra la pared de acero frío de un rack de condensadores y cerró los ojos. Sus hombros delgados temblaron bajo la chaqueta de tweed. Durante dos minutos, el físico cartesiano del CERN lloró en soledad absoluta: un llanto contenido, silencioso y desgarrador, donde se mezclaban el terror de haber estado a punto de perder a Marie, la culpa aplastante de encontrarse a seis mil kilómetros de distancia y un orgullo infinito y reverente hacia su primogénito, aquel muchacho de diecisiete años que acababa de cargar sobre sus espaldas el destino de su estirpe.
+Respiró hondo. Se secó las mejillas con su pañuelo doblado, se colocó las gafas con precisión milimétrica y alisó las solapas de su abrigo. La incertidumbre no se disipaba, pero dentro de su mente analítica la desesperación mutó en una determinación fría y absoluta: si la misión espacial fracasaba, la duda se convertiría en certeza de muerte. La única posibilidad física de que Marie y sus hijos tuvieran un mañana dependía de lo que él hiciera en esa sala subterránea.
 
-Respiró hondo. Se secó los ojos con el pañuelo doblado, se colocó las gafas con precisión milimétrica y alisó las solapas de su abrigo. El dolor no desaparecía, pero se transformaba en algo mucho más poderoso: un deber sagrado e inquebrantable.
-
-No tenía derecho a vacilar. La única manera de mantener a salvo a Marie y a sus hijos era asegurarse de que la nave partiese hacia el Sol antes de que la Tierra se convirtiera en un páramo estéril.
-
-Con paso firme, Girard cruzó el pasillo y regresó a la gran mesa táctica circular del centro de la Sala B-4.
+Con paso firme y la mirada despejada, Girard cruzó el pasillo y regresó a la gran mesa táctica circular del centro de la Sala B-4.
 
 Alrededor del holograma tridimensional del Módulo de Ataque Analógico (MAA), la Dra. Sarah Lin y el Dr. Thomas Wright discutían acaloradamente sobre un esquema térmico proyectado en pantalla. A pocos metros, el Secretario General Vassily Ramos contemplaba las cifras con el rostro ensombrecido por la fatiga. Sobre el monitor principal, el avatar del Dr. Em Pleh permanecía en silencio, observando la escena con su habitual calma matemática.
 
@@ -284,6 +269,6 @@ Girard inclinó la cabeza con modestia sobria, pero no sonrió. Sobre el borde d
 
 Pero Jean-Luc ya no necesitaba una brújula para saber hacia dónde se dirigía su destino.
 
-Miró la pantalla táctica donde brillaba el punto subsolar de Lagrange L1, a un millón y medio de kilómetros de distancia en la oscuridad cósmica, y pensó en Marie vendada en el sótano de Versoix, en el muchacho que había defendido su hogar con la vida y en el futuro que aún les esperaba tras la tormenta.
+Miró la pantalla táctica donde brillaba el punto subsolar de Lagrange L1, a un millón y medio de kilómetros de distancia en la oscuridad cósmica, y pensó en Marie, en Julien y en sus dos hijas pequeñas en Versoix. Ignoraba si seguían con vida en aquella orilla lejana del mundo, pero su fe en ellos era tan inquebrantable como las leyes de la termodinámica.
 
 —Vamos a terminar esta máquina —dijo Jean-Luc con una firmeza tranquila y definitiva—. Y vamos a salvar la Tierra.
