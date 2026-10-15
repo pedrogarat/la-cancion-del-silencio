@@ -139,6 +139,24 @@
       "location": "Market Street, Powell Street Station y Auditorio Cívico (San Francisco)",
       "readTime": "16 min",
       "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 16,
+      "title": "Capítulo 16: El Umbral de Ceniza",
+      "act": "Acto II: La Caída del Escudo y el Gran Caos",
+      "pov": "Marie y Julien Girard / Dr. Jean-Luc Girard",
+      "location": "Versoix (Ginebra) / Sala de Crisis B-4 ONU (Nueva York)",
+      "readTime": "18 min",
+      "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 17,
+      "title": "Capítulo 17: El Páramo de Mediodía",
+      "act": "Acto II: La Caída del Escudo y el Gran Caos",
+      "pov": "Dr. David Wright / Claire Wright",
+      "location": "Casa de campo de Suffolk / Carretera A140 / Centro Logístico de Diss",
+      "readTime": "20 min",
+      "povImage": "img/char_protagonista.png"
     }
   ]
 }

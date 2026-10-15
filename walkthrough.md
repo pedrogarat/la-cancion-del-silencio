@@ -29,10 +29,13 @@
   * **Capítulo 14:** *El Pan y la Pólvora* (Acto II: Pérdida del trigo boreal; guerra silenciosa contra hackeos; gran seísmo de magnitud 7,9 en San Francisco inducido por corrientes telúricas; megatsunami en camino).
   * **Capítulo 15:** *El Vientre de la Bahía* (Acto II: Odisea de Maya Lin y su hijo Toby tras el derrumbe y el tsunami; escape por Powell Street Station hasta el búnker del Centro Cívico al alba).
   * **Capítulo 16:** *El Umbral de Ceniza* (Acto II: Versoix calcinada; asalto nocturno y traición de forasteros; Marie herida y defensa de Julien abatiendo al agresor; muerte de la mujer ciega al sol sin ozono; avance criogénico pasivo de Jean-Luc Girard en B-4 para salvar la misión).
+  * **Capítulo 17:** *El Páramo de Mediodía* (Acto II: La odisea de David Wright en Suffolk; hambre de Oliver; acecho del mastín inglés ciego; deducción física de la radiación UV e incursión en Land Rover sellado a 42 °C; aprovisionamiento de 600 kg en Eye/Diss; persecución crepuscular y escape por el vado de barro; Oliver comiendo melocotones en almíbar dormido con la locomotora de Thomas).
 - **Códices y Guías Canónicas Editoriales:**
+  * **Sinopsis General y Estructura por Actos:** [sinopsis.md](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/novela/sinopsis.md), [SINOPSIS.pdf](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/SINOPSIS.pdf) y [Sinopsis_La_Cancion_del_Silencio.pdf](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/Sinopsis_La_Cancion_del_Silencio.pdf) (generado con [generar_sinopsis_pdf.py](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/generar_sinopsis_pdf.py)).
   * **Códex de Personajes:** [personajes.md](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/novela/personajes.md) y [Personajes_La_Cancion_del_Silencio.pdf](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/Personajes_La_Cancion_del_Silencio.pdf) (y copia en `novela/`).
   * **Atlas de Localizaciones:** [localizaciones.md](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/novela/localizaciones.md) y [Localizaciones_La_Cancion_del_Silencio.pdf](file:///c:/Users/Usuario/.gemini/antigravity-ide/scratch/NOVELA_3/Localizaciones_La_Cancion_del_Silencio.pdf) (y copia en `novela/`).
 - **PDFs Disponibles (Sincronizados en raíz y novela/):**
+  * `SINOPSIS.pdf` / `Sinopsis_La_Cancion_del_Silencio.pdf` (Estructura general, índice y resúmenes)
   * `Capitulo_1_El_Amanecer_de_Alamogordo.pdf`
   * `Capitulo_2_Los_Tres_Hilos_del_Ilusionista.pdf`
   * `Capitulo_3_La_Sala_Dos.pdf`
@@ -49,6 +52,7 @@
   * `Capitulo_14_El_Pan_y_la_Polvora.pdf`
   * `Capitulo_15_El_Vientre_de_la_Bahia.pdf`
   * `Capitulo_16_El_Umbral_de_Ceniza.pdf`
+  * `Capitulo_17_El_Paramo_de_Mediodia.pdf`
   * `Personajes_La_Cancion_del_Silencio.pdf`
   * `Localizaciones_La_Cancion_del_Silencio.pdf`
   * `Notas_Cientificas_La_Cancion_del_Silencio.pdf`
