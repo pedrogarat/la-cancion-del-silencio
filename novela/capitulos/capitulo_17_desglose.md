@@ -31,7 +31,7 @@
 4. **Bloque IV: La Forja del Capullo (Ingeniería de Protección)**
    - Preparación del traje de protección: mono de denim pesado (UPF 500+), chaqueta de cuero de moto, sellado con cinta americana en puños y tobillos, pasamontañas doble y careta de soldador con lente inactínica DIN 10.
    - Blindaje del Land Rover Defender: ventanillas forradas con mantas térmicas de Mylar y ranura de visión con policarbonato polarizado UV400.
-   - Despedida íntima: Oliver le entrega la locomotora de madera para que «toque el silbato si hay niebla».
+   - Despedida íntima: David abraza y besa a su hijo Oliver; Oliver le entrega la locomotora de madera para que «toque el silbato si hay niebla». Claire y David se funden en un beso hondo y apasionado antes de la partida, prometiendo volver con vida.
 
 5. **Bloque V: La Travesía del Fuego Blanco (El Páramo de Mediodía)**
    - Salida a las 12:12 GMT bajo radiación cenital extrema (UVI 26+).
@@ -50,7 +50,7 @@
    - Maniobra táctica de David: apaga luces, engrana reductora y bloqueo de diferencial, y cruza el vado de barro del río Waveney. Las furgonetas perseguidoras quedan encalladas en el lodazal.
 
 8. **Bloque VIII: El Sabor de la Promesa (Cierre Emocional)**
-   - Retorno a salvo a la granja a las 23:40 GMT.
+   - Retorno a salvo a la granja a las 23:40 GMT. Claire y David se funden en un abrazo y beso conyugal apasionado, con llanto y alivio salvaje tras rozar la muerte.
    - Descarga de seiscientos kilos de víveres con Claire.
-   - Oliver prueba por primera vez en meses el melocotón en almíbar: el milagro del azúcar devolviendo la sonrisa a un niño de 3 años.
-   - Oliver duerme abrazado a la locomotora. David contempla el destello de L1 desde la tronera blindada y pide a Thomas que encienda los motores para devolverles el cielo.
+   - Oliver despierta y come en brazos de Claire: su padre David le da melocotón en almíbar; el milagro del azúcar devolviendo la sonrisa a su hijo de 3 años tras meses de sufrimiento.
+   - Oliver duerme abrazado a la locomotora. David contempla el cielo nocturno y fosforescente desde la tronera: ignorando a Sombra y el cohete espacial, confía en la misión secreta de Thomas y le pide que devuelva el cielo.

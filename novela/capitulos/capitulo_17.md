@@ -10,428 +10,426 @@
 
 ### I. La Medida del Hambre
 
-El polvo se asentaba sobre el linóleo de la cocina con una parsimonia mineral, ajeno al crujido de las vigas que se dilataban bajo el calor del tejado. En la penumbra verdosa que filtraban las mantas térmicas clavadas a las contraventanas, el único sonido era el raspado metálico de una cuchara de postre contra el fondo de vidrio de un frasco de mermelada.
+El polvo se asentaba sobre el suelo de la cocina con una parsimonia mineral, ajeno al crujido de las vigas que se dilataban bajo el sofoco del tejado. En la penumbra verdosa que filtraban las mantas térmicas clavadas a las contraventanas, el único sonido era el raspado metálico de una cuchara de postre contra el fondo de vidrio de un frasco de mermelada.
 
-David Wright se detuvo. La hoja de peltre arrancó una lámina translúcida de azúcar reseco, casi invisible, antes de chocar contra el fondo con un chasquido sordo.
+David Wright se detuvo. La hoja de peltre arrancó una lámina translúcida de azúcar reseco, casi invisible, antes de chocar contra el fondo con un chasquido seco.
 
-—No queda nada, Claire —dijo. Su voz sonó gastada, desprovista del timbre resonante con el que solía moderar los seminarios de física aplicada en el Trinity College de Cambridge—. Ni siquiera harina para espesar el agua del pozo.
+—No queda nada, Claire —dijo. Su voz sonó gastada, desprovista del vigor con el que solía dar sus clases en Cambridge—. Ni siquiera harina para espesar el agua del pozo.
 
-Claire no levantó la vista del extremo de la mesa. Tenía los codos apoyados sobre la madera de pino y las manos entrelazadas en torno a una taza de loza vacía, tibia únicamente por el contacto de sus palmas. Sus dedos, antes finos y ágiles para el violonchelo, mostraban los nudillos hinchados y la piel descamada por el roce continuo de la lejía y el polvo seco.
+Claire no levantó la vista del extremo de la mesa. Tenía los codos apoyados sobre la madera de pino y las manos entrelazadas en torno a una taza de loza vacía, tibia únicamente por el contacto de sus palmas. Sus dedos, antes finos y ágiles sobre las cuerdas del violonchelo, mostraban los nudillos hinchados y la piel descamada por el roce continuo de la ceniza y el agua dura.
 
-Al fondo del pasillo, en la antigua alacena que habían transformado en dormitorio ciego para alejarlo de los muros exteriores, sonó un quejido débil. Un sonido seco, gutural, que no llegaba a llanto.
+Al fondo del pasillo, en la antigua alacena que habían transformado en dormitorio ciego para alejarlo de los muros exteriores, sonó un quejido débil. Un sonido seco, quejumbroso, que no llegaba a llanto.
 
-—Lleva dos días sin orinar, David —susurró Claire, y en su mirada gris no había reproche, sino esa lucidez atroz que precede a la rendición—. Solo pide agua con azúcar. Cree que si espera un rato, el sabor dulce volverá a aparecer en la cuchara. Tres años. Oliver no tiene memoria de un supermercado, ni de una manzana fresca. Solo sabe que la luz de la ventana mata y que la comida es un polvo blanco que se acaba.
+—Lleva dos días sin orinar, David —susurró Claire, y en su mirada gris no había reproche, sino esa lucidez atroz que precede a la rendición—. Solo pide agua con azúcar. Cree que si espera un rato, el sabor dulce volverá a aparecer en la cuchara. Tres años... Oliver apenas tiene memoria de un parque, ni de una manzana fresca. Solo sabe que la luz de la ventana quema y que la comida es un polvo blanco que se acaba.
 
-David cerró los ojos un instante. Detrás de sus párpados no había oscuridad, sino ecuaciones: balances de masa y energía. Un niño de tres años en régimen basal consume unas novecientas kilocalorías diarias. Con el déficit acumulado de las últimas tres semanas, el glucógeno hepático estaba extinguido; el organismo de su sobrino había comenzado a canibalizar el tejido muscular para alimentar el cerebro. En setenta y dos horas, la cetosis derivaría en letargia irreversible.
+David cerró los ojos un instante. La angustia le oprimía el pecho con la fuerza de un torno. Sabía lo que significaba ese letargo: el cuerpecito de su hijo había comenzado a consumir sus últimas reservas de energía para alimentar el cerebro. En setenta y dos horas, la debilidad derivaría en un sueño irreversible del que ya no despertaría.
 
-Miró el rincón de la chimenea. Allí, junto a las tenazas oxidadas, descansaba la pequeña locomotora de madera de manzano que su hermano Thomas le había tallado a mano a Oliver en las Navidades de 2025, antes de que el mundo se quebrara. Las ruedas de madera giraban todavía sobre sus ejes de cobre con una suavidad perfecta, pulidas por el roce de unos dedos infantiles que ya no tenían fuerza para empujarla.
+Miró el rincón de la chimenea. Allí, junto a las tenazas oxidadas, descansaba la pequeña locomotora de madera de manzano que su hermano Thomas le había tallado a mano a Oliver en las Navidades de 2025, antes de que el mundo se quebrara. Las ruedas de madera giraban todavía sobre sus ejes de cobre con una suavidad perfecta, pulidas por el roce de unos dedos infantiles que hoy no tenían fuerza ni para empujarla sobre la alfombra.
 
-*Thomas.* Hacía seis meses que las líneas transatlánticas habían muerto. La última transmisión cifrada que David logró descodificar en la radio de onda corta antes de que las interferencias ionosféricas barrieran el espectro procedía de un repetidor naval en Halifax: el Módulo de Ataque Analógico avanzaba hacia la fase de integración final. Pero eso era ciencia lejana, abstracciones de titanio y motores nucleares a miles de kilómetros sobre el océano. En Suffolk, la realidad era una taza vacía y un niño que se apagaba.
+*Thomas.* Hacía seis meses que las comunicaciones de larga distancia habían enmudecido por completo. Todo lo que David sabía era lo que su hermano mayor le había confiado en aquella última llamada apresurada antes del gran apagón: que estaba reclutado por la ONU y los gobiernos en un proyecto confidencial gigantesco, algo crucial para intentar contener esa catástrofe anómala que asfixiaba el cielo y devolver la normalidad a la Tierra. Thomas le había hecho prometer que se refugiarían en la casa de campo de Suffolk, que resistirían con la leña y el pozo. Pero las promesas lejanas no alimentaban a un niño. A miles de kilómetros de dondequiera que estuviera Thomas, en la soledad muda de la campiña inglesa, la realidad era una despensa vacía y un hijo que se moría de hambre.
 
 —Esta noche bajo a Saxmundham —dijo David, apartando el frasco.
 
-Claire alzó la cabeza con un sobresalto de alarma contenida.
+Claire alzó la cabeza con un sobresalto de alarma.
 
-—Los Miller bajaron hace cuatro noches, David. Dijeron que en la trasera de la farmacia quedaban sueros glucosados. Volvió solo Robert, arrastrándose por el seto, con dos perdigonadas en el omóplato. Hay hombres en el cruce de la iglesia. Disparan antes de preguntar. Nadie comparte una lata de judías.
+—Los Miller bajaron hace cuatro noches, David. Dijeron que en la trasera de la farmacia quedaban sueros. Volvió solo Robert, arrastrándose entre los espinos, con dos perdigonadas en la espalda. Hay hombres armados en el cruce de la iglesia. Disparan a cualquier sombra antes de preguntar. Nadie comparte una lata de judías.
 
-—Robert fue por la carretera principal y con una linterna encendida —replicó David con serenidad analítica—. Se comportó como un blanco. Yo conozco las zanjas de drenaje de las fincas de remolacha. Si cruzo por la vaguada del río Alde, no pisaré asfalto en tres millas. Saldré a la una. El *airglow* estará bajo y la luna nueva no dará contraste.
+—Robert fue por la carretera principal y con una linterna encendida —replicó David con serenidad—. Se expuso como un blanco fácil. Yo conozco las zanjas de drenaje y los caminos de herradura. Si cruzo por la vaguada del río Alde, no pisaré asfalto en tres millas. Saldré a la una. El resplandor verde del cielo estará bajo y no habrá luna.
 
 —¿Y si te descubren?
 
-David extendió la mano y cubrió los dedos fríos de su cuñada.
+David extendió la mano y cubrió los dedos fríos de su mujer. Los apretó con fuerza, sintiendo el temblor que la recorría, y alzó la otra mano para acariciarle la mejilla con una ternura honda y devota.
 
-—Si no salgo, Oliver no pasará del domingo. Entre una probabilidad de colisión del treinta por ciento en la niebla y una certeza absoluta de muerte por inanición en setenta y dos horas, la termodinámica no admite debate, Claire. Prepara la mochila de lona.
+—Si no salgo, nuestro hijo no pasará del fin de semana, mi amor —susurró, mirándola a los ojos con esa calma obstinada que siempre la reconfortaba—. No puedo quedarme sentado a ver cómo se nos apaga en los brazos. Sé moverme sin hacer ruido. Prepara la mochila de lona.
 
 ---
 
 ### II. El Acecho de los Ciegos
 
-La noche de Suffolk no era oscura. Estaba teñida de una fosforescencia esmeralda fantasmal, densa y lechosa, emitida por los átomos de oxígeno excitados en la termosfera superior tras la pérdida del escudo magnético terrestre. El cielo no tenía estrellas: era una cúpula verdosa que proyectaba sombras alargadas y difusas sobre los campos de trigo muerto.
+La noche de Suffolk no era oscura. Estaba bañada por una fosforescencia esmeralda fantasmal, densa y lechosa, ese brillo espectral que flotaba en las capas altas del cielo desde el colapso del escudo magnético. Arriba no se veían estrellas: solo una bóveda verdosa que proyectaba sombras alargadas sobre los campos de trigo muerto.
 
-David avanzaba agachado por la cuneta del camino de tierra, a trescientos metros de la granja. Llevaba una chaqueta oscura de lona encerada, guantes de trabajo y una palanca corta de acero templado aferrada en la mano derecha. El aire era pesado, tibio, cargado de un olor agrio a hierba fermentada y barro seco.
+David avanzaba agachado por la cuneta del camino de tierra, a trescientos metros de la granja. Llevaba una chaqueta oscura de lona encerada, guantes de trabajo y una palanca corta de acero aferrada en la mano derecha. El aire era pesado, tibio, cargado de un olor agrio a rastrojo descompuesto y polvo reseco.
 
-No se oían grillos. Hacía seis meses que los insectos estriduladores habían desaparecido de la campiña, aniquilados sus exoesqueletos por la radiación de onda corta de la primavera. El silencio era mineral, absoluto, solo roto por el crujido ocasional de la gravilla bajo sus suelas de goma.
+No se oían grillos ni pájaros. Hacía meses que los insectos habían desaparecido de la campiña, castigados por la radiación invisible de la primavera. El silencio era total, únicamente roto por el crujido amortiguado de la gravilla bajo sus botas.
 
-A doscientos metros del cruce que conducía a la antigua estación de tren de Saxmundham, David se detuvo. Pegó la espalda contra un murete de pedernal y contuvo la respiración.
+A doscientos metros del cruce que conducía a la antigua estación de Saxmundham, David se detuvo. Pegó la espalda contra un murete de piedra y contuvo el aliento.
 
-En la bifurcación brillaba un punto anaranjado: una brasa de cigarrillo. Dos siluetas recortadas contra la pared encalada de una cabina de teléfonos destrozada vigilaban el paso. Uno de ellos sostenía una escopeta de dos cañones apoyada en el regazo; el otro, envuelto en una manta militar, tosía con un silbido cavernoso que delataba un edema pulmonar incipiente. Sobre el asfalto habían cruzado una reja de arado y rollos de alambre de espino de espaldas a la luna.
+En la bifurcación brillaba una brasa de cigarrillo. Dos siluetas recortadas contra la pared encalada de una cabina destrozada vigilaban el paso. Uno de ellos sostenía una escopeta de dos cañones apoyada en el regazo; el otro, envuelto en una manta vieja, tosía con un estertor bronco y profundo. En mitad de la calzada habían cruzado una reja de arado y rollos de alambre de espino.
 
-Eran supervivientes del pueblo, atrincherados en torno a la única cisterna comunitaria que aún retenía agua dulce. Hombres rotos por el insomnio y la sospecha, dispuestos a vaciar dos cartuchos contra cualquier sombra que se aproximara a su perímetro. Entrar al pueblo era imposible; cualquier intento de forzar la puerta trasera de la tienda de ultramarinos resonaría como un trueno en el valle silencioso.
+Eran vecinos atrincherados en torno al pozo comunal que todavía tenía agua limpia. Hombres enloquecidos por el insomnio y el miedo, dispuestos a abrir fuego contra cualquier figura que se aproximara a su barricada. Entrar al pueblo era una trampa mortal; cualquier ruido al forzar una trastienda atraería una lluvia de plomo.
 
-David retrocedió centímetro a centímetro, flexionando las rodillas para no hacer crujir las zarzas secas. Decidió bordear el seto hacia el norte, buscando el viejo secadero de lúpulo de la finca Brook Farm, donde tal vez quedara algún saco de pienso compuesto para ganado.
+David retrocedió centímetro a centímetro, cuidando cada pisada para no quebrar las ramas secas. Decidió rodear el seto hacia el norte, buscando el viejo secadero de Brook Farm, por si quedaba algún saco olvidado de grano o pienso.
 
-Cruzó el terraplén de la vía férrea abandonada y descendió hacia la acequia de desagüe que pasaba bajo la carretera comarcal.
+Cruzó el terraplén de la vía abandonada y descendió hacia una zanja de drenaje que pasaba bajo la carretera comarcal.
 
 Fue entonces cuando el aire cambió.
 
-Una ráfaga débil de viento del este le trajo un hedor espeso, cáustico, a carne en descomposición y cuero rancio. David se congeló sobre el barro seco del fondo de la acequia.
+Una racha débil de viento del este le trajo un hedor rancio, nauseabundo, a carroña y cuero podrido. David se quedó inmóvil sobre el barro seco del fondo del foso.
 
-A quince metros, donde la tubería de hormigón de un metro de diámetro cruzaba bajo el asfalto, algo se movió.
+A quince metros, donde un gran tubo de hormigón cruzaba bajo el asfalto, algo se movió.
 
-No era un hombre. La silueta era cuadrúpeda, ancha de pecho, con una osamenta descomunal que delataba a un mastín inglés de granja. Pero el animal no caminaba con la ligereza de un cánido cazador: se arrastraba con un trote rígido, pesado, manteniendo el hocico pegado a las piedras húmedas de la cuneta.
+No era una persona. La silueta era ancha, pesada, con la osamenta imponente de un mastín de granja. Pero el animal no trotaba con agilidad: avanzaba con pasos rígidos y lentos, pegando el hocico al suelo de la cuneta.
 
-David sintió un sudor helado recorrerle la nuca.
+David sintió que un sudor helado le empapaba la nuca.
 
-Al salir a la luz verdosa del *airglow*, la cabeza del animal quedó al descubierto. David tuvo que reprimir una arcada de espanto. La criatura no tenía ojos. En lugar de pupilas, dos globos abultados de queratina blanquecina, opaca como porcelana cocida, asomaban entre los párpados sin pestañas. La piel de la trufa estaba agrietada en costras negras de quemaduras solares cicatrizadas sobre carne viva. El pelaje atigrado del lomo presentaba franjas desnudas, calcinadas hasta el cuero.
+Al salir al resplandor verdoso de la noche, la cabeza del animal quedó a la vista y David tuvo que reprimir una arcada de espanto. La bestia estaba ciega. En lugar de ojos, dos masas blanquecinas y opacas asomaban entre los párpados sin pelo. La piel del hocico estaba agrietada en costras negruzcas de quemaduras solares cicatrizadas sobre carne viva, y el lomo presentaba franjas enteras calcinadas hasta el cuero.
 
-*Fotoqueratitis terminal*, pensó David con una punzada de horror analítico. *Leucoma total por UVC en enero. Sobrevivió porque aprendió a vivir bajo tierra.*
+*Ceguera total*, comprendió David con horror. *La radiación brutal de los primeros meses le quemó los ojos. Ha sobrevivido porque aprendió a pasar los días metido bajo tierra.*
 
-El mastín no veía, pero sus orejas desgarradas se orientaron de golpe hacia el terraplén. El animal se detuvo en seco. Los belfos resecos se retrajeron lentamente sobre unos colmillos amarillos desgastados por roer piedras, dejando escapar un bufido sordo, sibilante, que olía a vísceras podridas.
+El mastín no veía, pero sus orejas desgarradas se orientaron de golpe hacia el terraplén. Se detuvo en seco. Los belfos resecos se levantaron sobre unos colmillos amarillos y desgastados, dejando escapar un gruñido sibilante.
 
-El viento soplaba desde David hacia la boca de la alcantarilla.
+El viento soplaba desde David hacia la boca del desagüe.
 
-El perro alzó el morro. Olfateó el aire dos veces, con espasmos cortos y ruidosos. Sus patas delanteras se tensaron contra la grava. Había captado el rastro del sudor humano, el ácido láctico segregado por el miedo.
+El animal alzó el morro y olfateó el aire en dos sacudidas cortas y ruidosas. Había captado el olor a sudor humano.
 
-David no se movió. Sabía que un mastín en carrera alcanzaba los cuarenta kilómetros por hora; en la zanja estrecha, con la lona pesada de la chaqueta, la palanca de acero solo le serviría para un golpe a ciegas antes de que setenta kilos de masa muscular y mandíbulas trituradoras lo derribaran.
+David no se movió ni un milímetro. Sabía que en aquella zanja estrecha, con la chaqueta gruesa y el suelo irregular, un golpe a ciegas con la palanca apenas frenaría la embestida de setenta kilos de músculo enfurecido.
 
-El animal dio un paso hacia él. Luego otro. No ladró. La hambruna lo había despojado de cualquier atavismo doméstico: era un depredador puro operando por gradiente químico y ecolocación pasiva. El roce de sus garras en las lajas de pizarra sonaba rítmico, implacable: *clac, clac, clac*. Estaba a cuatro metros. A tres.
+El mastín dio un paso hacia él. Luego otro. No ladró. La hambruna lo había vuelto un depredador silencioso que cazaba únicamente por el oído y el olfato. El chasquido de sus garras en las piedras sonaba rítmico, letal. Estaba a cuatro metros. A tres.
 
-David deslizó los dedos de la mano izquierda por el fango de la orilla hasta encontrar un fragmento de ladrillo refractario, áspero y pesado. Con un movimiento milimétrico de la muñeca, sin mover los hombros ni hacer crujir la ropa, lanzó el ladrillo por encima de las zarzas hacia la valla metálica de la vía del tren, a veinte metros a su espalda.
+David deslizó los dedos de la mano izquierda por el suelo hasta encontrar un pedazo de ladrillo roto, rugoso y pesado. Con un golpe seco de muñeca, sin agitar los brazos, lo lanzó por encima de las zarzas hacia la valla metálica de las vías del tren, a unos veinte metros a su espalda.
 
-El ladrillo impactó contra la alambrada con un chasquido metálico rotundo: *¡CLANG!*
+El ladrillo golpeó el alambre con un estrépito rotundo: *¡CLANG!*
 
-El mastín giró sobre sus cuartos traseros con la violencia de un resorte mecánico. Lanzó una dentellada al vacío y se abalanzó colina arriba hacia el sonido, devorando la pendiente con zancadas desesperadas, guiado por la vibración del metal.
+El mastín giró sobre sí mismo con la violencia de un resorte. Tiró un mordisco al aire y se lanzó colina arriba hacia el origen del sonido, devorando la cuesta guiado por el chirrido del metal.
 
-David no esperó a ver el desenlace. Salió de la zanja agachado, saltó el seto opuesto y corrió campo a través con el corazón golpeándole la garganta, esquivando las raíces muertas en la penumbra hasta que el eco de sus propios pulmones ahogó cualquier sonido de la noche.
+David no esperó un segundo. Trepó por la orilla contraria, saltó el seto y corrió campo a través con el corazón en la garganta, esquivando tocones y raíces en la penumbra hasta que el aire le ardió en los pulmones.
 
-Llegó al porche trasero de la granja a las cuatro de la madrugada. Cuando Claire descorrió la tranca y lo dejó entrar, David se dejó caer contra el suelo de ladrillo, temblando de agotamiento y rabia. La mochila seguía vacía.
+Llegó a la puerta trasera de la granja a las cuatro de la madrugada. Cuando Claire descorrió la tranca y le franqueó el paso, David se derrumbó de rodillas en el suelo de la cocina, temblando de fatiga y rabia. La mochila seguía vacía.
 
 ---
 
 ### III. El Teorema del Sol
 
-David permaneció sentado en la cocina mientras el cielo tras las mantas de Mylar comenzaba a perder su tono esmeralda para adquirir esa claridad blancuzca y metálica que precedía al amanecer.
+David permaneció sentado junto a la mesa mientras la penumbra tras las mantas de las ventanas mutaba en una claridad blancuzca y cortante.
 
-A las cinco y media sonó la sirena.
+A las cinco y media de la mañana sonó la sirena lejana de Leiston: tres aullidos largos y espaciados que rodaron por el campo como un lamento mecánico. El *Toque de Alba*. La señal que ordenaba a todo el mundo encerrarse bajo techo antes de que el Sol asomara sobre el horizonte.
 
-Era un gemido lejano, emitido desde la torre del ayuntamiento de Leiston, a siete millas al este: tres aullidos largos de sesenta segundos, repetidos a intervalos regulares. El *Toque de Alba*. La orden militar que obligaba a la población civil a recluirse bajo techos estancos antes de que el ángulo solar superara los diez grados sobre el horizonte.
+David escuchó el aullido con la mirada fija en su taza vacía. De pronto, todas las piezas de la noche encajaron en su mente con la nitidez de una revelación.
 
-David escuchó el aullido con la mirada fija en una taza de té frío. En su mente, las piezas desordenadas de la noche comenzaron a encajar con la precisión implacable de un cristal que precipita en una disolución saturada.
+—No podemos volver a salir de noche —dijo.
 
-—No podemos volver a salir de noche —dijo de pronto.
+Claire, sentada en el suelo junto a la cuna de Oliver con un paño húmedo entre las manos, levantó la mirada, aturdida.
 
-Claire, sentada en el suelo junto a la cuna de Oliver con un paño húmedo entre las manos, lo miró sin comprender.
+—¿Qué estás diciendo, David? De día el Sol te achicharra en diez minutos. Vimos lo que le pasó al cartero en primavera... parecía quemado con ácido.
 
-—¿Qué dices? De día el Sol abrasa la piel en diez minutos, David. Lo vimos en abril con el cartero de Woodbridge. Quedó tendido junto a su furgoneta... parecía que le hubieran arrojado ácido sulfúrico en la cara.
+—El cartero iba en manga corta y miró al cielo sin protección —respondió David levantándose y acercándose a ella. Se arrodilló a su lado y le tomó las manos con firmeza—. Claire, mírame. Pensemos con la cabeza. ¿Por qué es letal el Sol ahora? Porque sin la capa de ozono, la radiación ultravioleta nos abrasa la piel desnuda y nos ciega las retinas. Pero no es fuego mágico ni atraviesa las paredes. Es luz. Luz invisible y destructiva, sí, pero luz al fin y al cabo. El metal la detiene. El cuero grueso no deja pasar ni un solo rayo. El cristal común frena casi toda la carga dura, y el papel de aluminio la rebota como un espejo.
 
-—El cartero llevaba una camisa de manga corta de fibra sintética y miró al cielo sin gafas —respondió David poniéndose en pie. Sus ojos, enrojecidos por la vigilia, brillaban con una intensidad febril—. Claire, piensa como física, no como una víctima aterrorizada. ¿Por qué la gente muere de día?
+Caminó hacia la despensa y señaló las baldas peladas.
 
-—Porque no hay ozono...
+—Todo el mundo se esconde de día porque le tienen pánico al cielo. Y como todos se esconden de día, la noche se ha convertido en un infierno de hombres desesperados que se tirotean por una lata de conservas y de animales ciegos que cazan en las zanjas. ¿Por qué el mastín estaba en ese tubo de hormigón? Porque sabe que la luz quema, pero el hormigón lo aísla.
 
-—¡Exacto! No hay ozono. ¿Y qué es el ozono? Una molécula triatómica de oxígeno que absorbe radiación electromagnética entre los doscientos y los trescientos diez nanómetros. La radiación ultravioleta de longitud de onda corta: UVB y UVC. Pero no son rayos gamma. No son neutrones térmicos. No atraviesan el acero, ni el vidrio grueso, ni el cuero denso. Tienen una energía de cuatro a seis electronvoltios; cualquier barrera con una densidad electrónica suficiente los absorbe por efecto fotoeléctrico en la superficie.
+David apoyó las palmas sobre la mesa.
 
-Caminó hacia la despensa y señaló las cajas vacías.
+—A treinta y cinco kilómetros de aquí, en Eye, junto a las vías de Diss, están las naves de *Anglia Food Logistics*. Almacenes enteros de conservas, legumbres y carne enlatada. ¿Sabes cuánta gente ha ido a saquearlos? Nadie.
 
-—Todo el mundo se esconde de día porque creen que el Sol se ha vuelto un monstruo omnipotente. Y como todos se esconden de día, la noche se ha convertido en una ratonera de animales ciegos y hombres desesperados armados con escopetas disputándose las últimas tres latas de judías de los pueblos. Anoche casi me despedaza un mastín que pasa las horas de luz metido en un desagüe de hormigón. ¿Por qué? Porque el perro sabe que el Sol quema, pero el hormigón lo frena.
+Claire frunció el ceño con angustia.
 
-David apoyó las palmas sobre la mesa de pino.
+—Está lejísimos, David.
 
-—A treinta y cinco kilómetros de aquí, en Eye, junto a la vía muerta del ferrocarril de Diss, está la planta envasadora de Anglia Food Logistics. Tres naves industriales de conservas y legumbres enlatadas. ¿Sabes cuánta gente ha ido a saquearla? Nadie.
+—¡Exacto! Nadie puede ir a pie treinta y cinco kilómetros de noche y volver antes del amanecer sin quedar atrapado en campo abierto. Y nadie se atreve a conducir de noche porque las carreteras están cortadas por barricadas. Pero de día... de día no hay un alma en treinta millas a la redonda. Las carreteras son un páramo absoluto. Si logro cruzar hasta allí protegido, las naves son nuestras.
 
-Claire frunció el ceño.
+—El coche no te va a salvar —dijo Claire con un hilo de voz temblorosa—. Las ventanillas son de cristal...
 
-—Está demasiado lejos.
+—El parabrisas laminado y las lunas ya absorben la mayor parte del espectro dañino. Y si tapizo todo el interior con mantas térmicas y aluminio, la cabina será un búnker. Me pondré mi mono más grueso, la chaqueta de cuero de motorista de Thomas, guantes de trabajo y la careta de soldar con su visor oscuro. Un blindaje completo, Claire. Nada de piel expuesta.
 
-—¡Exacto! Nadie puede caminar setenta kilómetros a pie en una noche de verano inglés sin que el Toque de Alba lo pille a mitad de camino en campo abierto. Y nadie se atreve a conducir de noche porque las carreteras están bloqueadas por árboles caídos y emboscadas. Pero de día... de día no hay nadie en treinta millas a la redonda. Las carreteras son un desierto absoluto. Si logro cruzar el páramo de día, la nave entera es nuestra.
+Miró el reloj de pared: pasaban unos minutos de las seis.
 
-—El coche no te protegerá, David —dijo Claire con voz temblorosa—. Las ventanillas son cristal...
-
-—Cristal laminado sódico-cálcico de cuatro milímetros en el parabrisas y templado en los laterales. El silicato común corta la transmisión por debajo de los trescientos nanómetros al noventa y nueve por ciento. Y si lo forro con mantas térmicas de aluminio, la reflectancia en UV sube al noventa y dos por ciento. Construiré un blindaje, Claire. Un traje de presión atmosférica terrenal.
-
-Miró el reloj de pared. Eran las seis y cuarto. El Sol asomaba sobre el mar del Norte.
-
-—Tengo cinco horas antes de que el Sol alcance el cenit. Ayúdame a buscar las herramientas en el taller de Thomas.
+—Tengo cinco horas antes de que el Sol caiga a plomo. Ayúdame a preparar las cosas en el cobertizo.
 
 ---
 
 ### IV. La Forja del Capullo
 
-Durante cuatro horas, el cobertizo de herramientas se convirtió en un astillero de sastrería industrial.
+Durante cuatro horas, el garaje de la granja se convirtió en un taller minucioso. David no dejó nada al azar: sabía que la radiación rebotaba en el polvo y en el suelo seco, y que un solo milímetro de piel al aire se convertiría en una quemadura atroz en cuestión de minutos.
 
-David trabajó con el rigor meticuloso que su hermano Thomas le había inculcado durante sus años de modelismo espacial en Cambridge. No admitió improvisaciones. Sabía que la radiación ultravioleta difusa —la dispersión Rayleigh en las moléculas de nitrógeno de la atmósfera limpia— ataca desde todos los ángulos, rebotando en el polvo y en las hojas secas; un solo pliegue abierto en la ropa equivaldría a una quemadura de segundo grado en quince minutos.
+Se vistió con ropa interior larga, unos vaqueros resistentes y su mono de trabajo de mecánico, confeccionado en algodón grueso y cerrado. Encima se colocó la vieja chaqueta de motorista de Thomas: cuero negro de dos milímetros, rígido, impenetrable a la luz.
 
-Seleccionó su mono de trabajo de mecánico: sarga de algodón denso de catorce onzas, con un factor de protección ultravioleta estimado superior a UPF 500. Debajo se colocó una camisa térmica de manga larga y unos vaqueros gruesos. Sobre el mono, vistió la vieja chaqueta de motorista de Thomas: cuero vacuno de dos milímetros de espesor, pesado, rígido, impenetrable a los fotones.
+Claire lo ayudó con el sellado. Con un rollo ancho de cinta americana gris, precintó las bocamangas de la chaqueta sobre los guantes gruesos de serraje de soldador, solapando varias vueltas de adhesivo. Repitió la operación con las perneras del pantalón sobre las botas de caña alta, comprobando que ningún movimiento dejara al descubierto los tobillos.
 
-Claire lo ayudó con el sellado. Con un rollo ancho de cinta americana gris (*duct tape*), precintó las bocamangas de la chaqueta sobre los guantes de serraje de soldador, solapando tres capas de adhesivo. Hizo lo mismo con las perneras del pantalón sobre las botas de caña alta de cuero engrasado, asegurando que ninguna flexión del tobillo dejara piel expuesta.
+Para la cabeza, David usó dos pasamontañas de lana tupida que le cubrían hasta el pecho. Sobre ellos ajustó la careta de soldador de su hermano: una máscara de fibra negra con una ventana rectangular de vidrio inactínico muy oscuro. Al bajar la pantalla, el mundo quedó sumergido en una penumbra verdosa y suave; la claridad del día perdió toda su agresión.
 
-Para la cabeza, David combinó dos pasamontañas de lana blanca cerrada que cubrían hasta la clavícula. Sobre ellos ajustó la careta de soldador de Thomas: una carcasa de fibra vulcanizada negra con un visor rectangular de vidrio inactínico de tono DIN 10.
+—¿Ves el camino? —preguntó Claire desde la sombra.
 
-Al bajarse la pantalla, el mundo exterior se convirtió en una penumbra verdosa y suave. Las bombillas del cobertizo quedaron reducidas a filamentos tenues; la luz del día que se filtraba por las rendijas del tejado perdió toda su agresividad cegadora.
+—Lo suficiente para conducir y seguir el trazado del asfalto —respondió la voz de David, amortiguada por la tela—. La pantalla filtra el exceso de luz y frena por completo los rayos ultravioleta. Mis ojos estarán a salvo.
 
-—¿Ves algo? —preguntó Claire desde la penumbra.
+El viejo Land Rover Defender esperaba listo. David dedicó tres cuartos de hora a preparar la cabina: cubrió con láminas dobles de papel de aluminio y cinta todas las ventanillas laterales y la luna trasera, convirtiendo el habitáculo en una caja reflectante. En el parabrisas delantero dejó solo una rendija horizontal a la altura de sus ojos, protegida por una tira de plástico oscuro rescatada del taller. Cargó en el maletero dos palancas de acero, una cizalla grande, la rueda de repuesto, dos bidones de agua del pozo y mantas limpias.
 
-—Lo suficiente para conducir y distinguir la calzada —la voz de David resonó hueca dentro de la máscara—. Los filtros DIN 10 bloquean el noventa y nueve coma novecientos noventa y nueve por ciento de la luz visible y la totalidad del espectro ultravioleta hasta los ciento noventa nanómetros. Mis ojos estarán más seguros que dentro de la casa.
+Antes de subir al coche, David entró en la alacena oscura. Se arrodilló junto a la camita de Oliver. El niño abrió unos ojos grandes y apagados, hundidos por el hambre, y estiró una manita temblorosa hacia la figura oscura de cuero.
 
-El Land Rover Defender de 1998 esperaba en el garaje. David dedicó cuarenta minutos a acondicionar el habitáculo:
+—¿Te vas, papá? —susurró el pequeño con un hilo de voz débil.
 
-Con cinta adhesiva fijó láminas dobles de papel de aluminio de cocina sobre todas las ventanillas laterales y la luneta trasera, transformando el interior en una cámara oscura reflectante. En el parabrisas delantero dejó únicamente una franja horizontal de veinte centímetros a la altura de sus ojos, sobre la cual pegó una lámina de policarbonato ahumado rescatada de una mampara de laboratorio.
+David se despojó del guante con rapidez, tragándose el nudo que le cerraba la garganta. Acarició la mejilla tibia de su hijo y le besó la frente con devoción, sintiendo el latido frágil del pequeño contra sus labios.
 
-Cargó en el maletero dos palancas de acero, una cizalla de demolición, una rueda de repuesto revisada, dos bidones de diez litros de agua del pozo y tres mantas de lona limpia.
+—Voy a buscar comida, cariño. Fruta dulce. Melocotones amarillos, de los que vienen en una lata grande con mucho jugo dulce.
 
-Antes de subir al vehículo, David entró en la alacena oscura. Se arrodilló junto a la cuna de Oliver. El niño abrió unos ojos vidriosos, hundidos en cuencas oscuras, y alargó una manita temblorosa hacia la figura monstruosa de cuero y fibra negra.
+Oliver sonrió apenas, reconfortado por el roce de su padre.
 
-—¿Te vas, tío David? —susurró el pequeño.
+—El tío Thomas me dijo que los trenes van a buscar fruta cuando cruzan los puentes.
 
-David se despojó del guante izquierdo, sellado todavía por la cinta, y rozó con la yema de los dedos la frente caliente del niño.
+Con un esfuerzo que le hizo temblar los deditos, el niño levantó la pequeña locomotora de manzano y se la tendió a su padre.
 
-—Voy a buscar fruta, Oliver. Fruta dulce. Melocotones amarillos, de los que vienen en lata grande y tienen jugo espeso.
+—Llévala, papá. Para que toque el silbato si hay niebla.
 
-Oliver sonrió con un hilo de voz.
+David cerró los dedos en torno a la madera pulida. Se inclinó y besó de nuevo a su hijo en la frente y en las mejillas, apretándolo un segundo contra su pecho.
 
-—Thomas me dijo que las locomotoras van a buscar fruta cuando cruzan los puentes.
+—La llevaré en el bolsillo, campeón. Te juro que tocará el silbato. Descansa con mamá.
 
-Con un esfuerzo que le hizo temblar el brazo, el niño levantó la pequeña locomotora de manzano y se la tendió.
+David se puso el guante de nuevo. Claire terminó de sellarle la muñeca con la cinta americana. Sus manos temblaban tanto que casi no podía cortar la tira.
 
-—Llévala. Para que toque el silbato si hay niebla.
+Cuando terminó, David se levantó la careta un instante.
 
-David cerró los dedos en torno a la madera pulida. Sintió el peso cálido del juguete contra la palma sudorosa.
+Claire lo miraba con los ojos brillantes de lágrimas, mordiéndose el labio para contener el llanto. Se abrazaron con una fuerza desesperada, sintiendo el latido desbocado del otro a través del cuero rígido. Claire le rodeó el cuello con los brazos y lo besó en la boca: un beso hondo, tembloroso, que sabía a sal y a miedo, pero sobre todo a ese amor inmenso que los mantenía en pie.
 
-—La llevaré en el bolsillo, campeón. Tocará el silbato.
+—Vuelve a mí, David —le susurró contra los labios, con la voz rota—. Vuelve con nosotros. No nos dejes solos.
 
-Se puso el guante. Claire terminó de sellarle la muñeca con la cinta americana. Se miraron a través del visor verde de la careta: no hubo palabras de despedida, solo un asentimiento seco. Claire levantó el cerrojo del portón del garaje y lo empujó hacia arriba.
+—Volveré, mi amor —le prometió él, acariciándole el rostro y besándole los párpados con infinita ternura—. Te juro que volveré con comida para nuestro hijo.
 
-La luz del mediodía cayó sobre el Land Rover como un mazazo de plomo blanco.
+David se caló la careta y bajó el visor oscuro. Claire respiró hondo, contuvo las lágrimas, alzó la tranca del portón del garaje y lo empujó hacia arriba con determinación.
+
+La luz blanca del mediodía cayó sobre el coche como un golpe seco.
 
 ---
 
 ### V. La Travesía del Fuego Blanco
 
-Eran las doce y doce minutos del 9 de julio de 2027. El termómetro exterior del Defender marcaba 38 °C; el índice ultravioleta en la latitud 52° Norte, sin la pantalla de ozono, superaba el nivel 26.
+Eran las doce y doce minutos del 9 de julio de 2027. El termómetro exterior marcaba treinta y ocho grados; en el cielo despejado, el Sol brillaba con una ferocidad enceguecedora.
 
-David engranó la primera marcha y soltó el embrague. El motor diésel de cuatro cilindros rugió con su vibración áspera y el todoterreno cruzó el umbral del garaje, adentrándose en el páramo.
+David metió primera y soltó el embrague. El motor diésel rugió con su traqueteo firme y el todoterreno cruzó el portón, saliendo a campo abierto.
 
-A través del visor DIN 10 y la ranura del parabrisas, el mundo no parecía un infierno llameante, sino un paisaje lunar revelado con una nitidez dolorosa. No había bruma, no había vapor de agua: la troposfera desionizada mostraba un cielo de un azul acerado, casi negro en el cenit, donde el Sol brillaba con la violencia descarnada de un soplete de plasma industrial.
+A través del visor de soldador y la ranura del parabrisas, el paisaje no parecía un infierno llameante, sino un desierto lunar de una claridad cruda y dolorosa. No había bruma ni humedad: bajo aquel cielo azul acerado, casi negro en lo más alto, el Sol caía a plomo sin ningún filtro que amortiguara su fuerza.
 
-David tomó la comarcal B1117 hacia el oeste.
+David tomó la comarcal hacia el oeste.
 
-La carretera estaba vacía. En diez millas de recorrido no se cruzó con un solo vehículo en movimiento. La soledad no era la de un domingo campestre; era la quietud mineral de Pompeya tras la lluvia de ceniza.
+La carretera estaba desierta. En diez millas de trayecto no se cruzó con un solo coche. La calma era sobrecogedora; era la soledad absoluta de un mundo paralizado por el miedo.
 
-A los lados de la calzada, los campos de trigo que deberían haber alcanzado el dorado de la cosecha eran extensiones de rastrojo quebradizo, ennegrecido por la radiación UVC como si una llama invisible hubiera lamido las espigas hasta el suelo. Los robles centenarios de los linderos mostraban copas desnudas, con las hojas arrugadas convertidas en polvo seco que crujía al paso del coche.
+A ambos lados de la calzada, los campos de trigo eran mantos de rastrojo quebradizo, ennegrecido por la radiación como si una lengua de fuego invisible hubiera lamido la tierra. Los robles viejos de los ribazos tenían las ramas desnudas, cubiertas de hojas secas que se deshacían en polvo al paso del Defender.
 
-En la curva de Heveningham, David tuvo que dar un volantazo para esquivar un obstáculo en el carril derecho.
+En una curva cerrada, David tuvo que dar un volantazo para evitar un obstáculo en el carril derecho.
 
-Era un Ford Focus volcado contra la zanja. La chapa del techo estaba decolorada, con la pintura blanca agrietada en escamas por el bombardeo fotónico. Dentro del habitáculo, cuyos cristales laterales habían reventado por el calor, se distinguían dos figuras sentadas en los asientos delanteros: no eran esqueletos, sino cadáveres apergaminados, con la piel transformada en una costra negruzca y reseca por el efecto combinando de la radiación UVC y la deshidratación a cuarenta grados. En el suelo del coche yacía un sombrero de paja deshecho.
+Era un coche familiar volcado contra la cuneta. La chapa del techo estaba descolorida y la pintura levantada por el calor extremo. Dentro del habitáculo, con los cristales destrozados, yacían dos siluetas inmóviles en los asientos: dos cuerpos secos y encogidos, con la piel curtida y negruzca por el efecto implacable de la radiación y el calor abrasador.
 
-*Intentaron huir de día en mayo*, pensó David, sintiendo cómo el sudor le empapaba el pasamontañas y le resbalaba por las mejillas sin poder secárselo. *Creyeron que bastaba con poner el aire acondicionado. La radiación difusa quemó sus retinas en veinte millas; perdieron el control y volcaron. Luego el Sol hizo el resto.*
+*Intentaron huir a plena luz hace meses*, pensó David, sintiendo cómo el sudor le empapaba el pasamontañas y le resbalaba por el cuello. *Creyeron que bastaba con encender el aire acondicionado. El resplandor brutal sin protección les quemó los ojos en pocas millas; perdieron el control y volcaron. Luego el Sol hizo el resto.*
 
-Dentro del Land Rover, la temperatura subía sin freno. A pesar del papel de aluminio, el metal del chasis conducía el calor hacia el habitáculo. Hacía más de 45 °C. El aire que David respiraba a través del filtro de tela quemaba sus alvéolos pulmonares. La chaqueta de cuero pesaba diez kilos sobre sus hombros; sentía los latidos de su corazón martilleándole las sienes con un pulso acelerado: ciento veinte pulsaciones por minuto en reposo.
+Dentro del Land Rover, la temperatura subía sin tregua. Pese al aislamiento de aluminio, la chapa transmitía el calor hacia el interior. Hacía más de cuarenta grados. El aire que David respiraba a través de la tela de lana era espeso y caliente. La chaqueta de cuero pesaba sobre sus hombros; sentía el corazón galopando con fuerza contra las costillas.
 
-*Golpe de calor*, se advirtió a sí mismo con frialdad clínica. *La termorregulación está fallando porque el traje impide la evaporación del sudor. Tengo noventa minutos antes de que el síncope me haga perder el conocimiento. Concéntrate en la línea blanca.*
+*Mantén la calma*, se ordenó a sí mismo. *El sudor no puede evaporarse con este traje cerrado. Tengo el tiempo justo antes de que el mareo me nuble la vista. Concéntrate en la carretera.*
 
-Aceleró. El motor 300Tdi rugía en cuarta marcha a setenta kilómetros por hora, tragándose las millas de asfalto reblandecido que brillaba como un espejo bajo la luz cenital.
+Aceleró. El viejo diésel avanzaba a buen paso, tragándose los kilómetros de asfalto reblandecido que brillaba bajo el sol cenital.
 
-En el kilómetro veintiocho cruzó el pueblo de Stradbroke. Las ventanas de los chalets victorianos estaban cegadas con tablones de madera y planchas de chapa galvanizada. Nadie se asomaba. Nadie disparaba. El pueblo entero yacía sumergido en un letargo subterráneo, con sus habitantes hacinados en bodegas húmedas, esperando que el gran monstruo blanco del cielo declinara hacia el oeste para atreverse a respirar.
+Cruzó el pueblo de Stradbroke a la una de la tarde. Las casas tenían las persianas bajadas y maderas clavadas en las ventanas. Nadie asomaba la cabeza. Nadie vigilaba las esquinas. La población entera permanecía oculta en bodegas y sótanos frescos, esperando a que la bola de fuego del cielo se ocultara por el horizonte para atreverse a salir a buscar agua.
 
-David sonrió amargamente bajo el visor. La física le daba la razón: el miedo era el mejor cerrojo del mundo.
+David apretó el volante. Su deducción era exacta: el pánico al Sol era la mejor barrera de protección.
 
-A las doce y cincuenta, tras sortear un camión de piensos atravesado en la calzada, divisó los silos cilíndricos y las naves de chapa blanca de *Anglia Food Logistics* recortándose contra el cielo de Eye.
+A las doce y cincuenta divisó por fin los silos y las naves de chapa blanca de *Anglia Food Logistics* recortándose contra el cielo de Eye.
 
 ---
 
 ### VI. El Santuario de Hojalata
 
-El complejo logístico ocupaba una explanada de cuatro hectáreas junto a la vía muerta del ferrocarril. El silencio allí era sobrecogedor. Cuarenta remolques de camión permanecían alineados en los muelles de carga con los neumáticos desinflados, deformados por el peso y el calor.
+El complejo logístico ocupaba una gran explanada junto a las vías muertas del tren. El silencio era imponente. Decenas de remolques de camión permanecían estacionados en los muelles de carga, con las ruedas deshinchadas por el abandono y el calor.
 
-David detuvo el Defender frente a la puerta del muelle número 4. Apagó el motor. El crujido del bloque de fundición enfriándose fue el único sonido en todo el valle.
+David detuvo el Land Rover junto a la entrada del almacén principal y apagó el motor. El chasquido del metal enfriándose fue el único eco en todo el recinto.
 
-Antes de bajar, sacó la cantimplora de la mochila, deslizó la boquilla bajo el pasamontañas y bebió medio litro de agua tibia con una pizca de sal. Luego palpó el bolsillo de la chaqueta: la pequeña locomotora de Thomas seguía allí, con sus aristas de manzano intactas.
+Antes de bajar, sacó la cantimplora, deslizó la boquilla bajo el embozo y bebió varios tragos de agua tibia. Después se palpó el bolsillo del pecho: la pequeña locomotora que su hermano le había regalado a Oliver seguía allí, intacta.
 
-Agarró la palanca de acero y la cizalla, abrió la puerta del coche y pisó el asfalto.
+Tomó la palanca de acero y la cizalla, abrió la puerta y puso pie en tierra.
 
-La luz lo golpeó con la fuerza física de una ola marina. A pesar del cuero denso y el mono de sarga, sintió el impacto térmico directo en el pecho: era como colocarse frente a la boca abierta de un horno cerámico. La suela de sus botas se hundió ligeramente en la brea reblandecida del suelo.
+El aire caliente lo envolvió con la pesadez de una ola sofocante. La suela de goma crujió levemente contra el alquitrán blando del suelo.
 
-Avanzó hacia la puerta peatonal metálica del muelle. Una cadena gruesa con un candado de latón cerraba el pasador. David no perdió tiempo en forzar el cilindro: encajó las bocas de la cizalla en el eslabón intermedio de la cadena, apoyó un brazo de la herramienta contra su muslo y cargó todo el peso de su cuerpo sobre el otro mango.
+Avanzó con paso rápido hacia la puerta metálica del muelle. Una cadena gruesa con un candado oxidado trababa la manija. David encajó las bocas de la cizalla en un eslabón, apoyó un brazo de la herramienta contra la cadera e hizo palanca con todo el peso de su cuerpo.
 
-El acero crujió. Con un chasquido seco, el eslabón se partió en dos.
+El metal gimió y, con un chasquido seco, el eslabón se partió en dos.
 
-David empujó la puerta metálica. El batiente cedió con un gemido de goznes oxidados y se abrió hacia la penumbra del interior.
+David empujó la chapa. El batiente cedió con un chirrido de bisagras y se abrió hacia la penumbra del almacén.
 
-Entró y cerró la puerta a su espalda.
+Entró y cerró de inmediato tras de sí.
 
-El cambio fue instantáneo. La nave central, con techos de doce metros aislados con paneles de poliuretano, retenía una atmósfera fresca, casi fría, a unos veintidós grados. El aire olía a serrín, cartón seco y aceite de maquinaria.
+El alivio fue instantáneo. La gran nave techada, aislada del exterior por gruesos paneles, conservaba una temperatura fresca y agradable. Olía a cartón seco, a madera de palé y a grano limpio.
 
-David se subió la pantalla de soldador. Durante tres segundos parpadeó, encandilado por la suave penumbra gris que descendía de los lucernarios ahumados del tejado.
+David se levantó la careta de soldador. Parpadeó despacio, acostumbrando la vista a la penumbra grisácea que entraba por los tragaluces ahumados del tejado.
 
-Frente a él se extendían cuatrocientas yardas de estanterías industriales de cinco alturas. Palés y palés embalados en plástico retráctil transparente, intactos, alineados con la disciplina geométrica de una catedral de víveres.
+Ante él se abrían hileras interminables de estanterías industriales repletas de mercancía intacta, embalada en plástico transparente. Una reserva colosal de víveres que nadie había tocado:
 
-Caminó por el pasillo central con pasos temblorosos. Sus ojos recorrieron las etiquetas impresas en las cajas de cartón corrugado:
+*Alubias cocidas, garbanzos, lentejas, guisos de carne, latas grandes de leche en polvo y compotas de fruta.*
 
-*Alubias blancas cocidas en salsa de tomate. Guisantes finos al natural. Lentejas de la comarca. Ternera estofada con patatas. Latas de cinco kilogramos de leche entera en polvo. Compota de manzana.*
+Y en el tercer pasillo, a la altura de sus ojos:
 
-Y en el pasillo 3, nivel inferior:
+*Melocotones en almíbar. Mitades seleccionadas.*
 
-*Melocotones en almíbar ligero. Mitades seleccionadas. Origen: Valencia. Lote 04-2026. Caducidad: diciembre de 2029.*
+David se apoyó contra una viga de hierro y se le escapó un sollozo ahogado. Se pasó la mano por la cara, limpiándose el sudor salado de las mejillas.
 
-David se apoyó contra uno de los pilares de hierro y soltó un sollozo seco, contenido, que le sacudió el pecho. El llanto le limpió los surcos de salitre que el sudor había dejado en sus mejillas.
+*Están aquí*, pensó, apretando la locomotora de madera en su bolsillo. *Están aquí... Comida para más de un año. Mi hijo va a vivir.*
 
-*Están aquí*, pensó, apretando la madera de la pequeña locomotora dentro de su bolsillo. *Están aquí, Thomas. Comida para dos años. Oliver va a vivir.*
+Trabajó con una energía frenética pero ordenada.
 
-Trabajó con una furia metódica que no admitía pausas.
+Tiró de la cadena manual del portón del muelle para abrirlo lo justo y metió la trasera del Defender dentro de la nave. Empezó a cargar cajas de conservas sin perder un segundo:
 
-Abrió el portón seccional del muelle tirando de la cadena manual y reculó el Land Rover hasta meter el maletero dentro de la nave. Comenzó a cargar cajas sin desarmar el plástico protector:
+Ocho cajas de melocotones en almíbar. Diez cajas de carne estofada. Doce cajas de legumbres cocidas. Cuatro latas grandes de aceite vegetal, dos sacos de sal y paquetes de gasas y desinfectante que encontró en el botiquín de la oficina de control.
 
-Ocho cajas de melocotones (noventa y seis latas de un kilo). Doce cajas de ternera en conserva. Diez cajas de alubias y garbanzos. Cuatro bidones metálicos de aceite de girasol refinado. Dos sacos de sal marina de veinticinco kilos. Cuatro paquetes de vendas estériles y antiséptico que encontró en el botiquín del despacho de administración.
+La suspensión trasera del Land Rover fue cediendo despacio bajo el peso de más de medio millar de kilos de provisiones.
 
-El Defender comenzó a asentarse sobre sus ballestas traseras bajo el peso de casi seiscientos kilos de carga.
+Estaba a punto de cerrar el portón para marcharse cuando ocurrió el contratiempo.
 
-David estaba bajando el portón metálico para marcharse cuando ocurrió el percance.
+Al tirar del cable de contrapeso para trabar el cerrojo, el alambre de acero viejo se rompió con un chasquido violento. El extremo deshilachado restalló contra su antebrazo izquierdo, rasgando la manga de cuero de la chaqueta y la tela del mono hasta arañarle la piel de la muñeca.
 
-Al tirar del tirador de acero oxidado del muelle para trabarlo, el cable de contrapeso se partió con un latigazo metálico. El extremo deshilachado del cable de acero restalló contra su brazo izquierdo, rasgando la manga de cuero de la chaqueta y la sarga del mono de trabajo hasta alcanzar la piel de la muñeca.
+David soltó un quejido sordo. Se miró el brazo: sangraba por un corte limpio de unos centímetros, pero lo que le aceleró el pulso fue la rotura del cuero. Una tira de piel quedaba al descubierto.
 
-David dio un grito sordo. Dio un paso atrás y se miró el brazo: la herida sangraba, un corte limpio de cuatro centímetros sobre la arteria radial, pero lo que le heló la sangre fue el desgarro de la ropa. Una ventana de cinco centímetros de piel desnuda quedaba expuesta al aire.
+Si salía al exterior con esa brecha abierta, la radiación solar le quemaría la herida en pocos minutos.
 
-Si salía al exterior con esa brecha abierta, la radiación difusa quemaría los bordes de la herida en minutos, provocando necrosis tisular acelerada.
+Corrió hacia el maletero del coche, sacó una venda del botiquín y la apretó sobre el corte. Con el rollo de cinta americana dio diez vueltas apretadas sobre la manga rota, sellando la tela hasta convertir el antebrazo en un bloque impenetrable.
 
-Con manos temblorosas, David corrió hacia el botiquín del coche. Extrajo una compresa de gasa, la apretó sobre el corte con los dientes, sacó el rollo de cinta americana y vendó su propia muñeca dando diez vueltas sobre la manga de cuero, sellando la tela rasgada hasta convertir su antebrazo en un cilindro gris impenetrable.
+Miró el reloj: eran pasadas las tres y media de la tarde. El tiempo había volado. El Sol empezaba a caer hacia el oeste; le quedaban apenas tres horas antes de que la luz bajara y la gente comenzara a salir de sus escondrijos.
 
-Comprobó el reloj.
+Subió al Land Rover, arrancó y salió al patio exterior.
 
-Eran las tres y media de la tarde. El tiempo se le había escurrido entre los dedos con la rapidez de un fluido no newtoniano. El Sol había iniciado su descenso hacia el oeste; le quedaban apenas tres horas antes de que el ángulo de refracción solar cayera y las sombras comenzaran a despertar a los que dormían bajo tierra.
+Fue justo al enfilar la cancela de salida cuando el volante le dio una sacudida brusca hacia la izquierda. El morro del coche cayó varios centímetros con un ruido sordo de goma aplastada.
 
-Subió al Land Rover, encendió el motor y salió al patio de maniobras.
+David frenó en seco. Se bajó la careta, abrió la puerta y miró la rueda delantera: un trozo de hierro retorcido de la valla rota se había clavado de lleno en el neumático. El aire salía a borbotones con un silbido rápido.
 
-Fue al enfilar la cancela exterior cuando el volante dio una sacudida violenta hacia la izquierda. El morro del Defender cayó cinco pulgadas con un ruido sordo de goma masticada.
-
-David clavó los frenos. Se bajó la careta de soldador, abrió la puerta y miró la rueda delantera: una esquirla de hierro forjado procedente de la cadena partida del portón se había clavado en el flanco del neumático todoterreno. El aire salía con un silbido agónico: *pssssss*.
-
-El neumático estaba aplastado contra la grava caliente.
+La rueda estaba totalmente deshinchada sobre las piedras calientes.
 
 ---
 
 ### VII. La Carrera contra la Sombra
 
-Cambiar una rueda de un vehículo de dos toneladas y media a 42 °C bajo radiación ultravioleta pura es una ordalía que roza los límites de la resistencia fisiológica humana.
+Cambiar la rueda de un coche cargado con seiscientos kilos bajo el sol implacable fue una auténtica pesadilla.
 
-David trabajó arrodillado sobre el asfalto que quemaba a través de las rodilleras del mono. Cada movimiento del brazo con la llave de cruz exigía un esfuerzo titánico contra la rigidez del cuero y la asfixia del pasamontañas. La llave de tubo resbalaba en sus guantes empapados de sudor; las tuercas de las ruedas, agarrotadas por el óxido, chirriaban con resistencia obstinada antes de ceder una a una.
+David trabajó de rodillas sobre la grava que quemaba a través de la tela del mono. Cada giro de la llave contra las tuercas agarrotadas le exigía un esfuerzo tremendo dentro del traje sofocante. Los guantes resbalaban por el sudor y la respiración le quemaba la garganta.
 
-Cuando levantó el eje con el gato mecánico y encajó la pesada rueda de repuesto, sus piernas temblaban tanto que tuvo que apoyarse contra el guardabarros para no caer de rodillas sobre la brea derretida.
+Cuando por fin logró levantar el coche con el gato y colocar la pesada rueda de repuesto, las piernas le temblaban de tal manera que tuvo que sostenerse en el guardabarros para no caer mareado sobre el suelo.
 
-Apretó la última tuerca a las cinco y cuarto de la tarde.
+Apretó la última tuerca pasadas las cinco de la tarde.
 
-El Sol se inclinaba sobre las copas secas de los árboles en el horizonte occidental. La luz ya no era blanca: se estaba tiñendo de un dorado rojizo, espeso y sucio, cargado de partículas de aerosol de polvo. La temperatura comenzaba a descender, pero con la caída térmica renacía la amenaza que David más temía: **el fin del confinamiento diurno**.
+El Sol se ocultaba ya tras las copas secas de los árboles lejanos. La luz perdía su blancura cegadora para teñirse de un tono anaranjado y turbio. El bochorno aflojaba, pero con la caída de la tarde renacía el peligro que David más temía: **el fin del encierro diurno**.
 
-Guardó la rueda pinchada en el techo del coche, ató las cinchas con dedos entumecidos y se metió en la cabina. Arrancó el motor sin esperar a que el testigo de calentamiento se apagara y aceleró hacia la A140.
+Ató la rueda pinchada en la baca del techo con las cinchas y se metió de un salto en la cabina. Puso el motor en marcha y salió a toda prisa hacia la comarcal.
 
-Durante las primeras veinte millas, el viaje fue un vuelo tenso entre sombras alargadas. El Land Rover, pesado como un blindado por las conservas del maletero, cabeceaba en las curvas de la comarcal.
+Durante las primeras millas el Defender rodó con agilidad, aunque la carga hacía oscilar la carrocería en las curvas.
 
-A las siete y media, el disco solar tocó la línea de los bosques de Framlingham.
+A las siete y media, el disco solar tocó la línea del horizonte.
 
-Fue como si una compuerta invisible se abriera en la tierra.
+Fue como si una compuerta invisible se abriera en toda la comarca.
 
-En los márgenes de las aldeas comenzaron a brotar luces: faros amarillos de tractores, linternas protegidas con trapos, siluetas humanas que salían de las bodegas y cobertizos como insectos desenterrados tras una tormenta.
+En los bordes de los caseríos empezaron a parpadear linternas y faros de tractores; sombras humanas salían de los graneros y de las casas como quien despierta de un letargo obligado.
 
-Al llegar al cruce de Earl Soham, a doce millas de la granja, David vio dos furgonetas blancas —antiguas camionetas de reparto de correo con los rótulos tachados con pintura negra— detenidas transversalmente en el puente sobre el río Deben.
+Al llegar al cruce de Earl Soham, a pocas millas de su casa, David vio dos furgonetas blancas cruzadas en mitad del puente sobre el arroyo.
 
-Cuatro hombres con escopetas y chalecos de cazador estaban bajando una traviesa de ferrocarril para consolidar una barricada nocturna.
+Cuatro hombres con escopetas estaban atravesando una viga de madera para cortar el paso de la noche.
 
-Al oír el bramido del motor diésel del Land Rover acercándose a sesenta millas por hora, los hombres se volvieron de golpe. Uno de ellos levantó una linterna de caza con haz halógeno que atravesó la rendija del parabrisas de David.
+Al oír el rugido del diésel del Defender acercándose a toda velocidad, los hombres se giraron sobresaltados. Uno de ellos levantó un foco potente que iluminó el parabrisas del coche.
 
-—¡Un coche! —resonó un grito en el crepúsculo—. ¡Viene cargado, mirad cómo bajan las ballestas! ¡Paradlo!
+—¡Viene un todoterreno! —gritó alguien—. ¡Mirad cómo bajan las ruedas traseras, va hasta arriba de carga! ¡Alto!
 
-David no dudó. No levantó el pie del acelerador: metió la quinta marcha y apretó los dientes tras el visor ahumado.
+David no dudó. Apretó los dientes tras el visor y pisó el acelerador a fondo.
 
-El hombre del centro levantó la escopeta y disparó.
+El hombre de la derecha alzó el arma y disparó.
 
-Una ráfaga de postas de plomo grueso repiqueteó contra el capó de acero del Defender y astilló el extremo izquierdo del parabrisas laminado en una telaraña de grietas opacas, pero la trayectoria no se desvió. El Land Rover embistió el extremo de la traviesa de madera a cincuenta millas por hora; el parachoques de tubo de acero reforzado partió el madero con un chasquido seco y arrojó la reja de arado hacia la cuneta.
+Una perdigonada repiqueteó contra la chapa del capó y astilló una esquina del parabrisas, pero el Land Rover no se desvió un milímetro. La defensa delantera de acero chocó contra la viga de madera a sesenta kilómetros por hora, partiéndola en dos y apartando el obstáculo con un golpe seco.
 
-Los hombres se dispersaron hacia los setos maldiciendo en la noche.
+Los hombres tuvieron que saltar hacia la maleza maldiciendo a voces.
 
-—¡Seguidlo! —aulló una voz ronca—. ¡Lleva comida, mirad la suspensión!
+—¡Seguidlo! —aullaron a su espalda—. ¡Lleva comida!
 
-David miró por el retrovisor exterior. Las dos furgonetas encendieron sus faros de largo alcance y arrancaron tras él, levantando una nube de polvo en la calzada estrecha. Eran camionetas ligeras, con motores de gasolina más rápidos en aceleración que su viejo diésel cargado con seiscientos kilos de metal y conservas.
+David miró por el retrovisor. Las dos furgonetas encendieron sus luces largas y salieron tras él a toda prisa, levantando polvo en la calzada estrecha. Eran vehículos ligeros, mucho más rápidos en aceleración que su todoterreno cargado hasta los topes.
 
-En dos millas, la distancia se redujo a cien metros. El haz de las furgonetas iluminaba el techo del Defender; una segunda detonación de escopeta silbó sobre la baca, arrancando una esquirla de la rueda de repuesto.
+En poco más de una milla, las furgonetas se le echaron encima. Las luces iluminaban la cabina del Defender y otro disparo de escopeta pasó zumbando cerca del techo.
 
-*Si sigo por el asfalto hacia la granja, los llevaré directos hasta Claire y Oliver*, pensó David con una lucidez feroz. *Y en una recta despejada, me alcanzarán antes del cruce de Peasenhall.*
+*Si sigo por la carretera principal, los llevaré directos hasta Claire y Oliver*, pensó David con el corazón desbocado. *En una recta despejada me alcanzarán antes del desvío.*
 
-Tomó una decisión de navegación táctica.
+Tomó una decisión rápida.
 
-Conocía la cuenca hidrográfica del Waveney palmo a palmo. Doscientos metros antes del puente de piedra de Sibton, donde la carretera comarcal trazaba una curva ciega entre setos altos de espino, David apagó los faros del Land Rover.
+Conocía las tierras bajas del arroyo como la palma de su mano. Un centenar de metros antes del puente de piedra, donde el camino trazaba una curva ciega entre setos altos, David apagó de golpe todos los faros.
 
-El vehículo se sumergió en la penumbra verde del *airglow*.
+El coche se sumergió en la penumbra verde del cielo nocturno.
 
-Confiando únicamente en la memoria muscular de sus manos sobre el volante y en el contraste del cielo esmeralda entre las copas de los robles, clavó el freno, redujo a segunda marcha y tiró de la palanca de la caja trófer hacia atrás: **bloqueo de diferencial central y reductora conectada**.
+Guiándose de memoria por las sombras de los árboles contra el resplandor verdoso, frenó en seco, metió segunda y tiró con fuerza de la palanca trófer: **reductora engranada y diferencial bloqueado**.
 
-Giró el volante a la derecha en seco, abandonando el asfalto.
+Dio un volantazo hacia la derecha y se tiró por la ladera de hierba hacia el antiguo paso de ganado del arroyo, una lengua de fango espeso y piedras que nadie usaba por miedo a quedarse atascado.
 
-El Land Rover se lanzó de morro por una rampa de hierba húmeda hacia el antiguo vado de ganado del río. Era una lengua de barro arcilloso y cantos rodados que los agricultores locales evitaban desde hacía medio siglo por el riesgo de empantanamiento.
+Las cuatro ruedas del Defender mordieron el barro con fuerza. El lodo saltó contra los bajos del coche y el motor diésel empujó con toda su potencia, avanzando palmo a palmo a través del agua estancada. Las ruedas no patinaron.
 
-Las cuatro ruedas de tracción permanente mordieron el lodo. El barro negro saltó en abanico contra los pasos de rueda; el motor diésel rugió en baja velocidad con un par de trescientos newtons-metro, traccionando palmo a palmo a través del agua estancada de la orilla. Las ballestas crujieron, pero los diferenciales bloqueados no permitieron que ninguna rueda patinara en vacío.
+El coche trepó por el talud opuesto y se ocultó tras la espesura de un bosquecillo de fresnos.
 
-El Defender subió el terraplén opuesto y se ocultó tras la masa compacta de un bosque de fresnos centenarios.
+David apagó el motor y contuvo la respiración en la cabina a oscuras.
 
-David se detuvo con el motor al ralentí, conteniendo la respiración en la cabina oscura.
+Segundos después, las dos furgonetas pasaron a toda velocidad por la carretera asfaltada sobre el puente, con los motores rugiendo y los faros rastreando en vano el camino creyendo que el Defender seguía huyendo hacia el norte. El ruido de sus neumáticos se fue apagando a lo lejos hasta perderse en la noche.
 
-Tres segundos después, las dos furgonetas de los perseguidores pasaron a toda velocidad por la carretera principal sobre el puente, con los motores rugiendo en tercera marcha y los faros buscando en vano un vehículo fantasma que creían haber dejado atrás en la recta. El eco de sus neumáticos se perdió hacia el norte, alejándose hacia las luces lejanas de Halesworth.
+David dejó caer la frente sobre el aro del volante, temblando de alivio mientras escuchaba el goteo del barro contra el suelo.
 
-David respiró. Apoyó la frente contra el aro del volante durante treinta segundos, escuchando el siseo del barro enfriándose contra los bajos del coche.
+Habían ganado.
 
-Luego engranó la primera y tomó el camino de herradura que conducía a la granja por la trasera de los molinos.
+Volvió a arrancar despacio y tomó el camino de tierra que llevaba a la granja por la parte trasera de los campos.
 
 ---
 
 ### VIII. El Sabor de la Promesa
 
-Eran las once y cuarenta minutos de la noche cuando el Land Rover cruzó el portón trasero de la granja de Suffolk.
+Eran cerca de las doce de la noche cuando el Land Rover entró por el portón trasero de la granja de Suffolk.
 
-Claire abrió la puerta del cobertizo en cuanto reconoció el silbido característico del escape del Defender. No encendió linternas: en la penumbra de la luna nueva, ayudó a David a meter el coche hasta el fondo del establo antes de atrancar la hoja de madera con dos barras de hierro.
+Claire abrió el cobertizo en cuanto reconoció el rumor inconfundible del motor. No encendió ninguna luz: en la penumbra, ayudó a David a meter el coche hasta el fondo del establo antes de atrancar la puerta con dos gruesas barras de hierro.
 
-Cuando David apagó el motor y bajó del asiento, apenas podía sostenerse sobre las piernas. Estaba empapado en sudor frío; la cinta americana de las muñecas colgaba en tiras deshechas y el vendaje improvisado de su brazo mostraba una mancha de sangre seca del tamaño de una moneda.
+Cuando David apagó el motor y bajó del asiento, las piernas le flaquearon por el agotamiento acumulado. Claire lo sostuvo en volandas antes de que tocara el suelo.
 
-Claire lo rodeó con los brazos. Hundió la cara en el cuero áspero de la chaqueta, temblando con un llanto mudo que le sacudía los hombros.
+Se arrojó a sus brazos con un llanto ahogado y desesperado. David se arrancó la careta y el pasamontañas con dedos entumecidos y la estrechó contra su pecho con toda la fuerza que le quedaba. Se besaron con desesperación, un beso largo, trémulo y febril donde el sudor, el polvo del camino y las lágrimas se fundieron en un alivio salvaje. Claire le acariciaba el rostro con ambas manos, la barba crecida de días, los labios partidos, comprobando febrilmente que su marido estaba entero, que respiraba a salvo a su lado.
 
-—Estás vivo —repetía con un susurro entrecortado—. Dios mío, estás vivo...
+—Estás vivo... estás aquí... —sollozaba ella contra su boca, besándole las mejillas y la frente entrecortadamente—. Dios mío, David... creí que te perdía...
 
-David alzó la mano derecha con torpeza y le acarició el pelo.
-
-—Abre el maletero, Claire. Despacio.
+—Estoy aquí, mi amor —susurró él con la voz rota por la emoción, devolviéndole los besos en los ojos y en los labios—. Te prometí que volvería. Estamos bien. Abre el maletero, mi vida... mira lo que le traemos a nuestro pequeño.
 
 Claire descorrió el cerrojo del portón trasero.
 
-A la luz tenue de la rendija del cobertizo, las cajas de cartón apiladas hasta el techo parecían un milagro imposible. Cientos de latas de conservas con sus etiquetas brillantes de legumbres, carne estofada, leche en polvo y fruta enlatada.
+A la tenue claridad de la rendija del cobertizo, las cajas apiladas hasta el techo parecían un milagro imposible. Cientos de latas de conservas con sus etiquetas limpias: legumbres, carne estofada, leche en polvo y fruta.
 
-Claire se llevó las dos manos a la boca, ahogando un grito de asombro que se disolvió en lágrimas.
+Claire se llevó las manos a la boca, ahogando un grito de alegría que se disolvió en un llanto dulce.
 
-—David... esto es... esto es comida para un año.
+—David... Dios bendito... esto es comida para más de un año.
 
-—Para año y medio si la racionamos con cabeza —dijo él, despojándose por fin de la careta de soldador y el pasamontañas de lana. Su rostro apareció blanco, demacrado, con ojeras profundas y los labios agrietados por la salitre, pero en sus ojos brillaba una paz inquebrantable—. Trae un plato hondo y un abrelatas a la cocina. Oliver tiene que cenar.
+—Para año y medio si nos administramos con cuidado —dijo él, sonriendo a través del cansancio que le marcaba el rostro—. Trae un plato hondo y una cuchara a la alacena. Oliver tiene que cenar.
 
-Diez minutos después, en la penumbra tibia de la alacena, la llama de una vela de cera de abejas iluminaba un cuenco de loza blanca sobre la mesilla de noche.
+Diez minutos después, en la penumbra tibia de la habitación interior, la llama de una vela iluminaba un cuenco blanco sobre la mesilla.
 
-Dentro del cuenco, tres mitades doradas de melocotón flotaban en un almíbar espeso y brillante que despedía un aroma embriagador a verano andaluz, a huerta viva, a azúcar puro.
+Dentro del cuenco, tres mitades doradas de melocotón flotaban en un almíbar espeso y brillante que perfumaba la estancia con un olor a huerta viva y a verano dulce.
 
-Oliver estaba sentado en el regazo de Claire, envuelto en una manta de franela limpia. Tenía los ojos muy abiertos, fijos en el cuenco con una fascinación que parecía rozar lo sagrado.
+Oliver estaba sentado en el regazo de Claire, envuelto en una mantita limpia. Tenía los ojos muy abiertos, fijos en el plato con un asombro reverente.
 
-David se arrodilló frente a él. Con una cuchara de postre, cortó un pedazo pequeño de la pulpa dorada, lo empapó en el líquido almibarado y lo acercó con suavidad a los labios secos del niño.
+—¿Papá? —balbuceó el pequeño con su vocecita débil.
 
-—Prueba, Oliver —susurró con ternura infinita—. Es la fruta del silbato.
+David se arrodilló frente a ellos dos, rodeó a su mujer y a su hijo con los brazos y besó con ternura la cabecita rubia del niño.
 
-El niño abrió la boca. El trozo de melocotón entró en su paladar.
+—Ya está aquí papá, mi vida. Traigo la fruta dulce que te prometí.
 
-Durante dos segundos, Oliver no se movió. Sus ojos infantiles parpadearon dos veces; luego, una sacudida de asombro le recorrió el cuerpecito frágil y comenzó a masticar con una lentitud reverente. El almíbar denso le resbaló por la comisura de los labios, manchándole la barbilla con un brillo dorado.
+Con una cuchara de postre, cortó un pedazo de la pulpa dorada empapada en almíbar y la acercó con mucho cuidado a los labios secos de su hijo.
 
-Una sonrisa luminosa, limpia de todo miedo, floreció en su carita por primera vez en seis meses.
+—Prueba, Oliver. Despacio, cariño.
 
-—Está dulce, tío David —dijo el niño con una voz clara, casi cantarína—. Está dulce como la música.
+El niño abrió la boca y saboreó el melocotón.
 
-Claire apoyó la mejilla contra los rizos rubios de su hijo, dejando que sus lágrimas cayeran sobre la mesa sin intentar contenerlas. David le dio una segunda cucharada, y luego una tercera, hasta que el cuenco quedó limpio y el niño, con el estómago confortado por primera vez en semanas, bostezó con un suspiro profundo y apoyó la cabeza contra el pecho de su madre.
+Durante dos segundos se quedó inmóvil. Luego, una chispa viva iluminó sus ojitos y empezó a masticar despacio, fascinado por el sabor. El jugo dulce le resbaló por la barbilla, brillando bajo la luz de la vela.
 
-En la mano derecha, Oliver no había soltado la pequeña locomotora de madera de manzano.
+Una sonrisa hermosa, limpia de miedo y de dolor, floreció en su carita por primera vez en muchos meses.
 
-David esperó a que la respiración del pequeño se volviera rítmica y pesada, sumergido en ese sueño reparador que solo entrega la certeza del alimento. Luego se puso en pie en silencio, tomó la locomotora de los dedos flojos del niño con delicadeza reverente y salió al pasillo exterior.
+—Está dulce, papá —dijo el niño con una voz clara y tierna—. Está dulce como la miel.
 
-Caminó hacia la tronera blindada del altillo de la casa, donde una rendija de observación con vidrio polarizado permitía mirar hacia el firmamento sin abrir las contraventanas.
+Claire apoyó la mejilla contra la cabeza de su hijo, dejando que sus lágrimas de felicidad cayeran sin freno. David le dio otra cucharada, y otra más, hasta que el cuenco quedó limpio y el niño, con el estómago saciado y tibio, soltó un suspiro profundo, bostezó y apoyó la cabeza contra el pecho de su madre.
 
-David apoyó el cristal inactínico contra sus ojos y miró hacia arriba.
+En la manita derecha, Oliver sostenía la pequeña locomotora de madera de manzano.
 
-La noche de Suffolk se desplegaba inmensa sobre los campos muertos. El *airglow* verdoso danzaba en las capas altas de la atmósfera con un oleaje espectral, pero más allá, en el punto subsolar donde la física orbital situaba el punto de Lagrange L1, titilaba un punto de luz diminuto, invisible para el ojo desarmado pero nítido en el mapa mental del astrofísico: **la posición de Sombra**.
+David esperó a que la respiración de su hijo fuera honda y acompasada, vencido por el sueño reparador que solo da la comida. Se puso en pie en silencio, le dio un beso suave a Claire en los labios y le acarició la frente. Luego tomó con delicadeza la locomotora de entre los dedos relajados del niño y salió al pasillo.
 
-David sostuvo la pequeña locomotora de madera en la palma de su mano abierta. Apretó la madera torneada contra su pecho, sintiendo el calor que el cuerpo dormido de Oliver había dejado en el manzano pulido.
+Subió las escaleras hasta la tronera del desván, donde una pequeña abertura protegida con vidrio grueso permitía mirar hacia el exterior sin exponerse.
 
-Miró al abismo de las estrellas y susurró a la noche:
+David se asomó al cristal y alzó la mirada hacia el firmamento.
 
-—Nosotros ya tenemos comida, Thomas. Ya hemos ganado el invierno. Hemos protegido a tu sobrino.
+La noche de Suffolk se desplegaba inmensa sobre la campiña en calma. El resplandor verdoso danzaba en las alturas con su oleaje espectral, cubriendo el cielo con un manto fosforescente. Allá afuera el mundo seguía sumido en aquella extraña y descomunal pesadilla que había paralizado a la civilización y vaciado los caminos.
 
-Hizo una pausa, y en su voz quebrada tembló toda la fe cartesiana de la estirpe humana:
+David apretó la pequeña locomotora de madera contra su pecho, sintiendo el calor que los dedos de Oliver habían dejado en el manzano pulido.
 
-—Ahora te toca a ti, hermano. Enciende ese maldito cohete y devuélvenos el cielo.
+Miró a la inmensidad del cielo y habló en un susurro a la noche, con la voz templada por el amor fraternal:
+
+—Nosotros ya tenemos comida, Thomas. Ya hemos ganado el invierno. He protegido a tu sobrino.
+
+Hizo una pausa, sintiendo el silencio inmenso del campo. En su corazón ardía la fe absoluta de que su hermano mayor no se rendiría jamás; que allí donde estuviera, en el centro de aquella operación colosal de la que tanto dependía el mundo, Thomas y los suyos seguían librando la batalla por todos ellos.
+
+Apretó la locomotora en su mano y susurró a la noche:
+
+—Ahora te toca a ti, hermano. Haced lo que tengáis que hacer... y devuélvenos el cielo.

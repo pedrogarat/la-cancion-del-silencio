@@ -157,6 +157,15 @@
       "location": "Casa de campo de Suffolk / Carretera A140 / Centro Logístico de Diss",
       "readTime": "20 min",
       "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 18,
+      "title": "Capítulo 18: La Rampa del Juicio Final",
+      "act": "Acto II: La Caída del Escudo y el Gran Caos",
+      "pov": "Dr. Thomas Wright / Dra. Sarah Lin / Comandante Chen Mei / Vassily Ramos",
+      "location": "Base Aérea de Nellis (Nevada) / Torre de Lanzamiento / Sala B-4 ONU",
+      "readTime": "22 min",
+      "povImage": "img/char_protagonista.png"
     }
   ]
 }

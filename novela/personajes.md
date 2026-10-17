@@ -83,26 +83,31 @@
 
 ## 🚀 NIVEL 4: La Tripulación de Ataque Analógico e Intercepción Orbital
 
-### 👨‍✈️ 8. Comandante James «Mace» MacElroy
-- **Rol:** Comandante Analógico Titular del Módulo de Ataque Analógico (MAA).
-- **Filiación:** Aviación Naval / Fuerza Aérea de los Estados Unidos (USAF).
-- **Perfil:** Piloto de pruebas de élite con miles de horas de vuelo en cazas embarcados y aparatos suborbitales. Famoso por su legendaria pericia manual y nervios de acero para apontajes nocturnos sin instrumental digital. En el Cap. 12, en la cantina subterránea de Nellis, demuestra su humor socarrón y su lealtad indomable, asumiendo que ningún simulador sustituye la sincronización a ciegas de sus manos con las de sus dos compañeros. Destinado a gobernar las toberas manuales y periscopios de cuarzo del MAA dentro del Muro de Lorentz.
-
-### 👩‍🔬 9. Dra. Chen Mei
-- **Rol:** Ingeniera de Cargas y Sistemas Titular del Módulo de Ataque Analógico (MAA).
+### 👩‍🔬 8. Comandante Chen Mei
+- **Rol:** Comandante Táctica y de Navegación del Módulo de Ataque Analógico (MAA).
 - **Filiación:** Administración Espacial Nacional China (CNSA).
 - **Perfil:** Astrofísica de élite, doctora por Tsinghua y especialista de primer orden en dinámica de fluidos y sistemas cuánticos en vacío.
 - **Acciones Clave:**
-  - **Capítulo 11:** Descubre que la cavidad fractal de Pleh resuena a 14,217 GHz; ante la alarma militar de Vance y Korolyov, audita las ecuaciones, confirma que la geometría disipa el pulso sin efecto rebote y valida que es un arma perfecta y no una trampa, ordenando encender los hornos de inducción de Nellis.
-  - **Capítulo 12:** En Nochebuena, comparte raciones MRE y vodka con MacElroy y Voronov al pie del chasis de titanio del MAA, brindando «por la Tierra» antes de iniciar el turno de pruebas de vacío de madrugada.
+  - **Capítulo 11:** Descubre que la cavidad fractal de Pleh resuena a 14,217 GHz; valida que la geometría disipa el pulso y ordena forjar el metamaterial en los hornos de Nellis.
+  - **Capítulo 12:** En Nochebuena, comparte raciones MRE y vodka con MacElroy y Voronov al pie del chasis del MAA, sellando la hermandad de la tripulación.
+  - **Capítulo 18:** Recibe de Vassily Ramos el *Relicario de la Tierra Viva* y lo ancla a su pecho. Durante el despegue bajo 4,8 G, impone a grito pelado la cadencia respiratoria y el lema de mando (*«¡La Tierra a la espalda, el Sol al frente!»*); sostiene la trayectoria manual y, tras quebrar la atmósfera, contempla la Tierra herida por el periscopio de cuarzo enfilando rumbo a Lagrange L1.
+
+### 👨‍✈️ 9. Mayor James «Mace» MacElroy
+- **Rol:** Piloto Analógico e Ingeniero de Sistemas del Módulo de Ataque Analógico (MAA).
+- **Filiación:** Aviación Naval / Fuerza Aérea de los Estados Unidos (USAF).
+- **Perfil:** Piloto de pruebas de élite con miles de horas en reactores embarcados. Famoso por su legendaria pericia manual para apontajes sin aviónica digital.
+- **Acciones Clave:**
+  - **Capítulo 18:** Ocupa el puesto derecho del MAA; controla el horizonte artificial de mercurio y el compensador de toberas durante la aceleración brutal del despegue, respondiendo al unísono al lema de Chen Mei para mantener el rumbo hacia el Sol.
 
 ### 👨‍🚀 10. Coronel Alexei Voronov
-- **Rol:** Especialista Orbital Titular a cargo del Módulo de Retorno Digital (MRD).
+- **Rol:** Especialista de Propulsión Nuclear y Sistemas Criogénicos del MAA; piloto titular del Módulo de Retorno Digital (MRD).
 - **Filiación:** Corporación Espacial Estatal Roscosmos (Rusia).
-- **Perfil:** Cosmonauta veterano con tres misiones de larga permanencia orbital y el récord mundial de acoplamientos manuales de emergencia. Hombre de pocas palabras, ojos grises curtidos por la estepa y sabiduría noble. En el Cap. 12 rescata de su taquilla una botella de vodka para brindar con Chen Mei y MacElroy bajo el principio cosmonáutico de que «el espacio respeta a los hombres que comparten el mismo aire en una lata de conserva». Destinado a pilotar el MRD para rescatar al MAA tras la inducción del Efecto Quench.
+- **Perfil:** Cosmonauta veterano con tres misiones de larga permanencia orbital y récord de acoplamientos manuales. Sabio, parco y leal.
+- **Acciones Clave:**
+  - **Capítulo 18:** Ejecuta la ignición manual del reactor nuclear térmico (NTP) retirando las barras de control de carburo de boro a mil ochocientos grados; controla la inyección de hidrógeno líquido y canta los parámetros estables hasta confirmar la trayectoria de escape interplanetaria.
 
 ### 👥 11. Tripulación de Reserva (3 Astronautas)
-- **Composición:** Un piloto de la USAF (EE.UU., suplente de MacElroy), una astrofísica de la CNSA (China, suplente de Chen Mei) y un cosmonauta de Roscosmos (Rusia, suplente de Voronov). Entrenados con el mismo rigor psicotécnico y manual para reemplazar a cualquier titular en caso de baja o contingencia médica antes del lanzamiento en la ventana operativa de Nellis/Wenchang.
+- **Composición:** Un piloto de la USAF (EE.UU., suplente de MacElroy), una astrofísica de la CNSA (China, suplente de Chen Mei) y un cosmonauta de Roscosmos (Rusia, suplente de Voronov). Permanecen en reserva operativa en la base de Nellis hasta el despegue definitivo del 21 de julio de 2027.
 
 ---
 
@@ -110,15 +115,15 @@
 
 ### ⚓ 12. Almirante Marcus Vance
 - **Rol:** Jefe de Enlace Militar en la Sala de Crisis B-4 / Mando Estratégico de los Estados Unidos (USSTRATCOM / Armada de EE.UU.).
-- **Perfil:** Mando naval veterano, pragmático y disciplinado. Bajo el mando supremo de Vassily Ramos, coordina las baterías de interceptores exoatmosféricos y ejecuta las órdenes de fuego con misiles SM-3 Block IIA (crucero *USS Lake Erie* y destructor *USS Thomas Hudner*) para salvar Nellis y destruir satélites tóxicos desorbitados en el Cap. 10.
+- **Perfil:** Mando naval veterano, pragmático y disciplinado. Bajo el mando supremo de Vassily Ramos, coordina las baterías de interceptores exoatmosféricos y ejecuta las órdenes de fuego con misiles SM-3 Block IIA (crucero *USS Lake Erie* y destructor *USS Thomas Hudner*) para salvar Nellis y destruir satélites tóxicos desorbitados en el Cap. 10. En el Cap. 18 activa el enclavamiento maestro del sistema de tiro en Nellis.
 
 ### 🪖 13. General Valeri Korolyov
 - **Rol:** Representante de las Fuerzas Aeroespaciales de Rusia en el Comité de Estado Mayor Conjunto en la Sala B-4.
-- **Perfil:** Alto oficial de artillería espacial y defensa antiaérea estratégica; coordina la red de radares de alerta temprana y las salvas antimisil con sistemas rusos S-500 contra la chatarra orbital en reentrada sobre Europa y Asia.
+- **Perfil:** Alto oficial de artillería espacial y defensa antiaérea estratégica; coordina la red de radares de alerta temprana y las salvas antimisil con sistemas rusos S-500.
 
 ### 🪖 14. General Chen Wei
 - **Rol:** Representante del Estado Mayor Conjunto del Ejército Popular de Liberación (EPL) de China en la Sala B-4.
-- **Perfil:** Mando militar hierático y preciso; coordina las defensas cinéticas antisatélite chinas Dong Neng-3 (DN-3) y supervisa la seguridad perimetral de los búnkeres de montaje subterráneos en Sichuan.
+- **Perfil:** Mando militar hierático y preciso; coordina las defensas cinéticas antisatélite chinas Dong Neng-3 (DN-3) y supervisa la seguridad perimetral de los búnkeres de montaje subterráneos en Sichuan y el lanzamiento en Nellis.
 
 ### 🛡️ 15. General Henderson
 - **Rol:** Asesor Militar Principal de Seguridad de la Secretaría General de la ONU.
@@ -141,20 +146,20 @@
 ## 🏡 NIVEL 6: Las Familias y Vínculos Personales (El Ancla Humana de la Retaguardia)
 
 ### 🇨🇭 El Bastión de Versoix (Familia de Jean-Luc Girard)
-- **18. Marie Girard:** Esposa de Jean-Luc. Mujer de serena elegancia, valentía indomable y pilar afectivo del hogar. En el Cap. 9, bajo el toque de queda cantonal y la caída de telecomunicaciones, defiende su chalet junto al lago Lemán empuñando una escopeta Browning calibre 12 y encarando en francés a los asaltantes (*«Reculez ! Dégagez de là tout de suite !»*).
-- **19. Julien Girard (17 años):** Primogénito de Jean-Luc. Estudiante brillante con vocación por la Escuela Politécnica de Lausana. Asume la jefatura práctica del hogar con madurez asombrosa: idea y monta una trampa eléctrica conectando el compresor y los condensadores de la caldera al marco corredero para repeler a tres maleantes, y lidera el pertrecho del búnker civil de hormigón (*abri*) de la casa.
-- **20. Chloé Girard (15 años):** Hija mediana; refugio de inocencia juvenil y apoyo de su madre en la intendencia familiar.
-- **21. Émilie Girard (10 años):** Hija menor; protegida con mimo por Julien y Marie para aislarla del pavor circundante.
+- **18. Marie Girard:** Esposa de Jean-Luc. Mujer de serena elegancia, valentía indomable y pilar afectivo del hogar. En el Cap. 9 defiende su chalet junto al lago Lemán escopeta en mano; en el Cap. 16 acoge por compasión a dos refugiados y resulta herida en el forcejeo con Éric, recuperándose gracias al auxilio de sus hijos.
+- **19. Julien Girard (17 años):** Primogénito de Jean-Luc. Asume el mando práctico de la casa; neutraliza a asaltantes en el Cap. 9 con una trampa eléctrica y en el Cap. 16 abate a un agresor armado para proteger a su madre y hermanas, sosteniendo el bastión de Versoix.
+- **20. Chloé Girard (15 años):** Hija mediana; apoyo en la intendencia familiar y curación de Marie.
+- **21. Émilie Girard (10 años):** Hija menor; protegida con mimo por Julien y Marie.
 
 ### 🇬🇧 El Éxodo hacia Suffolk (Familia de Thomas Wright)
-- **22. David Wright:** Hermano menor de Thomas. Físico experimental en la Universidad de Cambridge. Hombre templado y noble; guía un Land Rover Defender por caminos secundarios y vías rurales victorianas para evadir el colapso de la A14 y los saqueos de combustible, sorteando con cortesía y mano izquierda los controles de granjeros locales hasta poner a salvo a su familia en Suffolk.
-- **23. Claire Wright:** Cuñada de Thomas, esposa de David. Mantiene la serenidad y la entereza durante el peligroso viaje por carretera, protegiendo a su pequeño en el asiento trasero tras la rejilla del equipaje.
-- **24. Oliver Wright (3 años):** Sobrino de Thomas e hijo de David y Claire. Juega despreocupado con soldaditos de madera en el sótano abovedado de Suffolk mientras su padre escucha los boletines en la radio de válvulas restaurada por Thomas.
+- **22. David Wright:** Hermano menor de Thomas. Físico experimental en Cambridge. En el Cap. 9 conduce a su familia a salvo a Suffolk; en el Cap. 17, ante la inanición de su hijo, protagoniza una audaz incursión diurna en el Land Rover Defender blindado hacia Eye/Diss a 45 °C, burla a una banda de saqueadores en el lodo del arroyo y regresa con víveres para más de un año, dedicando su triunfo a su hermano ausente.
+- **23. Claire Wright:** Esposa de David y cuñada de Thomas. Violonchelista y madre devota. En el Cap. 17 asiste a David en el blindaje del traje protector, lo despide con un beso conyugal lleno de amor y angustia, y lo recibe con un beso febril de alivio; alimenta a Oliver con melocotón en almíbar.
+- **24. Oliver Wright (3 años):** Hijo de David y Claire; sobrino de Thomas. En el Cap. 17 entrega a su padre la pequeña locomotora de madera de manzano tallada por Thomas para que «toque el silbato si hay niebla»; recupera la sonrisa y la vida tras saborear el almíbar, durmiendo abrazado a su juguete.
 
 ### 🇺🇸 La Batalla de San Francisco y Boston (Entorno de Sarah Lin)
-- **25. Maya Lin:** Hermana menor de Sarah. Residente en un modesto apartamento de Market Street, San Francisco. Madre soltera, en proceso de recuperación tras años de adicciones (14 meses limpia). En el Cap. 9, sumida en una crisis aguda de abstinencia y pavor ante el toque de queda de la Guardia Nacional, baja con un billete al callejón en busca de su antiguo camello; sin embargo, al recordar la voz y la promesa de Sarah, recapacita horrorizada, arroja el dinero a un charco y regresa a abrazar a su hijo jurando permanecer limpia hasta el fin.
-- **26. Toby Lin (4 años):** Sobrino de Sarah e hijo de Maya; el motor afectivo que sostiene la sobriedad y la valentía de Maya en la noche de San Francisco.
-- **27. Mark:** Expareja de Sarah en Boston. Hombre pragmático y agotado por la dedicación obsesiva de Sarah a la física; su distanciamiento emocional sella el final natural de su relación en el Cap. 5 y 7 (*«¿Cuándo recoges tus cosas?»*).
+- **25. Maya Lin:** Hermana menor de Sarah. Residente en Market Street, San Francisco. En el Cap. 9 vence la tentación de la recaída por amor a su hijo; en el Cap. 14 y 15 sobrevive en soledad al terremoto de San Andrés, al tsunami en la estación de Powell Street y a la luz solar letal, alcanzando el búnker del Centro Cívico con Toby en brazos.
+- **26. Toby Lin (4 años):** Sobrino de Sarah e hijo de Maya; el motor de amor y supervivencia de su madre en San Francisco.
+- **27. Mark:** Expareja de Sarah en Boston. Separación definitiva asumida en los primeros capítulos.
 
 ---
 
