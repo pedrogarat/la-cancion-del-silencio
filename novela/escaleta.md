@@ -105,13 +105,13 @@
 
 ## 📍 ACTO III: En el Corazón del Enjambre y el Renacer de la Tierra (Clímax y Resolución)
 
-- **Capítulo 19: La Travesía a Ciegas y el Muro de Lorentz (Julio - Agosto de 2027)**
-  - *Conflicto:* Crucero interplanetario digital de 21 días (1,5 millones de km). Llegada a 12.000 km de L1: el Muro de Lorentz impide el avance de circuitos integrados.
-  - *Desarrollo:* Separación de módulos: el MRD se inserta en Órbita de Halo de espera segura bajo el mando de Alexei Voronov. James MacElroy (Comandante Analógico) y Chen Mei (Ingeniero de Cargas y Sistemas) se transfieren al MAA y cruzan la frontera electromagnética en caída libre, gobernando a pulso mecánico entre los filamentos de la telaraña superconductora hasta situarse a 300 metros del cilindro semilla central.
+- **Capítulo 19: La Travesía a Ciegas y el Velo de Sombra (Julio - Agosto de 2027)**
+  - *Conflicto:* Crucero interplanetario digital de 21 días (1,5 millones de km). Convivencia a bordo, pérdida gradual del contacto con Nellis y la voz milagrosa de Pleh en tiempo real. Llegada a 12.000 km de L1: el Muro de Lorentz impide el avance de circuitos integrados.
+  - *Desarrollo:* Separación de módulos: el MRD se inserta en Órbita de Halo de espera segura bajo el mando de Alexei Voronov. James MacElroy (Comandante Analógico) y Chen Mei (Ingeniero de Cargas y Sistemas) se transfieren al MAA y ejecutan el desacoplamiento con pernos de resorte. Alarma final urgente de Pleh: Sombra detecta la variación de masa y repliega sus 50 km de filamentos superconductores en una maniobra defensiva activa toroidal para aniquilar el módulo.
 
 - **Capítulo 20: El Efecto Quench (Agosto de 2027)**
-  - *Conflicto:* Duelo a quemarropa a 300 metros del procesador de *Sombra*.
-  - *Desarrollo:* Alineación manual del Cañón Máser fractal con miras telescópicas de cuarzo. Inyección del pulso de ruido cuántico de la SIA. Sobrecarga térmica y Efecto Quench en *Sombra*: colapso de la red superconductora de 50 km en una supernova silenciosa de plasma. El campo magnético disruptor desaparece instantáneamente.
+  - *Conflicto:* Penetración balística a pulso a través del vórtice defensivo activo de Sombra y duelo a quemarropa a 300 metros del procesador.
+  - *Desarrollo:* Guiados por los puntos ciegos descubiertos por Pleh, MacElroy y Chen Mei gobiernan con palancas mecánicas entre las fauces magnéticas del enjambre. Alineación manual del Cañón Máser fractal con miras telescópicas de cuarzo a 300 metros. Inyección del pulso de ruido cuántico de la SIA. Sobrecarga térmica y Efecto Quench en *Sombra*: colapso de la red superconductora de 50 km en una supernova silenciosa de plasma. El campo magnético disruptor desaparece instantáneamente.
 
 - **Capítulo 21: El Heredero Despierto (Otoño de 2027 — Epílogo)**
   - *Conflicto:* Rescate en el vacío profundo y retorno seguro a la Tierra con margen crítico de reentrada.
