@@ -77,26 +77,42 @@
   - *POV:* Lin / Wright / Maya / David / Julien / MacElroy / Chen Mei | *Ubicación:* Nueva York, San Francisco, Suffolk, Versoix, Nellis AFB.
 
 - **Capítulo 14: El Pan y la Pólvora (22 al 24 de abril de 2027 | T+152 a T+154)**
-  - *Conflicto:* La Fase 4 destruye los cultivos boreales; el colapso del trigo desata el pánico urbano y el racionamiento a 75 días. Simultáneamente, un servicio exterior no identificado intercepta la telemetría de Pleh para adueñarse de su ciencia de cara a 2028, mientras en San Francisco un incendio acorrala a Maya y Toby.
-  - *Desarrollo:* 1) Girard y Ramos constatan la muerte celular del trigo por UVC/UVB y el quiebre inminente de la coartada del Carrington. 2) Thomas y Vance descubren la derivación parásita en la línea transatlántica de Halifax; Pleh revela que conoce la intrusión y la neutraliza con algoritmos asimétricos e ironía matemática. 3) En San Francisco, Maya y Toby quedan atrapados por fuego y humo en Market St.; llamada agónica de socorro a Sarah. 4) Thomas y Sarah cometen una transgresión limpia: emiten una orden reservada Alfa-Ocho para desviar un blindado M113 del Presidio sin poner en peligro ni retrasar un segundo la misión del cohete. 5) La patrulla rescata a Maya y Toby salvándolos de la asfixia; Pleh borra discretamente las pistas en los servidores de Vance amparando el afecto humano de los científicos. Quedan 88 días.
-  - *POV:* Girard / Ramos / Wright / Vance / Lin / Maya / Pleh | *Ubicación:* Sala B-4 y Nivel B-5 ONU (Nueva York), Market Street y Presidio (San Francisco).
+  - *Conflicto:* Radiación UVC calcinando cosechas continentales (reservas para 75 días); Pleh neutraliza 37 ciberataques de espías; megaterremoto de 7,9 en la Falla de San Andrés forzado por desacoplamiento electromagnético en la capa D''; alarma de tsunami de 14 metros sobre San Francisco.
+  - *Desarrollo:* Girard registra la fractura litosférica; Sarah en pánico por Maya y Toby; salida del tren blindado con el MAA hacia Nellis; olas acercándose al Golden Gate. Quedan 88 días.
+  - *POV:* Girard / Ramos / Wright / Vance / Lin / Pleh | *Ubicación:* Sala B-4 (Nueva York), Nellis AFB (Nevada).
 
-- **Capítulo 15: La Rampa del Juicio Final (Junio-Julio de 2027 | T+215 a T+242)**
-  - *Conflicto:* Cierre definitivo de la ventana industrial (21 de julio de 2027). Hambruna severa y paralización progresiva de fábricas.
-  - *Desarrollo:* Traslado en tren blindado y montaje final del Módulo de Ataque Analógico (MAA) sobre el impulsor nuclear térmico (NTP) y el Módulo de Retorno Digital (MRD). Despedida de Sarah y Thomas en la torre de servicio; embarque de MacElroy, Chen Mei y Voronov; ignición y despegue hacia L1.
+- **Capítulo 15: El Vientre de la Bahía (24 de abril de 2027 | T+154)**
+  - *Conflicto:* Escape agónico de Maya Lin y Toby (4 años) tras el terremoto y el embate del tsunami en Market Street.
+  - *Desarrollo:* Evacuación a la estación subterránea de Powell Street; noche con refugiados; carrera contra el alba para esquivar la radiación solar sin ozono y llegada al búnker del Centro Cívico.
+  - *POV:* Maya Lin | *Ubicación:* Market Street, Powell St. Station, Centro Cívico (San Francisco).
+
+- **Capítulo 16: El Umbral de Ceniza (15 y 16 de mayo de 2027 | T+175 a T+176)**
+  - *Conflicto:* Asedio y quiebra moral en el chalet de Versoix frente a asaltantes desesperados; cuello de botella criogénico del Cañón Máser en el búnker B-4 de Nueva York.
+  - *Desarrollo:* Marie herida de puñalada; Julien (17 años) defiende el hogar y abate al intruso; Jean-Luc Girard en soledad transforma el dolor en determinación y resuelve la estabilidad del Máser mediante un lecho criogénico pasivo de helio supercrítico con sinterizado de berilio (4,2 K estables). Luz verde al ensamblaje en rampa.
+  - *POV:* Marie y Julien Girard / Jean-Luc Girard | *Ubicación:* Versoix (Ginebra), Sala B-4 (Nueva York).
+
+- **Capítulo 17: El Páramo de Mediodía (8 y 9 de julio de 2027 | T+229 a T+230)**
+  - *Conflicto:* Hambre extrema en la granja de Suffolk; David Wright sale en misión de aprovisionamiento desafiando la letalidad del sol.
+  - *Desarrollo:* David deduce que la radiación UVC no penetra el vidrio blindado con aluminio ni el cuero; prepara el Land Rover y viaja a Eye/Diss a pleno mediodía; carga 500 kg de comida; despista a saqueadores en un vado y regresa con víveres para más de un año. Fe fraternal en la misión secreta de Thomas.
+  - *POV:* David Wright / Claire Wright | *Ubicación:* Granja de Suffolk, Eye, Diss (Reino Unido).
+
+- **Capítulo 18: La Rampa del Juicio Final (21 de julio de 2027 | T+242 — Cierre del Acto II)**
+  - *Conflicto:* Cierre definitivo de la ventana industrial (21 de julio de 2027). Última carga de hidrógeno de la Tierra.
+  - *Desarrollo:* Inspección de la nave integrada en la torre de 80 m: coloso de tecnología DIGITAL de vanguardia dotado de motor NTP y MRD, coronado en el morro por el MAA analógico inerte. Diálogo pedagógico sobre los 21 días de crucero digital y la detención a 12.000 km de L1. Ramos entrega el *Relicario de la Tierra Viva* a MacElroy, Chen Mei y Voronov. Embarque en la cabina digital del MRD; despedida apasionada de Sarah y Thomas en la plataforma. Pleh despide a los herederos desde el polo. Ignición digital del motor nuclear; ascenso brutal a 4,8 G con el lema de mando (*«¡La Tierra a la espalda, el Sol al frente!»*); inserción en trayectoria interplanetaria a 11,2 km/s y apagado del motor. La nave viaja hacia el Sol.
+  - *POV:* Wright / Lin / MacElroy / Chen Mei / Ramos | *Ubicación:* Nellis AFB (Nevada), Sala B-4 (Nueva York).
 
 ---
 
 ## 📍 ACTO III: En el Corazón del Enjambre y el Renacer de la Tierra (Clímax y Resolución)
 
-- **Capítulo 16: La Travesía a Ciegas y el Muro de Lorentz**
-  - *Conflicto:* Viaje de 21 días hacia el Sol. A 10.000 km de L1, el Muro de Lorentz de *Sombra* inutiliza cualquier componente digital remanente. Separación del MRD.
-  - *Desarrollo:* Los tres astronautas asumen el pilotaje puramente manual y mecánico mediante periscopios de cuarzo y válvulas mecánicas hacia el vórtice electromagnético.
+- **Capítulo 19: La Travesía a Ciegas y el Muro de Lorentz (Julio - Agosto de 2027)**
+  - *Conflicto:* Crucero interplanetario digital de 21 días (1,5 millones de km). Llegada a 12.000 km de L1: el Muro de Lorentz impide el avance de circuitos integrados.
+  - *Desarrollo:* Separación de módulos: el MRD se inserta en Órbita de Halo de espera segura bajo el mando de Alexei Voronov. James MacElroy (Comandante Analógico) y Chen Mei (Ingeniero de Cargas y Sistemas) se transfieren al MAA y cruzan la frontera electromagnética en caída libre, gobernando a pulso mecánico entre los filamentos de la telaraña superconductora hasta situarse a 300 metros del cilindro semilla central.
 
-- **Capítulo 17: El Efecto Quench**
-  - *Conflicto:* Disparo del Cañón Máser fractal con el pulso cuántico a tiro directo del procesador de *Sombra*.
-  - *Desarrollo:* Inducción del Efecto Quench: colapso de la red superconductora de 50 km en una supernova de plasma.
+- **Capítulo 20: El Efecto Quench (Agosto de 2027)**
+  - *Conflicto:* Duelo a quemarropa a 300 metros del procesador de *Sombra*.
+  - *Desarrollo:* Alineación manual del Cañón Máser fractal con miras telescópicas de cuarzo. Inyección del pulso de ruido cuántico de la SIA. Sobrecarga térmica y Efecto Quench en *Sombra*: colapso de la red superconductora de 50 km en una supernova silenciosa de plasma. El campo magnético disruptor desaparece instantáneamente.
 
-- **Capítulo 18: El Heredero Despierto (Epílogo)**
-  - *Conflicto:* Rescate del MAA a la deriva por el Módulo de Retorno Digital (MRD).
-  - *Desarrollo:* Rebote y restauración de la magnetosfera terrestre; fin del *airglow*. Retorno de la tripulación; reencuentro de familias; Pleh certifica la madurez de la especie humana como digna heredera cósmica.
+- **Capítulo 21: El Heredero Despierto (Otoño de 2027 — Epílogo)**
+  - *Conflicto:* Rescate en el vacío profundo y retorno seguro a la Tierra con margen crítico de reentrada.
+  - *Desarrollo:* Con el espacio limpio, Voronov enciende el radar digital LIDAR del MRD en la órbita de Halo, localiza el MAA a la deriva y efectúa el acoplamiento de rescate. Computación de la reentrada balística de 2° y viaje de 21 días a casa. Restauración natural del campo magnético terrestre y extinción del *airglow*. Retorno triunfal; reencuentro de las familias en Suffolk, Versoix y San Francisco. Informe final de Pleh a las estrellas: la humanidad ha demostrado su valor como legítima heredera cósmica.

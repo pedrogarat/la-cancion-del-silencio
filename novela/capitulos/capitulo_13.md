@@ -137,9 +137,11 @@ El comandante John MacElroy sostenía con ambas manos la palanca de gobierno de 
 
 A su derecha, el coronel Alexei Voronov revisaba con una linterna de mano los manómetros mecánicos de presión de gas inerte:
 
-—Presión interna en cabina: novecientos cincuenta milibares —anunció Voronov por el tubo acústico de cobre que comunicaba con la sala de control exterior—. El vacío exterior está en diez a la menos cinco pascales. Estamos en el espacio, John. O en lo más parecido que Nevada puede fabricar.
+—Presión interna en cabina: novecientos cincuenta milibares —anunció Voronov por el tubo acústico de cobre que comunicaba con la sala de control exterior—. El vacío exterior está en diez a la menos cinco pascales. Estanqueidad pasiva impecable, John. Cuando nos separemos a doce mil kilómetros de L1 y yo me quede en la órbita de Halo custodiando el módulo digital, vuestras vidas dependerán de que estas válvulas manuales no tengan una fuga de media micra. Más os vale que este arpón de titanio os mantenga con aire hasta que os localice con el LIDAR tras el apagón.
 
-Frente a ellos, en el puesto de navegación central, la doctora Chen Mei apoyaba la frente contra el ocular de cuarzo del periscopio analógico:
+—Tú ocúpate de mantener las computadoras del MRD a salvo fuera del Muro de Lorentz, Alexei —replicó MacElroy con una sonrisa dura y tensa—. Y de tener el reactor nuclear listo para el regreso a la Tierra. De cruzar esa telaraña a pulso y volarle las tripas a esa cosa nos encargamos Mei y yo.
+
+Frente a ellos, en el puesto de artillería y navegación central, la doctora Chen Mei apoyaba la frente contra el ocular de cuarzo del periscopio analógico:
 
 —Generadores de inducción listos para simulación térmica —dijo Chen Mei con voz serena y fría—. Encendido de bancos de calor en tres, dos, uno...
 

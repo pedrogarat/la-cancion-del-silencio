@@ -24,12 +24,12 @@ En la pantalla secundaria apareció el rostro pálido y exhausto de la doctora C
 Sarah Lin se acercó a la consola, cruzándose de brazos con el ceño fruncido:
 —Explícate, Mei. El emisor de microondas tiene potencia de sobra alimentado por el generador de radioisótopos.
 
-—Tener potencia no sirve de nada si no sabes enfocarla —respondió la astronauta con amarga lucidez—. Es como intentar alumbrar una moneda a diez kilómetros con una linterna vieja de bombilla rota: la luz se desparrama en un cono gigantesco antes de tocar el blanco. Para provocar el Efecto Quench en la telaraña de L1, necesitamos clavar ese haz de microondas en un punto de apenas tres metros, a diez mil kilómetros de distancia.
+—Tener potencia no sirve de nada si no sabes enfocarla —respondió la astronauta con amarga lucidez—. Es como intentar alumbrar una moneda a diez kilómetros con una linterna vieja de bombilla rota: la luz se desparrama en un cono gigantesco antes de tocar el blanco. Para provocar el Efecto Quench en la telaraña de L1, una vez que nos separemos del MRD a doce mil kilómetros y penetremos en el enjambre, necesitamos clavar ese haz de microondas en el cilindro semilla central a solo trescientos metros, pero con una coherencia de fase absoluta y sin dispersión lateral.
 
 —¿Y los sincronizadores de fase? —preguntó Jean-Luc Girard, ajustándose las gafas metálicas con gesto meticuloso—. Un ajuste diferencial de onda debería compensar el desvío.
 
 Chen Mei soltó un suspiro de frustración:
-—En un laboratorio convencional sí, doctor Girard. Con tres microordenadores corrigiendo la señal cada millonésima de segundo. Pero ahí arriba estaremos dentro del Muro de Lorentz. No habrá ni un solo chip vivo. Si intentamos sintonizar el Máser con relés mecánicos y válvulas de vacío terrestres, la cavidad de resonancia tendría que medir **doscientos metros de largo** para no perder el compás. No cabe en la nave. O llevamos un arma ciega que dispersará la energía en el vacío sin hacerle un rasguño al enemigo, o los astronautas volaremos hasta L1 solo para convertirnos en un blanco inmóvil.
+—En un laboratorio convencional sí, doctor Girard. Con tres microordenadores corrigiendo la señal cada millonésima de segundo. Pero ahí dentro el MAA estará bajo el Muro de Lorentz, completamente aislado tras separarse del módulo digital. No habrá ni un solo chip vivo. Si intentamos sintonizar el Máser con relés mecánicos y válvulas de vacío terrestres, la cavidad de resonancia tendría que medir **doscientos metros de largo** para no perder el compás. No cabe en el morro del módulo de penetración. O llevamos un arma ciega que dispersará la energía en el vacío sin hacerle un rasguño a la semilla, o MacElroy y yo volaremos hasta el corazón de L1 solo para convertirnos en un blanco inmóvil.
 
 El silencio que cayó sobre la sala fue espeso como plomo derretido. 
 
@@ -146,7 +146,7 @@ El almirante Vance se inclinó hacia el micrófono de enlace, con la mandíbula 
 
 Vance hizo una pausa que congeló la estancia.
 
-—Los soldados estamos entrenados para oler una emboscada a leguas de distancia —continuó el almirante con voz sorda y cortante—. ¿Cómo sabemos que esta cavidad no es un caballo de Troya? Si esos planos provocan una resonancia en contrafase, el Cañón Máser no inducirá el Efecto Quench en L1: reventará el morro del MAA en el primer disparo a diez mil kilómetros de la Tierra, destruyendo a nuestros tres astronautas y desarmando a la especie humana para siempre. Exijo saber de dónde han salido esas constantes antes de autorizar que se toque un solo lingote de cuarzo.
+—Los soldados estamos entrenados para oler una emboscada a leguas de distancia —continuó el almirante con voz sorda y cortante—. ¿Cómo sabemos que esta cavidad no es un caballo de Troya? Si esos planos provocan una resonancia en contrafase, el Cañón Máser no inducirá el Efecto Quench en L1: reventará el morro del MAA en el primer disparo a trescientos metros de la semilla, volatilizando a MacElroy y Chen Mei en la punta de lanza y dejando a Voronov varado a doce mil kilómetros en el módulo digital, condenando a la especie humana para siempre. Exijo saber de dónde han salido esas constantes antes de autorizar que se toque un solo lingote de cuarzo.
 
 El general Korolyov asintió con gravedad militar, colocándose hombro con hombro junto a Vance:
 —El almirante tiene toda la razón, señor Secretario General. Aceptamos la tutela de esa sonda polar porque necesitamos su conocimiento para no perecer. Pero no vamos a suicidar a nuestros pilotos a ciegas en un diseño ajeno que no podemos auditar.

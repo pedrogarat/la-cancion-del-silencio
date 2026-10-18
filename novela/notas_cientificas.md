@@ -154,12 +154,20 @@ Para garantizar la verosimilitud aeroespacial y la supervivencia realista de los
 
 ### 🛰️ Arquitectura de Misión de Doble Módulo
 
+* **El Cohete y el Tren de Crucero son DIGITALES (Vanguardia Aeroespacial Terrestre):**
+  - El vehículo espacial despega desde Nellis integrado en una sola estructura colosal impulsada por propulsión Térmico Nuclear (NTP).
+  - La tecnología del cohete es **plenamente digital**, representando la cumbre tecnológica de la Tierra: aviónica digital militar de triple redundancia apantallada, navegación inercial digital láser/LIDAR, control *fly-by-wire* automatizado de la reactividad nuclear y soporte vital digitalizado de ciclo cerrado en el MRD.
+  - La Tierra y el espacio interplanetario abierto (a lo largo de 1,5 millones de kilómetros) **no están afectados por el Muro de Lorentz**. Por tanto, la travesía de 21 días hacia el Sol se ejecuta mediante navegación digital autónoma de alta precisión.
+
 1. **MRD (Módulo de Retorno Digital / Lancha Salvavidas):**
+   * Es el módulo nodriza, hábitat de crucero y nave de salvamento. Alberga a los **tres astronautas** durante el despegue y los 21 días de viaje interplanetario.
    * Estacionado a **12.000 km del centro de L1** en una Órbita de Halo estable (fuera del Muro de Lorentz).
    * Conserva intactos los ordenadores de navegación digital, la telemetría, el soporte vital automatizado y el propulsor Térmico Nuclear (NTP) para el viaje de regreso a la Tierra.
 2. **MAA (Módulo de Ataque Analógico):**
-   * Nave de desprendimiento y penetración profunda. Blindada en titanio y plomo, construida **sin microchips de silicio**.
-   * Impulsada hidráulicamente con controles de nitrógeno frío, orientada con giroscopios mecánicos de precisión y miras telescópicas de cuarzo. Porta el cañón Máser direccional y los condensadores mecánicos.
+   * Punta de lanza montada en el morro del cohete. Durante el despegue y el crucero de 21 días permanece **acoplado, inerte y en reposo**.
+   * Nave de desprendimiento y penetración profunda construida **sin un solo microchip de silicio** (titanio, plomo, cuarzo y berilio).
+   * **Sólo opera a partir de los 12.000 km de L1**, cuando el Muro de Lorentz y la radiación de interferencia de *Sombra* destruyen cualquier microprocesador.
+   * Impulsada hidráulicamente con controles de nitrógeno frío, orientada con giroscopios mecánicos de precisión y periscopios de cuarzo. Porta el cañón Máser fractal y el lecho criogénico pasivo de helio de Girard.
 
 ### 👨‍🚀 Roles y Responsabilidades de la Tripulación (3 Astronautas)
 

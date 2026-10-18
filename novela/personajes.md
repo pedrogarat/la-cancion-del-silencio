@@ -83,28 +83,33 @@
 
 ## 🚀 NIVEL 4: La Tripulación de Ataque Analógico e Intercepción Orbital
 
-### 👩‍🔬 8. Comandante Chen Mei
-- **Rol:** Comandante Táctica y de Navegación del Módulo de Ataque Analógico (MAA).
+### 👨‍✈️ 8. Coronel James «Mace» MacElroy
+- **Rol:** Comandante Analógico del MAA y Piloto de Inserción Digital del tren integrado.
+- **Filiación:** Fuerza Aérea de los Estados Unidos (USAF).
+- **Perfil:** Piloto de pruebas de élite con miles de horas en reactores suborbitales y cazas de combate. Famoso por su legendaria pericia manual y templanza en situaciones de fallo instrumental total.
+- **Acciones Clave:**
+  - **Capítulo 12:** En Nochebuena, comparte raciones MRE y vodka con Chen Mei y Voronov al pie del chasis del MAA, forjando la hermandad indisoluble de la tripulación.
+  - **Capítulo 13:** En la cámara de vacío H-1 de Nellis, resiste 2.000 °C y 40 Hz de vibración gobernando las palancas mecánicas del MAA junto a Chen Mei; dialoga con Voronov recordando que este custodiará el MRD a 12.000 km para el rescate.
+  - **Capítulo 18:** Recibe solemnemente de Vassily Ramos el *Relicario de la Tierra Viva* y lo ancla a su pecho. Ocupa el asiento de babor en la cabina digital del MRD; pilota el ascenso digital bajo 4,8 G asistido por *fly-by-wire*; impone a grito pelado el lema de mando (*«¡La Tierra a la espalda, el Sol al frente!»*) venciendo el *greyout*; tras el corte de inyección a 11,2 km/s, fija el rumbo balístico a L1 y contempla la Tierra azul herida desde la cúpula.
+
+### 👩‍🔬 9. Dra. Chen Mei
+- **Rol:** Ingeniero de Cargas y Sistemas del MAA / Especialista de Vacío y Artillero del Cañón Máser.
 - **Filiación:** Administración Espacial Nacional China (CNSA).
 - **Perfil:** Astrofísica de élite, doctora por Tsinghua y especialista de primer orden en dinámica de fluidos y sistemas cuánticos en vacío.
 - **Acciones Clave:**
-  - **Capítulo 11:** Descubre que la cavidad fractal de Pleh resuena a 14,217 GHz; valida que la geometría disipa el pulso y ordena forjar el metamaterial en los hornos de Nellis.
-  - **Capítulo 12:** En Nochebuena, comparte raciones MRE y vodka con MacElroy y Voronov al pie del chasis del MAA, sellando la hermandad de la tripulación.
-  - **Capítulo 18:** Recibe de Vassily Ramos el *Relicario de la Tierra Viva* y lo ancla a su pecho. Durante el despegue bajo 4,8 G, impone a grito pelado la cadencia respiratoria y el lema de mando (*«¡La Tierra a la espalda, el Sol al frente!»*); sostiene la trayectoria manual y, tras quebrar la atmósfera, contempla la Tierra herida por el periscopio de cuarzo enfilando rumbo a Lagrange L1.
-
-### 👨‍✈️ 9. Mayor James «Mace» MacElroy
-- **Rol:** Piloto Analógico e Ingeniero de Sistemas del Módulo de Ataque Analógico (MAA).
-- **Filiación:** Aviación Naval / Fuerza Aérea de los Estados Unidos (USAF).
-- **Perfil:** Piloto de pruebas de élite con miles de horas en reactores embarcados. Famoso por su legendaria pericia manual para apontajes sin aviónica digital.
-- **Acciones Clave:**
-  - **Capítulo 18:** Ocupa el puesto derecho del MAA; controla el horizonte artificial de mercurio y el compensador de toberas durante la aceleración brutal del despegue, respondiendo al unísono al lema de Chen Mei para mantener el rumbo hacia el Sol.
+  - **Capítulo 11:** Descubre que la cavidad fractal de Pleh resuena a 14,217 GHz; valida que la geometría auto-disipa el pulso y ordena encender los hornos de Nellis para tallar el metamaterial en cuatro semanas.
+  - **Capítulo 12:** Brinda con MacElroy y Voronov en el hangar subterráneo mientras los tornos mecanizan el cuarzo.
+  - **Capítulo 13:** En la cámara H-1, detecta que la supuesta fisura estructural es solo una microdilatación de la arandela de cobre y la recalibra in situ con llave dinamométrica y microscopio de contacto al 99,6%, salvando el calendario de lanzamiento.
+  - **Capítulo 18:** Embarca en la cabina digital del MRD; supervisa los anclajes del MAA acoplado en proa; responde al unísono al lema de MacElroy durante los 4,8 G; tras la inserción orbital, confirma que el módulo analógico duerme presurizado en verde con el lecho criogénico pasivo de Girard a 4,2 K para despertar a 12.000 km de L1.
 
 ### 👨‍🚀 10. Coronel Alexei Voronov
-- **Rol:** Especialista de Propulsión Nuclear y Sistemas Criogénicos del MAA; piloto titular del Módulo de Retorno Digital (MRD).
+- **Rol:** Especialista Orbital y Comandante Titular del Módulo de Retorno Digital (MRD).
 - **Filiación:** Corporación Espacial Estatal Roscosmos (Rusia).
-- **Perfil:** Cosmonauta veterano con tres misiones de larga permanencia orbital y récord de acoplamientos manuales. Sabio, parco y leal.
+- **Perfil:** Cosmonauta veterano con tres misiones de larga permanencia en la estación orbital y récord mundial de acoplamientos manuales de emergencia. Sabio, parco, leal y de nervios de acero.
 - **Acciones Clave:**
-  - **Capítulo 18:** Ejecuta la ignición manual del reactor nuclear térmico (NTP) retirando las barras de control de carburo de boro a mil ochocientos grados; controla la inyección de hidrógeno líquido y canta los parámetros estables hasta confirmar la trayectoria de escape interplanetaria.
+  - **Capítulo 12:** Comparte el brindis de hermandad con sus dos compañeros en Nellis.
+  - **Capítulo 13:** En la campana H-1, valida la presurización del MAA y recuerda a MacElroy que su misión es penetrar y disparar mientras él mantendrá el MRD a salvo en Halo para rescatarlos.
+  - **Capítulo 18:** En la cabina de mando del MRD, supervisa la telemetría del reactor Nuclear Térmico (NTP); canta los parámetros estables durante la aceleración brutal a 4,8 G; confirma el corte digital de inyección a 11,2 km/s y activa la navegación autónoma para el crucero de 21 días, donde aguardará en órbita de Halo para la maniobra de rescate LIDAR.
 
 ### 👥 11. Tripulación de Reserva (3 Astronautas)
 - **Composición:** Un piloto de la USAF (EE.UU., suplente de MacElroy), una astrofísica de la CNSA (China, suplente de Chen Mei) y un cosmonauta de Roscosmos (Rusia, suplente de Voronov). Permanecen en reserva operativa en la base de Nellis hasta el despegue definitivo del 21 de julio de 2027.
