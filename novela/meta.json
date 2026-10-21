@@ -166,6 +166,33 @@
       "location": "Base Aérea de Nellis (Nevada) / Torre de Lanzamiento / Sala B-4 ONU",
       "readTime": "22 min",
       "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 19,
+      "title": "Capítulo 19: La Travesía a Ciegas y el Velo de Sombra",
+      "act": "Acto III: En el Corazón del Enjambre y el Renacer de la Tierra",
+      "pov": "James MacElroy / Alexei Voronov / Chen Mei",
+      "location": "Crucero interplanetario a L1 / Perímetro de seguridad a 12.000 km",
+      "readTime": "16 min",
+      "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 20,
+      "title": "Capítulo 20: El Salmo de la Falsa Victoria",
+      "act": "Acto III: La Falsa Victoria y la Cacería Silenciosa",
+      "pov": "Alexei Voronov / Jean-Luc Girard / Thomas Wright / James MacElroy / Chen Mei",
+      "location": "Órbita de Halo L1 / Incursión en Sombra / Sala B-4 ONU",
+      "readTime": "18 min",
+      "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 21,
+      "title": "Capítulo 21: La Máscara de los Héroes y el Reencuentro del Hogar",
+      "act": "Acto III: La Falsa Victoria y la Cacería Silenciosa",
+      "pov": "Dra. Sarah Lin / Dr. Jean-Luc Girard / Dr. Thomas Wright",
+      "location": "Nellis AFB / San Francisco / Versoix / Granja de Suffolk",
+      "readTime": "24 min",
+      "povImage": "img/char_protagonista.png"
     }
   ]
 }

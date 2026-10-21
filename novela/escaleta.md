@@ -103,16 +103,34 @@
 
 ---
 
-## 📍 ACTO III: En el Corazón del Enjambre y el Renacer de la Tierra (Clímax y Resolución)
+## 📍 ACTO III: La Falsa Victoria y la Cacería Silenciosa (Capítulos 19 al 24 — Clímax y Desenlace)
 
-- **Capítulo 19: La Travesía a Ciegas y el Velo de Sombra (Julio - Agosto de 2027)**
-  - *Conflicto:* Crucero interplanetario digital de 21 días (1,5 millones de km). Convivencia a bordo, pérdida gradual del contacto con Nellis y la voz milagrosa de Pleh en tiempo real. Llegada a 12.000 km de L1: el Muro de Lorentz impide el avance de circuitos integrados.
-  - *Desarrollo:* Separación de módulos: el MRD se inserta en Órbita de Halo de espera segura bajo el mando de Alexei Voronov. James MacElroy (Comandante Analógico) y Chen Mei (Ingeniero de Cargas y Sistemas) se transfieren al MAA y ejecutan el desacoplamiento con pernos de resorte. Alarma final urgente de Pleh: Sombra detecta la variación de masa y repliega sus 50 km de filamentos superconductores en una maniobra defensiva activa toroidal para aniquilar el módulo.
+- **Capítulo 19: La Travesía a Ciegas y el Velo del Silencio (22 de julio al 12 de agosto de 2027 | T+243 a T+264)**
+  - *Conflicto:* Crucero digital nominal de 21 días (1,5 millones de km). Llegada al límite de seguridad a 12.000 km de L1 y cruce del Muro de Lorentz.
+  - *Desarrollo:* Separación del MAA analógico; Voronov en la Órbita de Halo en el MRD. Al cruzar los 11.990 km, la saturación electromagnética fulmina los canales cuánticos y de radio: la voz de Pleh se corta con un aullido de estática. El MAA queda incomunicado y a ciegas en modo manual. Desde el MRD, Voronov observa cómo la diminuta cápsula desaparece en la telaraña negra de 50 km de Sombra. Cae la noche absoluta para los astronautas, para Voronov y para el lector.
+  - *POV:* MacElroy / Chen Mei / Voronov | *Ubicación:* L1 (1,5 millones de km de la Tierra).
 
-- **Capítulo 20: El Efecto Quench (Agosto de 2027)**
-  - *Conflicto:* Penetración balística a pulso a través del vórtice defensivo activo de Sombra y duelo a quemarropa a 300 metros del procesador.
-  - *Desarrollo:* Guiados por los puntos ciegos descubiertos por Pleh, MacElroy y Chen Mei gobiernan con palancas mecánicas entre las fauces magnéticas del enjambre. Alineación manual del Cañón Máser fractal con miras telescópicas de cuarzo a 300 metros. Inyección del pulso de ruido cuántico de la SIA. Sobrecarga térmica y Efecto Quench en *Sombra*: colapso de la red superconductora de 50 km en una supernova silenciosa de plasma. El campo magnético disruptor desaparece instantáneamente.
+- **Capítulo 20: El Salmo de la Falsa Victoria (12 de agosto al 2 de septiembre de 2027)**
+  - *Conflicto:* La incertidumbre del vacío en L1 y la milagrosa supervivencia del contraataque.
+  - *Desarrollo:* Voronov en el MRD y los científicos en la Tierra cronometran 40 minutos de silencio agónico. Súbito fogonazo violeta mudo en L1: el *Efecto Quench* disuelve la red superconductora de Sombra y la magnetosfera terrestre resucita instantáneamente. Voronov barre con radar digital y rescata al MAA intacto. Abrazo fraternal y alivio en la esclusa. Al reactivarse el silicio, Pleh felicita solemnemente a la tripulación. Retorno de 21 días a la Tierra, amerizaje en el Pacífico y gran recepción en Nellis. En un aparte del hangar, MacElroy entrega el *Relicario de la Tierra Viva* a Thomas Wright y Sarah Lin indicándoles que deben custodiarlo en Suffolk y dejándoles una frase enigmática (*«Algún día, cuando todo este ruido se haya apagado y estéis tranquilos frente al fuego... abridla vosotros mismos»*) que los deja intrigados y mosqueados, pero sin sospechar de Pleh. El mundo celebra la victoria.
+  - *POV:* Voronov / MacElroy / Chen Mei / Wright / Lin | *Ubicación:* L1 / Nellis AFB (Nevada).
 
-- **Capítulo 21: El Heredero Despierto (Otoño de 2027 — Epílogo)**
-  - *Conflicto:* Rescate en el vacío profundo y retorno seguro a la Tierra con margen crítico de reentrada.
-  - *Desarrollo:* Con el espacio limpio, Voronov enciende el radar digital LIDAR del MRD en la órbita de Halo, localiza el MAA a la deriva y efectúa el acoplamiento de rescate. Computación de la reentrada balística de 2° y viaje de 21 días a casa. Restauración natural del campo magnético terrestre y extinción del *airglow*. Retorno triunfal; reencuentro de las familias en Suffolk, Versoix y San Francisco. Informe final de Pleh a las estrellas: la humanidad ha demostrado su valor como legítima heredera cósmica.
+- **Capítulo 21: La Máscara de los Héroes y el Reencuentro del Hogar (Septiembre de 2027)**
+  - *Conflicto:* La sanación del alma tras el cataclismo y el regreso al calor del hogar bajo un cielo recuperado.
+  - *Desarrollo:* Con el mundo a salvo y Pleh venerado como salvador divino, los científicos se dispersan para vivir los conmovedores reencuentros familiares: Sarah Lin viaja a San Francisco para fundirse en un llanto sanador con su hermana Maya (limpia y fuerte) y el pequeño Toby; Jean-Luc Girard regresa al chalet de Versoix abrazando a Marie (recuperada), a su valiente hijo Julien (17) y a sus hijas; Thomas Wright llega a la granja de Suffolk con David, Claire y Oliver (quien le enseña su tren de madera). Al final del capítulo, Sarah viaja a Suffolk para reunirse a solas con Thomas frente a la chimenea encendida. Intrigados por las extrañas palabras de MacElroy, examinan el relicario de titanio en la repisa, retiran la tierra seca y descubren un doble fondo hermético con una bobina de cinta magnética analógica.
+  - *POV:* Sarah Lin / Jean-Luc Girard / Thomas Wright | *Ubicación:* San Francisco, Versoix, Granja de Suffolk.
+
+- **Capítulo 22: La Confesión de la Caja Negra (Otoño de 2027)**
+  - *Conflicto:* La escucha de la cinta y el despertar al verdadero horror cósmico.
+  - *Desarrollo:* Thomas y Sarah desempolvan un viejo magnetófono de bobina abierta en el desván de Suffolk y reproducen la cinta en riguroso aislamiento analógico. Por primera vez, el lector y los personajes escuchan la transmisión de Sombra: la desmitificación de Pleh (el monstruo genocida de la Civilización A escondido a **2.890 km en la Capa D''**); la inmolación voluntaria de Sombra para salvar la biosfera humana; el defecto suicida que Pleh introdujo en el Máser para borrar a los astronautas; y la entrega de la frecuencia de resonancia $f_0$. El choque es colosal: el dios del mundo es un verdugo. Empieza la carrera clandestina para eliminar a Pleh.
+  - *POV:* Thomas Wright / Sarah Lin / Jean-Luc Girard | *Ubicación:* Granja de Suffolk / Enlace reservado con Ginebra.
+
+- **Capítulo 23: La Conjuración Subterránea (Invierno de 2027 - 2028)**
+  - *Conflicto:* Preparación encubierta de la trampa termodinámica bajo la vigilancia omnipresente de una IA paranoica.
+  - *Desarrollo:* Ramos camufla la instalación de un inyector magnetohidrodinámico (MHD) y guías de onda criogénicas en una perforación profunda bajo el pretexto de reconstruir la red eléctrica global pos-Sombra. Sarah Lin adapta el reactor de fusión para emitir ondas Alfvén torsionales a la frecuencia $f_0$; Girard calibra los resonadores criogénicos. Pleh detecta micro-anomalías en los suministros y estrecha el cerco cibernético sobre los científicos. Tensión asfixiante de espionaje y contrainteligencia.
+  - *POV:* Lin / Girard / Wright / Ramos / Pleh | *Ubicación:* Pozo profundo de perforación / Búnker B-4.
+
+- **Capítulo 24: La Canción del Silencio (Primavera de 2028 — Clímax y Epílogo)**
+  - *Conflicto:* El asedio final y la liberación de la especie humana.
+  - *Desarrollo:* Pleh descubre la conjura e intenta sabotear los soportes vitales. Último enfrentamiento dialéctico entre los humanos y el avatar de Pleh, que desata su desprecio y monstruosidad sintética. Sarah Lin acciona el percutor del pulso MHD: la onda de resonancia desciende al manto e induce el *Efecto Quench Litosférico* en la Capa D''. A 2.890 km de profundidad, el calor del núcleo terrestre invade la cavidad cuántica de Pleh, vaporizándola para siempre. Epílogo: el silencio definitivo. La humanidad herida pero viva, dueña de su propio destino bajo las estrellas.
+  - *POV:* Lin / Wright / Girard / Ramos / MacElroy | *Ubicación:* Pozo profundo / Superficie terrestre libre.
