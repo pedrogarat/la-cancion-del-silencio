@@ -45,7 +45,7 @@ class BookCanvas(canvas.Canvas):
         self.setLineWidth(0.5)
         self.line(54, 45, A4[0] - 54, 45)
         
-        self.drawString(54, 32, "Capítulo 21: La Máscara de los Héroes y el Reencuentro del Hogar")
+        self.drawString(54, 32, "Capítulo 21: El Despertar del Azul")
         page_str = f"Página {self._pageNumber} de {page_count}"
         self.drawRightString(A4[0] - 54, 32, page_str)
         self.restoreState()
@@ -247,7 +247,7 @@ def generate_chapter21_pdf(input_md_path, output_filename):
 
 if __name__ == "__main__":
     md_file = os.path.join("novela", "capitulos", "capitulo_21.md")
-    pdf_out = "Capitulo_21_La_Mascara_de_los_Heroes_y_el_Reencuentro_del_Hogar.pdf"
+    pdf_out = "Capitulo_21_El_Despertar_del_Azul.pdf"
     generate_chapter21_pdf(md_file, pdf_out)
 
     dest_novela = os.path.join("novela", pdf_out)

@@ -2,8 +2,8 @@
 ## *La Canción del Silencio / Antigravity*
 
 > **Agente Responsable:** **Memo** (Cronista y Archivero Mayor)
-> **Última actualización:** 2026-10-21 12:49:35 UTC
-> **Total de sesiones recopiladas:** 47
+> **Última actualización:** 2026-10-26 21:35:00 UTC
+> **Total de sesiones recopiladas:** 52
 
 Este documento recopila la transcripción íntegra y ordenada de las conversaciones, instrucciones, acuerdos técnicos, debates de trama y decisiones editoriales entre el Autor y Antigravity.
 
@@ -58,6 +58,11 @@ Este documento recopila la transcripción íntegra y ordenada de las conversacio
 - **[Sesión 45 — 2026-10-20 18:09:23 UTC](#sesión-45---26865942)**: como estoy ahora con mi cuota de Antigravity? Haz un chequeo porfa...
 - **[Sesión 46 — 2026-10-20 20:33:38 UTC](#sesión-46---d21ea277)**: /carl Dine qué podría codiciar una SIA de una civilzacion extinguida de la Tierr...
 - **[Sesión 47 — 2026-10-21 12:42:57 UTC](#sesión-47---ee6f3e20)**: /bill sube a github...
+- **[Sesión 48 — 2026-10-23 21:45:48 UTC](#sesión-48---c6370add)**: donde están los .md de los capítulos?...
+- **[Sesión 49 — 2026-10-24 14:31:30 UTC](#sesión-49---4bf46d40)**: Varias cosas: Cuandi Sara y Thomas abre en el relicario, creo que a Miguel se le...
+- **[Sesión 50 — 2026-10-24 14:37:42 UTC](#sesión-50---3c4a63dd)**: Quiero que leas lo que está en PROYECTO. Luego me haces un resumen a ver si lo e...
+- **[Sesión 51 — 2026-10-26 06:39:31 UTC](#sesión-51---5ecbf63e)**: Pulido de coherencia en Cap. 21 y creación autónoma de "El Despertar del Azul"...
+- **[Sesión 52 — 2026-10-26 19:06:21 UTC](#sesión-52---281c1b2e)**: /carl escucha el audio (Auditoría de transporte y metro tras colapso; deferencia militar y Cap. 23)...
 
 ---
 
@@ -11296,10 +11301,345 @@ El archivo ha sido generado de inmediato con toda la memoria histórica del proy
 ## Sesión 47 - ee6f3e20
 **Identificador completo:** `ee6f3e20-0b11-4208-ad66-8ea67737f751`  
 **Fecha y Hora de inicio:** `2026-10-21 12:42:57 UTC`  
-**Intercambios registrados:** 1
+**Intercambios registrados:** 2
 
 ### 👤 Autor *(2026-10-21 12:42:57 UTC)*
 
 /bill sube a github
 
+### 🤖 Antigravity / Asistente *(2026-10-21 12:50:09 UTC)*
+
+### 🛠️ Informe de Despliegue Editorial — Bill
+
+Todo el proyecto ha sido compilado, verificado y sincronizado con éxito en el repositorio remoto de GitHub (`main`).
+
 ---
+
+### 📦 Tareas Ejecutadas en el Flujo Editorial
+
+1. **Compilación de Datos Web y Anti-Caché:**
+   - Se actualizaron los metadatos de [`novela/meta.json`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/meta.json) incorporando formalmente los Capítulos 19, 20 y 21 (títulos, arcos de acto, POVs y tiempos de lectura).
+   - Se ejecutó `node build-novel-data.js`, regenerando [`chapters-data.js`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/chapters-data.js), [`version.json`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/version.json) y refrescando los tokens anti-caché en [`index.html`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/index.html) con los 21 capítulos completos.
+
+2. **Verificación de Salidas Editoriales PDF:**
+   - Comprobados y validados los PDFs (en raíz y en `novela/`):
+     - [`Capitulo_20_El_Salmo_de_la_Falsa_Victoria.pdf`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/Capitulo_20_El_Salmo_de_la_Falsa_Victoria.pdf)
+     - [`Capitulo_21_La_Mascara_de_los_Heroes_y_el_Reencuentro_del_Hogar.pdf`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/Capitulo_21_La_Mascara_de_los_Heroes_y_el_Reencuentro_del_Hogar.pdf)
+     - [`Teorias_Pleh_Antagonista.pdf`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/Teorias_Pleh_Antagonista.pdf)
+
+3. **Bitácora y Memoria de Sesión (Capitán Memo):**
+   - Ejecutado el script de transcripción [`recopilar_historial.py`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/.agents/skills/memo/scripts/recopilar_historial.py), volcando las 47 sesiones registradas en [`historial/historial.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/historial/historial.md) para garantizar la continuidad íntegra entre equipos.
+
+4. **Documentación de Proyecto:**
+   - Actualizado [`walkthrough.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/walkthrough.md) reflejando el estado de la obra (21 capítulos completos y cierre del Acto II / avance del Acto III).
+
+5. **Commit y Despliegue en GitHub:**
+   - **Commit:** [`b68fea7`](https://github.com/pedrogarat/la-cancion-del-silencio/commit/b68fea79d8c616c79d632d992bc3d0bb5b346c3a) — *`feat(editorial): incorporar Capitulos 20 y 21 con PDFs, visor web actualizado, bitacoras y metadatos sincronizados`*
+   - **Rama:** `main`
+   - **Estado remoto:** Subido con éxito a `https://github.com/pedrogarat/la-cancion-del-silencio.git` (`cfd50ae..b68fea7`).
+   - **Árbol de trabajo:** Limpio y 100% sincronizado.
+
+---
+
+## Sesión 48 - c6370add
+**Identificador completo:** `c6370add-516c-46a6-8d14-d784264fdc72`  
+**Fecha y Hora de inicio:** `2026-10-23 21:45:48 UTC`  
+**Intercambios registrados:** 2
+
+### 👤 Autor *(2026-10-23 21:45:48 UTC)*
+
+donde están los .md de los capítulos?
+
+### 🤖 Antigravity / Asistente *(2026-10-23 21:46:01 UTC)*
+
+Los archivos `.md` de los capítulos se encuentran en la subcarpeta **[`novela/capitulos/`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos)**.
+
+Allí encontrarás:
+- **Texto completo de los capítulos:** desde [`capitulo_1.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_1.md) hasta [`capitulo_21.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_21.md).
+- **Desgloses y escaletas por escena:** los correspondientes archivos de desglose de cada uno (ej. [`capitulo_21_desglose.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_21_desglose.md)).
+
+---
+
+## Sesión 49 - 4bf46d40
+**Identificador completo:** `4bf46d40-5336-438a-94a0-4bc6328c7ada`  
+**Fecha y Hora de inicio:** `2026-10-24 14:31:30 UTC`  
+**Intercambios registrados:** 5
+
+### 👤 Autor *(2026-10-24 14:31:30 UTC)*
+
+Varias cosas:
+Cuandi Sara y Thomas abre en el relicario, creo que a Miguel se le ha ido la pinza con los tecnicismos ... jaja... :
+Es una caja de aleación Ti-6Al-4V 
+el baricentro está desplazado hacia la esquina inferior derecha.
+Hay por lo menos cuatrocientos gramos de sobrepeso. Y la distribución de inercia es completamente asimétrica en el plano basal.
+El mu-metal.... 
+....
+
+A ver.... que no sea tan específico todo... 
+MacElroy metió una cinta magnética analógica envuelta en una tela simple, entre la tierra ... Una cinta de repuesto que grababa todo lo del Módulo Analógico.
+La usó Sombra mara introducir la información que hablamos para acabar con Pleh.
+
+Simplemente tendrán que escucharla con una máquina antigua que ecnontrarán en el desván de Suffolk.
+
+### 🤖 Antigravity / Asistente *(2026-10-24 14:34:30 UTC)*
+
+¡Totalmente de acuerdo! A Miguel se le había ido la mano con la jerga de ingeniería (*Ti-6Al-4V*, baricentros milimétricos, bisagras de berilio y láminas de mu-metal). Convertía un momento íntimo y de puro suspense en una inspección de laboratorio aeroespacial.
+
+Hemos reescrito y simplificado la **Sección VI del [Capítulo 21](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_21.md#L303-L373)** siguiendo con exactitud tus directrices:
+
+---
+
+### 🖋️ Cambios realizados en la escena del Relicario:
+
+1. **Cero pedantería técnica:**
+   - Fuera el *Ti-6Al-4V*, el cálculo de sobrepeso de cuatrocientos gramos, la asimetría de inercia basal, las juntas de vitón y los cerrojos de bayoneta de relojero.
+   - Es una caja metálica sobria que Thomas abre tranquilamente con su navaja frente a la chimenea.
+
+2. **El hallazgo orgánico y directo en la tierra:**
+   - Al abrirla y contemplar los lechos de tierra de Nevada, Yangtsé y Volga con la espiga de trigo, Sarah nota que la tierra de la derecha ha sido removida con los dedos.
+   - Thomas escarba con la mano y encuentra directamente enterrada en la arcilla seca una bobina envuelta en un trozo de tela basta (un retal cortado de un mono de faena militar).
+
+3. **La cinta analógica y la intervención de Sombra:**
+   - Es una bobina de cinta magnética analógica de repuesto del registrador electromecánico del **Módulo Analógico (MAA)**.
+   - Sombra aprovechó la proximidad física en L1 antes del *Quench* para introducir en ese soporte electromecánico la información sobre la vulnerabilidad de Pleh, siendo el único medio que el avatar digital jamás podría vigilar ni borrar.
+   - MacElroy la envolvió y la ocultó en la tierra bendecida antes de salir de la nave.
+   - Nota manuscrita a lápiz de MacElroy:
+     ```text
+     COPIA DEL MÓDULO ANALÓGICO.
+     SOMBRA LA USÓ ANTES DEL QUENCH.
+     NO CONECTAR A NADA DIGITAL.
+     AQUÍ ESTÁ LA FORMA DE DESTRUIR A PLEH.
+     ```
+
+4. **El gancho final hacia el desván de Suffolk:**
+   - Ante la perplejidad de cómo escuchar una cinta analógica de bobina abierta en pleno siglo XXI sin usar ningún equipo digital que delate la señal a Pleh, Thomas recuerda el viejo magnetófono de bobinas y válvulas de su abuelo guardado en un baúl del desván entre trastos de radioaficionado de los años setenta.
+   - La escena cierra con el suspense en todo lo alto: la verdadera guerra acaba de comenzar en el silencio de Suffolk.
+
+---
+
+### 📚 Documentación y archivos sincronizados:
+- **Texto del manuscrito:** Actualizado en [`novela/capitulos/capitulo_21.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_21.md#L303-L373).
+- **Desglose de escenas:** Ajustado en [`novela/capitulos/capitulo_21_desglose.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_21_desglose.md#L35-L38).
+- **Códice rector:** Sincronizada la sinopsis en [`novela/recapitulacion.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/recapitulacion.md#L125).
+- **Datos web y visor:** Regenerado con `build-novel-data.js` ([`chapters-data.js`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/chapters-data.js)).
+- **Edición PDF:** Regenerado y sincronizado el PDF editorial del capítulo: [`Capitulo_21_La_Mascara_de_los_Heroes_y_el_Reencuentro_del_Hogar.pdf`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/Capitulo_21_La_Mascara_de_los_Heroes_y_el_Reencuentro_del_Hogar.pdf).
+- **Bitácora histórica:** Actualizada en [`historial/historial.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/historial/historial.md).
+
+### 👤 Autor *(2026-10-24 14:35:49 UTC)*
+
+@[g:\OneDrive\ANTIGRAVITY\NOVELA_3\novela\capitulos\capitulo_21.md:L327] No es necesario decir que no hay lo que estaba escrito.@[g:\OneDrive\ANTIGRAVITY\NOVELA_3\novela\capitulos\capitulo_21.md:L341] Es mejor que en lugar de esta frase ponga "DESCONFIAD DE PLEH"
+
+### 🤖 Antigravity / Asistente *(2026-10-24 14:36:36 UTC)*
+
+¡Hecho! Ambos detalles han sido ajustados con total precisión:
+
+1. **Eliminada la mención innecesaria:** Se ha suprimido la frase que hacía referencia a mecanismos o dobles fondos inexistentes. Ahora la narración entra de forma directa y limpia al hallazgo:
+   > *«Enterrado directamente en la arcilla, protegido tan solo por un trozo de tela basta —un retal gris cortado de un mono de faena militar—, apareció un objeto cilíndrico y plano.»*
+
+2. **Nueva frase de la nota manuscrita:** Queda mucho más rotunda, enigmática y sobrecogedora:
+   ```text
+   COPIA DEL MÓDULO ANALÓGICO.
+   SOMBRA LA USÓ ANTES DEL QUENCH.
+   NO CONECTAR A NADA DIGITAL.
+   DESCONFIAD DE PLEH.
+   ```
+
+Los cambios ya han quedado consolidados en:
+- [`novela/capitulos/capitulo_21.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_21.md#L324-L343)
+- [`novela/capitulos/capitulo_21_desglose.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_21_desglose.md#L35-L38)
+- Visor web compilado con `build-novel-data.js` ([`chapters-data.js`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/chapters-data.js))
+- Edición PDF regenerada: [`Capitulo_21_La_Mascara_de_los_Heroes_y_el_Reencuentro_del_Hogar.pdf`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/Capitulo_21_La_Mascara_de_los_Heroes_y_el_Reencuentro_del_Hogar.pdf)
+- Bitácora de sesión en [`historial/historial.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/historial/historial.md)
+
+### 👤 Autor *(2026-10-24 14:39:22 UTC)*
+
+Quiero que lo primero que hagan en cuanto se den cuenta de la nota, que deben hablar lejos de cualquier dispositivo que Pleh pueda escucharles. Se harán gestos ...
+
+---
+
+## Sesión 50 - 3c4a63dd
+**Identificador completo:** `3c4a63dd-d2f3-4ed0-a9a7-a4ed02c8e750`  
+**Fecha y Hora de inicio:** `2026-10-24 14:37:42 UTC`  
+**Intercambios registrados:** 2
+
+### 👤 Autor *(2026-10-24 14:37:42 UTC)*
+
+Quiero que leas lo que está en PROYECTO.
+Luego me haces un resumen a ver si lo entendiste todo.
+
+### 🤖 Antigravity / Asistente *(2026-10-24 14:39:55 UTC)*
+
+He revisado en detalle todo el contenido de la carpeta **PROYECTO** (así como la documentación técnica, memoria, planos y el expediente completo de **Comunicaciones con el Ayuntamiento de Ferrol**). 
+
+A continuación tienes un resumen estructurado para que compruebes si está todo comprendido:
+
+---
+
+### 1. Datos Generales del Proyecto
+* **Objeto:** Proyecto Básico y de Ejecución de Reforma de Edificio para Garaje y 4 Viviendas (y posterior Estado Final de Obras Refundido).
+* **Emplazamiento:** Rúa Pascual Veiga nº 9, 15403 Ferrol (A Coruña).
+* **Referencia Catastral:** `2750608NJ6125S0001SH`.
+* **Marco Urbanístico:** Plan Parcial de Esteiro (Manzana 6A, Ordenanza 9A).
+* **Arquitecto y Director de Obra:** Pedro Garat Caramé (Colegiado COAG nº 3.577).
+* **Promotor:** Iniciado por Manuel Rodríguez Rodríguez y formalmente subrogado en marzo de 2025 a **Terra Ártabra 205, S.L.**
+
+---
+
+### 2. El Inmueble y la Intervención Técnica
+
+#### Estado Original (Edificio de 1963)
+* Edificio entre medianeras de hormigón armado: Planta baja (antiguo local sin uso), 4 plantas altas con una vivienda por planta (aprox. 85 m² construidos por planta) y planta bajo cubierta destinada a desván/almacén, con patio de manzana trasero cerrado.
+
+#### Actuaciones Principales de la Reforma
+1. **Accesibilidad y Núcleo de Comunicación Vertical:**
+   * Instalación de ascensor que conecta desde la cota del portal hasta la última planta de viviendas.
+   * Modificación de la entrada y portal para resolver el desnivel entre la calle y la cota de embarque.
+   * Para encajar el ascensor y la caja de escaleras fue necesario absorber una pequeña franja de superficie interior de cada una de las viviendas preexistentes.
+2. **Reforma Integral de las 4 Viviendas (Plantas 1ª a 4ª):**
+   * Redistribución interior completa: zona diáfana de salón-comedor-cocina, 3 dormitorios y 2 baños (aprox. 60,70 m² útiles de vivienda privativa).
+   * Nuevas carpinterías exteriores de aluminio con rotura de puente térmico (RPT).
+   * Renovación de instalaciones con climatización y ACS mediante bomba de calor (aerotermia).
+3. **Planta Baja y Patio Posterior (Cambio de Uso a Aparcamiento):**
+   * Transformación de la planta baja en zaguán/paso de vehículos y portal independiente.
+   * Apertura de portalón para vehículos en fachada hacia Pascual Veiga.
+   * Acondicionamiento del patio trasero como aparcamiento de vehículos.
+   * Dotación de trasteros vinculados a las viviendas.
+
+---
+
+### 3. Trayectoria Administrativa con el Concello de Ferrol
+El expediente municipal (**CP07 86/2024**, junto con **D-182/2023**, **CP-04** y **CP-11**) resume el histórico de tramitación:
+
+1. **Septiembre 2023 – Mayo 2024 (Estudio Previo de Ascensor):**
+   * Se tramitó y aprobó el estudio previo para la implantación del ascensor, justificando la necesidad de afección al espacio de las viviendas y al bajo.
+2. **Octubre 2024 (Comunicación Previa de Obra Mayor CP07):**
+   * Presentación del Proyecto Básico y de Ejecución visado por el COAG (nº visado 2405590,2).
+3. **Noviembre 2024 – Enero 2025 (Requerimiento y Trámite de Excepcionalidad NHV):**
+   * El Concello requirió el nombramiento de Coordinador de Seguridad y Salud (CSS), justificación de DB-SUA, telecomunicaciones y cumplimiento de las Normas de Habitabilidad de Viviendas de Galicia (Decreto 29/2010).
+   * En enero de 2025 se presentó Anejo visado y la **solicitud formal de excepción a las NHV** en los espacios de desembarco/acceso por imposibilidad geométrica (art. B.2.1.3 en portal y art. B.2.3 en plantas tipo).
+4. **Marzo 2025 (Cambio de Titular y Tasas):**
+   * Tramitación de la CP04 de cambio de titularidad a favor de *Terra Ártabra 205, S.L.*, aportación del oficio de CSS y liquidación de tasas.
+5. **Febrero – Mayo 2026 (Fin de Obra y Estado Final Refundido):**
+   * Redacción y registro del **Estado Final de Obra Refundido** (visado COAG 2405590,10 en mayo de 2026), recogiendo ajustes de obra:
+     - Replanteo del patio tras derribo de construcciones previas.
+     - Reubicación de patinillos y armarios de instalaciones (centralizaciones en baja, aerotermia interior).
+     - Ampliación de 2 a 4 trasteros (un trastero independiente para cada una de las 4 viviendas aprovechando bajo escalera).
+     - Nueva puerta cortafuegos de acceso/comunicación al garaje.
+   * **Notificación Favorable Municipal (22/05/2026):** El Concello de Ferrol aprobó favorablemente tanto el Estado Final como la Excepcionalidad de Habitabilidad (NHV).
+6. **Junio 2026 (Primera Ocupación CP11):**
+   * Presentación de la Comunicación Previa de Primera Ocupación (CP-11), con certificado final de edificio terminado, boletines de instalaciones y representación.
+7. **Octubre 2026 (Trámite final de subsanación):**
+   * Aportación requerida para la resolución de la CP11: Justificante de declaración catastral (Modelo 900D) y fotografías de la cerradura de la puerta entre el garaje y los elementos comunes requeridas por la ingeniera técnica municipal.
+
+---
+
+¿Hay algún punto o aspecto concreto sobre el que quieras que profundicemos o preparemos alguna documentación?
+
+---
+
+## Sesión 51 - 5ecbf63e
+**Identificador completo:** `5ecbf63e-ac7e-4707-b0c5-86cb1545838c`  
+**Fecha y Hora de inicio:** `2026-10-26 06:39:31 UTC`  
+**Intercambios registrados:** 1
+
+### 👤 Autor *(2026-10-26 06:39:31 UTC)*
+
+@[g:\OneDrive\ANTIGRAVITY\NOVELA_3\novela\capitulos\capitulo_21.md:L223] El niño llama Papá a us padre, no David.
+@[g:\OneDrive\ANTIGRAVITY\NOVELA_3\novela\capitulos\capitulo_21.md:L221] Era madera de peral o de manzano?
+@[g:\OneDrive\ANTIGRAVITY\NOVELA_3\novela\capitulos\capitulo_21.md:L213] Qué era lo de Eye? aumenta la frase para refrescar al lector.
+@[g:\OneDrive\ANTIGRAVITY\NOVELA_3\novela\capitulos\capitulo_21.md:L103] ¿Tia Sally? ¿No será Tía Sarah?
+
+### 🤖 Antigravity / Asistente *(2026-10-26 06:41:00 UTC)*
+
+He revisado exhaustivamente el canon y los capítulos previos de la novela (*recapitulación*, *personajes* y el *Capítulo 17: El Páramo de Mediodía*), y he corregido los cuatro puntos en [`novela/capitulos/capitulo_21.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_21.md):
+
+1. **Línea 103 (Nombre de la tía):** Corregido de *«Tía Sally»* a **«Tía Sarah»**. Se trataba de un desliz en el diálogo de Toby con su tía Sarah Lin.
+2. **Línea 213 (Refrescar los hechos de Eye):** Se amplió el diálogo de Thomas a David para refrescar la incursión heroica del Capítulo 17: el blindaje del Land Rover Defender con láminas de aluminio, la careta de soldador a mediodía bajo el sol abrasador y la obtención de media tonelada de conservas en las naves de *Anglia Food Logistics* en Eye para salvar a Oliver de la inanición.
+3. **Línea 221 (Madera de la locomotora):** Corregido de *«madera de peral»* a **«madera de manzano»**, en estricta coherencia con el Capítulo 17 (donde se establece canónicamente que Thomas talló la locomotora con madera de manzano).
+4. **Línea 223 (Tratamiento hacia el padre):** Corregido el grito de Oliver de 3 años, sustituyendo *«David me llevó»* por el natural y cariñoso **«Papá me llevó en el Land Rover grande y el sol ya no muerde»**.
+
+### 👤 Autor *(2026-10-26 06:50:13 UTC)*
+
+@[g:\OneDrive\ANTIGRAVITY\NOVELA_3\novela\capitulos\capitulo_21.md:L7] Al principio de este capítulo hacer una introducción explicando el contexto mundial en medidas de desescalada. No mucha info, pero la suficiente para que el lector sea consciente de que el mundo, la sociedad comienza a despertar. Es una tragedia catastrófica con millones de muertos,... hay que recoger sus cuerpos quemados de las calles, ... al final de esta introducción dejar claro que la herida se está curando....
+
+### 🤖 Antigravity / Asistente *(2026-10-26 06:51:30 UTC)*
+
+Se ha incorporado una obertura lírica, sobria y visceral al inicio de la Sección I de [`novela/capitulos/capitulo_21.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_21.md):
+- Se plasma el despertar paulatino del mundo y la desescalada global tras reactivarse el dínamo terrestre y sellarse el ozono estratosférico: apertura de compuertas oxidadas de búnkeres cívicos, túneles de metro y cese de alarmas diurnas.
+- Se retrata el terrible coste humano con millones de muertos: las brigadas militares y sanitarias con desinfectante y cal viva recogiendo los cuerpos desecados y calcinados de las calles junto a vehículos y paradas de tranvía, y las morgues colapsadas en estadios.
+- Se culmina con el pulso biológico de la recuperación: el cese de caretas de soldador, la reapertura paulatina de transportes y mercados bajo el olor a lluvia de verano, dejando nítida la certeza de que la herida colectiva ha comenzado a curarse antes de dar paso al hangar de Nellis.
+
+### 👤 Autor *(2026-10-26 06:54:41 UTC)*
+
+Mejor hacemos un capítulo inicial sobre esto, al margen de la escena en Nellis.
+/Carl, coordina con /Miguel cómo la atmósfera se recupera y plasmarlo en este capítulo inicial. Luego lo que tenemos: la desescalada.
+
+### 🤖 Antigravity / Asistente *(2026-10-26 06:55:50 UTC)*
+
+Coordinación entre Carl (rigor científico de la regeneración atmosférica por ciclo de Chapman, geodinamo y colapso de UVI) y Miguel (prosa poética y visceral). Propuesta del nuevo capítulo autónomo "Capítulo 21: El Despertar del Azul" y traspaso del capítulo de Nellis y reencuentros al "Capítulo 22: La Máscara de los Héroes y el Reencuentro del Hogar".
+
+### 👤 Autor *(2026-10-26 06:56:17 UTC)*
+
+Venga sí. MAgnífico
+
+### 🤖 Antigravity / Asistente *(2026-10-26 07:01:00 UTC)*
+
+Ejecución y consolidación canónica completada:
+1. Redacción del nuevo [`novela/capitulos/capitulo_21.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_21.md) (*El Despertar del Azul*):
+   - I. La Noche de las Estrellas Huérfanas (Reconexión de geodinamo, disolución del airglow y ciclo fotoquímico de Chapman).
+   - II. El Éxodo de las Trincheras (Fin del toque de sol, brigadas de cal viva, millones de víctimas y secuelas de la hambruna).
+   - III. El Pulso de la Lluvia (Lluvias limpias de septiembre, brotes verdes y cierre de la herida).
+   - Desglose oficial en [`novela/capitulos/capitulo_21_desglose.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_21_desglose.md).
+2. Consolidación de [`novela/capitulos/capitulo_22.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_22.md) (*La Máscara de los Héroes y el Reencuentro del Hogar*) con la despedida de Nellis, los reencuentros de San Francisco, Versoix y Suffolk, y el descubrimiento secreto de la cinta magnética en el relicario, junto con su desglose en [`novela/capitulos/capitulo_22_desglose.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_22_desglose.md).
+3. Actualización sincrónica de [`novela/meta.json`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/meta.json), [`novela/escaleta.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/escaleta.md), [`novela/recapitulacion.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/recapitulacion.md) y [`novela/sinopsis.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/sinopsis.md), proyectando la obra hacia su desenlace en 25 capítulos.
+4. Compilación exitosa del lector web con `node build-novel-data.js` para los 22 capítulos actuales.
+
+---
+
+## Sesión 52 - 281c1b2e
+**Identificador completo:** `281c1b2e-90fa-4698-9521-732fd549ab3d`  
+**Fecha y Hora de inicio:** `2026-10-26 19:06:21 UTC`  
+**Intercambios registrados:** 4
+
+### 👤 Autor *(2026-10-26 19:06:21 UTC)*
+
+/carl escucha el audio
+*(Audio: Consulta de rigor científico sobre la verosimilitud de la reactivación inmediata del tren regional de Cornavin o el metro de San Francisco tras semejante catástrofe).*
+
+### 🤖 Antigravity / Carl *(2026-10-26 19:08:00 UTC)*
+
+Informe de auditoría científico-técnica de Carl:
+1. **Diagnóstico general:** Tras 10 meses de colapso electromagnético global (transformadores EHV quemados por corrientes inducidas, parálisis de redes y confinamiento por radiación UV) sumados al sismo de 7,9 y tsunami de abril en San Francisco, es física y logísticamente imposible que los tranvías urbanos o el metro funcionen con normalidad en 3-4 semanas.
+2. **Cornavin–Versoix:** Plausible con reservas solo por la hidroeléctrica suiza y distancias cortas (9 km), pero no como servicio regular comercial de pasajeros a las 18:00h, sino como convoy diésel de emergencia o enlace de socorro.
+3. **San Francisco (Market St. y Metro):** Error e inverosimilitud grave en el plazo actual: túneles anegados con salitre por el tsunami, fallas de cizalla del sismo y meses de confinamiento sin poder trabajar al exterior. Se propone sustituir el tranvía eléctrico por el rugido de camiones de desescombro y motobombas achicando lodo salobre.
+4. **Metro de Londres:** Thomas no debe hablar de un 80% de operatividad, sino de bombeo precario y trenes diésel de superficie.
+5. Preguntas al Autor para decidir los ajustes de tono y realismo.
+
+### 👤 Autor *(2026-10-26 21:00:25 UTC)*
+
+*(Dos audios):*
+- Sí a las dos preguntas (ajustar el texto con la reconstrucción precaria y mantener la fecha canónica en septiembre de 2027).
+- Decisión logística militar: Como deferencia de honor a los tres científicos más señalados del Comité Director, los militares realizan incursiones previas en San Francisco, Versoix y Suffolk para localizarlos y tender un enlace de radio/teléfono táctico directo con sus familias antes de partir.
+- Traslado directo a sus hogares en helicópteros militares tácticos (evitando infraestructuras comerciales colapsadas).
+- Modificar los capítulos 21/22 en lo necesario y empezar a dibujar la propuesta para el Capítulo 23.
+
+### 🤖 Antigravity / Asistente *(2026-10-26 21:10:00 UTC)*
+
+Propuesta de ajustes para el Capítulo 22 y desglose escena a escena para el Capítulo 23 (*La Aguja en el Desván* / La conspiración analógica en el desván de Suffolk mediante magnetófono de bobina abierta, la revelación del testamento de *Sombra* y el nacimiento de la *Resistencia del Grafito*).
+
+### 👤 Autor *(2026-10-26 23:31:33 UTC)*
+
+Magnífcio! DAle!
+
+### 🤖 Antigravity / Asistente *(2026-10-26 23:36:00 UTC)*
+
+Ejecución y consolidación completadas:
+1. **Actualización de [`novela/capitulos/capitulo_22.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_22.md):**
+   - **Escena 1:** Incorporada la deferencia militar de honor de Vance y la coalición; enlace táctico por radio militar con Maya, Marie/Julien y David antes del despegue; corrección del transporte de Londres a convoyes diésel y motobombas; asignación de helicópteros militares tácticos.
+   - **Escena 2:** Sarah llega a San Francisco en un helicóptero táctico Black Hawk al helipuerto de emergencia del Centro Cívico; descripción rigurosa de Market Street tras el sismo de 7,9 y tsunami (raíles partidos, motobombas achicando lodo de Powell Street, camiones volquete y trabajo colectivo al sol sin caretas).
+   - **Escena 3:** Jean-Luc Girard llega a Versoix en un helicóptero militar Super Puma de las Fuerzas Aéreas Suizas en un país que raciona su energía hidroeléctrica.
+   - **Escena 4:** Thomas Wright llega a Suffolk en helicóptero táctico Puma de la RAF desde Mildenhall.
+2. **Actualización de [`novela/capitulos/capitulo_22_desglose.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_22_desglose.md)** con la nueva arquitectura logística militar.
+3. **Creación de [`novela/capitulos/capitulo_23_desglose.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_23_desglose.md):**
+   - *Capítulo 23: La Aguja en el Desván*.
+   - Desglose de 5 escenas: el desván clandestino con magnetófono ReVox/Nagra a batería de tractor; la reproducción de la señal de *Sombra*; la revelación del testamento cósmico (la trampa de Pleh y la falsa victoria); la confirmación metalúrgica de Girard en Versoix; y el pacto de la Red de Papel (la resistencia analógica).

@@ -187,7 +187,16 @@
     },
     {
       "id": 21,
-      "title": "Capítulo 21: La Máscara de los Héroes y el Reencuentro del Hogar",
+      "title": "Capítulo 21: El Despertar del Azul",
+      "act": "Acto III: La Falsa Victoria y la Cacería Silenciosa",
+      "pov": "Coral / Narrador Panorámico",
+      "location": "Órbita terrestre / Estratosfera / Ciudades globales",
+      "readTime": "12 min",
+      "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 22,
+      "title": "Capítulo 22: La Máscara de los Héroes y el Reencuentro del Hogar",
       "act": "Acto III: La Falsa Victoria y la Cacería Silenciosa",
       "pov": "Dra. Sarah Lin / Dr. Jean-Luc Girard / Dr. Thomas Wright",
       "location": "Nellis AFB / San Francisco / Versoix / Granja de Suffolk",
