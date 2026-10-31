@@ -66,7 +66,7 @@ A las seis y cuarenta y cinco de la mañana, un alarido agudo y desgarrador part
 
 No era la sirena de un coche de policía ni la alarma de un terremoto. Era la red de alerta costera militar bramando en una secuencia de tres tonos descendentes que retumbó por las colinas de Twin Peaks hasta la bahía: el **Toque de Alba**.
 
-En el apartamento del tercer piso de Market Street, Maya Lin saltó del jergón con el corazón desbocado.
+En el apartamento del cuarto piso de Market Street, Maya Lin saltó del jergón con el corazón desbocado.
 
 —¡Toby, arriba! ¡Deprisa, mi amor! —gritó con voz firme pero cargada de urgencia.
 
@@ -129,15 +129,15 @@ Julien cerró la trampilla con cerrojo de hierro y miró hacia los Alpes en la o
 
 En las entrañas del desierto de Nevada no había noches ni días; solo el rugido amortiguado de las bombas turbomoleculares extrayendo el aire de la gigantesca campana de vacío H-1.
 
-El Módulo Analógico de Ataque (MAA) descansaba sobre el banco de pruebas de hormigón armado. Era una bestia tosca de doce metros de longitud, construida con placas de titanio remachadas a mano, sin una sola antena digital ni una pantalla de cristal líquido. En su proa asomaba el cilindro de ochenta y cinco centímetros de metamaterial fractal de berilio y cristal que Chen Mei había mecanizado en los hornos de plasma.
+El Módulo de Ataque Analógico (MAA) descansaba sobre el banco de pruebas de hormigón armado. Era una bestia compacta de ocho metros de longitud, construida con placas de titanio remachadas a mano, sin una sola antena digital ni una pantalla de cristal líquido. En su proa asomaba el cilindro de ochenta y cinco centímetros de metamaterial fractal de berilio y cristal que Chen Mei había mecanizado en los hornos de plasma.
 
 Dentro de la cabina estanca, apretados hombro con hombro en tres asientos de aluminio acolchados con espuma ignífuga, permanecían los tres tripulantes.
 
-El comandante John MacElroy sostenía con ambas manos la palanca de gobierno de la tobera de dirección: una varilla de acero dulce conectada por cables mecánicos de tungsteno directamente a los actuadores hidráulicos del motor, sin pasar por una sola computadora de vuelo.
+El coronel James MacElroy sostenía con ambas manos la palanca de gobierno de la tobera de dirección: una varilla de acero dulce conectada por cables mecánicos de tungsteno directamente a los actuadores hidráulicos del motor, sin pasar por una sola computadora de vuelo.
 
 A su derecha, el coronel Alexei Voronov revisaba con una linterna de mano los manómetros mecánicos de presión de gas inerte:
 
-—Presión interna en cabina: novecientos cincuenta milibares —anunció Voronov por el tubo acústico de cobre que comunicaba con la sala de control exterior—. El vacío exterior está en diez a la menos cinco pascales. Estanqueidad pasiva impecable, John. Cuando nos separemos a doce mil kilómetros de L1 y yo me quede en la órbita de Halo custodiando el módulo digital, vuestras vidas dependerán de que estas válvulas manuales no tengan una fuga de media micra. Más os vale que este arpón de titanio os mantenga con aire hasta que os localice con el LIDAR tras el apagón.
+—Presión interna en cabina: novecientos cincuenta milibares —anunció Voronov por el tubo acústico de cobre que comunicaba con la sala de control exterior—. El vacío exterior está en diez a la menos cinco pascales. Estanqueidad pasiva impecable, *Mace*. Cuando nos separemos a doce mil kilómetros de L1 y yo me quede en la órbita de Halo custodiando el módulo digital, vuestras vidas dependerán de que estas válvulas manuales no tengan una fuga de media micra. Más os vale que este arpón de titanio os mantenga con aire hasta que os localice con el LIDAR tras el apagón.
 
 —Tú ocúpate de mantener las computadoras del MRD a salvo fuera del Muro de Lorentz, Alexei —replicó MacElroy con una sonrisa dura y tensa—. Y de tener el reactor nuclear listo para el regreso a la Tierra. De cruzar esa telaraña a pulso y volarle las tripas a esa cosa nos encargamos Mei y yo.
 
@@ -169,7 +169,7 @@ De pronto, un sonido seco, como el chasquido de un látigo sobre porcelana, reso
 
 Las bombas de despresurización silbaron cuando la atmósfera de nitrógeno seco volvió a llenar la campana H-1.
 
-En la sala de control exterior, el almirante Vance observaba la pantalla del interferómetro óptico con el rostro desencajado. A su lado, el coronel Miller, jefe de la tripulación de reserva estadounidense, señalaba con el índice un gráfico térmico impreso en papel térmico continuo:
+En la sala de control exterior, el almirante Vance observaba la pantalla del interferómetro óptico con el rostro desencajado. A su lado, el coronel Ross, jefe de la tripulación de reserva estadounidense, señalaba con el índice un gráfico térmico impreso en papel térmico continuo:
 
 —Ahí está, almirante. Lo captó el sensor piezoeléctrico en el segundo noventa y cuatro del ciclo de vibración. Una caída de reflectancia del doce por ciento en la base de anclaje de la cavidad fractal.
 
@@ -185,7 +185,7 @@ Chen Mei se detuvo en seco, clavando sus ojos oscuros en el almirante con una fi
 
 —No es una fractura estructural, almirante.
 
-Miller intervino con tono agresivo:
+Ross intervino con tono agresivo:
 
 —El interferómetro no miente, doctora. El berilio se ha quebrado bajo los cuarenta hercios. Las normas de seguridad de la NASA y de las Fuerzas Aéreas exigen retirar la pieza, refundir el bloque y repetir el ciclo completo de templado. Necesitaremos cuarenta días para tallar una nueva columna en los talleres de Los Álamos.
 
@@ -195,7 +195,7 @@ Miller intervino con tono agresivo:
 
 Un paso pesado resonó sobre la rejilla metálica del suelo.
 
-John MacElroy se colocó al lado de Chen Mei. El piloto naval norteamericano tenía los ojos inyectados en sangre por el esfuerzo del simulador, pero su mirada era de acero:
+James MacElroy se colocó al lado de Chen Mei. El coronel de la Fuerza Aérea norteamericana tenía los ojos inyectados en sangre por el esfuerzo del simulador, pero su mirada era de acero:
 
 —Con el debido respeto, almirante... los reservas no estaban sentados en esa cabina cuando la tobera vibró a cuarenta hercios. Estábamos nosotros tres. Y Mei tiene razón: una pieza refundida no será más fuerte, solo llegará demasiado tarde.
 

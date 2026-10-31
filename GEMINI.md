@@ -13,3 +13,7 @@ Este archivo define las reglas generales de comportamiento para Antigravity en e
    - Lenguaje técnico-científico limitado y comprensible (pidiendo confirmación previa al Autor si una escena exige mayor profundidad técnica).
    - Coherencia estricta en la voz y personalidad de cada personaje.
    - Rigor argumental con pruebas empíricas sólidas (cero suposiciones débiles).
+6. **Rutina de Memoria Continua (Capitán Memo y Bitácora de Sesión)**:
+   - Al inicio de **CADA** sesión o conversación, es **OBLIGATORIO** leer previamente el archivo `historial/historial.md` para recuperar todo el contexto histórico, decisiones, instrucciones del Autor y estado de trabajo de los agentes previos.
+   - Todas las conversaciones con cualquier agente deben quedar fiel y literalmente transcritas/actualizadas en `historial/historial.md` bajo la supervisión del **Capitán Memo** para que ninguna directriz o detalle se pierda entre sesiones o equipos.
+

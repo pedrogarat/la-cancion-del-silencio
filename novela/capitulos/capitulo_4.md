@@ -9,7 +9,7 @@ La luz del mediodía caía sobre la calle 44 con una normalidad casi hiriente.
 
 Al cruzar las puertas giratorias del Hotel Millennium, el estruendo de Manhattan —el rugido amortiguado de los taxis amarillos, el silbido de los frenos de aire de los autobuses, el rumor incesante de miles de peatones apresurados con vasos de café humeante en la mano— golpeó los sentidos de los tres científicos con la violencia de una bofetada helada.
 
-Durante dos horas habían estado encerrados en la Sala 2, suspendidos en una burbuja de verdades cósmicas y cálculos de aniquilación. Ahora, el asfalto neoyorquino seguía allí: la gente miraba sus teléfonos, discutía sobre índices bursátiles o reía ante los escaparates, completamente ajena al abismo termodinámico que se estaba cerrando sobre sus cabezas a un millón y medio de kilómetros de distancia.
+Durante hora y media habían estado encerrados en la Sala 2, suspendidos en una burbuja de verdades cósmicas y cálculos de aniquilación. Ahora, el asfalto neoyorquino seguía allí: la gente miraba sus teléfonos, discutía sobre índices bursátiles o reía ante los escaparates, completamente ajena al abismo termodinámico que se estaba cerrando sobre sus cabezas a un millón y medio de kilómetros de distancia.
 
 Jean-Luc Girard caminaba con las manos hundidas en los bolsillos de su abrigo gris, con la vista fija en las baldosas agrietadas de la acera.
 
@@ -132,7 +132,7 @@ El Secretario General tragó saliva y miró a su ayudante principal:
 
 Doce minutos después, la atmósfera de la Sala de Crisis se había vuelto asfixiante.
 
-La doctora Elena Arispe, una astrofísica chilena de mirada despierta y prestigio intachable en la comunidad espacial, y el general Marcus Henderson, un oficial de transmisiones de mirada gélida y uniforme de gala del Estado Mayor Conjunto, ocuparon los extremos de la mesa con sus computadoras portátiles conectadas a las redes seguras de espacio profundo.
+La doctora Elena Arispe, una astrofísica chilena de mirada despierta y prestigio intachable en la comunidad espacial, y el general Arthur Henderson, un oficial de transmisiones de mirada gélida y uniforme de gala del Estado Mayor Conjunto, ocuparon los extremos de la mesa con sus computadoras portátiles conectadas a las redes seguras de espacio profundo.
 
 —Señor Secretario General, hemos recibido las coordenadas del doctor Pleh —informó Arispe, tecleando a gran velocidad mientras las líneas de código verde iluminaban sus gafas—. Estamos sincronizando con la señal del observatorio orbital DSCOVR y los radiotelescopios del complejo de espacio profundo de Madrid y Goldstone. Estamos forzando un filtro polarimétrico en la banda de catorce gigahercios, tal como indicó.
 

@@ -45,7 +45,7 @@
 ## 📍 Escena 4: El Brindis de los Tres en Nellis (19:30 PST | 22:30 EST)
 - **Tiempo:** Noche de Nochebuena en Nevada.
 - **Ubicación:** Cantina subterránea y complejo de integración del MAA, Base Aérea de Nellis.
-- **Personajes:** Dra. Chen Mei (China), Comandante John MacElroy (EE.UU.) y Coronel Alexei Voronov (Rusia).
+- **Personajes:** Dra. Chen Mei (China), Coronel James MacElroy (EE.UU.) y Coronel Alexei Voronov (Rusia).
 - **Acción:**
   - A pocos metros de la sala limpia donde los hornos mecanizan el cristal fractal y el berilio sin descanso, la tripulación titular comparte raciones de pavo militar y vodka ruso clandestino.
   - MacElroy defiende el valor del instinto humano para pilotar una nave mecánica ciega; Voronov recuerda las palabras de los pioneros espaciales soviéticos; Chen Mei brinda por la Tierra y por la hermandad de los tres hombres y mujeres que entrarán en el fuego cósmico.
@@ -55,7 +55,7 @@
 ## 📍 Escena 5: La Mesa de B-4: El Amor frente a la Máquina (23:00 EST, 24 de diciembre)
 - **Tiempo:** Final de la noche del 24 de diciembre.
 - **Ubicación:** Sala de Crisis y Mando B-4, Sede de la ONU, Manhattan.
-- **Personajes:** Vassily Ramos, Jean-Luc Girard, Sarah Lin, Thomas Wright, Almirante Vance, General Yuri Korolyov, Ministro Chen Wei, guardias y operadores.
+- **Personajes:** Vassily Ramos, Jean-Luc Girard, Sarah Lin, Thomas Wright, Almirante Vance, General Valeri Korolyov, General Chen Wei, guardias y operadores.
 - **Acción:**
   - En la gran mesa de conferencias de nogal, Ramos dispone manteles blancos de lino, velas de cera, hogazas de pan de centeno, queso curado y vino de protocolo.
   - **La fe y el humanismo cristiano de Ramos:** El Secretario General parte el pan y ofrece una profunda reflexión sin tono de homilía: la Navidad como el misterio de la extrema vulnerabilidad de un niño en un pesebre que revela que la mayor fuerza del universo no son los ejércitos, los misiles ni las computadoras, sino el amor desinteresado, el cuidado del prójimo y la unidad humana.

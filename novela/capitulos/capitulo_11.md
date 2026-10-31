@@ -58,7 +58,7 @@ Unos pasos familiares resonaron sobre el suelo de resina. Thomas se detuvo a un 
 —Sabía que estarías aquí —dijo él en un susurro templado.
 
 Sarah no se apartó las manos de la cara:
-—Se está cayendo todo a pedazos, Thomas... Lo del berilio hace dos días casi nos sepulta en Nellis. Y ahora el Máser. Llevo semanas convenciéndome de que las matemáticas nos salvarían, pero la física se ríe de nosotros. Si no podemos enfocar ese haz, mi hermana Maya... Toby... tu sobrino Oliver... todos arderán bajo el sol en mayo.
+—Se está cayendo todo a pedazos, Thomas... Lo del berilio hace diez días casi nos sepulta en Nellis. Y ahora el Máser. Llevo semanas convenciéndome de que las matemáticas nos salvarían, pero la física se ríe de nosotros. Si no podemos enfocar ese haz, mi hermana Maya... Toby... tu sobrino Oliver... todos arderán bajo el sol en mayo.
 
 Thomas dio un paso más, acortando la distancia. Con una delicadeza infinita, apartó las manos de Sarah de sus mejillas. Sus dedos estaban helados; los de él, cálidos y firmes.
 

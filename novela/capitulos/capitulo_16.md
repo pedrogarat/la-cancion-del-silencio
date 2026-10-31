@@ -214,7 +214,7 @@ Habían sobrevivido a la noche. El bastión de Versoix seguía en pie.
 
 ***
 
-### 16 de mayo de 2027, 14:00:00 EST / 20:00:00 CEST
+### 16 de mayo de 2027, 14:00:00 EDT / 20:00:00 CEST
 **T + 176 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 66 días*  
 *Ubicación: Sala de Crisis B-4, Sede de las Naciones Unidas, Nueva York*

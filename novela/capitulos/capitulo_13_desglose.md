@@ -4,7 +4,7 @@
 - **Acto:** Acto II - La Caída del Escudo y el Gran Caos
 - **Fecha Narrativa:** Del 31 de diciembre de 2026 (Nochevieja, T+40) al 12 de enero de 2027 (T+52).
 - **Cuenta atrás:** Faltan entre 202 y 190 días para el cierre definitivo de la ventana industrial (21 de julio de 2027).
-- **Puntos de Vista (POV):** Coral: Dra. Sarah Lin, Dr. Thomas Wright, Maya Lin (San Francisco), David Wright (Suffolk), Julien Girard (Versoix), Comandante John MacElroy y Dra. Chen Mei (Nellis).
+- **Puntos de Vista (POV):** Coral: Dra. Sarah Lin, Dr. Thomas Wright, Maya Lin (San Francisco), David Wright (Suffolk), Julien Girard (Versoix), Coronel James MacElroy y Dra. Chen Mei (Nellis).
 - **Tono y Atmósfera:** Claustrofóbico, tenso, urgente y épico. El contraste entre la ternura desgarradora del amor en la azotea de Manhattan frente a la crudeza de la nueva «Sociedad Nocturna» y la violencia física de los bancos de prueba en el desierto.
 
 ---
@@ -43,7 +43,7 @@
 ## 📍 Escena 4: En el Vientre del Monstruo (12 de enero de 2027, 22:30 PST | T+52)
 - **Tiempo:** Noche en Nevada.
 - **Ubicación:** Cámara de Vacío Hipobárico H-1, Nivel -3, Base de Nellis.
-- **Personajes:** Comandante John MacElroy, Coronel Alexei Voronov y Dra. Chen Mei.
+- **Personajes:** Coronel James MacElroy, Coronel Alexei Voronov y Dra. Chen Mei.
 - **Acción:**
   - Prueba de choque térmico (2.000 °C / 4 MW) y vibración a 40 Hz de la tobera analógica con la cavidad fractal integrada.
   - MacElroy y Voronov pilotan físicamente dentro de la cabina ciega accionando cables mecánicos de tungsteno bajo una brutal sacudida ósea. Chen Mei monitoriza la colimación del haz por el periscopio de cuarzo.

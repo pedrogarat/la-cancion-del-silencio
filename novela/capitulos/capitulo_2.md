@@ -1,7 +1,7 @@
 # Capítulo 2: Los Tres Hilos del Ilusionista
 
 ### 📍 I. El Espectro Sucio de Ginebra
-*14:15 CET — 14 de noviembre*  
+*14:15 CEST — 3 de septiembre de 2026*  
 *Sede del CERN, Meyrin, frontera franco-suiza*
 
 El doctor Jean-Luc Girard tenía los ojos fijos en las pantallas y la taza de café enfriándose junto al teclado.
@@ -12,7 +12,7 @@ El fenómeno estaba ahí, al alcance de la mano, pero una niebla constante se em
 
 La puerta de cristal se deslizó en su guía neumática y Marianne Becker, colega y cómplice en tantas noches de guardia, asomó la cabeza con una carpeta bajo el brazo.
 
-—Jean-Luc, el comité de asignación de haz se reúne el viernes —dijo con voz suave, apoyándose en el quicio—. Si para entonces no conseguimos limpiar ese fondo, darán por cerrada la campaña de invierno y pasarán el turno al equipo de ATLAS.
+—Jean-Luc, el comité de asignación de haz se reúne el viernes —dijo con voz suave, apoyándose en el quicio—. Si para entonces no conseguimos limpiar ese fondo, darán por cerrada la campaña de otoño y pasarán el turno al equipo de ATLAS.
 
 Girard se frotó el puente de la nariz, dejando escapar el aire lentamente.
 
@@ -82,7 +82,7 @@ La pantalla volvió al reposo. Girard se reclinó en el sillón, contemplando la
 ---
 
 ### 📍 II. El Fuego en la Botella de Boston
-*23:40 EST — 22 de enero*  
+*23:40 EDT — 7 de septiembre de 2026*  
 *Plasma Science and Fusion Center, MIT, Cambridge, Massachusetts*
 
 El aire en la galería olía a metal frío y a la sequedad eléctrica propia de los grandes voltajes.
@@ -156,7 +156,7 @@ La imagen se desvaneció. Sarah contempló el monitor apagado con la viva certez
 ---
 
 ### 📍 III. El Fantasma de Darmstadt
-*09:20 CET — 5 de marzo*  
+*09:20 CEST — 10 de septiembre de 2026*  
 *Centro Europeo de Operaciones Espaciales (ESA / ESOC), Darmstadt, Alemania*
 
 El doctor Thomas Wright observaba la gran pantalla del centro de operaciones con los brazos cruzados y la seriedad habitual con la que encaraba la navegación interplanetaria.
@@ -218,7 +218,7 @@ Seis horas más tarde, las pantallas de Darmstadt confirmaban el éxito: la *Aet
 ---
 
 ### 📍 IV. El Tejido de la Confianza
-*18:00 UTC — 5 de marzo*
+*18:00 UTC — 10 de septiembre de 2026*
 
 Al caer la tarde, la serenidad reinaba en tres puntos distantes del globo.
 

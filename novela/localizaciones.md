@@ -196,16 +196,16 @@
 - **Relevancia Dramática:**
   - **Capítulo 6:** Presentada en el Consejo de Seguridad como la «lancha salvavidas» que esperará en la órbita de Halo a 12.000 km de L1 sin penetrar en el Muro de Lorentz.
   - **Capítulo 7:** Objeto de feroz disputa geopolítica entre las superpotencias: Washington exige la exclusividad de las patentes y algoritmos de navegación digital para la NASA y el Pentágono, mientras Moscú y Pekín reclaman el reparto de las licencias criogénicas y reactores futuros.
-  - **Fase de Integración:** Ensamblado finalmente en el Edificio de Ensamblaje de Vehículos (VAB) de Cabo Cañaveral / Wenchang junto con el MAA como carga útil del cohete lanzador pesado.
+  - **Fase de Integración:** Ensamblado finalmente en la rampa de lanzamiento pesada de la **Base Aérea de Nellis (Nevada)** junto con el MAA como carga útil del tren de vuelo integrado.
 
 ---
 
-### 🚀 17. Complejos de Lanzamiento Espacial Pesado (Cabo Cañaveral y Wenchang)
+### 🚀 17. Complejos de Lanzamiento Espacial Pesado (Base Aérea de Nellis y Respaldos Globales)
 - **Ubicación:**
-  - **Cabo Cañaveral (Florida, EE.UU.):** Complejo de Lanzamiento 39B y Edificio de Ensamblaje de Vehículos (VAB) en la costa atlántica de Florida.
-  - **Centro de Lanzamiento Espacial de Wenchang (Isla de Hainan, China):** Complejo costero de plataformas de lanzamiento criogénico de gran tonelaje.
+  - **Rampa de Lanzamiento Pesada de Nellis AFB (Nevada, EE.UU.):** Complejo principal de integración y despegue dotado de torre umbilical de 80 metros, búnker de tiro subterráneo y esferas criogénicas de hidrógeno líquido a 14 K, conectado por vía férrea militar blindada con los talleres subterráneos del MAA.
+  - **Cabo Cañaveral (Florida, EE.UU.) y Wenchang (Isla de Hainan, China):** Complejos de apoyo logístico e infraestructura de reserva movilizados bajo el Decreto Alfa Cero.
 - **Relevancia Dramática:**
-  - **Capítulo 4, 7 y 8:** Designadas como las únicas dos plataformas mundiales con la infraestructura y capacidad para integrar el tren de vuelo conjunto (MAA + MRD) y lanzar los cohetes pesados en la ventana de lanzamiento crítica previa a los 8 meses (Fase 5, límite 21 de julio de 2027).
+  - **Capítulos 4, 7, 8, 14, 16 y 18:** La rampa de Nellis se convierte en el escenario del ensamblaje final y del lanzamiento del tren de vuelo conjunto (MRD + MAA) en el límite exacto del cierre de la ventana industrial (Fase 5, 21 de julio de 2027).
 
 ---
 

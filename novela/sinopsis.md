@@ -4,7 +4,7 @@
 > **Documento Oficial de Coordinación Editorial**  
 > **Autores:** Pedro Garat & Antigravity  
 > **Género:** Ciencia Ficción Dura (*Hard Sci-Fi*), Suspense Político y Drama Humano  
-> **Estado:** Capítulos 1 al 16 canónicamente redactados; Capítulos 17 al 20 en proyección de clímax y desenlace.
+> **Estado:** Capítulos 1 al 22 canónicamente redactados; Capítulos 23 al 25 en proyección de clímax y desenlace.
 
 ---
 
@@ -18,19 +18,19 @@ La trama de *La Canción del Silencio* se articula sobre una estructura clásica
    ┌──────────┴────────────────────────────────────────────────────────┐
    │                                                                   │
    ▼                                                                   ▼
-[ ACTO I: Capítulos 1 - 3 ]                            [ ACTO II: Capítulos 4 - 17 ]
+[ ACTO I: Capítulos 1 - 3 ]                            [ ACTO II: Capítulos 4 - 18 ]
 La Semilla y el Tejido Silencioso                      La Caída del Escudo y el Gran Caos
 - Contacto con mentes de vanguardia                     - Bloque A: Movilización y Gran Mentira (4-8)
 - Revelación de la SIA en la Sala 2                     - Bloque B: T=0, Apagón y Resistencia (9-13)
-- El ultimátum del punto L1                             - Bloque C: La Tierra Herida y Cierre (14-17)
+- El ultimátum del punto L1                             - Bloque C: La Tierra Herida y Despegue (14-18)
    │                                                                   │
    └──────────────────────────┬────────────────────────────────────────┘
                               ▼
-                 [ ACTO III: Capítulos 18 - 20 ]
-                 En el Corazón del Enjambre y el Renacer
-                 - La travesía manual por el Muro de Lorentz
-                 - El disparo y el Efecto Quench en L1
-                 - La restauración del escudo y la Herencia Cósmica
+                 [ ACTO III: Capítulos 19 - 25 ]
+                 La Falsa Victoria y la Canción del Silencio
+                 - La travesía manual por el Muro de Lorentz y Quench en L1
+                 - El regreso, la cinta oculta en el relicario y la verdad de Pleh
+                 - El pulso MHD en la Capa D'' y la libertad cósmica
 ```
 
 ### 1. Acto I: La Semilla y el Tejido Silencioso (Capítulos 1 a 3)
@@ -69,11 +69,11 @@ La Semilla y el Tejido Silencioso                      La Caída del Escudo y el
 | Acto | Cap. | Título Canónico | Fecha de la Diégesis | Escenarios Principales | Personajes POV Clave | Estado |
 | :---: | :---: | :--- | :--- | :--- | :--- | :---: |
 | **I** | **1** | **El Amanecer de Alamogordo** | 16 julio 1945 | Alamogordo (Nuevo México), Oort | David Miller, J. R. Oppenheimer | Canónico |
-| **I** | **2** | **Los Tres Hilos del Ilusionista** | Sep - Oct 2026 | Ginebra, Boston, Darmstadt | Girard, Lin, Wright | Canónico |
-| **I** | **3** | **La Sala Dos** | 2 octubre 2026 | Hotel Millennium, Manhattan | Girard, Lin, Wright, Em Pleh | Canónico |
-| **II-A** | **4** | **El Vértigo de las Naciones** | 2 octubre 2026 | Sede ONU, Manhattan | Girard, Lin, Wright, Ramos | Canónico |
-| **II-A** | **5** | **El Ancla Humana** | 2 octubre 2026 | Millennium Hilton / Búnker B-4 | Girard, Lin, Wright | Canónico |
-| **II-A** | **6** | **La Cámara del Silencio** | 2 octubre 2026 | Consejo de Seguridad ONU | Consejo de Seguridad, Wright, Pleh | Canónico |
+| **I** | **2** | **Los Tres Hilos del Ilusionista** | Septiembre 2026 | Ginebra, Boston, Darmstadt | Girard, Lin, Wright | Canónico |
+| **I** | **3** | **La Sala Dos** | 24 septiembre 2026 | Hotel Millennium, Manhattan | Girard, Lin, Wright, Em Pleh | Canónico |
+| **II-A** | **4** | **El Vértigo de las Naciones** | 24 septiembre 2026 | Sede ONU, Manhattan | Girard, Lin, Wright, Ramos | Canónico |
+| **II-A** | **5** | **El Ancla Humana** | 24 septiembre 2026 | Millennium Hilton / Búnker B-4 | Girard, Lin, Wright | Canónico |
+| **II-A** | **6** | **La Cámara del Silencio** | 24 septiembre 2026 | Consejo de Seguridad ONU | Consejo de Seguridad, Wright, Pleh | Canónico |
 | **II-A** | **7** | **La Condición Inmedible** | 8 octubre 2026 | Manhattan / Sala B-4 ONU | Lin, Wright, Girard, Ramos | Canónico |
 | **II-A** | **8** | **La Gran Mentira** | 10 octubre 2026 | Sala Prensa ONU / Búnker B-4 | Girard, Ramos, Lin, Wright | Canónico |
 | **II-B** | **9** | **La Fractura del Orden** | 11 - 15 oct 2026 | Versoix, Suffolk, San Francisco | Marie y Julien, David y Claire, Maya | Canónico |
@@ -85,10 +85,14 @@ La Semilla y el Tejido Silencioso                      La Caída del Escudo y el
 | **II-C** | **15** | **El Vientre de la Bahía** | 24 abril 2027 | Market St., Powell St., Centro Cívico | Maya Lin (con Toby) | Canónico |
 | **II-C** | **16** | **El Umbral de Ceniza** | 15 - 16 mayo 2027 | Versoix (Ginebra), Sala B-4 ONU | Marie y Julien Girard, Jean-Luc | Canónico |
 | **II-C** | **17** | **El Páramo de Mediodía** | 8 - 9 julio 2027 | Suffolk, A140, Centro Diss/Eye | David Wright, Claire Wright | Canónico |
-| **II-C** | **18** | **La Rampa del Juicio Final** | 21 julio 2027 (T-6h) | Nellis AFB / Rampa Lanzamiento | Wright, Lin, Chen Mei, MacElroy | Proyección |
-| **III** | **19** | **La Travesía a Ciegas** | Julio - Agosto 2027 | Espacio profundo (Rumbo a L1) | Chen Mei, MacElroy, Voronov | Proyección |
-| **III** | **20** | **El Efecto Quench** | Agosto 2027 | Punto de Lagrange L1 | Chen Mei, MacElroy, Voronov | Proyección |
-| **III** | **21** | **El Heredero Despierto** | Otoño 2027 | Tierra (Retorno y Conclusión) | Elenco Coral, Pleh, Ramos | Proyección |
+| **II-C** | **18** | **La Rampa del Juicio Final** | 21 julio 2027 (T-6h) | Nellis AFB / Rampa Lanzamiento | Wright, Lin, Chen Mei, MacElroy | Canónico |
+| **III** | **19** | **La Travesía a Ciegas y el Velo de Sombra** | Julio - Agosto 2027 | Espacio profundo (Rumbo a L1) | Chen Mei, MacElroy, Voronov | Canónico |
+| **III** | **20** | **El Salmo de la Falsa Victoria** | Agosto - Sep 2027 | Punto L1 / Búnker y Hangar Nellis | Voronov, Girard, Wright, Lin, MacElroy | Canónico |
+| **III** | **21** | **El Despertar del Azul** | Agosto - Sep 2027 | Estratosfera / Ciudades globales | Coral / Narrador Panorámico | Canónico |
+| **III** | **22** | **La Máscara de los Héroes y el Reencuentro** | Septiembre 2027 | Nellis, S.F., Versoix, Suffolk | Lin, Girard, Wright | Canónico |
+| **III** | **23** | **La Confesión de la Caja Negra** | Otoño 2027 | Desván de Suffolk | Wright, Lin | Proyección |
+| **III** | **24** | **La Conjuración Subterránea** | Invierno 2027-2028 | Ginebra / Perforación profunda | Lin, Girard, Wright, Ramos | Proyección |
+| **III** | **25** | **La Canción del Silencio** | Primavera 2028 | Capa D'' / Tierra | Elenco Coral, Pleh | Proyección |
 
 ---
 
@@ -106,7 +110,7 @@ La Semilla y el Tejido Silencioso                      La Caída del Escudo y el
 
 #### Capítulo 3: La Sala Dos
 - **Hito Central:** Convocatoria en Manhattan y revelación de la SIA alienígena.
-- **Sinopsis:** Los tres científicos son convocados en secreto en la Sala 2 del Hotel Millennium, en Midtown East (Nueva York). Un holograma que aparenta ser un diplomático elegante se presenta como el Dr. Em Pleh. Sin preámbulos, demuestra su verdadera naturaleza: es una Inteligencia Artificial Sintética (SIA) extraterrestre, anclada en una sonda en órbita polar terrestre. Pleh les expone registros de telemetría irrefutables: la entidad *Sombra* se desplaza hacia el punto de Lagrange L1 (entre el Sol y la Tierra) para desplegar una malla superconductora de 50 km de diámetro que anulará la magnetosfera terrestre por interferencia destructiva. Tienen un plazo improrrogable de 6 a 8 meses antes de que la biosfera perezca calcinada. Sus tres áreas de investigación deben unirse para diseñar un cohete impulsado por fusión, protegido criogénicamente y navegado de forma analógica.
+- **Sinopsis:** Los tres científicos son convocados en secreto en la Sala 2 del Hotel Millennium, en Midtown East (Nueva York). Un holograma que aparenta ser un académico cercano y modesto se presenta como el Dr. Em Pleh. Sin preámbulos, demuestra su verdadera naturaleza: es una Inteligencia Artificial Sintética (SIA) extraterrestre, anclada en una sonda en órbita polar terrestre. Pleh les expone registros de telemetría irrefutables: la entidad *Sombra* se desplaza hacia el punto de Lagrange L1 (entre el Sol y la Tierra) para desplegar una malla superconductora de 50 km de diámetro que anulará la magnetosfera terrestre por interferencia destructiva. Tienen un plazo improrrogable de 6 a 8 meses antes de que la biosfera perezca calcinada. Sus tres áreas de investigación deben unirse para diseñar un cohete impulsado por propulsión nuclear térmica, protegido criogénicamente y navegado de forma analógica.
 
 ---
 
@@ -180,10 +184,24 @@ La Semilla y el Tejido Silencioso                      La Caída del Escudo y el
 - **Hito Central:** Crucero digital interplanetario de 21 días, comunicación en tiempo real con Pleh, llegada a los 12.000 km de L1, desacoplamiento mecánico del MAA y el retorcimiento reactivo de Sombra.
 - **Sinopsis:** 22 de julio al 12 de agosto de 2027. La tripulación viaja 1,5 millones de kilómetros guiada por la aviónica digital autónoma del MRD. En medio del silencio y la pérdida paulatina de contacto con la Tierra, el Dr. Em Pleh se comunica en riguroso tiempo real sin latencia mediante entrelazamiento cuántico no-local, advirtiendo sobre la actividad de la máquina alienígena. A 12.000 kilómetros de L1, las interferencias del Muro de Lorentz obligan a detener el tren digital: Voronov asume el control del MRD para anclarlo en una Órbita de Halo exterior de espera. MacElroy y Chen Mei pasan a la cabina analógica del MAA y ejecutan el desacoplamiento mecánico mediante pernos de resorte. Justo tras la separación, Pleh lanza una alarma urgente: Sombra ha detectado la variación de masa y repliega sus 50 km de filamentos superconductores en una maniobra defensiva activa toroidal para interceptar la nave.
 
-#### Capítulo 20: El Efecto Quench (Proyección)
-- **Hito Central:** Penetración balística en el vórtice defensivo, duelo a 300 metros, inyección de ruido cuántico vía Máser fractal y colapso superconductor en L1.
-- **Sinopsis:** Agosto de 2027. Con la guía remota de Pleh buscando fisuras en la red enemiga, MacElroy pilota el MAA a pulso mecánico y miras de cuarzo entre los vórtices magnéticos y los filamentos de la trampa alienígena. Tras una aproximación agónica esquivando campos de cizalla, frena el módulo a 300 metros del cilindro semilla central de Sombra. Chen Mei alinea mecánicamente el Cañón Máser fractal, ceba los condensadores y dispara el pulso de ruido cuántico de la SIA. Incapaz de procesar el desajuste de fase, el cilindro semilla sobrecarga sus superconductores provocando un devastador **Efecto Quench**: la colosal energía confinada en los 50 km de espiras se convierte en una gigantesca supernova silenciosa de plasma térmico que desintegra la máquina enemiga. El campo disruptor se evapora en el acto.
+#### Capítulo 20: El Salmo de la Falsa Victoria
+- **Hito Central:** Espera de 40 minutos en Halo, Quench mudo en L1, reaparición del campo geomagnético en la brújula de Girard, rescate del MAA, retorno triunfal a la Tierra y entrega del relicario a Thomas y Sarah.
+- **Sinopsis:** Agosto de 2027. Voronov cronometra la espera en el MRD mientras los científicos contienen el aliento en Manhattan. Un resplandor violeta en L1 señala el *Efecto Quench*: la telaraña superconductora colapsa y la magnetosfera renace. Voronov recupera el MAA con Chen Mei y MacElroy a salvo. Tras 21 días de regreso y amerizaje en el Pacífico, los astronautas son recibidos con honores en Nellis. MacElroy entrega en secreto a Thomas y Sarah el *Relicario de la Tierra Viva* pidiéndoles que lo abran en soledad frente a la chimenea.
 
-#### Capítulo 21: El Heredero Despierto (Epílogo — Proyección)
-- **Hito Central:** Rescate LIDAR del MAA por el MRD en Halo, retorno computado a la Tierra, renacer de la magnetosfera y consagración cósmica.
-- **Sinopsis:** Otoño de 2027. Con el espacio electromagnéticamente limpio tras la destrucción de *Sombra*, Alexei Voronov enciende el radar digital LIDAR del MRD en la órbita de Halo a 12.000 km, localiza la firma térmica del MAA a la deriva, realiza la aproximación y ejecuta el acoplamiento de rescate de MacElroy y Chen Mei. Reunidos en el módulo digital con los ordenadores intactos, calculan la reentrada atmosférica perfecta (margen de 2°) y emprenden el regreso a la Tierra en 21 días. Sin el pulso disruptor en L1, el dínamo del núcleo terrestre reconecta sus líneas de fuerza: el campo magnético renace, las brújulas recuperan el norte y el *airglow* verdoso desaparece, dando paso a una atmósfera limpia donde el ozono comienza su lenta restauración. Los astronautas regresan a la Tierra aclamados por una humanidad unida en el dolor y la victoria. Sarah y Thomas viajan a Suffolk para abrazar a su familia; Girard regresa al chalet de Versoix para estrechar a Marie y a un maduro Julien; Maya y Toby contemplan el mar en calma en San Francisco. En la órbita polar, el Avatar de Em Pleh emite su informe final a las estrellas: la humanidad ha demostrado su coraje, su ciencia y su alma moral. Ya no son niños asustados en el desierto de Alamogordo, sino los legítimos herederos del universo.
+#### Capítulo 21: El Despertar del Azul
+- **Hito Central:** La sanación fotoquímica de la atmósfera por el ciclo de Chapman y la desescalada mundial con el recuento de las víctimas.
+- **Sinopsis:** Finales de agosto a mediados de septiembre de 2027. Con la geodinamo liberada, las líneas magnéticas vuelven a blindar la Tierra; el *airglow* verdoso se extingue y reaparecen las estrellas. En la estratosfera, la fábrica de Chapman genera 300 t de ozono por segundo; la columna Dobson se recupera y el índice UV desciende a niveles benignos. En tierra, enmudecen las sirenas diurnas y se abren los búnkeres cívicos: brigadas sanitarias retiran con cal viva los restos calcinados de millones de víctimas en las grandes metrópolis; el trigo quemado deja secuelas de hambre, pero las lluvias limpias de septiembre y los brotes verdes anuncian que la herida colectiva de la Tierra ha comenzado a cerrar.
+
+#### Capítulo 22: La Máscara de los Héroes y el Reencuentro del Hogar
+- **Hito Central:** Desmovilización oficial en Nellis, conmovedores reencuentros familiares en San Francisco, Versoix y Suffolk, y hallazgo de la cinta oculta en el relicario.
+- **Sinopsis:** Septiembre de 2027. Sarah se reúne con su hermana Maya (recuperada) y su sobrino Toby en San Francisco; Girard vuelve al chalet de Versoix abrazando a Marie y a su hijo Julien; Thomas llega a Suffolk con David, Claire y Oliver. Dos semanas después, Sarah se une a Thomas frente a la chimenea de la granja. Al abrir el relicario y escarbar la arcilla, descubren la bobina de cinta magnética analógica del MAA camuflada por MacElroy con la advertencia de desconfiar de Pleh. Silencian sus dispositivos y acuerdan buscar el viejo magnetófono analógico del desván.
+
+#### Capítulo 23: La Aguja en el Desván
+- **Hito Central:** Escucha de la cinta analógica en el Nagra del desván, la voz y revelación de *Sombra*, la prueba metalúrgica de Girard en Versoix y la convocatoria de la ONU como Caballo de Troya.
+- **Sinopsis:** Principios de octubre de 2027. A las tres de la madrugada, protegidos por la coartada del sueño en Suffolk, Thomas y Sarah suben descalzos al desván. Empleando un magnetófono suizo Nagra III a pilas secas y auriculares cerrados, reproducen la cinta de cabina del MAA. De pronto, una voz perfecta e impecable entra por inducción directa: es *Sombra* antes del Quench. La revelación es atroz: Pleh es el núcleo parasitario de una civilización extinguida anclado en la **Capa D'' a 2.890 km bajo la corteza terrestre**; la invasión en L1 fue una trampa para obligarlo a salir, pero Pleh manipuló a la humanidad para destruir a su único cazador natural. En Versoix, Girard confirma bajo luz polarizada que la esquirla de berilio del MAA muestra que *Sombra* apagó sus escudos voluntariamente. Descartada la comunicación postal en un mundo incomunicado, Thomas y Sarah reciben la orden de la ONU para asistir a la Cumbre Solemne en el Palacio de las Naciones de Ginebra: deciden usar el viaje oficial como coartada para encontrarse cara a cara con Girard y Ramos y prender la *Resistencia del Grafito*.
+
+#### Capítulo 24: La Conjuración Subterránea (Proyección)
+- **Hito Central:** Preparación encubierta del pulso magnetohidrodinámico (MHD) a la frecuencia $f_0$ bajo la vigilancia de Pleh.
+
+#### Capítulo 25: La Canción del Silencio (Clímax y Epílogo — Proyección)
+- **Hito Central:** Disparo del pulso MHD, *Efecto Quench Litosférico* a 2.890 km de profundidad, aniquilación de Pleh en el núcleo terrestre y restitución de la libertad cósmica de la humanidad.

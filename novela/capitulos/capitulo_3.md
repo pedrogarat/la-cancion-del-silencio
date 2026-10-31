@@ -1,7 +1,7 @@
 # Capítulo 3: La Sala Dos
 
 ### 📍 I. La Huella del Ermitaño
-*Del 23 de abril al 1 de mayo*  
+*Del 11 al 21 de septiembre de 2026*  
 *Ginebra — Cambridge — Darmstadt*
 
 Durante los días que siguieron a sus llamadas, ninguno de los tres pudo sacarse de la cabeza el nombre de Em Pleh.
@@ -18,12 +18,12 @@ En Alemania, Thomas Wright consultaba los registros de navegación con una mezcl
 
 Para los tres, Em Pleh se había convertido en un faro silencioso. Un colega admirable, generoso y modesto al que ardían en deseos de conocer en persona.
 
-La oportunidad no tardó en llegar. Exactamente una semana después de sus respectivos contactos, cada uno de ellos recibió un correo electrónico en su bandeja personal:
+La oportunidad no tardó en llegar. Pocos días después de sus respectivos contactos, cada uno de ellos recibió un correo electrónico en su bandeja personal:
 
 > *«Estimado amigo:  
 > Estaré unos días en Nueva York para atender unas gestiones privadas. Si sus ocupaciones se lo permiten, me haría una enorme ilusión que pudiéramos compartir esa charla tranquila que tenemos pendiente.  
 > He reservado un espacio tranquilo para que podamos hablar sin interrupciones: la Sala 2 del Hotel Millennium, en Midtown East, muy cerca de la sede de Naciones Unidas.  
-> Le espero el 6 de mayo a las diez en punto de la mañana.  
+> Le espero el 24 de septiembre a las diez en punto de la mañana.  
 > Un cordial saludo,  
 > Dr. Em Pleh.»*
 
@@ -32,7 +32,7 @@ Ninguno de los tres vaciló. Reajustaron agendas, solicitaron permisos breves de
 ---
 
 ### 📍 II. El Auditorio Silencioso
-*09:55 EDT — 6 de mayo*  
+*09:55 EDT — 24 de septiembre de 2026*  
 *Hotel Millennium, Midtown East, Manhattan, Nueva York*
 
 La mañana en Nueva York era fresca y de un azul limpio.
@@ -69,7 +69,7 @@ Sarah dejó escapar una carcajada incrédula, pasándose una mano por el pelo.
 
 —No me lo puedo creer. ¿Usted también está aquí por Em Pleh?
 
-Antes de que Girard pudiera responder, la puerta volvió a abrirse. Entró un hombre alto y delgado, de unos sesenta años, pulcramente vestido con un traje de tweed gris y portafolios de cuero. Se detuvo con compostura británica bajo el dintel, observando el auditorio y a los dos ocupantes con prudencia.
+Antes de que Girard pudiera responder, la puerta volvió a abrirse. Entró un hombre alto y delgado, de cincuenta y dos años, pulcramente vestido con un traje de tweed gris y portafolios de cuero. Se detuvo con compostura británica bajo el dintel, observando el auditorio y a los dos ocupantes con prudencia.
 
 —Disculpen —dijo el recién llegado con voz pausada—. ¿El doctor Pleh les ha convocado también en este salón?
 
@@ -377,7 +377,7 @@ Pleh sostuvo la mirada de los tres con una firmeza inquebrantable:
 
 ---
 
-Durante las dos horas siguientes, el silencio de la Sala 2 dio paso a una sesión tan hermética como absorbente.
+Durante los veinte minutos siguientes, el silencio de la Sala 2 dio paso a una sesión tan hermética como absorbente.
 
 A puerta cerrada, Pleh expuso ante los tres científicos las líneas maestras de su plan: una estrategia de una audacia sobrecogedora que desafiaba los límites de todo lo que la humanidad había intentado jamás. En la sala no hubo discursos grandilocuentes; solo el pase continuo de esquemas y modelos que Girard, Lin y Wright examinaban con una concentración febril, asimilando que, por primera vez desde el inicio de la mañana, no estaban atrapados en un callejón sin salida.
 

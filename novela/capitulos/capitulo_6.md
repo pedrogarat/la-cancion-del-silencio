@@ -186,7 +186,7 @@ Pleh tomó de nuevo la palabra, apoyado por una nueva animación técnica en el 
 
 La sala asimiló la revelación en un murmullo de incredulidad. Wright retomó el micrófono:
 
-—Por esa razón, señores delegados, el Comité Científico Director ha diseñado, bajo las directrices del doctor Pleh, la arquitectura de una misión de intercepción tripulada. Una nave dividida en dos módulos independientes, impulsada por un reactor térmico nuclear de fisión de hidrógeno —tecnología NTP— que nos permitirá cubrir el trayecto de millón y medio de kilómetros hasta L1 en apenas veintiún días, en lugar de los tres meses que exigiría la propulsión química ordinaria.
+—Por esa razón, señores delegados, el Comité Científico Director ha diseñado, bajo las directrices del doctor Pleh, la arquitectura de una misión de intercepción tripulada. Una nave dividida en dos módulos independientes, impulsada por un reactor térmico nuclear de fisión de uranio con propelente de hidrógeno líquido —tecnología NTP— que nos permitirá cubrir el trayecto de millón y medio de kilómetros hasta L1 en apenas veintiún días, en lugar de los tres meses que exigiría la propulsión química ordinaria.
 
 En el monitor mural apareció el esquema técnico de la nave de rescate: una estructura esbelta y modular con el motor nuclear a popa y dos cabinas desacoplables a proa.
 

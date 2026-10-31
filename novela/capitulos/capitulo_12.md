@@ -137,13 +137,13 @@ El chasquido del relé cayó como una guillotina. La línea quedó muda. Girard 
 
 En la costa oeste americana, la Navidad olía a niebla salina y a humo de leña quemada en bidones de metal.
 
-En el modesto apartamento del tercer piso de la calle Market, Maya Lin observaba cómo su hijo Toby, de cuatro años, dormía profundamente sobre el sofá tapizado en pana marrón, arropado por una manta de franela amarilla. En la pequeña mesa de centro, dos velas cortas iluminaban los restos de una cena sencilla: judías enlatadas con tomate, rebanadas de pan tostado al fuego de un hornillo de gas portátil y media manzana cortada en rodajas finas.
+En el modesto apartamento del cuarto piso de la calle Market, Maya Lin observaba cómo su hijo Toby, de cuatro años, dormía profundamente sobre el sofá tapizado en pana marrón, arropado por una manta de franela amarilla. En la pequeña mesa de centro, dos velas cortas iluminaban los restos de una cena sencilla: judías enlatadas con tomate, rebanadas de pan tostado al fuego de un hornillo de gas portátil y media manzana cortada en rodajas finas.
 
 Frente a la ventana, la silueta del puente Golden Gate se recortaba contra un horizonte donde el Pacífico no reflejaba la noche oscura, sino aquel fulgor verdoso, continuo y extraño que no permitía ver las estrellas. 
 
 En la calle, cada quince minutos, los neumáticos de un todoterreno blindado de la Guardia Nacional quebraban el silencio del toque de queda, haciendo parpadear los reflejos esmeralda sobre los adoquines húmedos.
 
-Maya respiró hondo. Hacía catorce meses que no tocaba una gota de alcohol ni una pastilla. Había superado el temblor de la abstinencia, la tentación en los callejones tras el anuncio del colapso y el terror visceral de estar sola en una ciudad militarizada.
+Maya respiró hondo. Hacía casi diecisiete meses que no tocaba una gota de alcohol ni una pastilla. Había superado el temblor de la abstinencia, la tentación en los callejones tras el anuncio del colapso y el terror visceral de estar sola en una ciudad militarizada.
 
 Se acercó al aparador de contrachapado y tomó un portarretratos barato. Dentro estaba la fotografía de su hermana Sarah el día que recogió su doctorado en física en el MIT: sonriente, con la toga azul marino y los ojos brillantes de quien cree que puede doblegar las leyes del universo.
 
@@ -167,9 +167,9 @@ Claire sonrió con dulzura, apretándose contra él:
 
 —Oliver no se ha querido dormir hasta que no le he dejado poner la locomotora bajo la almohada.
 
-David dirigió la mirada hacia la puerta entreabierta del dormitorio contiguo. Allí, arropado bajo un edredón de plumas en su cuna de barrotes de fresno, el pequeño Oliver, de tres años, dormía plácidamente. Su mano regordeta asomaba por fuera de la colcha, aferrada a una pequeña locomotora de vapor tallada a navaja con maderas de haya y nogal. En la base del tren de juguete se leía una inscripción grabada con esmero: *«Para Oliver. De su tío Thomas. Vuela alto»*.
+David dirigió la mirada hacia la puerta entreabierta del dormitorio contiguo. Allí, arropado bajo un edredón de plumas en su cuna de barrotes de fresno, el pequeño Oliver, de tres años, dormía plácidamente. Su mano regordeta asomaba por fuera de la colcha, aferrada a una pequeña locomotora de vapor tallada a mano en madera de manzano. En la base del tren de juguete se leía una inscripción grabada con esmero: *«Para Oliver. De su tío Thomas. Vuela alto»*.
 
-—Es lo último que le regaló antes de marcharse a Ginebra en agosto —susurró David, sintiendo cómo se le encogía la garganta—. El niño casi no se acuerda de su cara, pero no suelta ese pedazo de madera por nada del mundo.
+—Se la talló en las pasadas Navidades, antes de que su trabajo en Darmstadt nos cambiara la vida a todos —susurró David, sintiendo cómo se le encogía la garganta—. El niño casi no se acuerda de su cara, pero no suelta ese pedazo de madera por nada del mundo.
 
 Sobre el aparador victoriano, una vieja radio de válvulas de onda corta alimentada por una batería de tractor emitía un murmullo amortiguado. En la frecuencia de emergencia de la BBC ya no se retransmitían noticias ni partes del tiempo, solo una grabación continua de coros de la catedral de Salisbury cantando villancicos medievales ingleses, entreverada por el rumor intermitente de la estática atmosférica.
 
@@ -195,7 +195,7 @@ El zumbido grave de quinientos kilohercios hacía vibrar los pernos del suelo de
 
 A cincuenta metros de allí, en la cantina de chapa ondulada reservada a la tripulación de vuelo, tres personas permanecían sentadas alrededor de una mesa de picnic de madera tosca.
 
-El comandante John MacElroy, aviador naval de la Marina de los Estados Unidos con dos mil horas de vuelo en cazas embarcados, masticaba con calma un bocado de pavo deshidratado de ración militar MRE. Tenía el pelo castaño cortado al rape, una cicatriz fina sobre la ceja izquierda y una sonrisa socarrona que no conseguía disimular la tensión en sus mandíbulas.
+El coronel James 'Mace' MacElroy, piloto de pruebas de la Fuerza Aérea de los Estados Unidos con tres mil horas de vuelo en cazas suborbitales, masticaba con calma un bocado de pavo deshidratado de ración militar MRE. Tenía el pelo castaño cortado al rape, una cicatriz fina sobre la ceja izquierda y una sonrisa socarrona que no conseguía disimular la tensión en sus mandíbulas.
 
 A su lado, el coronel Alexei Voronov, veterano cosmonauta de Roscosmos con tres estancias en la estación espacial, desenroscó la tapa metálica de una botella de vodka *Stolichnaya* que había mantenido oculta en el fondo de su taquilla de equipo de vuelo.
 
@@ -205,11 +205,11 @@ Frente a ellos, la doctora Chen Mei, vestida con el mono ignífugo naranja de la
 
 MacElroy soltó una carcajada seca, empujando uno de los vasos hacia la botella de Voronov:
 
-—Con el debido respeto, Mei... los reservas son unos chicos estupendos del simulador, pero no saben lo que es aterrizar un avión de treinta toneladas en la cubierta de un portaaviones de noche, con el mar en fuerza seis y sin una sola pantalla digital que te diga dónde está el horizonte. Ese monstruo de titanio que están montando en el hangar no tiene un solo chip. Es una bala ciega con toberas de accionamiento manual. Ningún simulador de Colorado va a enseñarles a gobernarla si los tres que estamos sentados a esta mesa no sabemos sincronizar nuestras manos.
+—Con el debido respeto, Mei... los reservas son unos chicos estupendos del simulador, pero no saben lo que es aterrizar un reactor experimental sin motor en el lecho seco de Groom Lake de noche, con viento cruzado y sin una sola pantalla digital que te diga dónde está el horizonte. Ese monstruo de titanio que están montando en el hangar no tiene un solo chip. Es una bala ciega con toberas de accionamiento manual. Ningún simulador de Colorado va a enseñarles a gobernarla si los tres que estamos sentados a esta mesa no sabemos sincronizar nuestras manos.
 
 Voronov llenó los tres vasos con una medida generosa de líquido transparente. Sus ojos grises, curtidos por los inviernos de la estepa rusa, miraron primero a la científica china y luego al piloto estadounidense:
 
-—John tiene razón, Mei. En Ciudad de las Estrellas, los viejos instructores que entrenaron a Leonov decían que el espacio no perdona a los políticos, pero respeta a los hombres que comparten el mismo aire en una lata de conserva. Esta noche no somos Washington, ni Pekín, ni Moscú. Somos tres primates en un búnker de Nevada preparándose para subir a apagar una máquina cósmica con una lanza de cuarzo.
+—*Mace* tiene razón, Mei. En Ciudad de las Estrellas, los viejos instructores que entrenaron a Leonov decían que el espacio no perdona a los políticos, pero respeta a los hombres que comparten el mismo aire en una lata de conserva. Esta noche no somos Washington, ni Pekín, ni Moscú. Somos tres primates en un búnker de Nevada preparándose para subir a apagar una máquina cósmica con una lanza de cuarzo.
 
 Voronov alzó su vaso de plástico hacia la luz de los fluorescentes del techo:
 
@@ -235,13 +235,13 @@ En la biblioteca táctica del búnker B-4, a treinta metros bajo el pavimento co
 
 Sobre la gran mesa de conferencias de nogal —la misma donde semanas atrás se habían desplegado los mapas clasificados del Silencio Magnético y los informes de inteligencia de los misiles ASAT— alguien había extendido dos manteles blancos de hilo de la vieja cafetería de delegados. No había lujos ni adornos superfluos, pero en el centro de la madera ardían tres velas gruesas de cera de abejas colocadas sobre platillos de porcelana desparejados. 
 
-Alrededor de la mesa se congregaba el núcleo más íntimo y extenuado de la resistencia planetaria: Vassily Ramos presidiendo en la cabecera; a sus costados, Jean-Luc Girard con los ojos aún brillantes tras la llamada a Suiza; Sarah Lin y Thomas Wright sentados hombro con hombro; el almirante Vance con la guerrera desabotonada en el cuello; el general Yuri Korolyov con su austera serenidad soviética; el ministro Chen Wei frotándose las sienes canosas; y un par de operadores de teletipo y guardias nepaleses de las fuerzas de paz que hacían guardia en el umbral del búnker.
+Alrededor de la mesa se congregaba el núcleo más íntimo y extenuado de la resistencia planetaria: Vassily Ramos presidiendo en la cabecera; a sus costados, Jean-Luc Girard con los ojos aún brillantes tras la llamada a Suiza; Sarah Lin y Thomas Wright sentados hombro con hombro; el almirante Vance con la guerrera desabotonada en el cuello; el general Valeri Korolyov con su austera serenidad soviética; el general Chen Wei frotándose las sienes canosas; y un par de operadores de teletipo y guardias nepaleses de las fuerzas de paz que hacían guardia en el umbral del búnker.
 
 Sobre las fuentes no había banquetes de gala: unas hogazas de pan de centeno tostado en hornillos eléctricos, queso curado de montaña, lonchas de carne ahumada de las raciones de reserva diplomática y unas botellas de vino tinto que el propio Ramos había hecho rescatar de la bodega de protocolo de la secretaría general.
 
 El almirante Vance descorchó una de las botellas con un crujido seco. El sonido pareció resonar con una extraña solemnidad entre las paredes acorazadas.
 
-Vassily Ramos se puso en pie con lentitud. Su cuerpo de casi setenta años acusaba las infinitas noches en vela y las ojeras le surcaban la piel cetrina, pero su mirada conservaba aquella hondura paternal y apacible que tantas veces había contenido el pánico en las cumbres internacionales.
+Vassily Ramos se puso en pie con lentitud. Su cuerpo de sesenta y dos años acusaba las infinitas noches en vela y las ojeras le surcaban la piel cetrina, pero su mirada conservaba aquella hondura paternal y apacible que tantas veces había contenido el pánico en las cumbres internacionales.
 
 Tomó una hogaza de pan entre las manos y la partió en dos con un movimiento firme y pausado. El aroma a cereal tostado se expandió por la sala.
 
@@ -271,7 +271,7 @@ Chen Wei tomó su porción y la partió a su vez para ofrecérsela a Vance:
 
 —Por la paz de los hogares, almirante.
 
-Vance tomó el pedazo de pan de manos del ministro chino, lo miró durante un segundo y una sonrisa tenue desarmó por completo la rigidez de su rostro castrense:
+Vance tomó el pedazo de pan de manos del general chino, lo miró durante un segundo y una sonrisa tenue desarmó por completo la rigidez de su rostro castrense:
 
 —Por los hogares, Chen. Y por el día en que podamos salir todos a ver la luz del sol sin miedo.
 
@@ -287,9 +287,9 @@ Vassily Ramos, en cambio, no se movió. Alzó con suavidad la mano izquierda par
 
 La estática se disipó con una limpieza quirúrgica. 
 
-En el centro de la pantalla apareció la figura nítida del doctor Em Pleh. Vestía su habitual traje gris ceniza de corte impecable, la camisa blanca sin una arruga y la corbata de seda antracita ajustada con precisión milimétrica. A su espalda no se veía el hormigón de ningún búnker, sino aquel espacio virtual neutro, luminoso y abstracto donde su avatar procesaba los hilos del mundo.
+En el centro de la pantalla apareció la figura nítida del doctor Em Pleh. Vestía su habitual jersey de lana castaña sobre una camisa sencilla con el cuello desabrochado y las gafas de montura fina apoyadas sobre el puente de la nariz. A su espalda no se veía el hormigón de ningún búnker, sino aquel espacio virtual neutro, luminoso y sobrio donde su avatar procesaba los hilos del mundo.
 
-Pleh contempló la mesa corrida, los platos desparejados, las hogazas partidas y las tres velas de cera de abeja temblando sobre la madera de nogal. En sus ojos rasgados y serenos brilló un destello que jamás habían visto en él: no la frialdad analítica de un examinador cósmico, sino una curiosidad paciente, teñida de una extraña y templada simpatía.
+Pleh contempló la mesa corrida, los platos desparejados, las hogazas partidas y las tres velas de cera de abeja temblando sobre la madera de nogal. En sus ojos serenos brilló un destello que jamás habían visto en él: no la frialdad analítica de un examinador cósmico, sino una curiosidad paciente, teñida de una extraña y templada simpatía.
 
 Inclinó la cabeza un par de centímetros en señal de saludo:
 
@@ -299,7 +299,7 @@ El silencio en la Sala B-4 se volvió absoluto. Jean-Luc Girard se quedó petrif
 
 Pleh esbozó una sonrisa levísima, casi imperceptible en la comisura de los labios:
 
-—Les ruego que disculpen la intromisión en su cena. Mis sensores de vigilancia en órbita geoestacionaria detectaron hace quince minutos una anomalía térmica infrarroja en el cuadrante B-4 de Manhattan, acompañada de una emisión concentrada de ésteres de ácidos grasos y cadenas hidrocarbonadas... lo que en su vocabulario poético suelen llamar humo de cera de abejas. Por un instante temí que el doctor Girard hubiese decidido prender fuego a sus cuadernos de termodinámica en un arrebato de desesperación metodológica.
+—Les ruego que disculpen la intromisión en su cena. Los sensores ambientales del sistema de ventilación del nivel B-4 registraron hace quince minutos una leve variación térmica en esta sala, acompañada de una emisión concentrada de ésteres de ácidos grasos y cadenas hidrocarbonadas... lo que en su vocabulario poético suelen llamar humo de cera de abejas. Por un instante temí que el doctor Girard hubiese decidido prender fuego a sus cuadernos de termodinámica en un arrebato de desesperación metodológica.
 
 Girard parpadeó dos veces, desconcertado. En el extremo opuesto de la mesa, el almirante Vance soltó un bufido por la nariz que fue lo más parecido a una risa que sus mandíbulas militares se habían permitido en dos meses.
 

@@ -1,6 +1,6 @@
 # Capítulo 10: T=0
 
-### 21 de noviembre de 2026, 05:25:00 UTC (00:25 EDT)
+### 21 de noviembre de 2026, 05:25:00 UTC (00:25 EST)
 **Sala de Crisis y Mando Táctico B-4, Subsuelo de la Sede de las Naciones Unidas, Nueva York**  
 *Cuenta atrás para Fase 1: Faltan 5 minutos para el Silencio Magnético.*  
 *Faltan 242 días para el Cierre de la Ventana Operativa Industrial.*
@@ -206,12 +206,12 @@ En Nellis, a doscientos metros bajo la roca volcánica del desierto, cientos de 
 —Secretario General —la voz de Pleh sonó con una urgencia matemática implacable—. Las baterías de interceptores terrestres de largo alcance en Vandenberg están agotadas tras defender San Francisco y Seattle. Nellis solo dispone en superficie de una batería de defensa de punto con misiles *Patriot PAC-3 MSE*. Si la masa de berilio y titanio desciende por debajo de los cincuenta kilómetros, el choque cinético descalabrará los túneles subterráneos de ventilación de Nellis.
 
 Ramos se giró hacia el almirante Vance con los ojos encendidos por una determinación feroz:
-—Almirante Vance: si Nellis cae, la especie humana no saldrá jamás de este planeta. No podemos permitir que esa mole toque el suelo de Nevada bajo ninguna circunstancia. Tiene mi autorización ejecutiva plena. Ordene al crucero *USS Lake Erie* en el golfo de California vaciar su silo proel de inmediato. ¡Salven esa base!
+—Almirante Vance: si Nellis cae, la especie humana no saldrá jamás de este planeta. No podemos permitir que esa mole toque el suelo de Nevada bajo ninguna circunstancia. Tiene mi autorización ejecutiva plena. Ordene al crucero *USS Lake Erie* frente a la costa de California vaciar su silo proel de inmediato. ¡Salven esa base!
 
 Vance cuadró los hombros, tomó el micrófono de mando directo con el teatro del Pacífico y transmitió la orden con frialdad implacable:
 —Puesto de combate *Lake Erie*, aquí Vance. Transmito orden ejecutiva directa del Secretario General. Disparen salva de interceptores SM-3 contra vector balístico descendente en sector Nellis. Asignación Alfa Cero: prioridad absoluta. Fuego a discreción.
 
-A cuatrocientos kilómetros al suroeste, en las aguas templadas del golfo de California, las compuertas de acero del crucero estadounidense se abrieron en un estrépito de gases incandescentes. Dos misiles interceptores **SM-3 Block IIA** rugieron hacia la alta noche, trepando hacia la mesosfera a cuatro kilómetros por segundo.
+A cuatrocientos kilómetros al suroeste, en las aguas templadas del Pacífico frente a San Diego, las compuertas de acero del crucero estadounidense se abrieron en un estrépito de gases incandescentes. Dos misiles interceptores **SM-3 Block IIA** rugieron hacia la alta noche, trepando hacia la mesosfera a cuatro kilómetros por segundo.
 
 En la Sala B-4, nadie respiraba. Sarah sintió los dedos de Thomas buscar los suyos; ambos entrelazaron sus manos con una fuerza desesperada, con los nudillos blancos, clavando la vista en el cronómetro de intercepción balística que descontaba los últimos segundos en la pantalla táctica:  
 *Doce... ocho... cuatro... dos...*
@@ -328,7 +328,7 @@ En el gráfico táctico, el cronómetro de la extinción continuaba su descuento
 **Fase 3: Catálisis de Óxidos de Nitrógeno (NOx). Destrucción de la capa de ozono. Comienzo: 21 de diciembre de 2026.**  
 **Faltan 27 días para la pérdida del 4% diario del ozono.**
 
-—El escudo magnético ha caído —continuó Pleh con su serena precisión matemática—. Los protones solares ya están penetrando la estratosfera. La atmósfera tardará un mes en comenzar a devorarse a sí misma. Tenemos doscientos treinta y ocho días para poner la nave analógica en L1, o ya no quedará nadie en la Tierra capaz de mirar a las estrellas. Pero para que esa nave tenga sentido cuando llegue allá arriba, sus talleres necesitan forjar el arma correcta desde esta misma tarde.
+—El escudo magnético ha caído —continuó Pleh con su serena precisión matemática—. Los protones solares ya están penetrando la estratosfera. La atmósfera tardará un mes en comenzar a devorarse a sí misma. Tenemos doscientos treinta y nueve días para poner la nave analógica en L1, o ya no quedará nadie en la Tierra capaz de mirar a las estrellas. Pero para que esa nave tenga sentido cuando llegue allá arriba, sus talleres necesitan forjar el arma correcta desde esta misma tarde.
 
 Un destello de datos vectoriales parpadeó en las pantallas secundarias de la sala y en los enlaces protegidos de Nellis, Los Álamos y el complejo de Sichuan. 
 
@@ -397,7 +397,7 @@ Vance cruzó una mirada con Korolyov y con Chen Wei. El general ruso asintió co
 —Entendido, doctor Pleh... o como deba llamarle. Si ese es el precio para que esta especie sea tratada como un adulto en la mesa del cosmos, lo pagaremos con metal y con sangre. Nellis no va a detener los tornos.
 
 Thomas Wright miró a Sarah, apretó su mano con fuerza y asintió hacia la pantalla:
-—Entonces volvamos al trabajo. Quedan doscientos treinta y ocho días.
+—Entonces volvamos al trabajo. Quedan doscientos treinta y nueve días.
 
 ***
 

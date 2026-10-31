@@ -91,7 +91,7 @@ Vance permaneció en silencio, con la mandíbula apretada y una expresión que o
 
 La noche sobre la bahía no era oscura: palpitaba con una fosforescencia esmeralda y lechosa que descendía de las capas altas de la atmósfera, dibujando sombras alargadas y espectrales entre los rascacielos apagados. En Market Street imperaba el silencio opresivo del toque de queda diurno, quebrado solo por el viento húmedo del Pacífico silbando entre los cables sueltos del tranvía.
 
-En el semisótano húmedo, Maya Lin acomodaba una toalla empapada sobre la frente de su hijo Toby. El pequeño, con cuatro años y el cuerpo menudo ardiendo en fiebre, respiraba con un silbido corto y asmático. Maya tarareaba una canción infantil muy baja, apretándole los piececillos con sus manos agrietadas por el agua salobre del racionamiento.
+En el semisótano húmedo del inmueble —adonde se habían trasladado en febrero desde el cuarto piso para resguardarse del calor y de la radiación ultravioleta que se filtraba por la cubierta superior—, Maya Lin acomodaba una toalla empapada sobre la frente de su hijo Toby. El pequeño, con cuatro años y el cuerpo menudo ardiendo en fiebre, respiraba con un silbido corto y asmático. Maya tarareaba una canción infantil muy baja, apretándole los piececillos con sus manos agrietadas por el agua salobre del racionamiento.
 
 De improviso, el zumbido de las viejas tuberías de plomo que cruzaban el techo cambió de frecuencia.
 

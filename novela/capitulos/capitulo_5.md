@@ -17,7 +17,7 @@ Jean-Luc Girard partió con meticulosidad quirúrgica su sándwich por la mitad,
 
 —No entra nada —musitó, frotándose el puente de la nariz bajo las gafas—. Es... físicamente imposible tragar. Mi corteza cerebral sigue atrapada en esa gráfica de radiación sincrotrón. Doce teslas a millón y medio de kilómetros.
 
-—Oblíguese, doctor —dijo Thomas Wright con voz baja pero pausada, sirviendo agua en el vaso del físico suizo—. Beba al menos. A las cuatro de la tarde nos van a encerrar en un sótano blindado con los mayores cerebros militares del planeta y una inteligencia artificial que piensa a la velocidad de la luz. Si nuestros niveles de glucosa caen, empezaremos a cometer errores de cálculo en las primeras dos horas.
+—Oblíguese, doctor —dijo Thomas Wright con voz baja pero pausada, sirviendo agua en el vaso del físico francés—. Beba al menos. A las cuatro de la tarde nos van a encerrar en un sótano blindado con los mayores cerebros militares del planeta y una inteligencia artificial que piensa a la velocidad de la luz. Si nuestros niveles de glucosa caen, empezaremos a cometer errores de cálculo en las primeras dos horas.
 
 Wright dio un bocado a su ración con pragmática disciplina. A sus cincuenta y dos años, el ingeniero británico de la ESA conservaba una complexión atlética y un porte maduro y atractivo, de mandíbula firme y sienes plateadas, templado por décadas de guardias nocturnas en los centros de control de misiones de Darmstadt y Kourou. Había aprendido en incontables simulaciones de crisis que el cuerpo humano necesita combustible biológico incluso cuando el motor del mundo parece a punto de estallar.
 
@@ -52,7 +52,7 @@ Las tres suites ocupaban un ala reservada de la planta veintiocho, con vistas pr
 
 #### 1. Jean-Luc Girard: La Geometría Rota del Hogar
 
-En la suite 2804, Jean-Luc Girard cerró la puerta corredera del balcón acristalado y marcó el número privado de su residencia en Meyrin, a escasos minutos de la frontera franco-suiza y de los laboratorios subterráneos del CERN. En Suiza ya eran casi las ocho y media de la tarde.
+En la suite 2804, Jean-Luc Girard cerró la puerta corredera del balcón acristalado y marcó el número privado de su residencia en Versoix, a orillas del lago Lemán y a escasos minutos de los laboratorios subterráneos del CERN. En Suiza ya eran casi las ocho y media de la tarde.
 
 El tono sonó tres veces antes de que una voz cálida y familiar respondiera al otro lado:
 
@@ -126,7 +126,7 @@ En la suite 2808, Thomas Wright sostenía una botella de agua mineral mientras m
 
 —*¡Thomas! Qué sorpresa. ¿Sigues en la jungla de asfalto? ¿Cómo fue ese café misterioso con tu colega de los foros de astrodinámica?*
 
-Wright no pudo evitar una sonrisa cálida. Su hermano menor, David, era profesor de biotecnología aplicada en la Universidad de Cambridge y la persona más cercana que le quedaba en el mundo. Su relación era impecable: dos mentes analíticas que se respetaban profundamente y que habían compartido la pasión por la investigación desde su infancia en los páramos de Yorkshire.
+Wright no pudo evitar una sonrisa cálida. Su hermano menor, David, era físico experimental en la Universidad de Cambridge y la persona más cercana que le quedaba en el mundo. Su relación era impecable: dos mentes analíticas que se respetaban profundamente y que habían compartido la pasión por la investigación desde su infancia en la campiña inglesa.
 
 —Bueno, Dave... Digamos que el café se complicó bastante —respondió Thomas con su habitual tono campechano y sereno—. De esa charla informal con el colega surgió una contingencia imprevista. Una auditoría técnica de urgencia y una mesa científica extraordinaria que la secretaría de la ONU ha convocado a toda prisa sobre navegación y telecomunicaciones. Nos interceptaron a la salida y me temo que las Naciones Unidas me han confiscado el pasaporte de forma figurada por unos cuantos días.
 

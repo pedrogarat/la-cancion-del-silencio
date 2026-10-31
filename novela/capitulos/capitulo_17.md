@@ -32,7 +32,7 @@ Miró el rincón de la chimenea. Allí, junto a las tenazas oxidadas, descansaba
 
 Claire alzó la cabeza con un sobresalto de alarma.
 
-—Los Miller bajaron hace cuatro noches, David. Dijeron que en la trasera de la farmacia quedaban sueros. Volvió solo Robert, arrastrándose entre los espinos, con dos perdigonadas en la espalda. Hay hombres armados en el cruce de la iglesia. Disparan a cualquier sombra antes de preguntar. Nadie comparte una lata de judías.
+—Los Clarke bajaron hace cuatro noches, David. Dijeron que en la trasera de la farmacia quedaban sueros. Volvió solo Robert, arrastrándose entre los espinos, con dos perdigonadas en la espalda. Hay hombres armados en el cruce de la iglesia. Disparan a cualquier sombra antes de preguntar. Nadie comparte una lata de judías.
 
 —Robert fue por la carretera principal y con una linterna encendida —replicó David con serenidad—. Se expuso como un blanco fácil. Yo conozco las zanjas de drenaje y los caminos de herradura. Si cruzo por la vaguada del río Alde, no pisaré asfalto en tres millas. Saldré a la una. El resplandor verde del cielo estará bajo y no habrá luna.
 

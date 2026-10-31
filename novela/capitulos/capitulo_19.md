@@ -41,7 +41,7 @@ El silencio volvió a adueñarse de la cabina. Era una pedagogía que no necesit
 
 La pérdida progresiva de la Tierra no era solo visual; era, sobre todo, acústica.
 
-Durante la primera semana de travesía, las comunicaciones por radio con la sala de tiro subterránea de Nellis habían mantenido la calidez y el desasosiego de lo cotidiano. Pero al superar el millón de kilómetros, el límite implacable de la velocidad de la luz comenzó a estirar el tiempo como una goma elástica. Un informe de estado tardaba casi cuatro segundos en llegar al desierto de Nevada; la respuesta del general Vance o de Sarah Lin tardaba otros cuatro segundos en regresar. La conversación humana se convirtió en un intercambio telegráfico, austero, donde cada palabra debía sopesarse antes de pulsar el botón de emisión.
+Durante la primera semana de travesía, las comunicaciones por radio con la sala de tiro subterránea de Nellis habían mantenido la calidez y el desasosiego de lo cotidiano. Pero al superar el millón de kilómetros, el límite implacable de la velocidad de la luz comenzó a estirar el tiempo como una goma elástica. Un informe de estado tardaba casi cuatro segundos en llegar al desierto de Nevada; la respuesta del almirante Vance o de Sarah Lin tardaba otros cuatro segundos en regresar. La conversación humana se convirtió en un intercambio telegráfico, austero, donde cada palabra debía sopesarse antes de pulsar el botón de emisión.
 
 Hacia el decimonoveno día, las cosas empeoraron en la superficie. Las tormentas solares, libres del corsé de una magnetosfera rota, castigaban sin piedad las antenas de la Red de Espacio Profundo en Goldstone y Robledo de Chavela. La voz de Nellis llegaba envuelta en fritura estática, entrecortada por aullidos ionosféricos, cargada de una fatiga sorda que hablaba a las claras del colapso de las redes eléctricas terrestres.
 
@@ -83,7 +83,7 @@ MacElroy se incorporó contra las cinchas, clavando la mirada en el altavoz.
 
 —¿Cómo están las cosas abajo, doctor? Nellis apenas responde desde hace doce horas.
 
-—*La Tierra se está apagando, James* —dijo Pleh con una calma que helaba la sangre más que el vacío exterior—. *Las auroras ya son visibles a mediodía en el ecuador. En Londres y en Pekín la gente camina por las calles mirando al cielo como si contemplaran el fin del Génesis. Pero aún respiran. Thomas Edwards y Sarah Lin están en el búnker de Nellis. No duermen. Están vigilando su estela en los radares pasivos. Todo lo que la especie humana ha sido, desde la primera fogata en las cavernas hasta este vuelo, depende de lo que hagan ustedes tres dentro de setenta horas.*
+—*La Tierra se está apagando, James* —dijo Pleh con una calma que helaba la sangre más que el vacío exterior—. *Las auroras ya son visibles a mediodía en el ecuador. En Londres y en Pekín la gente camina por las calles mirando al cielo como si contemplaran el fin del Génesis. Pero aún respiran. Thomas Wright y Sarah Lin están en el búnker de Nellis. No duermen. Están vigilando su estela en los radares pasivos. Todo lo que la especie humana ha sido, desde la primera fogata en las cavernas hasta este vuelo, depende de lo que hagan ustedes tres dentro de setenta horas.*
 
 —Haremos nuestro trabajo —contestó MacElroy con sequedad castrense.
 
@@ -111,7 +111,7 @@ De pronto, un chisporroteo agudo brotó de los paneles de navegación inercial.
 
 La pantalla del ordenador cuántico de a bordo tembló. Durante una fracción de segundo, las líneas verdes del vector orbital se desdoblaron en un patrón de interferencia fantasma, como si un imán titánico acabara de pasar rozando los cables de datos.
 
-—Corrientes parásitas —advirtió Chen Mei con voz tensa pero firme. Sus ojos vigilaban un miliamperímetro analógico auxiliar montado en el mamparo—. Las bobinas externas del blindaje están recogiendo la inducción de la red. Si entramos tres mil kilómetros más, los buses lógicos de la nave se sobrecalentarán por efecto Joule. Se acabó el paseo digital, comandante.
+—Corrientes parásitas —advirtió Chen Mei con voz tensa pero firme. Sus ojos vigilaban un miliamperímetro analógico auxiliar montado en el mamparo—. Las bobinas externas del blindaje están recogiendo la inducción de la red. Si entramos tres mil kilómetros más, los buses lógicos de la nave se sobrecalentarán por efecto Joule. Se acabó el paseo digital, coronel.
 
 MacElroy miró la cifra en la esquina superior del panel de control: **12.040 km**.
 
@@ -139,7 +139,7 @@ El contraste entre ambos mundos era desolador. Detrás de Voronov, la cabina del
 
 Frente a MacElroy y Chen Mei, tras la escotilla de proa abierta de par en par, se abría una caverna angosta, oscura y fría como el interior de un submarino de la Segunda Guerra Mundial. No había un solo circuito impreso. No había fibras ópticas. Las paredes eran planchas desnudas de titanio pulido a mano, sujetas por remaches mecánicos de cabeza cónica; del techo colgaban tuberías hidráulicas de cobre forjado y varillas de acero trenzado que conectaban directamente las palancas de mando con los actuadores de gas en el exterior.
 
-Voronov sostuvo una pequeña caja metálica entre sus manos enguantadas. Era el relicario de titanio que el general Ramos les había entregado al pie de la torre en Nellis: los tres puñados de tierra del desierto de Nevada, de las orillas del Yangtsé y de las riberas del Volga, coronados por una espiga seca de trigo dorado.
+Voronov sostuvo una pequeña caja metálica entre sus manos enguantadas. Era el relicario de titanio que el Secretario General Ramos les había entregado antes de subir a la torre en Nellis: los tres puñados de tierra del desierto de Nevada, de las orillas del Yangtsé y de las riberas del Volga, coronados por una espiga seca de trigo dorado.
 
 —Tomen —dijo Voronov con voz ronca, entregándole el cofre a Chen Mei—. Pertenece al morro. Llévenlo hasta el final.
 
@@ -191,50 +191,56 @@ El MAA estaba libre. Una cápsula ciega de quince toneladas de metal desnudo, fl
 
 ---
 
-### VI. El Retorcimiento de Sombra
+### VI. El Muro de Lorentz y el Gran Silencio
 
-MacElroy apoyó la bota contra el estribo de guiado y tomó la empuñadura de gas para realizar la primera corrección de rumbo hacia el centro de L1.
+MacElroy apoyó la bota contra el estribo de guiado mecánico y sujetó con ambas manos la empuñadura de gas para la primera corrección de rumbo hacia el corazón de L1.
 
-—Diez segundos para encendido de aproximación, Mei —dijo MacElroy, alineando la cruz grabada con ácido en el cristal de cuarzo con el punto oscuro del cilindro semilla—. Prepara la válvula de...
+—Diez segundos para encendido de aproximación, Mei —dijo MacElroy, alineando la retícula grabada con ácido en el bloque de cuarzo con el punto oscuro del cilindro semilla—. Abre la válvula neumática número tres.
 
-No terminó la frase.
+Chen Mei accionó la manivela de bronce con un giro seco. El gas frío sopló con un silbido sordo a través de las toberas exteriores, empujando la mole de titanio del MAA hacia adelante. En el tablero analógico, la aguja del clinómetro de alcohol osciló levemente antes de quedar centrada.
 
-En el interior de sus cascos presurizados, en los receptores de radio de frecuencia fija —unos aparatos arcaicos de bobina de cobre y diodo de cristal que no dependían de ningún microchip para sintonizar ondas en el vacío— resonó un chirrido agudo, seguido de la voz pausada pero cortante del Dr. Em Pleh.
+En ese instante, la cota de distancia en las cartas inerciales cruzó la línea invisible: **11.990 kilómetros**.
 
-La señal, una vez más, entraba sin el menor retraso, directa a los tímpanos de los pilotos:
+El cruce del Muro de Lorentz no fue un concepto abstracto; fue un impacto físico y sensorial.
 
-—*James. Chen Mei. Detengan cualquier impulso de actitud de inmediato.*
+En los receptores de radio de frecuencia fija —aquellos circuitos de diodo de galena y tubos termoiónicos montados en los mamparos— brotó un aullido ensordecedor de fritura electromagnética, como si un millón de agujas de acero estuvieran rasgando una plancha de zinc al rojo vivo. Por una fracción de segundo, la voz del Dr. Em Pleh intentó modular una frase a través del canal:
 
-MacElroy congeló la mano sobre la palanca de gas. El sudor le resbaló por la sien, picándole en el rabillo del ojo.
+—*James... Mei... la saturación inductiva en la frontera supera los...*
 
-—¿Pleh? Ya estamos separados del tren digital. Estamos en caída libre a doce mil kilómetros de la malla.
+Un chasquido seco, violento como el latigazo de un cable de alta tensión partiéndose en el vacío, decapitó la transmisión. 
 
-—*Lo sé. Y no son los únicos que lo saben.*
+Luego, la nada.
 
-La voz del Avatar tenía ahora una vibración tensa, desprovista de su habitual serenidad matemática.
+El enlace cuántico no-local colapsó. La radio murió. La conexión con la Tierra, con el búnker de Nellis y con la órbita polar se extinguió de golpe, disuelta en el océano de corrientes de Foucault que blindaba el punto de Lagrange. Por primera vez en ochenta y dos años, desde que el destello de Trinity despertara al observador en Alamogordo, el Dr. Em Pleh se había quedado ciego y sordo ante la especie humana.
 
-—*Miren a través de sus prismas de cuarzo a las diez en punto. Con aumento manual.*
+Dentro del MAA no sonaban alarmas electrónicas porque no había altavoces ni sintetizadores digitales. El silencio se volvió cavernoso, espeso, roto únicamente por el rítmico e imperturbable *tic-tac* del giroscopio de cuerda suiza y el flujo áspero de oxígeno en los cascos.
 
-Chen Mei aferró el tubo de enfoque óptico del periscopio derecho y lo giró con rapidez. A través de las lentes pulidas, la perspectiva de la red alienígena de cincuenta kilómetros saltó frente a sus pupilas con aterradora nitidez.
+MacElroy miró a Chen Mei. A través del visor dorado de su escafandra, los ojos oscuros de la astrofísica china devolvieron una mirada serena, despojada de todo miedo accesorio.
 
-La telaraña ya no flotaba inerte bajo el viento solar.
+—Estamos solos, coronel —dijo Chen Mei por el intercomunicador analógico interno de cable de cobre—. La física de silicio se ha terminado.
 
-Los filamentos superconductores —aquellas hebras negras y delgadísimas que hasta hacía unos minutos flotaban extendidas en un plano estático para anular el campo terrestre— estaban oscilando. Primero fue un temblor ondulante en los extremos exteriores del enjambre, como las patas de un artrópodo monstruoso tanteando el agua en la oscuridad. Luego, con una lentitud grácil y pesada, grupos enteros de filamentos comenzaron a curvarse hacia adelante, plegándose sobre sí mismos en una geometría helicoidal cerrada.
+MacElroy asintió en silencio. Aferró la palanca de gobierno manual y empujó la lanza de titanio hacia las fauces de la máquina.
 
-—Están cambiando de fase —susurró Chen Mei, con los nudillos blancos de apretar el cilindro del visor—. No están disipando energía hacia la Tierra... Están concentrando las líneas de inducción magnética hacia proa. Hacia nosotros.
+---
 
-—*Sombra ha registrado la variación de masa al separarse los dos módulos* —explicó la voz de Pleh en sus oídos, rápida, precisa, urgente—. *Su red neuronal no es ciega. Ha detectado una masa balística desprendiéndose de la órbita de seguridad y está ejecutando una maniobra defensiva activa.*
+A doce mil kilómetros de distancia, en la cabina silenciosa del Módulo de Retorno Digital, el coronel Alexei Voronov contemplaba el abismo desde su asiento de mando.
 
-MacElroy miró la aguja del giroscopio. El tic-tac de cuerda suiza seguía desgranando los segundos con indiferencia de relojero, pero en el espacio exterior, a doce mil kilómetros de distancia, cincuenta kilómetros de superconductor extraterrestre se estaban cerrando como las fauces de una trampa de acero.
+En las tres pantallas planas del MRD, los bloques de datos se congelaron. Las barras de telemetría del MAA cayeron verticalmente a cero, sustituidas por un parpadeo monótono de advertencia: **SEÑAL PERDIDA — APANTALLAMIENTO TOTAL DE LORENTZ**.
 
-—¿Qué clase de maniobra, doctor? —preguntó MacElroy con la mandíbula apretada—. ¿Van a disparar?
+En los altavoces de la nave nodriza, la voz de Pleh resonó una última vez, desprovista por completo de su habitual arrogancia matemática:
 
-—*No utilizan proyectiles ni rayos térmicos, James. Su defensa es el propio tejido de la inducción* —respondió Pleh—. *Están creando un vórtice magnético toroidal para triturar cualquier conductor metálico que intente penetrar en el enjambre antes de que alcance el radio de tiro.*
+—*Han cruzado el umbral, coronel Voronov. La densidad de flujo magnético en ese sector ha anulado cualquier vector de seguimiento cuántico. En este instante, ni siquiera mis algoritmos pueden predecir lo que ocurre allí dentro. La tripulación está operando en la oscuridad absoluta.*
 
-Se hizo una pausa breve, cargada de una gravedad insondable.
+Voronov no respondió. No pulsó el conmutador de enlace con la Tierra ni miró las pantallas digitales que seguían proyectando el reloj de cuenta atrás. Desabrochó su arnés, flotó hasta la mirilla dorsal de cuarzo y apoyó la frente contra el marco frío de aluminio.
 
-—*No enciendan motores. Permanezcan en silencio balístico absoluto. Voy a forzar una brecha de enlace en el protocolo de resonancia de su procesador central para averiguar qué patrón defensivo está tejiendo esa máquina... y encontrarles un pasillo por donde colar esa lanza analógica.*
+A través del cristal, recortada contra el resplandor blanco y cegador del Sol, la telaraña de *Sombra* se extendía a lo largo de cincuenta kilómetros como una inmensa catedral de espinas negras suspendida en el vacío. Sus filamentos superconductores ondulaban lentamente en la nada, arqueándose como tentáculos minerales que tanteaban las corrientes de partículas solares.
 
-MacElroy y Chen Mei intercambiaron una mirada a través de las viseras de sus escafandras.
+En el borde mismo de aquella trampa colosal, Voronov distinguió por una fracción de segundo un minúsculo destello de luz: el reflejo del Sol sobre el morro cónico de titanio del MAA. Una mota de polvo insignificante, un grano de arena forjado por manos humanas que se adentraba en la boca del leviatán electromagnético.
 
-A través del cuarzo, los filamentos negros de *Sombra* continuaban retorciéndose en la negrura de L1, brillando tenuemente bajo la luz del Sol como los cables tensados de una horca cósmica que esperaba a su presa.
+Luego, la sombra se cerró.
+
+El destello de titanio desapareció en el laberinto de superconductor negro. 
+
+En la órbita de Halo, Voronov sostuvo su lápiz de grafito sobre la tablilla de aluminio y miró el segundero de su cronómetro mecánico.
+
+El universo entero quedó en suspenso. No había telemetría. No había imágenes. No había palabras. Solo una espera muda, ciega y terrible en el corazón del Sistema Solar.
