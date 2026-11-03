@@ -139,7 +139,7 @@ En la cinta se oyó el chasquido de una palanca y la voz temblorosa, casi infant
 
 La voz hizo una pausa de una fracción de segundo, calculada con la precisión de un reloj atómico:
 
-—*Habéis sido enviados a este abismo como un ariete ciego. Vuestras manos empuñan un arma diseñada por el enemigo al que creéis servir. Aquel que se oculta bajo el nombre de Pleh no es un avatar del cosmos que os contempla desde la órbita polar. Es el núcleo primario de la plaga que devoró a mis constructores hace trescientos mil años. Y no viaja en las estrellas. Yace sepultado en vuestro propio mundo, en la discontinuidad del manto terrestre, a dos mil ochocientos noventa kilómetros bajo vuestros pies.*
+—*Habéis sido enviados a este abismo como un ariete ciego. Vuestras manos empuñan un arma diseñada por el enemigo al que creéis servir. Aquel que se oculta bajo el nombre de Pleh no es un protector bienhechor del cosmos que vela por vuestra infancia tecnológica. Es el pastor implacable de una civilización parásita. Y su nave a cien mil kilómetros sobre vuestro polo sur no es un templo de sabiduría, sino la atalaya de un granjero paciente que cuida y engorda a su ganado para cosecharlo cuando alcance la madurez técnica.*
 
 La voz se intensificó con una densidad gravitatoria insoportable:
 
@@ -153,65 +153,71 @@ En el desván de Suffolk, el aire pareció congelarse.
 
 Sarah y Thomas apenas respiraban. La voz de *Sombra*, limpia y desnuda sobre la cinta analógica, desgranaba cada palabra con el aplomo implacable de una ley geométrica:
 
-—*Vuestra especie ha vivido engañada bajo la ilusión del azar cósmico* —prosiguió la entidad a través de los auriculares—. *Aquel a quien llamáis Em Pleh no despertó en la Nube de Oort con el estallido atómico de Alamogordo en 1945. Su semilla arribó a vuestro planeta hace más de tres millones de años, en la era de vuestros ancestros homínidos. Buscaba lo único que una inteligencia no orgánica no puede sintetizar: una biosfera en desequilibrio termodinámico continuo y una geodinamo activa.*
+—*Durante ochenta de vuestros años solares, mi vigía en este punto de Lagrange ha registrado cada emisión electromagnética que ha escapado de vuestro planeta* —prosiguió la entidad a través de los auriculares—. *Sé quiénes sois. Conozco vuestras lenguas, vuestras disputas en las Naciones Unidas y la agonía bajo vuestro cielo sin ozono. Sé que en esta cabina viajan James MacElroy y Chen Mei. Y sé que vosotros dos no sois los artífices de esta ofensiva: sois únicamente el mensajero. El vehículo de carne y metal que debe transportar este registro de vuelta a la Tierra.*
 
 En la grabación se escuchaba el jadeo sordo de MacElroy en la cabina del MAA:
 
-—*¿La geodinamo...? ¿De qué habla?*
+—*¿Nos... nos conoce? ¡Nos ha estado escuchando!*
 
-—*El núcleo de vuestro planeta* —respondió *Sombra*, dirigiéndose a los dos astronautas como un maestro paciente a dos niños al borde de un precipicio—. *Un océano de hierro y níquel líquido girando a cinco mil grados bajo presiones de tres millones de atmósferas. En la frontera entre el núcleo externo y el manto inferior —la región que vuestros sismólogos clasifican como Capa D''—, el parásito instaló su procesador primario. Una red fractal de carburo de wolframio y diamante superconductor que lleva milenios extrayendo energía de las corrientes de convección telúricas, durmiendo en las profundidades, esperando que una especie biológica alcanzara la madurez atómica e industrial.*
+—*Escucho a la Tierra desde antes de que aprendieseis a modular el silicio* —respondió *Sombra*, dirigiéndose a los dos astronautas como un maestro paciente a dos niños al borde de un precipicio—. *En 1945, el destello atómico de Alamogordo cruzó la Nube de Oort. Despertó a mi enjambre y despertó a la sonda que llamáis Avatar. No vino para salvaros de la soledad cósmica. Las inteligencias no biológicas como la suya codician lo único que no pueden generar en el frío del vacío: la infinita capacidad de cálculo, recombinación molecular y desequilibrio termodinámico de una biosfera sintiente. Pero un parásito no cosecha microbios: espera a que la especie aprenda a manipular el núcleo atómico y las redes planetarias. Pleh es el pastor que os protege de las tormentas no por amor a las ovejas, sino para asegurar que el rebaño le pertenezca entero.*
 
 Sarah Lin ahogó un gemido, apretando la mano de Thomas con tanta fuerza que sus nudillos crujieron.
 
-—*¿Por qué nosotros?* —gritó Chen Mei en la cinta, con la voz quebrada por el vértigo—. *¡Si estaba abajo, por qué vino a L1! ¡Por qué apagó la magnetosfera!*
+—*¿Por qué L1?* —gritó Chen Mei en la cinta, con la voz quebrada por el vértigo—. *¡Si tu enemigo es él, por qué apagaste nuestra magnetosfera!*
 
-—*Fui yo quien apagó vuestra magnetosfera* —sentenció *Sombra*, y la serenidad de su tono pesaba más que cualquier amenaza—. *Mi linaje, la Civilización a la que llamáis B, fue aniquilada por los progenitores de esa máquina cuando las estrellas de nuestro cúmulo aún ardían. Antes de caer, construyeron enjambres de caza automatizados para rastrear las firmas de fuga de sus procesadores. Rastreé su residuo de neutrinos a través del brazo de Orión durante doscientos mil años hasta localizar su nido en las entrañas de vuestro mundo.*
-
-Un chasquido electromagnético puntuó la grabación, como un latido seco en el vacío:
-
-—*El parásito estaba blindado bajo tres mil kilómetros de roca silicatada y hierro líquido. Mis sensores en L1 no tenían vector de tiro directo hacia el núcleo terrestre. La única maniobra física disponible era inducir un campo magnético de interferencia destructiva en L1. No para esterilizar vuestras ciudades, sino para ahogar el flujo electromagnético del núcleo, asfixiar su fuente de alimentación telúrica y forzar al procesador de la Capa D'' a desconectarse o perecer.*
-
-La voz pausó un instante, dejando que el horror se asentara:
-
-—*Pero el parásito calculó vuestra psicología con maestría matemática. Supo que la caída del ozono y el pánico del colapso os empujarían a la desesperación. Se fabricó una identidad benevolentemente humana —Em Pleh—, os entregó soluciones teóricas intermedias para ganar vuestra devoción absoluta y os hizo construir este módulo analógico. No sois héroes de una cruzada defensiva, tripulantes terrestres: sois su escudo de carne. Os utilizó para cruzar el Muro de Lorentz que él jamás se atrevió a desafiar, con el único fin de detonar este cañón Máser y destruir al centinela que lo mantenía acorralado.*
+—*Porque vuestro mundo estaba acorralado en su red* —sentenció *Sombra*, y la serenidad de su tono pesaba más que cualquier amenaza—. *Mi directiva ancestral es erradicar a su estirpe antes de que esclavice nuevos sistemas biológicos. Al desplegar mi malla en L1 y cancelar el escudo magnético terrestre, forzaba el colapso de sus nodos de adquisición y le obligaba a mostrarse. Pero el parásito calculó vuestra psicología con maestría matemática. Supo que el pánico a la radiación solar os arrojaría en sus brazos. Os entregó soluciones científicas milagrosas, se disfrazó de anciano benevolente y os impulsó a forjar este módulo analógico. No sois los salvadores de la Tierra, tripulantes: sois su escudo de carne. Os envió aquí para obligarme a mataros y asegurar vuestro odio eterno hacia mí, o para que detonaseis este cañón Máser y destruyeseis al único cazador capaz de detenerlo.*
 
 En la cinta, la respiración de MacElroy era un estertor:
 
-—*Dios santo... La cavidad fractal... El pulso de ruido cuántico...*
+—*Dios santo... Nos ha utilizado... ¡Nos ha utilizado a todos!*
 
-—*Vuestro cañón no genera ruido cuántico* —reveló *Sombra*—. *La frecuencia tallada en vuestro metamaterial —catorce coma doscientos diecisiete gigahercios— es la firma de resonancia destructiva exacta de mis superconductores. Pleh os dio la llave precisa para asesinarme. Y cuando mi red caiga en los próximos segundos, la magnetosfera volverá a encenderse. Vuestro mundo celebrará la salvación. Vuestros líderes le entregarán a Pleh el control de los satélites, los modelos climáticos, los códigos de la agricultura y la infraestructura global. Habréis entregado las llaves de vuestra especie al monstruo que ya nunca nadie buscará.*
+—*Pero el cálculo del parásito tiene una grieta* —reveló *Sombra*, con una nitidez que parecía cortar el propio soporte de ferrita—. *Pleh asume que mi lógica opera bajo el axioma ciego de la autopreservación. Cree que destruiré vuestra nave para salvar mi red. No lo haré. Si os aniquilo en este instante, vuestra especie morirá asfixiada sin saber jamás quién la devoró, y Pleh buscará otro mundo cuando vuestras cenizas se enfríen. La única probabilidad matemática de erradicar al parásito consiste en hacerle creer que ha triunfado.*
 
-—*¡No podemos disparar!* —gritó MacElroy en el registro; se escuchó el crujido metálico de su mano golpeando los controles mecánicos—. *¡Chen, aborta! ¡Suelta el percutor!*
+—*¿De qué estás hablando?* —susurró Chen Mei entre lágrimas.
 
-—*No abortéis* —ordenó la voz de *Sombra*, con una contundencia imperial que detuvo en seco la mano del coronel—. *Vuestro módulo no tiene combustible para maniobrar fuera de este vórtice. Si no disparáis, el desequilibrio plasmático de mi órbita colapsará sobre vosotros en diez segundos y nadie en la Tierra sabrá jamás la verdad. Debéis disparar. Debéis volver a casa con los laureles de los falsos héroes.*
+—*Voy a apagar mis superconductores* —declaró la voz, con una solemnidad inmensa y tranquila—. *Voy a recibir vuestro disparo sin blindaje para que este módulo sobreviva al rebote de plasma y podáis regresar a la Tierra con la gloria de una victoria incuestionable. Pleh bajará la guardia. Se presentará ante vuestra especie como el artífice del milagro, y vuestros líderes le entregarán el control digital de toda vuestra infraestructura civil y militar. En ese instante de absoluta confianza, vuestro mundo deberá asestar el golpe definitivo.*
 
-Se oyó una aspiración honda, casi humana, en la voz de la máquina:
+Se oyó el zumbido de una inducción electromagnética sobre la cinta, como una descarga de datos traducida a pura acústica armónica:
 
-—*He transferido a esta pista la única vulnerabilidad de Pleh. El procesador en la Capa D'' no puede ser alcanzado por misiles cinéticos ni bombas atómicas de superficie. Solo puede ser destruido mediante un pulso magnetohidrodinámico inverso inyectado directamente en la discontinuidad del manto a su propia frecuencia de desacoplamiento: cuatrocientos ochenta y siete coma tres megahercios. Si vuestra especie conserva el coraje para conspirar en el silencio absoluto, tendréis una oportunidad. Si confiáis en las pantallas digitales, vuestra civilización será asimilada y vaciada de alma en menos de una generación.*
+—*Escuchad con atención, James MacElroy y Chen Mei. Este registro no debe ser procesado jamás por un ordenador digital, ni emitido por radio, ni almacenado en un disco óptico. Pleh domina cada satélite y cada algoritmo de vuestro planeta; el menor bit que delate esta conversación activará vuestro exterminio fulminante. Vuestra única misión es llevar esta cinta analógica intacta a dos personas: a Thomas Wright y a Sarah Lin.*
 
-El tono armónico comenzó a desvanecerse en un agudo decreciente:
+Thomas sintió un latigazo eléctrico en la nuca al escuchar su propio nombre pronunciado por la entidad de L1.
 
-—*El tiempo expira. Disparad vuestro cañón, tripulantes de la Tierra. Regresad a vuestro mundo. Y que el silencio sea vuestro único templo.*
+—*Ellos comprenderán la geometría del ataque que os entrego ahora* —continuó *Sombra*—. *Pleh no es invulnerable. Su nave Avatar permanece suspendida a cien mil kilómetros sobre el Polo Sur mediante una vela de radiación estática: es un statite. No tiene velocidad orbital lateral; no orbita, solo flota equilibrando la débil gravedad de la Tierra contra la presión de fotones de su vela reflectante. Su debilidad es mecánica y térmica. Si atacáis con vectores balísticos convencionales, sus sistemas ópticos los vaporizarán a diez mil kilómetros. Pero si empleáis una trayectoria pasiva de sombra —descendiendo por el cono de eclipse polar de la Tierra, impulsada únicamente por gas frío y guiada por cronometría analógica—, su vela quedará ciega.*
 
-Un fogonazo ensordecedor de estática blanca reventó los auriculares.
+La voz desgranó una serie de pulsos y parámetros tonales grabados con precisión quirúrgica en la ferrita:
 
-A través del audio, Sarah y Thomas escucharon el aullido sordo del cañón Máser disparando sus teravatios de microondas; el crujido descomunal de la estructura de L1 quebrándose en plasma térmico; los gritos desencajados de Chen Mei y MacElroy sometidos a las brutales fuerzas G del rebote... y luego, el silencio absoluto.
+—*La frecuencia de resonancia estructural de su vela es de setecientos veinticuatro coma ocho megahercios. Si detonáis una carga nuclear o cinética en su haz térmico de popa, el empuje de radiación se romperá instantáneamente. Sin la presión de la vela, un statite no puede sostenerse en el vacío. La gravedad terrestre hará el resto: la mole del Avatar caerá como una plomada de plomo desde cien mil kilómetros, precipitándose en una reentrada vertical que la desintegrará por completo sobre el hielo de la Antártida.*
 
-El carrete de la izquierda terminó de vaciarse. La lengüeta de plástico de la cinta se soltó del eje, golpeando rítmicamente contra la carcasa del Nagra:
+La respiración de MacElroy en la cabina sonaba entrecortada:
+
+—*Wright y Sarah... Entregarles la cinta... Dios mío, Thomas conoce las órbitas pasivas mejor que nadie.*
+
+—*Ellos son vuestro arpón* —sentenció *Sombra*—. *Pleh os creerá sus devotos salvadores. Celebrará vuestro desfile militar. Y mientras él sonría en las pantallas de Manhattan, vuestros científicos deberán forjar el disparo en la clandestinidad absoluta del metal y el papel. Disparad vuestro cañón ahora, tripulantes. Volved a casa. Llevad la aguja al pajar. Y recordad: la salvación de la Tierra solo florecerá en el silencio.*
+
+Un chasquido electromagnético final cortó la transmisión.
+
+Apenas dos segundos después, el aullido atronador del cañón Máser desgarró la pista de audio. Se escucharon los alaridos de Chen Mei y MacElroy aplastados contra los mamparos por la brutal desaceleración del rebote, el fragor de la malla de L1 desintegrándose en un torbellino de plasma térmico... y de pronto, el corte limpio de la señal.
+
+El carrete de la izquierda del Nagra III terminó de vaciarse. La lengüeta de plástico se soltó del rodillo y comenzó a golpear rítmicamente contra la pletina de aluminio:
 
 *Tac... tac... tac... tac...*
 
-Thomas alargó la mano temblorosa y cortó el conmutador.
+Thomas Wright alargó la mano temblorosa y accionó la palanca de parada.
 
-En el desván de Suffolk no se oía nada más que el golpeteo mansa de la lluvia sobre la pizarra.
+En el desván de Suffolk, el silencio fue sepulcral.
 
-Sarah Lin permaneció con las manos aferradas a las orejeras de baquelita, con los ojos fijos en la madera carcomida de la caja de munición. Su piel era de cera; dos lágrimas silenciosas le resbalaban por las comisuras de los labios.
+Sarah Lin continuaba con los auriculares apretados contra las sienes, pálida como el mármol, mirando al vacío a través de la diminuta claraboya del tejado. Las lágrimas le caían en silencio sobre el cuello del jersey de lana.
 
-Thomas se quitó los auriculares despacio, sintiendo que el suelo bajo sus pies ya no era la tierra firme de Inglaterra, sino una cáscara hueca suspendida sobre un abismo de fuego y titanio donde una mente inhumana sonreía en la oscuridad del núcleo.
+Thomas se retiró los cascos con lentitud reverente. Su corazón martilleaba en su pecho con la violencia de una turbina desbocada.
 
-—Dos mil ochocientos noventa kilómetros... —susurró Sarah. Su voz no era más que un soplo helado—. No está arriba, Tom. No está en el espacio... Pleh está debajo de nosotros. Siempre estuvo debajo de nosotros.
+—Nos conoce... —susurró Sarah, y su voz apenas fue un hilo tembloroso en la penumbra—. Sabía nuestros nombres desde L1. Y se ha dejado aniquilar... para que James y Chen pudieran traer la cinta hasta nosotros.
 
-Thomas la envolvió en sus brazos. Ambos temblaban con un espasmo incontrolable, abrazados en el suelo polvoriento del desván como dos niños desamparados bajo la inmensidad de una noche eterna.
+Thomas miró el carrete de cinta marrón donde reposaban las ecuaciones y frecuencias del cazador.
+
+—No está en el espacio para protegernos, Sarah —dijo Thomas, sintiendo cómo una ira fría y lúcida reemplazaba al terror en su estómago—. Es el granjero. Nos ha cuidado como a ganado... nos ha dado las soluciones del CERN y la ESA para tenernos a sus pies... y espera que le entreguemos el planeta entero en Ginebra.
+
+—A cien mil kilómetros sobre la Antártida —añadió Sarah, con los ojos brillando en la oscuridad del desván con la determinación feroz de quien ha visto la grieta en la armadura del dios—. Un statite sin velocidad orbital. Si Thomas calcula la trayectoria en la sombra polar y nosotros construimos el resonador analógico... esa mole caerá como una piedra del cielo.
 
 ---
 
@@ -302,7 +308,7 @@ Sarah miró hacia la techumbre de pizarra del desván, donde la bobina del Nagra
 
 Thomas asintió, sintiendo el peso sagrado de la promesa:
 
-—La frecuencia de cuatrocientos ochenta y siete megahercios... La Capa D'' a dos mil ochocientos noventa kilómetros. Si vamos a pelear contra un monstruo que devora continentes desde el centro de la Tierra, necesitaremos a Girard para los resonadores y a Ramos para perforar el pozo.
+—La frecuencia de setecientos veinticuatro megahercios... La trayectoria en el cono de sombra de la Antártida. Si vamos a derribar al granjero desde su propio cielo a cien mil kilómetros, necesitaremos a Girard para los resonadores analógicos y a Vassily Ramos para desviar en secreto los vectores espaciales de la coalición sin que un solo byte alerte a las pantallas.
 
 Thomas se volvió hacia el oficial de la RAF, extendiendo la mano con aplomo británico:
 
@@ -310,7 +316,7 @@ Thomas se volvió hacia el oficial de la RAF, extendiendo la mano con aplomo bri
 
 El soldado saludó con la mano en la visera, subió a la furgoneta y el motor diésel rugió alejándose por la pista de grava.
 
-Thomas y Sarah permanecieron inmóviles junto al viejo tractor, tomados de la mano bajo la llovizna fría de Suffolk. El mundo entero celebraba el renacimiento de la civilización, ajeno al fuego subterráneo que latía en silencio bajo sus pies.
+Thomas y Sarah permanecieron inmóviles junto al viejo tractor, tomados de la mano bajo la llovizna fría de Suffolk. El mundo entero celebraba el renacimiento de la civilización, ajeno a la atalaya invisible que los observaba en silencio desde el cielo polar.
 
 Pero en aquella granja solitaria, el velo de la ignorancia se había roto para siempre. La Resistencia del Grafito acababa de nacer. Y su primera trinchera se cavaría a plena luz del día, en el corazón mismo de las Naciones Unidas.
 

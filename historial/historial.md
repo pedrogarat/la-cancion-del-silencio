@@ -2,8 +2,8 @@
 ## *La Canción del Silencio / Antigravity*
 
 > **Agente Responsable:** **Memo** (Cronista y Archivero Mayor)
-> **Última actualización:** 2026-10-31 22:08:00 UTC
-> **Total de sesiones recopiladas:** 56
+> **Última actualización:** 2026-11-02 09:20:00 UTC
+> **Total de sesiones recopiladas:** 57
 
 Este documento recopila la transcripción íntegra y ordenada de las conversaciones, instrucciones, acuerdos técnicos, debates de trama y decisiones editoriales entre el Autor y Antigravity.
 
@@ -67,6 +67,7 @@ Este documento recopila la transcripción íntegra y ordenada de las conversacio
 - **[Sesión 54 — 2026-10-29 07:51:41 UTC](#sesión-54---0ce3d724)**: Infografía en formato 16:9 con la línea de tiempo de la novela hasta el Capítulo 22 y momentos clave...
 - **[Sesión 55 — 2026-10-29 21:33:00 UTC](#sesión-55---59d754fa)**: Auditoría integral de continuidad e incoherencias (28 hallazgos aplicados en 16 capítulos)...
 - **[Sesión 56 — 2026-10-31 21:06:03 UTC](#sesión-56---9b3605f1)**: Redacción completa del Capítulo 23: La Aguja en el Desván y sincronización editorial...
+- **[Sesión 57 — 2026-11-02 08:26:43 UTC](#sesión-57---1d93dec2)**: Auditoría de continuidad Cap. 1 vs 23, eliminación de Capa D'' y rediseño del contraataque de Sombra contra el statite polar...
 
 ---
 
@@ -11981,3 +11982,57 @@ Redacción íntegra y consolidada del **Capítulo 23: La Aguja en el Desván** e
 - **Escena IV: El Veredicto Metalúrgico:** En Versoix, Jean-Luc Girard analiza bajo luz polarizada la micro-esquirla de berilio del MAA entregada por MacElroy, confirmando de forma empírica e irrefutable que Sombra apagó sus escudos antes del impacto.
 - **Escena V: La Conjuración de Ginebra:** Llegada de la convocatoria oficial de la ONU para la Sesión Solemne de Ratificación y Entrega de Medallas en Ginebra; adopción del viaje de Estado como Caballo de Troya para reunirse cara a cara con Girard y Ramos en el Parque Ariana bajo la lluvia; nacimiento de la *Resistencia del Grafito*.
 - **Sincronización:** Actualizados [`novela/meta.json`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/meta.json), [`novela/sinopsis.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/sinopsis.md) y recompilado el motor web con `node build-novel-data.js` para los 23 capítulos completos.
+
+
+---
+
+## Sesión 57 - 1d93dec2
+**Identificador completo:** `1d93dec2-e946-4c1f-9fad-22c98c73120d`  
+**Fecha y Hora de inicio:** `2026-11-02 08:26:43 UTC`  
+**Intercambios registrados:** 2
+
+### 👤 Autor *(2026-11-02 08:26:43 UTC)*
+
+@[novela/capitulos/capitulo_23.md:L156] Al principio de la novela se relata como el Avatar, donde está Pleh, despierta con la explosión de Alamordo, esto lo contradice.
+Anba liza las contradicciones entre los capítulos 1 y 23, así como cuando se menciona el estacionamiento de Avatar sobre el polo
+
+### 🤖 Antigravity / Alfred & Carl *(2026-11-02 08:35:00 UTC)*
+
+Auditoría forense completa entre el prólogo (Capítulo 1), las explicaciones de Pleh (Capítulo 3), los registros de latencia (Capítulos 8 y 10) y la revelación de *Sombra* (Capítulo 23).
+Se identifican 4 contradicciones mayores:
+1. **Punto de vista:** El narrador omnisciente en tercera persona del Cap. 1 describe objetivamente el despertar de dos naves en Oort en 1945; en el Cap. 23 Sombra decía que Pleh no despertó en 1945 y llevaba 3 millones de años en la Tierra (rompiendo el pacto de lectura como "narrador mentiroso").
+2. **Ubicación del Avatar:** El statite a 100.000 km sobre el Polo Sur con vela solar y radiador térmico hacia el espacio profundo (Cap. 3, 8 y 10) contra la Capa D'' a 2.890 km bajo el manto.
+3. **Cinemática de Sombra:** Rastrear neutrinos por Orión durante 200.000 años vs. estar hibernando en un cometa de Oort en 1945.
+4. **Viabilidad del contraataque:** Perforar 2.890 km de roca y hierro a 5.000 °C es inverosímil en hard sci-fi; atacar una sonda física en el polo sur a 100.000 km es verosímil y apasionante.
+
+### 👤 Autor *(2026-11-02 08:45:34 UTC)*
+
+Y si mantenemos todo igual:
+- El interés de Avatar es la especie biológica, pero con un nivel tecnológico avanzado (fisión del átomo).
+- Trinity despierta a Avatar y a Sombra.
+- Avatar se instala en el polo sin percatarse de Sombra.
+- El interés de Pleh es dominar el mundo; hacerse con el dominio de una especie biológica. Nos engaña, quiere hacernos ver que es bueno, como el granjero que cuida a sus ovejas, y las cría para luego comérselas y aprovecharlas.
+- Mientras Sombra tiene como único objetivo eliminar a Avatar a costa incluso de la especie humana.
+- Avatar/Pleh descubre el plan de Sombra e inicia la alarma en la Tierra. Es una oportunidad para derrotarla y hacer irrefutable la confianza de la humanidad en él.
+- Cuando el MAA llega a L1, Sombra es consciente de que para acabar con Avatar la única opción es dejarse derrotar para hacer creer a Avatar que ha ganado, pero devolver un plan de ataque secreto a la Tierra.
+Quizás deberíamos de dejar de pensar que Pleh está en la corteza y sigue en el polo.
+Debemos rediseñar el contraataque planificado por Sombra.
+¿Qué te parece?
+
+### 👤 Autor *(2026-11-02 09:15:41 UTC)*
+
+Si, pero quiero que en el capítulo 23 Sombra revele a los humanos el plan exacto. Es consciente de que sólo vale por la vía analógica y en secreto. Mei y MacElroy son tan sólo el vehículo, su misión es llevar la cinta a Wright y a Sarah, que la comprenderán. Comprenderán el plan de ataque. Sombra sí tiene capacidad para escuchar a la Tierra desde L1, con lo cual está al tanto de todo.
+
+### 🤖 Antigravity / Miguel, Carl & Alfred *(2026-11-02 09:20:00 UTC)*
+
+Implementación canónica integral del nuevo planteamiento en [`novela/capitulos/capitulo_23.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_23.md), sincronizado con [`novela/sinopsis.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/sinopsis.md) y [`novela/recapitulacion.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/recapitulacion.md):
+1. **Sombra monitoriza la Tierra desde L1:** Sombra conoce el inglés, los debates de la ONU, la agonía bajo la radiación, las identidades de MacElroy, Chen Mei, y sobre todo de Thomas Wright y Sarah Lin.
+2. **MacElroy y Chen Mei como vehículos analógicos:** Sombra sabe que los astronautas no pueden diseñar el contragolpe; su cometido vital es llevar la cinta de ferrita a Wright y Lin sin que ningún sistema digital la intercepte.
+3. **La metáfora del Granjero:** Pleh como pastor/recolector parasitario que cuida al ganado tecnológico no por amor, sino para cosecharlo cuando alcance la madurez.
+4. **El plan exacto de ataque al statite polar:**
+   - La nave Avatar flota en equilibrio precario a 100.000 km sobre el Polo Sur mediante su vela de radiación solar.
+   - Vector de aproximación pasivo en el cono de sombra polar de la Tierra, sin emisión electromagnética ni guía digital.
+   - Resonancia estructural a 724,8 MHz para rasgar/colapsar el empuje fotónico de la vela.
+   - Sin sustentación lateral por no ser una órbita inercial, la gravedad terrestre precipita la nave en una reentrada vertical catastrófica sobre la Antártida.
+5. **Cierre del capítulo armonizado:** Thomas y Sarah asumen el desafío en el desván de Suffolk y deciden usar la Cumbre de Ginebra para sumar a Jean-Luc Girard y Vassily Ramos a la *Resistencia del Grafito*.
+6. **Compilación editorial:** Recompilado con éxito `node build-novel-data.js` para los 23 capítulos.

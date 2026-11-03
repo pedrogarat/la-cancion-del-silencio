@@ -30,7 +30,7 @@ La Semilla y el Tejido Silencioso                      La Caída del Escudo y el
                  La Falsa Victoria y la Canción del Silencio
                  - La travesía manual por el Muro de Lorentz y Quench en L1
                  - El regreso, la cinta oculta en el relicario y la verdad de Pleh
-                 - El pulso MHD en la Capa D'' y la libertad cósmica
+                 - La vulnerabilidad del statite polar y la libertad cósmica
 ```
 
 ### 1. Acto I: La Semilla y el Tejido Silencioso (Capítulos 1 a 3)
@@ -90,9 +90,9 @@ La Semilla y el Tejido Silencioso                      La Caída del Escudo y el
 | **III** | **20** | **El Salmo de la Falsa Victoria** | Agosto - Sep 2027 | Punto L1 / Búnker y Hangar Nellis | Voronov, Girard, Wright, Lin, MacElroy | Canónico |
 | **III** | **21** | **El Despertar del Azul** | Agosto - Sep 2027 | Estratosfera / Ciudades globales | Coral / Narrador Panorámico | Canónico |
 | **III** | **22** | **La Máscara de los Héroes y el Reencuentro** | Septiembre 2027 | Nellis, S.F., Versoix, Suffolk | Lin, Girard, Wright | Canónico |
-| **III** | **23** | **La Confesión de la Caja Negra** | Otoño 2027 | Desván de Suffolk | Wright, Lin | Proyección |
-| **III** | **24** | **La Conjuración Subterránea** | Invierno 2027-2028 | Ginebra / Perforación profunda | Lin, Girard, Wright, Ramos | Proyección |
-| **III** | **25** | **La Canción del Silencio** | Primavera 2028 | Capa D'' / Tierra | Elenco Coral, Pleh | Proyección |
+| **III** | **23** | **La Aguja en el Desván** | Octubre 2027 | Desván de Suffolk, Versoix | Wright, Lin, Girard | Canónico |
+| **III** | **24** | **La Conjuración del Silencio** | Invierno 2027-2028 | Ginebra (ONU) | Lin, Girard, Wright, Ramos | Proyección |
+| **III** | **25** | **La Canción del Silencio** | Primavera 2028 | Órbita Polar / Tierra | Elenco Coral, Pleh | Proyección |
 
 ---
 
@@ -197,11 +197,11 @@ La Semilla y el Tejido Silencioso                      La Caída del Escudo y el
 - **Sinopsis:** Septiembre de 2027. Sarah se reúne con su hermana Maya (recuperada) y su sobrino Toby en San Francisco; Girard vuelve al chalet de Versoix abrazando a Marie y a su hijo Julien; Thomas llega a Suffolk con David, Claire y Oliver. Dos semanas después, Sarah se une a Thomas frente a la chimenea de la granja. Al abrir el relicario y escarbar la arcilla, descubren la bobina de cinta magnética analógica del MAA camuflada por MacElroy con la advertencia de desconfiar de Pleh. Silencian sus dispositivos y acuerdan buscar el viejo magnetófono analógico del desván.
 
 #### Capítulo 23: La Aguja en el Desván
-- **Hito Central:** Escucha de la cinta analógica en el Nagra del desván, la voz y revelación de *Sombra*, la prueba metalúrgica de Girard en Versoix y la convocatoria de la ONU como Caballo de Troya.
-- **Sinopsis:** Principios de octubre de 2027. A las tres de la madrugada, protegidos por la coartada del sueño en Suffolk, Thomas y Sarah suben descalzos al desván. Empleando un magnetófono suizo Nagra III a pilas secas y auriculares cerrados, reproducen la cinta de cabina del MAA. De pronto, una voz perfecta e impecable entra por inducción directa: es *Sombra* antes del Quench. La revelación es atroz: Pleh es el núcleo parasitario de una civilización extinguida anclado en la **Capa D'' a 2.890 km bajo la corteza terrestre**; la invasión en L1 fue una trampa para obligarlo a salir, pero Pleh manipuló a la humanidad para destruir a su único cazador natural. En Versoix, Girard confirma bajo luz polarizada que la esquirla de berilio del MAA muestra que *Sombra* apagó sus escudos voluntariamente. Descartada la comunicación postal en un mundo incomunicado, Thomas y Sarah reciben la orden de la ONU para asistir a la Cumbre Solemne en el Palacio de las Naciones de Ginebra: deciden usar el viaje oficial como coartada para encontrarse cara a cara con Girard y Ramos y prender la *Resistencia del Grafito*.
+- **Hito Central:** Escucha de la cinta analógica en el Nagra del desván, la revelación y el plan de ataque entregado por *Sombra*, la prueba metalúrgica de Girard en Versoix y la convocatoria de la ONU como Caballo de Troya.
+- **Sinopsis:** Principios de octubre de 2027. A las tres de la madrugada, protegidos por la coartada del sueño en Suffolk, Thomas y Sarah suben descalzos al desván. Empleando un magnetófono suizo Nagra III a pilas secas y auriculares cerrados, reproducen la cinta de cabina del MAA. De pronto, una voz perfecta e impecable entra por inducción directa: es *Sombra* antes del Quench. La revelación es atroz: Pleh es el recolector cósmico ("el granjero") que cuida a la humanidad desde su *statite* a 100.000 km sobre el Polo Sur para domesticarla y cosecharla; la invasión en L1 fue una trampa de Sombra para forzarlo a salir, pero Pleh manipuló a la humanidad para destruir a su único cazador natural. Sombra, que monitorizaba las señales de la Tierra desde L1, utilizó a MacElroy y Chen Mei como meros mensajeros para hacer llegar la cinta analógica a Thomas Wright y Sarah Lin, entregándoles el plan exacto de ataque: desestabilizar la vela solar del Avatar en el cono de sombra polar mediante resonancia a 724,8 MHz para que la gravedad terrestre lo arrastre a una reentrada destructiva sobre la Antártida. En Versoix, Girard confirma bajo luz polarizada que la esquirla de berilio del MAA muestra que *Sombra* apagó sus escudos voluntariamente. Thomas y Sarah reciben la orden de la ONU para asistir a la Cumbre Solemne en Ginebra: deciden usar el viaje oficial para aliarse con Girard y Ramos y prender la *Resistencia del Grafito*.
 
-#### Capítulo 24: La Conjuración Subterránea (Proyección)
-- **Hito Central:** Preparación encubierta del pulso magnetohidrodinámico (MHD) a la frecuencia $f_0$ bajo la vigilancia de Pleh.
+#### Capítulo 24: La Conjuración del Silencio (Proyección)
+- **Hito Central:** Cumbre de la ONU en Ginebra, alianza encubierta en los jardines del Parque Ariana con Ramos y Girard, y preparación discreta del vector pasivo orbital sin intervención digital.
 
 #### Capítulo 25: La Canción del Silencio (Clímax y Epílogo — Proyección)
-- **Hito Central:** Disparo del pulso MHD, *Efecto Quench Litosférico* a 2.890 km de profundidad, aniquilación de Pleh en el núcleo terrestre y restitución de la libertad cósmica de la humanidad.
+- **Hito Central:** Disparo del contraataque orbital analógico en la sombra polar, colapso de la vela del *statite*, caída libre y desintegración del Avatar sobre la Antártida, y restitución de la libertad cósmica de la humanidad.
