@@ -12102,3 +12102,22 @@ Actualiza los PDFs de las sinopsis
    - Creado [`novela/capitulos/capitulo_25_desglose.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_25_desglose.md): 5 escenas y Post-Scríptum. Vuelo inercial en el cono de sombra polar de la Tierra, careo cumbre Pleh vs. Ramos sobre el alma y la muerte, colapso de la vela del *statite* a 724,8 MHz, caída libre gravitatoria y reentrada hipersónica sobre la Antártida, epílogo coral de la libertad humana y párrafo sutil del hacker y la semilla latente.
 2. **Extracción y Maquetación del Árbol de la Novela:**
    - Compilación exhaustiva de los 25 capítulos y todas sus escenas/apartados para someterlos a revisión editorial y renombramiento.
+
+
+### 👤 Autor *(2026-11-04 19:14:47 UTC)*
+
+Crea un pdf con este árbol de capítulos
+
+### 🤖 Bill & Capitán Memo *(2026-11-04 19:17:00 UTC)*
+
+**Generación del PDF Editorial del Árbol de Capítulos:**
+1. **Desarrollo del Generador Tipográfico (`generar_arbol_capitulos_pdf.py`):**
+   - Implementado en ReportLab con `ArbolCanvas` de dos pasadas para numeración total correlativa (*Página X de 5*), cabecera institucional y pie de página editorial.
+   - Integra la jerarquía completa: 3 Grandes Actos con banners temáticos en color, bloques dramáticos (A, B y C), metadatos de diégesis por capítulo (lugar y fecha) y lista de los 123 apartados/escenas con viñetas analógicas.
+   - Estado de canon explícito: [CANÓNICO] para capítulos 1 al 23 y [ESTRUCTURADO] para capítulos 24 y 25.
+2. **Distribución de Archivos:**
+   - Generado: `Arbol_Capitulos_La_Cancion_del_Silencio.pdf` (5 páginas, ~22 KB).
+   - Réplicas sincronizadas en:
+     - `ARBOL_CAPITULOS.pdf` (raíz)
+     - `novela/Arbol_Capitulos_La_Cancion_del_Silencio.pdf`
+     - `novela/ARBOL_CAPITULOS.pdf`
