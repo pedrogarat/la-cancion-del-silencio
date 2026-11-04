@@ -4,7 +4,7 @@
 > **Documento Oficial de Coordinación Editorial**  
 > **Autores:** Pedro Garat & Antigravity  
 > **Género:** Ciencia Ficción Dura (*Hard Sci-Fi*), Suspense Político y Drama Humano  
-> **Estado:** Capítulos 1 al 22 canónicamente redactados; Capítulos 23 al 25 en proyección de clímax y desenlace.
+> **Estado:** Capítulos 1 al 23 canónicamente redactados; Capítulos 24 al 25 en proyección de clímax y desenlace.
 
 ---
 
@@ -46,10 +46,10 @@ La Semilla y el Tejido Silencioso                      La Caída del Escudo y el
   - **Bloque B: T=0, Colapso Magnético y Resistencia Industrial (Capítulos 9 a 13):** Entrada en T=0 (21 de noviembre de 2026); anulación del campo magnético; caída destructiva de satélites en LEO; defensa balística de Nellis; destape de Pleh ante los mandos militares como SIA extraterrestre; invención de la cavidad fractal del Cañón Máser; Nochebuena bajo el cielo esmeralda; inicio de la Fase 3 de radiación UV y paso obligado de la humanidad al régimen nocturno (*Toque de Alba*).
   - **Bloque C: La Tierra Herida y el Cierre de la Ventana Industrial (Capítulos 14 a 17):** Hambruna por calcinación del trigo boreal; megaterremoto y tsunami en San Francisco provocado por corrientes telúricas inducidas; odisea de supervivencia de Maya y Toby; asalto agónico al chalet de Versoix y madurez de Julien Girard; diseño criogénico pasivo de Jean-Luc Girard; traslado, ensamblaje final en la rampa de Nellis y despegue de los tres astronautas rumbo a L1 antes del colapso fabril.
 
-### 3. Acto III: En el Corazón del Enjambre y el Renacer de la Tierra (Capítulos 19 a 21 — Proyección)
-- **Marco Temporal:** Julio a Noviembre de 2027.
-- **Núcleo Temático:** El desafío cara a cara en el abismo del Sol y la consolidación del ser humano como heredero cósmico.
-- **Dinámica:** La nave integrada navega digitalmente 1,5 millones de kilómetros durante 21 días. A 12.000 km de L1, el Muro de Lorentz obliga a detener el módulo digital; el Módulo de Retorno Digital (MRD) se inserta en órbita de Halo de espera bajo la custodia de Alexei Voronov, mientras el Módulo de Ataque Analógico (MAA) se separa y penetra el enjambre bajo el pulso manual de James MacElroy y Chen Mei. Disparo a quemarropa (300 m) del Cañón Máser fractal induciendo el Efecto Quench en *Sombra*. Rescate de la tripulación por el radar LIDAR del MRD, cálculo de la reentrada matemática, restauración del escudo geomagnético y vuelta a casa ante una humanidad que ha superado su prueba de fuego.
+### 3. Acto III: La Falsa Victoria y la Canción del Silencio (Capítulos 19 a 25)
+- **Marco Temporal:** Julio de 2027 a Primavera de 2028.
+- **Núcleo Temático:** El duelo a ciegas en L1, el falso triunfo sobre Sombra, el desvelamiento de la parasitación de Pleh ("el Granjero") y la conjuración analógica de la humanidad para reconquistar su libertad cósmica.
+- **Dinámica:** La nave integrada viaja 1,5 millones de km hacia L1; a 12.000 km, el Muro de Lorentz obliga a desacoplar el Módulo de Retorno Digital (MRD) en órbita de Halo bajo control de Voronov, mientras Chen Mei y MacElroy penetran manualmente con el Módulo de Ataque Analógico (MAA). El disparo del Cañón Máser induce el Efecto Quench en *Sombra*. Sin embargo, durante el Quench, *Sombra* graba una transmisión en la cinta de ferrita de cabina del MAA: Pleh no es un benefactor, sino un recolector cósmico que cría especies tecnológicas como ganado desde su *statite* en el Polo Sur; la invasión en L1 fue la trampa de Sombra para forzarlo a salir. Tras el retorno de los héroes y el restablecimiento del campo magnético y la capa de ozono (Capítulos 20-22), Thomas Wright y Sarah Lin escuchan la cinta de madrugada en el desván de Suffolk mediante un magnetófono Nagra III (Capítulo 23). Con el plan de resonancia a 724,8 MHz en mano, aprovechan la Cumbre de la ONU en Ginebra para sellar la *Resistencia del Grafito* con Jean-Luc Girard y Vassily Ramos (Capítulo 24), preparando el derribo gravitatorio del avatar alienígena y devolviendo la soberanía definitiva a la Tierra (Capítulo 25).
 
 ---
 

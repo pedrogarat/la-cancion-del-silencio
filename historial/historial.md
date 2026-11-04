@@ -12059,3 +12059,28 @@ Implementación canónica integral del nuevo planteamiento en [`novela/capitulos
 3. **Causa del desajuste visual para el usuario:**
    - Caché persistente en navegadores móviles/de escritorio (PWA / HTTP cache).
    - Se instruye al autor sobre el uso del botón de recarga forzada `🔄 Forzar recarga de versión` en la barra lateral o refresco forzado (`Ctrl+F5`).
+
+
+### 👤 Autor *(2026-11-04 18:01:36 UTC)*
+
+Actualiza los PDFs de las sinopsis
+
+### 🤖 Bill & Capitán Memo *(2026-11-04 18:06:00 UTC)*
+
+**Actualización Integral de los PDFs Editoriales de Sinopsis:**
+1. **Auditoría del Generador ReportLab (`generar_sinopsis_pdf.py`):**
+   - El script anterior contemplaba únicamente hasta el Capítulo 21 bajo una premisa antigua previa a la redacción de los Capítulos 18 al 23.
+   - Se ha reescrito `generar_sinopsis_pdf.py` incorporando canónicamente la arquitectura completa de **25 capítulos** dividida en 3 Actos:
+     - **Acto I (Cap. 1-3):** La Semilla y el Tejido Silencioso.
+     - **Acto II (Cap. 4-18):** La Caída del Escudo y el Gran Caos (Bloques A, B y C).
+     - **Acto III (Cap. 19-25):** La Falsa Victoria y la Canción del Silencio (incluyendo el Quench en L1, el retorno en MRD, el ciclo fotoquímico de Chapman, el relicario en Suffolk, la cinta analógica en el Nagra III con la verdad de Sombra sobre Pleh / "el Granjero", el ataque por resonancia a 724,8 MHz al *statite* polar y el pacto de Estado en Ginebra).
+2. **Sincronización con `novela/sinopsis.md`:**
+   - Se actualizó el encabezado de estado a *«Capítulos 1 al 23 canónicamente redactados; Capítulos 24 al 25 en proyección de clímax y desenlace»*.
+   - Se armonizó la descripción del Acto III y se mantuvieron las fichas exhaustivas de los 25 capítulos.
+3. **Compilación y Despliegue de PDFs:**
+   - Se ejecutó `python generar_sinopsis_pdf.py`, generando un documento editorial de 12 páginas con encabezados, numeración correlativa (`Página X de 12`), tablas de Actos, cronómetro de fases, tabla matriz de 25 capítulos y fichas individuales estructuradas.
+   - Se actualizaron los 4 archivos de destino:
+     - `SINOPSIS.pdf` (raíz)
+     - `Sinopsis_La_Cancion_del_Silencio.pdf` (raíz)
+     - `novela/SINOPSIS.pdf`
+     - `novela/Sinopsis_La_Cancion_del_Silencio.pdf`
