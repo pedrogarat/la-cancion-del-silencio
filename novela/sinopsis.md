@@ -4,7 +4,7 @@
 > **Documento Oficial de Coordinación Editorial**  
 > **Autores:** Pedro Garat & Antigravity  
 > **Género:** Ciencia Ficción Dura (*Hard Sci-Fi*), Suspense Político y Drama Humano  
-> **Estado:** Capítulos 1 al 23 canónicamente redactados; Capítulos 24 al 25 en proyección de clímax y desenlace.
+> **Estado:** Capítulos 1 al 24 canónicamente redactados; Capítulo 25 en proyección de clímax y desenlace.
 
 ---
 
@@ -91,7 +91,7 @@ La Semilla y el Tejido Silencioso                      La Caída del Escudo y el
 | **III** | **21** | **El Despertar del Azul** | Agosto - Sep 2027 | Estratosfera / Ciudades globales | Coral / Narrador Panorámico | Canónico |
 | **III** | **22** | **La Máscara de los Héroes y el Reencuentro** | Septiembre 2027 | Nellis, S.F., Versoix, Suffolk | Lin, Girard, Wright | Canónico |
 | **III** | **23** | **La Aguja en el Desván** | Octubre 2027 | Desván de Suffolk, Versoix | Wright, Lin, Girard | Canónico |
-| **III** | **24** | **La Conjuración del Silencio** | Invierno 2027-2028 | Ginebra (ONU) | Lin, Girard, Wright, Ramos | Proyección |
+| **III** | **24** | **La Conjuración del Silencio** | Invierno 2027-2028 | Ginebra (ONU) | Lin, Girard, Wright, Ramos | Canónico |
 | **III** | **25** | **La Canción del Silencio** | Primavera 2028 | Órbita Polar / Tierra | Elenco Coral, Pleh | Proyección |
 
 ---
@@ -200,8 +200,9 @@ La Semilla y el Tejido Silencioso                      La Caída del Escudo y el
 - **Hito Central:** Escucha de la cinta analógica en el Nagra del desván, la revelación y el plan de ataque entregado por *Sombra*, la prueba metalúrgica de Girard en Versoix y la convocatoria de la ONU como Caballo de Troya.
 - **Sinopsis:** Principios de octubre de 2027. A las tres de la madrugada, protegidos por la coartada del sueño en Suffolk, Thomas y Sarah suben descalzos al desván. Empleando un magnetófono suizo Nagra III a pilas secas y auriculares cerrados, reproducen la cinta de cabina del MAA. De pronto, una voz perfecta e impecable entra por inducción directa: es *Sombra* antes del Quench. La revelación es atroz: Pleh es el recolector cósmico ("el granjero") que cuida a la humanidad desde su *statite* a 100.000 km sobre el Polo Sur para domesticarla y cosecharla; la invasión en L1 fue una trampa de Sombra para forzarlo a salir, pero Pleh manipuló a la humanidad para destruir a su único cazador natural. Sombra, que monitorizaba las señales de la Tierra desde L1, utilizó a MacElroy y Chen Mei como meros mensajeros para hacer llegar la cinta analógica a Thomas Wright y Sarah Lin, entregándoles el plan exacto de ataque: desestabilizar la vela solar del Avatar en el cono de sombra polar mediante resonancia a 724,8 MHz para que la gravedad terrestre lo arrastre a una reentrada destructiva sobre la Antártida. En Versoix, Girard confirma bajo luz polarizada que la esquirla de berilio del MAA muestra que *Sombra* apagó sus escudos voluntariamente. Thomas y Sarah reciben la orden de la ONU para asistir a la Cumbre Solemne en Ginebra: deciden usar el viaje oficial para aliarse con Girard y Ramos y prender la *Resistencia del Grafito*.
 
-#### Capítulo 24: La Conjuración del Silencio (Proyección)
-- **Hito Central:** Cumbre de la ONU en Ginebra, alianza encubierta en los jardines del Parque Ariana con Ramos y Girard, y preparación discreta del vector pasivo orbital sin intervención digital.
+#### Capítulo 24: La Conjuración del Silencio
+- **Hito Central:** Cumbre triunfal de la ONU en Ginebra, el Pacto del Grafito bajo la lluvia del Parque Ariana, forja del arma analógica en los sótanos del CERN, careo de suspense de Sarah con Pleh y lanzamiento furtivo desde las Kerguelen en el cono de sombra polar.
+- **Sinopsis:** Invierno de 2027-2028. En el Palacio de las Naciones, una Asamblea Plenaria ovaciona al holograma de Pleh y le cede la administración de redes y cosechas. En un receso bajo la llovizna helada del Parque Ariana, Thomas y Sarah entregan a Vassily Ramos las transcripciones a lápiz y las pruebas de la esquirla de berilio. Ramos asume el horror de la granja cósmica pero sella la alianza clandestina (*«Si hemos de perecer, pereceremos de pie»*). En los talleres subterráneos del CERN, Chen Mei y James MacElroy ensamblan el vector analógico a 724,8 MHz con válvulas termoiónicas y giróscopos de muelle suizo, sin un solo microchip. Pleh detecta una anomalía de 42 kg de lastre en la cofia y somete a Sarah a un asfixiante interrogatorio holográfico en su despacho; la astrofísica sostiene la mirada y justifica el plomo como contrapeso pasivo para amortiguar vibraciones, logrando que Pleh valide el vuelo. A medianoche, mientras Girard vigila a su familia en Versoix y Sarah y Thomas se toman de la mano en el observatorio del Jungfraujoch, el misil de combustible sólido rompe la noche antártica desde las Islas Kerguelen, adentrándose en el cono de sombra de la Tierra rumbo a los 100.000 km.
 
 #### Capítulo 25: La Canción del Silencio (Clímax y Epílogo — Proyección)
 - **Hito Central:** Disparo del contraataque orbital analógico en la sombra polar, colapso de la vela del *statite*, caída libre y desintegración del Avatar sobre la Antártida, y restitución de la libertad cósmica de la humanidad.

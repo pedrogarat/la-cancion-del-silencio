@@ -71,3 +71,4 @@
   - El cursor de la terminal se detiene. El hacker pulsa una tecla; la rutina se recombina de forma autónoma con una elegancia matemática fractal incomprensible para cualquier arquitectura conocida de la Tierra, devolviendo una única línea parpadeante en verde fósforo antes de volver a sumergirse en la oscuridad:  
     `> Kernel A-01: Estado latente... esperando madurez del hospedador.`  
   - El hacker pestañea, desconcertado por el espejismo digital, mientras afuera la lluvia golpea el cristal de la ventana en la noche.
+

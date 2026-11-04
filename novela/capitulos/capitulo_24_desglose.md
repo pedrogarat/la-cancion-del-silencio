@@ -58,3 +58,4 @@
   - En la base polar austral, entre ráfagas de nieve y viento blanco, MacElroy y Chen Mei terminan de dar cuerda al mecanismo del temporizador de percusión y verifican los giroscopios mecánicos; Chen Mei asiente con severidad y MacElroy murmura: *«Por todos los que no volvieron de L1»*.
   - En el observatorio analógico aislado de los Alpes suizos, Sarah y Thomas se resguardan del viento junto al telescopio óptico manual. Sostienen sus manos entrelazadas en la penumbra. Saben que a la medianoche comenzará la trayectoria del vector. Si fallan, Pleh los erradicará sin dejar rastro; si vencen, la humanidad quedará huérfana y libre en el universo.
   - El percutor mecánico del silo queda amartillado. Comienza el tic-tac final.
+

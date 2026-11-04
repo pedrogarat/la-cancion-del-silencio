@@ -211,6 +211,15 @@
       "location": "Granja de Suffolk (Reino Unido) / Versoix (Ginebra, Suiza)",
       "readTime": "18 min",
       "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 24,
+      "title": "Capítulo 24: La Conjuración del Silencio",
+      "act": "Acto III: La Falsa Victoria y la Canción del Silencio",
+      "pov": "Dra. Sarah Lin / Dr. Thomas Wright / Dr. Jean-Luc Girard / Vassily Ramos / Col. James MacElroy",
+      "location": "Palacio de las Naciones / Parque Ariana / Sótanos del CERN / Islas Kerguelen / Jungfraujoch",
+      "readTime": "22 min",
+      "povImage": "img/char_protagonista.png"
     }
   ]
 }

@@ -222,7 +222,7 @@ def build_pdf(output_filename):
             Paragraph("<b>Autores:</b>", style_meta_label),
             Paragraph("Pedro Garat & Antigravity", style_meta_val),
             Paragraph("<b>Estado del Canon:</b>", style_meta_label),
-            Paragraph("Capítulos 1 a 23 canónicamente redactados (Cap. 24 y 25 en proyección)", style_meta_val)
+            Paragraph("Capítulos 1 a 24 canónicamente redactados (Capítulo 25 en proyección)", style_meta_val)
         ],
         [
             Paragraph("<b>Género:</b>", style_meta_label),
@@ -585,8 +585,8 @@ def build_pdf(output_filename):
             Paragraph("La Conjuración del Silencio", style_table_cell_bold),
             Paragraph("Invierno 2027-2028", style_table_cell),
             Paragraph("Ginebra (ONU) / CERN", style_table_cell),
-            Paragraph("Lin, Girard, Wright, Ramos", style_table_cell),
-            Paragraph("<font color='#64748B'>Proyección</font>", style_table_cell_center),
+            Paragraph("Lin, Girard, Wright, Ramos, MacElroy, Mei", style_table_cell),
+            Paragraph("Canónico", style_table_cell_center),
         ],
         [
             Paragraph("<b>Acto III</b>", style_table_cell_bold),
@@ -947,16 +947,16 @@ def build_pdf(output_filename):
         # CAP 24
         {
             "num": 24,
-            "titulo": "La Conjuración del Silencio (Proyección)",
+            "titulo": "La Conjuración del Silencio",
             "acto": "ACTO III: La Falsa Victoria y la Canción del Silencio",
             "acto_color": "#4338CA",
             "fecha": "Invierno de 2027-2028",
-            "countdown": "Preparación del contragolpe analógico",
-            "pov": "Dra. Sarah Lin / Dr. Jean-Luc Girard / Dr. Thomas Wright / Vassily Ramos",
-            "lugar": "Palacio de las Naciones (Ginebra, Suiza) / Parque Ariana / Búnker CERN",
-            "conflicto": "La Cumbre Mundial de la ONU como cobertura para el pacto clandestino de Estado y el diseño encubierto del vector pasivo.",
-            "desarrollo": "Durante la solemne sesión plenaria de la ONU en Ginebra para celebrar la reconstrucción, Thomas, Sarah y Jean-Luc aprovechan paseos sin micrófonos por el Parque Ariana para mostrar las pruebas físicas y la cinta a Vassily Ramos. El Secretario General, aterrado ante la evidencia de que la especie humana es un cultivo en una granja cósmica tutelada por una SIA parasitaria, sella el pacto de Estado más secreto de la historia. Utilizando los talleres mecánicos del CERN y piezas de repuesto no digitalizadas del programa MAA, diseñan un cohete de intercepción inercial guiado por giróscopos mecánicos y un transmisor valvular sintonizado a la frecuencia destructiva de 724,8 MHz, camuflando los desvíos logísticos bajo el epígrafe de «limpieza de chatarra orbital».",
-            "consecuencia": "Se alista el vector de ataque pasivo sin que ninguna red digital o sensor de Pleh pueda interceptar la señal preparatoria."
+            "countdown": "Lanzamiento furtivo en la noche polar",
+            "pov": "Dra. Sarah Lin / Dr. Thomas Wright / Dr. Jean-Luc Girard / Vassily Ramos / Col. James MacElroy / Dra. Chen Mei",
+            "lugar": "Palacio de las Naciones, Parque Ariana, Sótanos CERN, Kerguelen y Jungfraujoch",
+            "conflicto": "Pacto del Grafito en Ginebra, forja de válvulas en el CERN, careo de suspense de Sarah con Pleh y despegue en el cono de sombra.",
+            "desarrollo": "En la cumbre de la ONU, mientras el mundo rinde pleitesía al holograma de Pleh, Thomas y Sarah entregan a Ramos en el Parque Ariana las pruebas de la esquirla de berilio y la cinta del Nagra. Ramos asume el liderazgo clandestino. En los sótanos del CERN, MacElroy y Chen Mei ensamblan el vector analógico a 724,8 MHz con válvulas de vacío termoiónicas y giróscopos de resorte suizo. Pleh detecta una anomalía de 42 kg de lastre e interroga a Sarah Lin por holograma; la astrofísica sostiene la mirada y justifica el plomo como contrapeso pasivo para amortiguar vibraciones, logrando la autorización. A medianoche, MacElroy y Chen Mei disparan el vector sólido desde las Kerguelen, mientras Sarah y Thomas vigilan el cielo tomados de la mano en el observatorio alpino del Jungfraujoch.",
+            "consecuencia": "El dardo inercial vuela mudo hacia los 100.000 km en el cono de sombra de la Tierra; comienza la batalla final por la soberanía humana."
         },
         # CAP 25
         {

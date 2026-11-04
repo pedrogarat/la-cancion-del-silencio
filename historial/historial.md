@@ -12121,3 +12121,24 @@ Crea un pdf con este árbol de capítulos
      - `ARBOL_CAPITULOS.pdf` (raíz)
      - `novela/Arbol_Capitulos_La_Cancion_del_Silencio.pdf`
      - `novela/ARBOL_CAPITULOS.pdf`
+
+
+### 👤 Autor *(2026-11-04 21:13:10 UTC)*
+
+Escribe el capitulo 24
+
+### 🤖 Miguel, Alfred, Carl, Bill & Capitán Memo *(2026-11-04 21:18:00 UTC)*
+
+**Redacción y Publicación Integral del Capítulo 24: «La Conjuración del Silencio»:**
+1. **Redacción Literaria (`novela/capitulos/capitulo_24.md`):**
+   - Extensión: 5.557 palabras, 33.886 caracteres en prosa inmersiva y de alto suspense psicológico y político.
+   - **Escena 1 (El Festín de los Ciegos):** La Asamblea Plenaria en Ginebra ovaciona al holograma de Pleh; aprobación de la cesión de infraestructuras; Thomas y Sarah fingen pleitesía mientras cruzan miradas con Girard (aguja de corbata con perla de berilio).
+   - **Escena 2 (La Lluvia en el Parque Ariana):** Paseo sin paraguas ni dispositivos con Vassily Ramos; entrega de la transcripción en grafito; Ramos sufre el colapso moral pero asume el mando de la *Resistencia del Grafito* (*«Si hemos de perecer, pereceremos de pie»*).
+   - **Escena 3 (El Altar de las Válvulas):** Sótanos de los años 60 en el CERN; Chen Mei y James MacElroy lideran el mecanizado del vector analógico a 724,8 MHz con triodos cerámicos y giróscopos de resorte suizo, sin chips.
+   - **Escena 4 (El Caballo de Troya Burocrático y la Mirada de Pleh):** Ramos camufla el vuelo como *«Calibración Polar Austral-01»*; Pleh detecta una discrepancia de 42 kg de lastre en la cofia; careo asfixiante con Sarah Lin por holograma; Sarah justifica el plomo como contrapeso pasivo para amortiguar vibraciones y Pleh valida el plan de vuelo.
+   - **Escena 5 (La Víspera del Disparo):** Noche polar; Girard pasa unas horas en Versoix; en las Kerguelen, Chen Mei y MacElroy dan cuerda al temporizador mecánico (*«Por los que no volvieron de L1»*); en el observatorio del Jungfraujoch, Sarah y Thomas vigilan el cielo tomados de la mano; a medianoche, el misil sólido rompe la noche polar hacia el cono de sombra de la Tierra.
+2. **Infraestructura Editorial y PDFs:**
+   - Creado y ejecutado `generar_capitulo24_pdf.py`, generando `Capitulo_24_La_Conjuracion_del_Silencio.pdf` (9 páginas editoriales, sincronizado en raíz y en `novela/`).
+   - Sincronizado `novela/meta.json` y `novela/recapitulacion.md`.
+   - Recompilada la base de datos web con `node build-novel-data.js` para **24 capítulos**.
+   - Actualizados los PDFs de sinopsis (`generar_sinopsis_pdf.py`) y árbol de capítulos (`generar_arbol_capitulos_pdf.py`).

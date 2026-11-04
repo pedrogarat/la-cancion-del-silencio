@@ -211,7 +211,7 @@ def build_pdf(output_filename):
             Paragraph("<b>Autores:</b>", style_meta_label),
             Paragraph("Pedro Garat & Antigravity", style_meta_val),
             Paragraph("<b>Estado del Canon:</b>", style_meta_label),
-            Paragraph("Cap. 1 a 23 redactados; Cap. 24 y 25 estructurados", style_meta_val)
+            Paragraph("Cap. 1 a 24 redactados; Cap. 25 estructurado", style_meta_val)
         ],
         [
             Paragraph("<b>Propósito:</b>", style_meta_label),
@@ -645,7 +645,7 @@ def build_pdf(output_filename):
             "num": 24,
             "titulo": "La Conjuración del Silencio",
             "diégesis": "Invierno 2027-2028 | Palacio de las Naciones, Parque Ariana, Sótanos del CERN y Silo Polar",
-            "estado": "Estructurado",
+            "estado": "Canónico",
             "apartados": [
                 "I. El Festín de los Ciegos (Ovación triunfal a Pleh en la Asamblea Plenaria de Ginebra)",
                 "II. La Lluvia en el Parque Ariana (El Pacto del Grafito: Ramos asume el liderazgo clandestino)",
@@ -772,3 +772,4 @@ if __name__ == "__main__":
     for d in destinos:
         shutil.copyfile(out_pdf, d)
         print(f"Copiado a: {d}")
+
