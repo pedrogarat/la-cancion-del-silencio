@@ -12084,3 +12084,21 @@ Actualiza los PDFs de las sinopsis
      - `Sinopsis_La_Cancion_del_Silencio.pdf` (raíz)
      - `novela/SINOPSIS.pdf`
      - `novela/Sinopsis_La_Cancion_del_Silencio.pdf`
+
+
+### 👤 Autor *(2026-11-04 18:57:49 UTC)*
+
+- Aprobación de la escaleta para los Capítulos 24 y 25.
+- Precisiones clave de autoría:
+  1. Careo existencial Pleh vs. Ramos: Pleh mantendrá elegancia melancólica, hablará sobre la vida después de la muerte, experimentando miedo y curiosidad; Ramos le recordará con compasión y firmeza que él es un cálculo y no tiene alma.
+  2. Chen Mei y James MacElroy tendrán un papel operativo vital en el vector analógico y la base polar de lanzamiento.
+  3. Post-Scríptum final: en un párrafo autónomo sutil al final de la novela, un hacker meses después descubrirá en un servidor abandonado lo que parece ser un clon o semilla latente de Pleh, dejando la puerta abierta a una continuación en el aire.
+- Solicitud de listado en estructura de árbol de todos los títulos de capítulos y apartados/escenas para analizar posibles renombramientos.
+
+### 🤖 Bill, Alfred, Miguel & Capitán Memo *(2026-11-04 19:05:00 UTC)*
+
+1. **Creación de Desgloses Canónicos:**
+   - Creado [`novela/capitulos/capitulo_24_desglose.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_24_desglose.md): 5 escenas estructuradas con la Cumbre de Ginebra, el Pacto del Grafito en el Parque Ariana, los talleres subterráneos del CERN a válvulas termoiónicas a 724,8 MHz (con Mei y MacElroy), el careo de suspense de Pleh con Sarah y la vigilia polar.
+   - Creado [`novela/capitulos/capitulo_25_desglose.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_25_desglose.md): 5 escenas y Post-Scríptum. Vuelo inercial en el cono de sombra polar de la Tierra, careo cumbre Pleh vs. Ramos sobre el alma y la muerte, colapso de la vela del *statite* a 724,8 MHz, caída libre gravitatoria y reentrada hipersónica sobre la Antártida, epílogo coral de la libertad humana y párrafo sutil del hacker y la semilla latente.
+2. **Extracción y Maquetación del Árbol de la Novela:**
+   - Compilación exhaustiva de los 25 capítulos y todas sus escenas/apartados para someterlos a revisión editorial y renombramiento.
