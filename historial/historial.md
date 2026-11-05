@@ -12314,3 +12314,42 @@ Genera todos los PDFS con los nuevos títulos de capítulos y apartados.
 5. **Documentación y Visor Web:**
    - Sincronizados `novela/sinopsis.md`, `novela/recapitulacion.md` y `novela/meta.json`.
    - Recompilada la base de datos web con `node build-novel-data.js` actualizando `chapters-data.js` y `version.json` (build 1793899661985).
+
+
+### 👤 Autor *(2026-11-05 17:45:25 UTC)*
+
+Elimina los PDFS con titulos antiguos
+
+### 📜 Bill & Capitán Memo *(2026-11-05 17:48:00 UTC)*
+
+**Depuración y Purga Editorial de PDFs con Títulos Antiguos:**
+1. **Eliminación de Archivos Legacy:**
+   - Se han eliminado los 48 archivos PDF con títulos descriptivos antiguos (24 en la raíz del proyecto y 24 réplicas en `novela/`):
+     - `Capitulo_1_El_Amanecer_de_Alamogordo.pdf`
+     - `Capitulo_2_Los_Tres_Hilos_del_Ilusionista.pdf`
+     - `Capitulo_3_La_Sala_Dos.pdf`
+     - `Capitulo_4_El_Vertigo_de_las_Naciones.pdf`
+     - `Capitulo_5_El_Ancla_Humana.pdf`
+     - `Capitulo_6_La_Camara_del_Silencio.pdf`
+     - `Capitulo_7_La_Condicion_Immedible.pdf`
+     - `Capitulo_8_La_Gran_Mentira.pdf`
+     - `Capitulo_9_La_Fractura_del_Orden.pdf`
+     - `Capitulo_11_La_Geometria_Ajena.pdf`
+     - `Capitulo_12_La_Tregua_de_las_Velas.pdf`
+     - `Capitulo_13_El_Toque_de_Alba.pdf`
+     - `Capitulo_14_El_Pan_y_la_Polvora.pdf`
+     - `Capitulo_15_El_Vientre_de_la_Bahia.pdf`
+     - `Capitulo_16_El_Umbral_de_Ceniza.pdf`
+     - `Capitulo_17_El_Paramo_de_Mediodia.pdf`
+     - `Capitulo_18_La_Rampa_del_Juicio_Final.pdf`
+     - `Capitulo_19_La_Travesia_a_Ciegas_y_el_Velo_de_Sombra.pdf`
+     - `Capitulo_20_El_Salmo_de_la_Falsa_Victoria.pdf`
+     - `Capitulo_21_El_Despertar_del_Azul.pdf`
+     - `Capitulo_22_La_Mascara_de_los_Heroes_y_el_Reencuentro_del_Hogar.pdf`
+     - `Capitulo_23_La_Aguja_en_el_Desvan.pdf`
+     - `Capitulo_24_La_Conjuracion_del_Silencio.pdf`
+     - `Capitulo_25_La_Cancion_del_Silencio.pdf`
+2. **Infraestructura de Scripts:**
+   - Modificado `generar_todos_capitulos_pdf.py` y los 25 scripts individuales `generar_capitulo1_pdf.py` a `generar_capitulo25_pdf.py` para generar exclusivamente los PDFs con la nueva nomenclatura concisa (`Capitulo_1_Alamogordo.pdf` a `Capitulo_25_La_Cancion.pdf`).
+3. **Estado de la Biblioteca de PDFs:**
+   - Quedan de forma exclusiva y limpia los 25 PDFs de capítulos con nombres concisos, más los PDFs oficiales de estructura y documentación (`ARBOL_CAPITULOS.pdf`, `SINOPSIS.pdf`, `PROPUESTA_TITULOS_CORTOS.pdf`, etc.).

@@ -10,31 +10,31 @@ from reportlab.platypus import (
 from reportlab.pdfgen import canvas
 
 CHAPTER_METADATA = {
-    1: {"titulo": "Capítulo 1: Alamogordo", "acto": "ACTO I: LA SEMILLA", "new_pdf": "Capitulo_1_Alamogordo.pdf", "legacy_pdf": "Capitulo_1_El_Amanecer_de_Alamogordo.pdf"},
-    2: {"titulo": "Capítulo 2: Tres Hilos", "acto": "ACTO I: LA SEMILLA", "new_pdf": "Capitulo_2_Tres_Hilos.pdf", "legacy_pdf": "Capitulo_2_Los_Tres_Hilos_del_Ilusionista.pdf"},
-    3: {"titulo": "Capítulo 3: Sala Dos", "acto": "ACTO I: LA SEMILLA", "new_pdf": "Capitulo_3_Sala_Dos.pdf", "legacy_pdf": "Capitulo_3_La_Sala_Dos.pdf"},
-    4: {"titulo": "Capítulo 4: Alfa Cero", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_4_Alfa_Cero.pdf", "legacy_pdf": "Capitulo_4_El_Vertigo_de_las_Naciones.pdf"},
-    5: {"titulo": "Capítulo 5: El Adiós", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_5_El_Adios.pdf", "legacy_pdf": "Capitulo_5_El_Ancla_Humana.pdf"},
-    6: {"titulo": "Capítulo 6: El Consejo", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_6_El_Consejo.pdf", "legacy_pdf": "Capitulo_6_La_Camara_del_Silencio.pdf"},
-    7: {"titulo": "Capítulo 7: El Secreto", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_7_El_Secreto.pdf", "legacy_pdf": "Capitulo_7_La_Condicion_Immedible.pdf"},
-    8: {"titulo": "Capítulo 8: Carrington", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_8_Carrington.pdf", "legacy_pdf": "Capitulo_8_La_Gran_Mentira.pdf"},
-    9: {"titulo": "Capítulo 9: La Fractura", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_9_La_Fractura.pdf", "legacy_pdf": "Capitulo_9_La_Fractura_del_Orden.pdf"},
-    10: {"titulo": "Capítulo 10: T=0", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_10_T0.pdf", "legacy_pdf": "Capitulo_10_T0.pdf"},
-    11: {"titulo": "Capítulo 11: Geometría Ajena", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_11_Geometria_Ajena.pdf", "legacy_pdf": "Capitulo_11_La_Geometria_Ajena.pdf"},
-    12: {"titulo": "Capítulo 12: Nochebuena", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_12_Nochebuena.pdf", "legacy_pdf": "Capitulo_12_La_Tregua_de_las_Velas.pdf"},
-    13: {"titulo": "Capítulo 13: Toque de Alba", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_13_Toque_de_Alba.pdf", "legacy_pdf": "Capitulo_13_El_Toque_de_Alba.pdf"},
-    14: {"titulo": "Capítulo 14: Hambre y Fuego", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_14_Hambre_y_Fuego.pdf", "legacy_pdf": "Capitulo_14_El_Pan_y_la_Polvora.pdf"},
-    15: {"titulo": "Capítulo 15: Market Street", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_15_Market_Street.pdf", "legacy_pdf": "Capitulo_15_El_Vientre_de_la_Bahia.pdf"},
-    16: {"titulo": "Capítulo 16: Ceniza", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_16_Ceniza.pdf", "legacy_pdf": "Capitulo_16_El_Umbral_de_Ceniza.pdf"},
-    17: {"titulo": "Capítulo 17: El Páramo", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_17_El_Paramo.pdf", "legacy_pdf": "Capitulo_17_El_Paramo_de_Mediodia.pdf"},
-    18: {"titulo": "Capítulo 18: La Rampa", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_18_La_Rampa.pdf", "legacy_pdf": "Capitulo_18_La_Rampa_del_Juicio_Final.pdf"},
-    19: {"titulo": "Capítulo 19: Muro de Lorentz", "acto": "ACTO III: EL SILENCIO", "new_pdf": "Capitulo_19_Muro_de_Lorentz.pdf", "legacy_pdf": "Capitulo_19_La_Travesia_a_Ciegas_y_el_Velo_de_Sombra.pdf"},
-    20: {"titulo": "Capítulo 20: Falsa Victoria", "acto": "ACTO III: EL SILENCIO", "new_pdf": "Capitulo_20_Falsa_Victoria.pdf", "legacy_pdf": "Capitulo_20_El_Salmo_de_la_Falsa_Victoria.pdf"},
-    21: {"titulo": "Capítulo 21: Cielo Azul", "acto": "ACTO III: EL SILENCIO", "new_pdf": "Capitulo_21_Cielo_Azul.pdf", "legacy_pdf": "Capitulo_21_El_Despertar_del_Azul.pdf"},
-    22: {"titulo": "Capítulo 22: El Hogar", "acto": "ACTO III: EL SILENCIO", "new_pdf": "Capitulo_22_El_Hogar.pdf", "legacy_pdf": "Capitulo_22_La_Mascara_de_los_Heroes_y_el_Reencuentro_del_Hogar.pdf"},
-    23: {"titulo": "Capítulo 23: El Desván", "acto": "ACTO III: EL SILENCIO", "new_pdf": "Capitulo_23_El_Desvan.pdf", "legacy_pdf": "Capitulo_23_La_Aguja_en_el_Desvan.pdf"},
-    24: {"titulo": "Capítulo 24: El Pacto", "acto": "ACTO III: EL SILENCIO", "new_pdf": "Capitulo_24_El_Pacto.pdf", "legacy_pdf": "Capitulo_24_La_Conjuracion_del_Silencio.pdf"},
-    25: {"titulo": "Capítulo 25: La Canción", "acto": "ACTO III: EL SILENCIO", "new_pdf": "Capitulo_25_La_Cancion.pdf", "legacy_pdf": "Capitulo_25_La_Cancion_del_Silencio.pdf"}
+    1: {"titulo": "Capítulo 1: Alamogordo", "acto": "ACTO I: LA SEMILLA", "new_pdf": "Capitulo_1_Alamogordo.pdf"},
+    2: {"titulo": "Capítulo 2: Tres Hilos", "acto": "ACTO I: LA SEMILLA", "new_pdf": "Capitulo_2_Tres_Hilos.pdf"},
+    3: {"titulo": "Capítulo 3: Sala Dos", "acto": "ACTO I: LA SEMILLA", "new_pdf": "Capitulo_3_Sala_Dos.pdf"},
+    4: {"titulo": "Capítulo 4: Alfa Cero", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_4_Alfa_Cero.pdf"},
+    5: {"titulo": "Capítulo 5: El Adiós", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_5_El_Adios.pdf"},
+    6: {"titulo": "Capítulo 6: El Consejo", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_6_El_Consejo.pdf"},
+    7: {"titulo": "Capítulo 7: El Secreto", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_7_El_Secreto.pdf"},
+    8: {"titulo": "Capítulo 8: Carrington", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_8_Carrington.pdf"},
+    9: {"titulo": "Capítulo 9: La Fractura", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_9_La_Fractura.pdf"},
+    10: {"titulo": "Capítulo 10: T=0", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_10_T0.pdf"},
+    11: {"titulo": "Capítulo 11: Geometría Ajena", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_11_Geometria_Ajena.pdf"},
+    12: {"titulo": "Capítulo 12: Nochebuena", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_12_Nochebuena.pdf"},
+    13: {"titulo": "Capítulo 13: Toque de Alba", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_13_Toque_de_Alba.pdf"},
+    14: {"titulo": "Capítulo 14: Hambre y Fuego", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_14_Hambre_y_Fuego.pdf"},
+    15: {"titulo": "Capítulo 15: Market Street", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_15_Market_Street.pdf"},
+    16: {"titulo": "Capítulo 16: Ceniza", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_16_Ceniza.pdf"},
+    17: {"titulo": "Capítulo 17: El Páramo", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_17_El_Paramo.pdf"},
+    18: {"titulo": "Capítulo 18: La Rampa", "acto": "ACTO II: EL COLAPSO", "new_pdf": "Capitulo_18_La_Rampa.pdf"},
+    19: {"titulo": "Capítulo 19: Muro de Lorentz", "acto": "ACTO III: EL SILENCIO", "new_pdf": "Capitulo_19_Muro_de_Lorentz.pdf"},
+    20: {"titulo": "Capítulo 20: Falsa Victoria", "acto": "ACTO III: EL SILENCIO", "new_pdf": "Capitulo_20_Falsa_Victoria.pdf"},
+    21: {"titulo": "Capítulo 21: Cielo Azul", "acto": "ACTO III: EL SILENCIO", "new_pdf": "Capitulo_21_Cielo_Azul.pdf"},
+    22: {"titulo": "Capítulo 22: El Hogar", "acto": "ACTO III: EL SILENCIO", "new_pdf": "Capitulo_22_El_Hogar.pdf"},
+    23: {"titulo": "Capítulo 23: El Desván", "acto": "ACTO III: EL SILENCIO", "new_pdf": "Capitulo_23_El_Desvan.pdf"},
+    24: {"titulo": "Capítulo 24: El Pacto", "acto": "ACTO III: EL SILENCIO", "new_pdf": "Capitulo_24_El_Pacto.pdf"},
+    25: {"titulo": "Capítulo 25: La Canción", "acto": "ACTO III: EL SILENCIO", "new_pdf": "Capitulo_25_La_Cancion.pdf"}
 }
 
 def make_canvas_class(act_title, chap_title):
@@ -301,7 +301,6 @@ def compile_all_chapters():
         md_file = os.path.join("novela", "capitulos", f"capitulo_{chap_num}.md")
         meta = CHAPTER_METADATA[chap_num]
         new_pdf_name = meta["new_pdf"]
-        legacy_pdf_name = meta["legacy_pdf"]
 
         # Generar PDF principal con nombre conciso nuevo
         success = generate_chapter_pdf(chap_num, md_file, new_pdf_name)
@@ -309,15 +308,7 @@ def compile_all_chapters():
             # Copiar a novela/
             dest_new = os.path.join("novela", new_pdf_name)
             shutil.copyfile(new_pdf_name, dest_new)
-
-            # Si el legacy_pdf es distinto, sincronizarlo también para retrocompatibilidad
-            if legacy_pdf_name != new_pdf_name:
-                shutil.copyfile(new_pdf_name, legacy_pdf_name)
-                dest_legacy = os.path.join("novela", legacy_pdf_name)
-                shutil.copyfile(new_pdf_name, dest_legacy)
-                print(f"[OK] Cap {chap_num:2d}: {meta['titulo']} -> {new_pdf_name} (+ {legacy_pdf_name})")
-            else:
-                print(f"[OK] Cap {chap_num:2d}: {meta['titulo']} -> {new_pdf_name}")
+            print(f"[OK] Cap {chap_num:2d}: {meta['titulo']} -> {new_pdf_name}")
         else:
             print(f"[ERROR] Cap {chap_num:2d}: Falló la generación.")
 
