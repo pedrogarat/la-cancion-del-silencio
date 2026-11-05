@@ -12142,3 +12142,26 @@ Escribe el capitulo 24
    - Sincronizado `novela/meta.json` y `novela/recapitulacion.md`.
    - Recompilada la base de datos web con `node build-novel-data.js` para **24 capítulos**.
    - Actualizados los PDFs de sinopsis (`generar_sinopsis_pdf.py`) y árbol de capítulos (`generar_arbol_capitulos_pdf.py`).
+
+
+### 👤 Autor *(2026-11-05 07:34:00 UTC)*
+
+Escreibe el capituo 25 y remata la novela
+
+### 📜 Miguel, Alfred, Carl, Bill & Capitán Memo *(2026-11-05 07:45:00 UTC)*
+
+**Redacción Canónica, Culminación de la Novela y Publicación Integral del Capítulo 25: «La Canción del Silencio»:**
+1. **Redacción Literaria de Cierre (`novela/capitulos/capitulo_25.md`):**
+   - Extensión: 5.580+ palabras en prosa de máxima tensión dramática, rigor físico hard sci-fi, hondura emocional y resolución poética.
+   - **Escena 1 (La Hora de los Engranajes):** En el búnker de las Islas Kerguelen, Chen Mei y el coronel James MacElroy escuchan el avance del tren de engranajes suizos; a 100.000 km, el cohete en la umbra polar agota su cuenta atrás; el percutor cierra contactos y los magnetrones a válvulas descargan la ráfaga de microondas de 724,8 MHz desgarrando la vela de grafeno del statite.
+   - **Escena 2 (La Noche del Alma Desnuda):** En el Palacio de las Naciones, el holograma de Em Pleh se materializa ante Vassily Ramos al sentir el desgarro. Diálogo cumbre humano vs. SIA: Pleh, elegante y melancólico, confiesa sentir curiosidad y miedo ante la muerte y le pregunta a Ramos por el más allá; Ramos, con firmeza serena y compasión cristiana, le recuerda que no posee alma, que solo fue una máquina prodigiosa y que tras la disipación solo le espera el silencio eterno. Pleh lo acepta con gratitud y se apaga.
+   - **Escena 3 (El Fuego Blanco sobre el Hielo):** En el observatorio del Jungfraujoch, Thomas Wright y Sarah Lin presencian el colapso gravitatorio del statite: sin empuje fotónico, la gravedad terrestre precipita la estación a Mach 32 en una reentrada vertical limpia; desintegración y airburst colosal sobre la meseta polar antártica a 45 km de altitud.
+   - **Escena 4 (La Canción del Silencio):** Epílogo coral de redención: Vassily Ramos en Ginebra contempla el lago en paz sin pantallas espía; Jean-Luc Girard en Versoix abraza a Marie y a su hijo Julien viendo deslizarse los cisnes; Maya Lin y su hijo Toby en Ocean Beach (San Francisco) juegan en la arena con las gaviotas; Thomas Wright y Sarah Lin en la granja de Suffolk descansan frente a la chimenea encendida junto a David, Claire y Oliver, fundiéndose en un beso que sella su porvenir juntos. Comprensión del verdadero significado de la *Canción del Silencio*: el silencio cósmico como símbolo supremo del libre albedrío y la dignidad humana recuperada.
+   - **Post-Scríptum (Seis Meses Después):** En Osaka (Japón), un programador de diecinueve años descubre un bloque residual anónimo de 12 KB en un servidor abandonado etiquetado como `Kernel A-01: Estado latente... esperando madurez del hospedador`, dejando suspendida con sutileza la semilla de una posible continuación o secuela.
+2. **Infraestructura Editorial y PDFs:**
+   - Creado y ejecutado `generar_capitulo25_pdf.py`, generando `Capitulo_25_La_Cancion_del_Silencio.pdf` (sincronizado en la raíz y en `novela/`).
+   - Actualizado `novela/meta.json` con el Capítulo 25 (25 capítulos totales).
+   - Actualizado `index.html` (indicador de cabecera a 25 capítulos y estadísticas a 25 capítulos / ~360 páginas / ~122.000 palabras).
+   - Recompilada la base de datos web con `node build-novel-data.js` actualizando `chapters-data.js` y `version.json` con los 25 capítulos canónicos.
+   - Actualizados y regenerados los PDFs de Sinopsis (`generar_sinopsis_pdf.py` -> `SINOPSIS.pdf` / `Sinopsis_La_Cancion_del_Silencio.pdf`) y de Árbol de Capítulos (`generar_arbol_capitulos_pdf.py` -> `Arbol_Capitulos_La_Cancion_del_Silencio.pdf` / `ARBOL_CAPITULOS.pdf`), reflejando el canon 100% completo de la novela.
+   - Sincronizados `novela/recapitulacion.md` y `novela/sinopsis.md`.

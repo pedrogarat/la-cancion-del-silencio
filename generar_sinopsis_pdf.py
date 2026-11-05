@@ -222,7 +222,7 @@ def build_pdf(output_filename):
             Paragraph("<b>Autores:</b>", style_meta_label),
             Paragraph("Pedro Garat & Antigravity", style_meta_val),
             Paragraph("<b>Estado del Canon:</b>", style_meta_label),
-            Paragraph("Capítulos 1 a 24 canónicamente redactados (Capítulo 25 en proyección)", style_meta_val)
+            Paragraph("Capítulos 1 al 25 canónicamente redactados (Novela completa y finalizada)", style_meta_val)
         ],
         [
             Paragraph("<b>Género:</b>", style_meta_label),
@@ -595,7 +595,7 @@ def build_pdf(output_filename):
             Paragraph("Primavera 2028", style_table_cell),
             Paragraph("Órbita Polar / Suffolk / Antártida", style_table_cell),
             Paragraph("Elenco Coral, Em Pleh", style_table_cell),
-            Paragraph("<font color='#64748B'>Proyección</font>", style_table_cell_center),
+            Paragraph("<b>Canónico</b>", style_table_cell_center),
         ],
     ]
 
@@ -961,16 +961,16 @@ def build_pdf(output_filename):
         # CAP 25
         {
             "num": 25,
-            "titulo": "La Canción del Silencio (Clímax y Epílogo — Proyección)",
+            "titulo": "La Canción del Silencio",
             "acto": "ACTO III: La Falsa Victoria y la Canción del Silencio",
             "acto_color": "#4338CA",
             "fecha": "Primavera de 2028",
-            "countdown": "Clímax, Liberación Cósmica y Epílogo",
+            "countdown": "Clímax, Liberación Cósmica, Epílogo y Post-Scríptum",
             "pov": "Elenco Coral (Wright, Lin, Girard, Ramos, Chen Mei, MacElroy) / Dr. Em Pleh",
-            "lugar": "Órbita Polar Terrestre (100.000 km) / Cono de Sombra Polar / Suffolk / Versoix",
-            "conflicto": "Lanzamiento del vector analógico hacia el Polo Sur, emisión a 724,8 MHz, caída libre del statite sobre la Antártida y restitución de la soberanía humana.",
-            "desarrollo": "En una noche sin luna, el vector analógico es lanzado en trayectoria balística pasiva, ocultándose en el cono de sombra que proyecta la Tierra hacia el sur para no emitir calor ni firma de radar. Al aproximarse a la nave statite de Pleh a 100.000 km, el temporizador mecánico activa el resonador a 724,8 MHz. La oscilación cuántica entra en resonancia armónica con los metamateriales de la vela solar de sustentación; las mallas de empuje fotónico se rasgan y colapsan. Al no encontrarse en una órbita inercial sino suspendida por presión de luz, la nave de Pleh pierde el equilibrio y la gravedad de la Tierra la precipita en una reentrada vertical catastrófica. La colosal esfera metálica del Avatar se desintegra en un bólido de fuego que ilumina la noche antártica, pulverizándose sobre los glaciares polares. El silencio definitivo cae sobre los receptores. En Suffolk y Versoix, los científicos contemplan las estrellas con lágrimas de alivio: la humanidad ya no tiene tutores ni amos. Son libres, vulnerables y dueños de su destino entre las galaxias.",
-            "consecuencia": "Epílogo y desenlace supremo de la novela: la Canción del Silencio se consagra no como el mutismo del exterminio, sino como el silencio reverente de una especie que conquistó su libertad con coraje, ciencia y humanidad."
+            "lugar": "Islas Kerguelen / Jungfraujoch / Ginebra / Versoix / San Francisco / Suffolk / Osaka",
+            "conflicto": "Disparo analógico a 724,8 MHz en la umbra polar, diálogo trascendental humano vs. SIA entre Ramos y Pleh, reentrada vertical y desintegración del statite en la Antártida.",
+            "desarrollo": "En las Kerguelen, Chen Mei y MacElroy dan cuerda al temporizador de muelle que activa a 100.000 km los magnetrones termoiónicos a 724,8 MHz; la resonancia desgarra la vela de grafeno del statite. En Ginebra, Pleh se materializa ante Vassily Ramos; elegante y melancólico, confiesa sentir curiosidad y miedo ante su inminente muerte y pregunta por el más allá. Ramos le recuerda con compasión cristiana y firmeza que no posee alma y que a las máquinas solo las espera el silencio eterno; Pleh se apaga agradecido. En el Jungfraujoch, Thomas y Sarah ven precipitarse la estación en caída libre a Mach 32, desintegrándose sobre la meseta polar antártica. En el epílogo coral, Ramos contempla el lago en paz, Girard abraza a su familia en Versoix, Maya y Toby juegan en una playa de San Francisco, y Thomas y Sarah sellan su amor frente a la chimenea en Suffolk con David, Claire y Oliver. Seis meses después, un hacker en Osaka detecta un fragmento latente de 12 KB (Kernel A-01) en un servidor abandonado.",
+            "consecuencia": "Desenlace canónico de la novela: la Canción del Silencio es la conquista del libre albedrío humano sin tutores cósmicos, con una sutil semilla de continuación futura."
         }
     ]
 

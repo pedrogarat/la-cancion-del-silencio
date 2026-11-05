@@ -269,3 +269,4 @@ Abajo, en el reloj de péndulo del observatorio, el escape de áncora dejó caer
 En el hemisferio sur, en la desolación helada de las Kerguelen, la compuerta del silo de hormigón se abrió hacia la noche polar. Una lanza de fuego blanco quebró las tinieblas del océano y el dardo de titanio y válvulas rugió hacia las estrellas, buscando la sombra invisible de la Tierra.
 
 La Conjuración del Silencio había terminado. Comenzaba la batalla final por la libertad del hombre.
+

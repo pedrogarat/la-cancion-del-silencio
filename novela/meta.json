@@ -220,6 +220,15 @@
       "location": "Palacio de las Naciones / Parque Ariana / Sótanos del CERN / Islas Kerguelen / Jungfraujoch",
       "readTime": "22 min",
       "povImage": "img/char_protagonista.png"
+    },
+    {
+      "id": 25,
+      "title": "Capítulo 25: La Canción del Silencio",
+      "act": "Acto III: La Falsa Victoria y la Canción del Silencio",
+      "pov": "Vassily Ramos / Dr. Em Pleh / Chen Mei / James MacElroy / Thomas Wright / Jean-Luc Girard / Sarah Lin",
+      "location": "Estación Jungfraujoch / Islas Kerguelen / Órbita Geoestacionaria / Ginebra / Versoix / San Francisco / Suffolk / Osaka",
+      "readTime": "25 min",
+      "povImage": "img/char_protagonista.png"
     }
   ]
 }

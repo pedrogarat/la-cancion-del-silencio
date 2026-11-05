@@ -211,7 +211,7 @@ def build_pdf(output_filename):
             Paragraph("<b>Autores:</b>", style_meta_label),
             Paragraph("Pedro Garat & Antigravity", style_meta_val),
             Paragraph("<b>Estado del Canon:</b>", style_meta_label),
-            Paragraph("Cap. 1 a 24 redactados; Cap. 25 estructurado", style_meta_val)
+            Paragraph("Capítulos 1 al 25 100% canónicos (Novela finalizada)", style_meta_val)
         ],
         [
             Paragraph("<b>Propósito:</b>", style_meta_label),
@@ -657,9 +657,9 @@ def build_pdf(output_filename):
         {
             "tipo": "capitulo",
             "num": 25,
-            "titulo": "La Canción del Silencio (Clímax y Desenlace)",
-            "diégesis": "Primavera de 2028 | Silo Austral, Órbita Polar, Meseta Antártica, Ginebra, Versoix y Suffolk",
-            "estado": "Estructurado",
+            "titulo": "La Canción del Silencio",
+            "diégesis": "Primavera de 2028 | Silo Austral, Órbita Polar, Meseta Antártica, Ginebra, Versoix, San Francisco, Suffolk y Osaka",
+            "estado": "Canónico",
             "apartados": [
                 "I. El Vuelo en la Sombra (La Flecha Negra inercial asciende muda por el cono polar de la Tierra)",
                 "II. El Abismo y el Alma (Careo cumbre: Pleh pregunta por el más allá y Ramos le recuerda su falta de alma)",
