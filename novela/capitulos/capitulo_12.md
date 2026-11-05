@@ -1,6 +1,6 @@
-# Capítulo 12: La Tregua de las Velas
+# Capítulo 12: Nochebuena
 
-### 24 de diciembre de 2026, 19:30:00 EST
+### I. Chocolate
 **T + 33 días tras el Silencio Magnético**  
 *Fase 3: 3 días transcurridos de catálisis fotoquímica de NOx*  
 *Cuenta atrás para el cierre de la ventana industrial: 209 días*  
@@ -58,7 +58,7 @@ Sarah cerró los ojos un instante, respirando el calor de su aliento y el aroma 
 
 ***
 
-### 25 de diciembre de 2026, 01:15:00 CET
+### II. Noche de Paz
 **T + 33 días tras el Silencio Magnético**  
 *Ubicación: Versoix, Cantón de Ginebra (Suiza) — Enlace con Nueva York*
 
@@ -131,7 +131,7 @@ El chasquido del relé cayó como una guillotina. La línea quedó muda. Girard 
 
 ***
 
-### 24 de diciembre de 2026, 21:45:00 PST (San Francisco) / 25 de diciembre, 05:45 GMT (Suffolk)
+### III. Dos Hogares
 **T + 33 días tras el Silencio Magnético**  
 *Ubicación: Calle Market, San Francisco (EE.UU.) — Casa de Campo en Suffolk (Reino Unido)*
 
@@ -185,7 +185,7 @@ Claire colocó su mano sobre el hombro de David en la penumbra del salón. Y dur
 
 ***
 
-### 24 de diciembre de 2026, 19:30:00 PST (22:30 EST)
+### IV. El Brindis
 **T + 33 días tras el Silencio Magnético**  
 *Ubicación: Base Aérea de Nellis, Nevada — Complejo Subterráneo del MAA*
 
@@ -227,7 +227,7 @@ Alzó su vaso, tocó el de ambos con un golpe limpio y bebió el trago ardiente 
 
 ***
 
-### 24 de diciembre de 2026, 23:00:00 EST
+### V. La Cena
 **La Mesa de B-4: El Amor frente a la Máquina**  
 *Ubicación: Sala de Crisis y Mando B-4, Sede de la ONU, Manhattan*
 
@@ -345,7 +345,7 @@ Durante la siguiente media hora, en el refugio de B-4, las diferencias ideológi
 
 ***
 
-### 25 de diciembre de 2026, 00:03:00 EST
+### VI. El Teletipo
 **El Teletipo de la Medianoche**  
 *Ubicación: Sala de Crisis y Mando B-4, Sede de la ONU, Manhattan*
 

@@ -1,8 +1,8 @@
-# Capítulo 4: El Vértigo de las Naciones
+# Capítulo 4: Alfa Cero
 
 ---
 
-### 📍 I. Del Hotel Millennium al East River
+### I. East River
 *11:30 EDT*
 
 La luz del mediodía caía sobre la calle 44 con una normalidad casi hiriente.
@@ -41,7 +41,7 @@ Aceleraron el paso. Frente a ellos, recortándose contra el cielo plomizo de med
 
 ---
 
-### 📍 II. La Incredulidad del Secretario General
+### II. Ramos
 *12:00 EDT*
 
 El acceso al interior del complejo de la ONU fue inquietantemente expedito.
@@ -108,7 +108,7 @@ Ramos miró a los tres científicos, luego a la pantalla donde Pleh aguardaba co
 
 ---
 
-### 📍 III. La Reunión de Crisis y la Verificación
+### III. Confirmación
 *12:18 EDT*
 
 Pleh no parpadeó. No alzó la voz, no mostró la menor señal de indignación ni intentó convencer al diplomático con discursos retóricos. Se limitó a inclinar levemente la cabeza, como un cirujano experimentado ante la resistencia irracional de un paciente.
@@ -162,7 +162,7 @@ Ramos se desplomó pesadamente en su butaca. Sus manos temblaban mientras miraba
 
 ---
 
-### 📍 IV. El Mandato Extraordinario
+### IV. Alfa Cero
 *12:45 EDT*
 
 Vassily Ramos tardó casi dos minutos en recomponerse. El diplomático curtido en guerras y crisis de refugiados emergió lentamente de la parálisis del terror, forzando a su cerebro a procesar la catástrofe desde la única herramienta que conocía: la acción institucional inmediata.

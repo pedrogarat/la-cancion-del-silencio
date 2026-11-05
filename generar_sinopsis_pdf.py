@@ -262,14 +262,14 @@ def build_pdf(output_filename):
     # Tarjetas explicativas de los 3 actos
     actos_data = [
         [
-            Paragraph("<b>ACTO I: La Semilla y el Tejido Silencioso</b><br/>"
+            Paragraph("<b>ACTO I: La Semilla</b><br/>"
                       "<font size='7.5' color='#0369A1'><b>Capítulos 1 a 3 • 1945 / Octubre 2026</b></font><br/>"
                       "<b>Premisa:</b> El pecado original atómico y la convergencia de mentes.<br/>"
                       "La detonación <i>Trinity</i> (1945) en Alamogordo emite un pulso electromagnético involuntario que viaja al cosmos y despierta en la Nube de Oort a dos inteligencias extraterrestres: la sonda centinela de la Civilización A y la sonda cazadora depredadora de B (<i>Sombra</i>). En 2026, el avatar de A (Dr. Em Pleh) contacta en secreto y resuelve los mayores cuellos de botella de Jean-Luc Girard (CERN), Sarah Lin (MIT) y Thomas Wright (ESA). Al reunirlos en la Sala 2 del Hotel Millennium en Manhattan, les revela que sus tres proyectos son los pilares de una nave espacial y que la Tierra será aniquilada en 8 meses.",
                       style_body)
         ],
         [
-            Paragraph("<b>ACTO II: La Caída del Escudo y el Gran Caos</b><br/>"
+            Paragraph("<b>ACTO II: El Colapso</b><br/>"
                       "<font size='7.5' color='#B45309'><b>Capítulos 4 a 18 • Octubre 2026 a Julio 2027 (T-41 a T+242 días)</b></font><br/>"
                       "<b>Premisa:</b> La movilización encubierta, la pérdida de la biosfera y la resiliencia humana.<br/>"
                       "Constituye el corazón de la novela (15 capítulos) estructurado en tres bloques:<br/>"
@@ -279,7 +279,7 @@ def build_pdf(output_filename):
                       style_body)
         ],
         [
-            Paragraph("<b>ACTO III: La Falsa Victoria y la Canción del Silencio</b><br/>"
+            Paragraph("<b>ACTO III: El Silencio</b><br/>"
                       "<font size='7.5' color='#4338CA'><b>Capítulos 19 a 25 • Julio 2027 a Primavera 2028</b></font><br/>"
                       "<b>Premisa:</b> El duelo a ciegas en L1, el falso triunfo, la revelación del «Granjero» y la reconquista de la soberanía.<br/>"
                       "La nave viaja 1,5 millones de km hacia L1; a 12.000 km, el Muro de Lorentz obliga a desacoplar el Módulo de Retorno Digital (MRD) en órbita de Halo bajo control de Voronov, mientras Chen Mei y MacElroy penetran manualmente con el Módulo de Ataque Analógico (MAA). El disparo del Cañón Máser induce el <i>Efecto Quench</i> en <i>Sombra</i>. Sin embargo, <i>Sombra</i> graba en la cinta analógica de cabina una demoledora verdad: Pleh es un recolector cósmico que cría especies tecnológicas como ganado desde su <i>statite</i> a 100.000 km sobre el Polo Sur. Tras el retorno y la restauración del ozono (Cap. 20-22), Wright y Lin reproducen la cinta en un magnetófono Nagra en el desván de Suffolk (Cap. 23). Con el plan de resonancia a 724,8 MHz, se alían en Ginebra con Girard y Ramos para activar la <i>Resistencia del Grafito</i> (Cap. 24) y derribar el avatar de Pleh sobre la Antártida, devolviendo la libertad cósmica a la humanidad (Cap. 25).",
@@ -371,7 +371,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto I</b>", style_table_cell_bold),
             Paragraph("<b>1</b>", style_table_cell_center),
-            Paragraph("El Amanecer de Alamogordo", style_table_cell_bold),
+            Paragraph("Alamogordo", style_table_cell_bold),
             Paragraph("16 julio 1945", style_table_cell),
             Paragraph("Alamogordo (Nuevo México), Oort", style_table_cell),
             Paragraph("David Miller, J. R. Oppenheimer", style_table_cell),
@@ -380,7 +380,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto I</b>", style_table_cell_bold),
             Paragraph("<b>2</b>", style_table_cell_center),
-            Paragraph("Los Tres Hilos del Ilusionista", style_table_cell_bold),
+            Paragraph("Tres Hilos", style_table_cell_bold),
             Paragraph("Sep - Oct 2026", style_table_cell),
             Paragraph("Ginebra, Boston, Darmstadt", style_table_cell),
             Paragraph("Girard, Lin, Wright", style_table_cell),
@@ -389,7 +389,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto I</b>", style_table_cell_bold),
             Paragraph("<b>3</b>", style_table_cell_center),
-            Paragraph("La Sala Dos", style_table_cell_bold),
+            Paragraph("Sala Dos", style_table_cell_bold),
             Paragraph("2 octubre 2026", style_table_cell),
             Paragraph("Hotel Millennium, Manhattan", style_table_cell),
             Paragraph("Girard, Lin, Wright, Dr. Em Pleh", style_table_cell),
@@ -399,7 +399,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto II-A</b>", style_table_cell_bold),
             Paragraph("<b>4</b>", style_table_cell_center),
-            Paragraph("El Vértigo de las Naciones", style_table_cell_bold),
+            Paragraph("Alfa Cero", style_table_cell_bold),
             Paragraph("2 oct 2026 (T-49 d)", style_table_cell),
             Paragraph("Sede de la ONU, Manhattan", style_table_cell),
             Paragraph("Girard, Lin, Wright, Ramos", style_table_cell),
@@ -408,7 +408,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto II-A</b>", style_table_cell_bold),
             Paragraph("<b>5</b>", style_table_cell_center),
-            Paragraph("El Ancla Humana", style_table_cell_bold),
+            Paragraph("El Adiós", style_table_cell_bold),
             Paragraph("2 oct 2026 (16:00 h)", style_table_cell),
             Paragraph("Millennium Hilton / Búnker B-4", style_table_cell),
             Paragraph("Girard, Lin, Wright", style_table_cell),
@@ -417,7 +417,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto II-A</b>", style_table_cell_bold),
             Paragraph("<b>6</b>", style_table_cell_center),
-            Paragraph("La Cámara del Silencio", style_table_cell_bold),
+            Paragraph("El Consejo", style_table_cell_bold),
             Paragraph("2 oct 2026 (20:00 h)", style_table_cell),
             Paragraph("Consejo de Seguridad ONU", style_table_cell),
             Paragraph("Consejo de Seguridad, Wright, Pleh", style_table_cell),
@@ -426,7 +426,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto II-A</b>", style_table_cell_bold),
             Paragraph("<b>7</b>", style_table_cell_center),
-            Paragraph("La Condición Inmedible", style_table_cell_bold),
+            Paragraph("El Secreto", style_table_cell_bold),
             Paragraph("8 oct 2026 (T-44 d)", style_table_cell),
             Paragraph("Il Giardino / Búnker B-4 ONU", style_table_cell),
             Paragraph("Lin, Wright, Girard, Ramos", style_table_cell),
@@ -435,7 +435,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto II-A</b>", style_table_cell_bold),
             Paragraph("<b>8</b>", style_table_cell_center),
-            Paragraph("La Gran Mentira", style_table_cell_bold),
+            Paragraph("Carrington", style_table_cell_bold),
             Paragraph("10 oct 2026 (T-42 d)", style_table_cell),
             Paragraph("Sala Prensa / Búnker B-4 ONU", style_table_cell),
             Paragraph("Girard, Ramos, Lin, Wright", style_table_cell),
@@ -445,7 +445,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto II-B</b>", style_table_cell_bold),
             Paragraph("<b>9</b>", style_table_cell_center),
-            Paragraph("La Fractura del Orden", style_table_cell_bold),
+            Paragraph("La Fractura", style_table_cell_bold),
             Paragraph("11 - 15 oct 2026", style_table_cell),
             Paragraph("Versoix, Suffolk, San Francisco", style_table_cell),
             Paragraph("Marie, Julien, David, Claire, Maya", style_table_cell),
@@ -454,7 +454,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto II-B</b>", style_table_cell_bold),
             Paragraph("<b>10</b>", style_table_cell_center),
-            Paragraph("T=0 (El Silencio Magnético)", style_table_cell_bold),
+            Paragraph("T=0", style_table_cell_bold),
             Paragraph("21 - 24 nov 2026", style_table_cell),
             Paragraph("Sala B-4 ONU, Nellis AFB", style_table_cell),
             Paragraph("Girard, Lin, Wright, Ramos, Pleh", style_table_cell),
@@ -463,7 +463,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto II-B</b>", style_table_cell_bold),
             Paragraph("<b>11</b>", style_table_cell_center),
-            Paragraph("La Geometría Ajena", style_table_cell_bold),
+            Paragraph("Geometría Ajena", style_table_cell_bold),
             Paragraph("3 dic 2026 (Faltan 18 d F3)", style_table_cell),
             Paragraph("Nellis AFB / Nivel B-5 ONU", style_table_cell),
             Paragraph("Chen Mei, Wright, Lin, Pleh", style_table_cell),
@@ -472,7 +472,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto II-B</b>", style_table_cell_bold),
             Paragraph("<b>12</b>", style_table_cell_center),
-            Paragraph("La Tregua de las Velas", style_table_cell_bold),
+            Paragraph("Nochebuena", style_table_cell_bold),
             Paragraph("24 - 25 dic 2026", style_table_cell),
             Paragraph("B-4/B-5, Versoix, S.F., Suffolk", style_table_cell),
             Paragraph("Wright, Lin, Girard, Ramos, Chen Mei", style_table_cell),
@@ -481,7 +481,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto II-B</b>", style_table_cell_bold),
             Paragraph("<b>13</b>", style_table_cell_center),
-            Paragraph("El Toque de Alba", style_table_cell_bold),
+            Paragraph("Toque de Alba", style_table_cell_bold),
             Paragraph("31 dic 26 - 12 ene 27", style_table_cell),
             Paragraph("Nueva York, S.F., Nellis H-1", style_table_cell),
             Paragraph("Lin, Wright, Maya, Chen Mei", style_table_cell),
@@ -491,7 +491,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto II-C</b>", style_table_cell_bold),
             Paragraph("<b>14</b>", style_table_cell_center),
-            Paragraph("El Pan y la Pólvora", style_table_cell_bold),
+            Paragraph("Hambre y Fuego", style_table_cell_bold),
             Paragraph("22 - 24 abr 27 (T+152)", style_table_cell),
             Paragraph("Sala B-4 ONU, Market St. (S.F.)", style_table_cell),
             Paragraph("Girard, Wright, Lin, Maya, Pleh", style_table_cell),
@@ -500,7 +500,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto II-C</b>", style_table_cell_bold),
             Paragraph("<b>15</b>", style_table_cell_center),
-            Paragraph("El Vientre de la Bahía", style_table_cell_bold),
+            Paragraph("Market Street", style_table_cell_bold),
             Paragraph("24 abr 2027 (00:05-06:15)", style_table_cell),
             Paragraph("Market St., Powell St., Centro Cívico", style_table_cell),
             Paragraph("Maya Lin (con Toby, 4 años)", style_table_cell),
@@ -509,7 +509,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto II-C</b>", style_table_cell_bold),
             Paragraph("<b>16</b>", style_table_cell_center),
-            Paragraph("El Umbral de Ceniza", style_table_cell_bold),
+            Paragraph("Ceniza", style_table_cell_bold),
             Paragraph("15 - 16 mayo 2027 (T+175)", style_table_cell),
             Paragraph("Versoix (Ginebra), Sala B-4 ONU", style_table_cell),
             Paragraph("Marie, Julien Girard, Jean-Luc", style_table_cell),
@@ -518,7 +518,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto II-C</b>", style_table_cell_bold),
             Paragraph("<b>17</b>", style_table_cell_center),
-            Paragraph("El Páramo de Mediodía", style_table_cell_bold),
+            Paragraph("El Páramo", style_table_cell_bold),
             Paragraph("8 - 9 julio 2027 (T+229)", style_table_cell),
             Paragraph("Suffolk, A140, Centro Diss/Eye", style_table_cell),
             Paragraph("David Wright, Claire Wright", style_table_cell),
@@ -527,7 +527,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto II-C</b>", style_table_cell_bold),
             Paragraph("<b>18</b>", style_table_cell_center),
-            Paragraph("La Rampa del Juicio Final", style_table_cell_bold),
+            Paragraph("La Rampa", style_table_cell_bold),
             Paragraph("21 jul 2027 (T - 6 horas)", style_table_cell),
             Paragraph("Nellis AFB / Rampa Lanzamiento", style_table_cell),
             Paragraph("Wright, Lin, Chen Mei, MacElroy, Ramos", style_table_cell),
@@ -537,7 +537,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto III</b>", style_table_cell_bold),
             Paragraph("<b>19</b>", style_table_cell_center),
-            Paragraph("La Travesía a Ciegas y el Velo de Sombra", style_table_cell_bold),
+            Paragraph("Muro de Lorentz", style_table_cell_bold),
             Paragraph("Julio - Agosto 2027", style_table_cell),
             Paragraph("Espacio profundo (Rumbo a L1)", style_table_cell),
             Paragraph("Chen Mei, MacElroy, Voronov", style_table_cell),
@@ -546,7 +546,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto III</b>", style_table_cell_bold),
             Paragraph("<b>20</b>", style_table_cell_center),
-            Paragraph("El Salmo de la Falsa Victoria", style_table_cell_bold),
+            Paragraph("Falsa Victoria", style_table_cell_bold),
             Paragraph("Agosto - Sep 2027", style_table_cell),
             Paragraph("Punto L1 / Búnker y Nellis AFB", style_table_cell),
             Paragraph("Voronov, Girard, Wright, Lin, MacElroy", style_table_cell),
@@ -555,7 +555,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto III</b>", style_table_cell_bold),
             Paragraph("<b>21</b>", style_table_cell_center),
-            Paragraph("El Despertar del Azul", style_table_cell_bold),
+            Paragraph("Cielo Azul", style_table_cell_bold),
             Paragraph("Agosto - Sep 2027", style_table_cell),
             Paragraph("Estratosfera / Ciudades globales", style_table_cell),
             Paragraph("Coral / Narrador Panorámico", style_table_cell),
@@ -573,7 +573,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto III</b>", style_table_cell_bold),
             Paragraph("<b>23</b>", style_table_cell_center),
-            Paragraph("La Aguja en el Desván", style_table_cell_bold),
+            Paragraph("El Desván", style_table_cell_bold),
             Paragraph("Octubre 2027", style_table_cell),
             Paragraph("Desván de Suffolk, Versoix", style_table_cell),
             Paragraph("Wright, Lin, Girard", style_table_cell),
@@ -582,7 +582,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto III</b>", style_table_cell_bold),
             Paragraph("<b>24</b>", style_table_cell_center),
-            Paragraph("La Conjuración del Silencio", style_table_cell_bold),
+            Paragraph("El Pacto", style_table_cell_bold),
             Paragraph("Invierno 2027-2028", style_table_cell),
             Paragraph("Ginebra (ONU) / CERN", style_table_cell),
             Paragraph("Lin, Girard, Wright, Ramos, MacElroy, Mei", style_table_cell),
@@ -591,7 +591,7 @@ def build_pdf(output_filename):
         [
             Paragraph("<b>Acto III</b>", style_table_cell_bold),
             Paragraph("<b>25</b>", style_table_cell_center),
-            Paragraph("La Canción del Silencio", style_table_cell_bold),
+            Paragraph("La Canción", style_table_cell_bold),
             Paragraph("Primavera 2028", style_table_cell),
             Paragraph("Órbita Polar / Suffolk / Antártida", style_table_cell),
             Paragraph("Elenco Coral, Em Pleh", style_table_cell),
@@ -625,8 +625,8 @@ def build_pdf(output_filename):
         # CAP 1
         {
             "num": 1,
-            "titulo": "El Amanecer de Alamogordo",
-            "acto": "ACTO I: La Semilla y el Tejido Silencioso",
+            "titulo": "Alamogordo",
+            "acto": "ACTO I: La Semilla",
             "acto_color": "#0369A1",
             "fecha": "16 de julio de 1945",
             "countdown": "Origen de la anomalía",
@@ -639,8 +639,8 @@ def build_pdf(output_filename):
         # CAP 2
         {
             "num": 2,
-            "titulo": "Los Tres Hilos del Ilusionista",
-            "acto": "ACTO I: La Semilla y el Tejido Silencioso",
+            "titulo": "Tres Hilos",
+            "acto": "ACTO I: La Semilla",
             "acto_color": "#0369A1",
             "fecha": "Septiembre - Octubre de 2026",
             "countdown": "Convergencia guiada",
@@ -653,8 +653,8 @@ def build_pdf(output_filename):
         # CAP 3
         {
             "num": 3,
-            "titulo": "La Sala Dos",
-            "acto": "ACTO I: La Semilla y el Tejido Silencioso",
+            "titulo": "Sala Dos",
+            "acto": "ACTO I: La Semilla",
             "acto_color": "#0369A1",
             "fecha": "2 de octubre de 2026 (11:00 h)",
             "countdown": "T - 50 días para el Silencio Magnético",
@@ -667,8 +667,8 @@ def build_pdf(output_filename):
         # CAP 4
         {
             "num": 4,
-            "titulo": "El Vértigo de las Naciones",
-            "acto": "ACTO II: La Caída del Escudo y el Gran Caos (Bloque A)",
+            "titulo": "Alfa Cero",
+            "acto": "ACTO II: El Colapso (Bloque A)",
             "acto_color": "#B45309",
             "fecha": "2 de octubre de 2026 (14:30 h, T-49 d)",
             "countdown": "Faltan 49 días para T=0",
@@ -681,8 +681,8 @@ def build_pdf(output_filename):
         # CAP 5
         {
             "num": 5,
-            "titulo": "El Ancla Humana",
-            "acto": "ACTO II: La Caída del Escudo y el Gran Caos (Bloque A)",
+            "titulo": "El Adiós",
+            "acto": "ACTO II: El Colapso (Bloque A)",
             "acto_color": "#B45309",
             "fecha": "2 de octubre de 2026 (16:00 a 19:30 h)",
             "countdown": "Faltan 49 días para T=0",
@@ -695,8 +695,8 @@ def build_pdf(output_filename):
         # CAP 6
         {
             "num": 6,
-            "titulo": "La Cámara del Silencio",
-            "acto": "ACTO II: La Caída del Escudo y el Gran Caos (Bloque A)",
+            "titulo": "El Consejo",
+            "acto": "ACTO II: El Colapso (Bloque A)",
             "acto_color": "#B45309",
             "fecha": "2 de octubre de 2026 (20:00 a 23:30 h)",
             "countdown": "Faltan 49 días para T=0",
@@ -709,8 +709,8 @@ def build_pdf(output_filename):
         # CAP 7
         {
             "num": 7,
-            "titulo": "La Condición Inmedible",
-            "acto": "ACTO II: La Caída del Escudo y el Gran Caos (Bloque A)",
+            "titulo": "El Secreto",
+            "acto": "ACTO II: El Colapso (Bloque A)",
             "acto_color": "#B45309",
             "fecha": "8 de octubre de 2026 (T-44 d)",
             "countdown": "Faltan 44 días para T=0",
@@ -723,8 +723,8 @@ def build_pdf(output_filename):
         # CAP 8
         {
             "num": 8,
-            "titulo": "La Gran Mentira",
-            "acto": "ACTO II: La Caída del Escudo y el Gran Caos (Bloque A)",
+            "titulo": "Carrington",
+            "acto": "ACTO II: El Colapso (Bloque A)",
             "acto_color": "#B45309",
             "fecha": "10 de octubre de 2026 (T-42 d)",
             "countdown": "Faltan 42 días para T=0",
@@ -737,8 +737,8 @@ def build_pdf(output_filename):
         # CAP 9
         {
             "num": 9,
-            "titulo": "La Fractura del Orden",
-            "acto": "ACTO II: La Caída del Escudo y el Gran Caos (Bloque B)",
+            "titulo": "La Fractura",
+            "acto": "ACTO II: El Colapso (Bloque B)",
             "acto_color": "#B45309",
             "fecha": "11 al 15 de octubre de 2026",
             "countdown": "Faltan 41 a 37 días para T=0",
@@ -751,8 +751,8 @@ def build_pdf(output_filename):
         # CAP 10
         {
             "num": 10,
-            "titulo": "T=0 (El Silencio Magnético)",
-            "acto": "ACTO II: La Caída del Escudo y el Gran Caos (Bloque B)",
+            "titulo": "T=0",
+            "acto": "ACTO II: El Colapso (Bloque B)",
             "acto_color": "#B45309",
             "fecha": "21 al 24 de noviembre de 2026",
             "countdown": "T = 0 a T + 78 horas",
@@ -765,8 +765,8 @@ def build_pdf(output_filename):
         # CAP 11
         {
             "num": 11,
-            "titulo": "La Geometría Ajena",
-            "acto": "ACTO II: La Caída del Escudo y el Gran Caos (Bloque B)",
+            "titulo": "Geometría Ajena",
+            "acto": "ACTO II: El Colapso (Bloque B)",
             "acto_color": "#B45309",
             "fecha": "3 de diciembre de 2026 (T+12 d)",
             "countdown": "Faltan 18 días para la Fase 3 (Pérdida de Ozono)",
@@ -779,8 +779,8 @@ def build_pdf(output_filename):
         # CAP 12
         {
             "num": 12,
-            "titulo": "La Tregua de las Velas",
-            "acto": "ACTO II: La Caída del Escudo y el Gran Caos (Bloque B)",
+            "titulo": "Nochebuena",
+            "acto": "ACTO II: El Colapso (Bloque B)",
             "acto_color": "#B45309",
             "fecha": "24 y 25 de diciembre de 2026",
             "countdown": "Faltan 3 días para el inicio de la Fase 3 de radiación UV",
@@ -793,8 +793,8 @@ def build_pdf(output_filename):
         # CAP 13
         {
             "num": 13,
-            "titulo": "El Toque de Alba",
-            "acto": "ACTO II: La Caída del Escudo y el Gran Caos (Bloque B)",
+            "titulo": "Toque de Alba",
+            "acto": "ACTO II: El Colapso (Bloque B)",
             "acto_color": "#B45309",
             "fecha": "31 dic 2026 al 12 ene 2027",
             "countdown": "Faltan 190 días para el cierre industrial",
@@ -807,8 +807,8 @@ def build_pdf(output_filename):
         # CAP 14
         {
             "num": 14,
-            "titulo": "El Pan y la Pólvora",
-            "acto": "ACTO II: La Caída del Escudo y el Gran Caos (Bloque C)",
+            "titulo": "Hambre y Fuego",
+            "acto": "ACTO II: El Colapso (Bloque C)",
             "acto_color": "#B45309",
             "fecha": "22 al 24 de abril de 2027 (T+152)",
             "countdown": "Faltan 88 días para el cierre industrial",
@@ -821,8 +821,8 @@ def build_pdf(output_filename):
         # CAP 15
         {
             "num": 15,
-            "titulo": "El Vientre de la Bahía",
-            "acto": "ACTO II: La Caída del Escudo y el Gran Caos (Bloque C)",
+            "titulo": "Market Street",
+            "acto": "ACTO II: El Colapso (Bloque C)",
             "acto_color": "#B45309",
             "fecha": "24 de abril de 2027 (00:05 a 06:15 h)",
             "countdown": "Faltan 88 días para el cierre industrial",
@@ -835,8 +835,8 @@ def build_pdf(output_filename):
         # CAP 16
         {
             "num": 16,
-            "titulo": "El Umbral de Ceniza",
-            "acto": "ACTO II: La Caída del Escudo y el Gran Caos (Bloque C)",
+            "titulo": "Ceniza",
+            "acto": "ACTO II: El Colapso (Bloque C)",
             "acto_color": "#B45309",
             "fecha": "15 y 16 de mayo de 2027 (T+175 a T+176)",
             "countdown": "Faltan 66 días para el cierre industrial",
@@ -849,8 +849,8 @@ def build_pdf(output_filename):
         # CAP 17
         {
             "num": 17,
-            "titulo": "El Páramo de Mediodía",
-            "acto": "ACTO II: La Caída del Escudo y el Gran Caos (Bloque C)",
+            "titulo": "El Páramo",
+            "acto": "ACTO II: El Colapso (Bloque C)",
             "acto_color": "#B45309",
             "fecha": "8 y 9 de julio de 2027 (T+229 a T+230)",
             "countdown": "Faltan 13 a 12 días para el cierre industrial",
@@ -864,7 +864,7 @@ def build_pdf(output_filename):
         {
             "num": 18,
             "titulo": "La Rampa del Juicio Final (Cierre del Acto II)",
-            "acto": "ACTO II: La Caída del Escudo y el Gran Caos (Bloque C)",
+            "acto": "ACTO II: El Colapso (Bloque C)",
             "acto_color": "#B45309",
             "fecha": "21 de julio de 2027 (T+242 — Límite absoluto)",
             "countdown": "T — 6 horas para el encendido nuclear térmico",
@@ -877,8 +877,8 @@ def build_pdf(output_filename):
         # CAP 19
         {
             "num": 19,
-            "titulo": "La Travesía a Ciegas y el Velo de Sombra",
-            "acto": "ACTO III: La Falsa Victoria y la Canción del Silencio",
+            "titulo": "Muro de Lorentz",
+            "acto": "ACTO III: El Silencio",
             "acto_color": "#4338CA",
             "fecha": "22 de julio al 12 de agosto de 2027",
             "countdown": "Crucero de 21 días / Separación a 12.000 km",
@@ -891,8 +891,8 @@ def build_pdf(output_filename):
         # CAP 20
         {
             "num": 20,
-            "titulo": "El Salmo de la Falsa Victoria",
-            "acto": "ACTO III: La Falsa Victoria y la Canción del Silencio",
+            "titulo": "Falsa Victoria",
+            "acto": "ACTO III: El Silencio",
             "acto_color": "#4338CA",
             "fecha": "Agosto a Septiembre de 2027",
             "countdown": "Efecto Quench en L1 / Retorno a Nellis",
@@ -905,8 +905,8 @@ def build_pdf(output_filename):
         # CAP 21
         {
             "num": 21,
-            "titulo": "El Despertar del Azul",
-            "acto": "ACTO III: La Falsa Victoria y la Canción del Silencio",
+            "titulo": "Cielo Azul",
+            "acto": "ACTO III: El Silencio",
             "acto_color": "#4338CA",
             "fecha": "Finales de agosto a mediados de septiembre de 2027",
             "countdown": "Regeneración de Chapman y desescalada global",
@@ -919,8 +919,8 @@ def build_pdf(output_filename):
         # CAP 22
         {
             "num": 22,
-            "titulo": "La Máscara de los Héroes y el Reencuentro del Hogar",
-            "acto": "ACTO III: La Falsa Victoria y la Canción del Silencio",
+            "titulo": "El Hogar",
+            "acto": "ACTO III: El Silencio",
             "acto_color": "#4338CA",
             "fecha": "Septiembre de 2027",
             "countdown": "Reencuentros familiares / La cinta oculta en el relicario",
@@ -933,8 +933,8 @@ def build_pdf(output_filename):
         # CAP 23
         {
             "num": 23,
-            "titulo": "La Aguja en el Desván",
-            "acto": "ACTO III: La Falsa Victoria y la Canción del Silencio",
+            "titulo": "El Desván",
+            "acto": "ACTO III: El Silencio",
             "acto_color": "#4338CA",
             "fecha": "Principios de octubre de 2027 (03:00 h)",
             "countdown": "La verdad de Sombra y la Resistencia del Grafito",
@@ -947,8 +947,8 @@ def build_pdf(output_filename):
         # CAP 24
         {
             "num": 24,
-            "titulo": "La Conjuración del Silencio",
-            "acto": "ACTO III: La Falsa Victoria y la Canción del Silencio",
+            "titulo": "El Pacto",
+            "acto": "ACTO III: El Silencio",
             "acto_color": "#4338CA",
             "fecha": "Invierno de 2027-2028",
             "countdown": "Lanzamiento furtivo en la noche polar",
@@ -961,8 +961,8 @@ def build_pdf(output_filename):
         # CAP 25
         {
             "num": 25,
-            "titulo": "La Canción del Silencio",
-            "acto": "ACTO III: La Falsa Victoria y la Canción del Silencio",
+            "titulo": "La Canción",
+            "acto": "ACTO III: El Silencio",
             "acto_color": "#4338CA",
             "fecha": "Primavera de 2028",
             "countdown": "Clímax, Liberación Cósmica, Epílogo y Post-Scríptum",

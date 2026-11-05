@@ -1,6 +1,6 @@
-# Capítulo 25: La Canción del Silencio
+# Capítulo 25: La Canción
 
-### I. El Vuelo en la Sombra
+### I. La Flecha Negra
 
 A las cero cero horas y doce minutos UTC, sobre el mar de vientos huracanados que rodeaba el archipiélago de las Kerguelen, la noche polar volvió a cerrarse como una mortaja.
 
@@ -22,7 +22,7 @@ A sesenta mil kilómetros de altitud, la curvatura azulada de la Tierra quedó a
 
 ---
 
-### II. El Abismo y el Alma
+### II. El Alma
 
 En el tercer piso del Palacio de las Naciones de Ginebra, el silencio del despacho privado del Secretario General era tan espeso que se podía escuchar el chisporroteo de la cera de una solitaria vela encendida sobre la consola de caoba.
 
@@ -90,7 +90,7 @@ Vassily Ramos se arrodilló despacio sobre la alfombra, apoyó la frente en el m
 
 ---
 
-### III. El Quiebre de la Vela
+### III. La Vela
 
 A noventa y ocho mil kilómetros sobre el Polo Sur geográfico de la Tierra, el *statite* de la Civilización A flotaba en el vacío como una joya muerta.
 
@@ -128,7 +128,7 @@ La esfera del Dr. Em Pleh inició su descenso vertical. Una caída libre pura, e
 
 ---
 
-### IV. El Meteoro de la Libertad
+### IV. El Meteoro
 
 Durante tres horas y cincuenta minutos, la caída fue acelerando en el abismo cislunar. De cero coma un kilómetros por segundo pasó a cuatro, a ocho, a once coma dos kilómetros por segundo al cruzar la exosfera terrestre.
 
@@ -160,7 +160,7 @@ La mente alienígena que había gobernado la Tierra durante ochenta y tres años
 
 ---
 
-### V. La Canción del Silencio
+### V. El Silencio
 
 El amanecer sobre el lago Lemán despuntaba con una luz dorada y limpia que teñía de rosa las nieves del Mont Blanc.
 
@@ -210,7 +210,7 @@ Sarah cerró los ojos y escuchó el viento mecer las hojas jóvenes de los árbo
 
 ---
 
-### Post-Scríptum: La Semilla en la Sombra
+### Post-Scríptum: Kernel A-01
 
 Seis meses después, en una madrugada lluviosa de octubre de 2028, en el húmedo subsótano de un edificio de telecomunicaciones abandonado en el distrito de Namba, en Osaka.
 
@@ -237,3 +237,4 @@ Afuera, la lluvia otoñal de Osaka repiqueteaba monótona contra los cristales s
 ---
 
 ### FIN
+

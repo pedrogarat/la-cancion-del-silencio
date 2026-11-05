@@ -1,6 +1,6 @@
-# Capítulo 2: Los Tres Hilos del Ilusionista
+# Capítulo 2: Tres Hilos
 
-### 📍 I. El Espectro Sucio de Ginebra
+### I. Ginebra
 *14:15 CEST — 3 de septiembre de 2026*  
 *Sede del CERN, Meyrin, frontera franco-suiza*
 
@@ -81,7 +81,7 @@ La pantalla volvió al reposo. Girard se reclinó en el sillón, contemplando la
 
 ---
 
-### 📍 II. El Fuego en la Botella de Boston
+### II. Boston
 *23:40 EDT — 7 de septiembre de 2026*  
 *Plasma Science and Fusion Center, MIT, Cambridge, Massachusetts*
 
@@ -155,7 +155,7 @@ La imagen se desvaneció. Sarah contempló el monitor apagado con la viva certez
 
 ---
 
-### 📍 III. El Fantasma de Darmstadt
+### III. Darmstadt
 *09:20 CEST — 10 de septiembre de 2026*  
 *Centro Europeo de Operaciones Espaciales (ESA / ESOC), Darmstadt, Alemania*
 
@@ -217,7 +217,7 @@ Seis horas más tarde, las pantallas de Darmstadt confirmaban el éxito: la *Aet
 
 ---
 
-### 📍 IV. El Tejido de la Confianza
+### IV. El Señuelo
 *18:00 UTC — 10 de septiembre de 2026*
 
 Al caer la tarde, la serenidad reinaba en tres puntos distantes del globo.

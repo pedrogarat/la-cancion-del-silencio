@@ -1,6 +1,6 @@
-# Capítulo 23: La Aguja en el Desván
+# Capítulo 23: El Desván
 
-### I. El Templo de Madera y Cobre
+### I. El Desván
 
 El reloj de carillón de la planta baja dio las tres campanadas con un tañido sordo, amortiguado por la pesadez secular de los muros de ladrillo.
 
@@ -81,7 +81,7 @@ Empujó la palanca hacia la posición *PLAY*.
 
 ---
 
-### II. La Frecuencia del Abismo y la Voz de Sombra
+### II. La Frecuencia
 
 Un chasquido mecánico seco resonó en el chasis del Nagra.
 
@@ -147,7 +147,7 @@ La voz se intensificó con una densidad gravitatoria insoportable:
 
 ---
 
-### III. El Testamento Demoledor
+### III. El Granjero
 
 En el desván de Suffolk, el aire pareció congelarse.
 
@@ -221,7 +221,7 @@ Thomas miró el carrete de cinta marrón donde reposaban las ecuaciones y frecue
 
 ---
 
-### IV. El Veredicto Metalúrgico
+### IV. El Microscopio
 
 Tres días después, a ochocientos kilómetros de Suffolk, el otoño de Versoix olía a hojas secas de castaño y al agua fría del lago Lemán.
 
@@ -269,7 +269,7 @@ Estaba solo. O casi solo.
 
 ---
 
-### V. La Conjuración de Ginebra
+### V. Ginebra
 
 Al amanecer del día siguiente en Suffolk, la lluvia había cesado, dejando paso a una niebla lechosa y baja que borraba los límites entre los campos de cebada y los bosques de tejos.
 

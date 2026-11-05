@@ -1,6 +1,6 @@
-# Capítulo 24: La Conjuración del Silencio
+# Capítulo 24: El Pacto
 
-### I. El Festín de los Ciegos
+### I. La Asamblea
 
 El Salón de Asambleas del Palacio de las Naciones de Ginebra vibraba bajo un clamor ensordecedor de palmas, vítores en doce idiomas y el destello incesante de flashes fotográficos que rebotaban en los frescos dorados de Josep Maria Sert.
 
@@ -36,7 +36,7 @@ Ramos alzó la vista. Durante un instante, la mirada del anciano diplomático re
 
 ---
 
-### II. La Lluvia en el Parque Ariana
+### II. El Pacto
 
 Una llovizna fina y persistente, nacida de las brumas frías del lago Lemán, barría los jardines del Parque Ariana con un susurro monótono. El aire olía a hierba mojada, a corteza de cedro empapada y a pizarra húmeda. El cielo era una losa de nubes bajas de un gris plomizo que borraba las cumbres del Jura al norte y el perfil lejano del Mont Blanc al sur.
 
@@ -114,7 +114,7 @@ Vassily Ramos miró hacia el Palacio de las Naciones, cuyas ventanas iluminadas 
 
 ---
 
-### III. El Altar de las Válvulas
+### III. Válvulas
 
 Dos niveles por debajo de los túneles del Gran Colisionador de Hadrones, en un sector clausurado en 1984 excavado en la roca caliza entre Ginebra y la frontera francesa, el aire olía a aceite de corte caliente, a ozono de soldadura por arco y a tabaco de pipa holandés.
 
@@ -152,7 +152,7 @@ Chen Mei retiró la pieza de cobre del torno, sopló la última brizna de viruta
 
 ---
 
-### IV. El Caballo de Troya Burocrático y la Mirada de Pleh
+### IV. Cuarenta y Dos Kilos
 
 Al día siguiente, a las quince horas y doce minutos, la tormenta de nieve sobre Ginebra arreciaba contra los ventanales del despacho de la delegación del MIT en el ala este del Palacio de las Naciones.
 
@@ -220,7 +220,7 @@ Habían cruzado la puerta del león.
 
 ---
 
-### V. La Víspera del Disparo
+### V. La Víspera
 
 La base militar de las Islas Kerguelen, un enclave desolado de roca negra y hielo batido por los vendavales del océano Índico meridional, temblaba bajo una tormenta de nieve horizontal que reducía la visibilidad a escasos veinte metros.
 

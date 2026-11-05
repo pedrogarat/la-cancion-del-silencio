@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="es" data-theme="obsidian" data-font="sans">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,36 +9,48 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
-    
+
     <!-- Fuentes de Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
-    
-    <link rel="stylesheet" href="style.css?v=1793864195273">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Outfit:wght@400;600;700;800&display=swap"
+        rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css?v=1793899661985">
 </head>
+
 <body>
     <!-- Barra de progreso superior de lectura -->
     <div id="progress-bar-container" class="progress-bar-container" aria-hidden="true">
-        <div id="progress-bar" class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"></div>
+        <div id="progress-bar" class="progress-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100"
+            aria-valuenow="0"></div>
     </div>
 
     <!-- Contenedor Principal de la App -->
     <div class="app-layout">
-        
+
         <!-- Header de Navegación -->
         <header class="app-header">
             <div class="header-left">
                 <button id="btn-toggle-sidebar" class="icon-btn" title="Abrir Índice de Capítulos" aria-label="Índice">
-                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h18M3 6h18M3 18h18"/></svg>
+                    <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M3 12h18M3 6h18M3 18h18" />
+                    </svg>
                 </button>
                 <div class="brand">
                     <span class="brand-logo">⚡</span>
                     <div class="brand-text">
                         <span class="brand-title">LA CANCIÓN DEL SILENCIO</span>
-                        <div class="brand-version-container" style="display: flex; align-items: center; gap: 6px; margin-top: 2px;">
-                            <span id="brand-last-updated" class="brand-last-updated" title="Toca para forzar recarga de versión fresca" style="font-size: 0.65rem; color: #38bdf8; font-family: 'JetBrains Mono', monospace; display: block; opacity: 0.9; cursor: pointer;">Cargando versión...</span>
-                            <button id="btn-header-refresh" class="btn-mini-refresh" title="Forzar recarga sin caché en este dispositivo" aria-label="Recargar versión fresca">🔄</button>
+                        <div class="brand-version-container"
+                            style="display: flex; align-items: center; gap: 6px; margin-top: 2px;">
+                            <span id="brand-last-updated" class="brand-last-updated"
+                                title="Toca para forzar recarga de versión fresca"
+                                style="font-size: 0.65rem; color: #38bdf8; font-family: 'JetBrains Mono', monospace; display: block; opacity: 0.9; cursor: pointer;">Cargando
+                                versión...</span>
+                            <button id="btn-header-refresh" class="btn-mini-refresh"
+                                title="Forzar recarga sin caché en este dispositivo"
+                                aria-label="Recargar versión fresca">🔄</button>
                         </div>
                     </div>
                 </div>
@@ -49,17 +62,30 @@
 
             <div class="header-right">
                 <button id="btn-open-search" class="icon-btn" title="Buscar en la novela (Ctrl+F)">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="11" cy="11" r="8" />
+                        <path d="m21 21-4.3-4.3" />
+                    </svg>
                     <span class="btn-label">Buscar</span>
                 </button>
 
                 <button id="btn-open-settings" class="icon-btn" title="Ajustes de Lectura">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="3" />
+                        <path
+                            d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z" />
+                    </svg>
                     <span class="btn-label">Ajustes</span>
                 </button>
 
-                <button id="btn-open-audiobook" class="icon-btn highlight-btn" title="Reproductor de Audiolibro (Narración e IA)">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z"/><path d="M19 10v2a7 7 0 0 1-14 0v-2"/><line x1="12" y1="19" x2="12" y2="22"/><line x1="8" y1="22" x2="16" y2="22"/></svg>
+                <button id="btn-open-audiobook" class="icon-btn highlight-btn"
+                    title="Reproductor de Audiolibro (Narración e IA)">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2a3 3 0 0 0-3 3v7a3 3 0 0 0 6 0V5a3 3 0 0 0-3-3z" />
+                        <path d="M19 10v2a7 7 0 0 1-14 0v-2" />
+                        <line x1="12" y1="19" x2="12" y2="22" />
+                        <line x1="8" y1="22" x2="16" y2="22" />
+                    </svg>
                     <span class="btn-label">Audiolibro</span>
                 </button>
 
@@ -69,7 +95,10 @@
                 </button>
 
                 <button id="btn-toggle-focus" class="icon-btn" title="Modo Enfoque / Pantalla Completa">
-                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/></svg>
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path
+                            d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3" />
+                    </svg>
                 </button>
             </div>
         </header>
@@ -83,9 +112,14 @@
                 <div class="sidebar-info">
                     <h3>LA CANCIÓN DEL SILENCIO</h3>
                     <p class="sidebar-author">Autor: <strong>Pedro Garat + Antigravity</strong></p>
-                    <p class="sidebar-stats" id="sidebar-stats-text">25 Capítulos &bull; ~360 Páginas &bull; ~122.000 Palabras</p>
-                    <p class="sidebar-build-info" style="font-size: 0.72rem; color: var(--text-muted, #94a3b8); margin-top: 6px; font-family: 'JetBrains Mono', monospace;">🔄 Actualizado: <strong id="sidebar-last-updated" style="color: #38bdf8;">-</strong></p>
-                    <button id="btn-sidebar-refresh" class="btn-mini-refresh" style="margin-top: 8px; padding: 5px 10px; font-size: 0.72rem; width: 100%; justify-content: center;" title="Forzar recarga del texto más reciente">🔄 Forzar recarga de versión</button>
+                    <p class="sidebar-stats" id="sidebar-stats-text">25 Capítulos &bull; ~360 Páginas &bull; ~122.000
+                        Palabras</p>
+                    <p class="sidebar-build-info"
+                        style="font-size: 0.72rem; color: var(--text-muted, #94a3b8); margin-top: 6px; font-family: 'JetBrains Mono', monospace;">
+                        🔄 Actualizado: <strong id="sidebar-last-updated" style="color: #38bdf8;">-</strong></p>
+                    <button id="btn-sidebar-refresh" class="btn-mini-refresh"
+                        style="margin-top: 8px; padding: 5px 10px; font-size: 0.72rem; width: 100%; justify-content: center;"
+                        title="Forzar recarga del texto más reciente">🔄 Forzar recarga de versión</button>
                 </div>
                 <button id="btn-close-sidebar" class="close-btn" aria-label="Cerrar">&times;</button>
             </div>
@@ -107,20 +141,22 @@
                 <div id="chapter-banner" class="chapter-banner">
                     <div class="banner-header-grid">
                         <div id="chapter-vignette" class="chapter-vignette">
-                            <img id="chapter-vignette-img" src="img/char_protagonista.png" alt="Retrato POV del personaje">
+                            <img id="chapter-vignette-img" src="img/char_protagonista.png"
+                                alt="Retrato POV del personaje">
                         </div>
                         <div class="banner-text-box">
                             <div id="chapter-act-badge" class="act-badge">Acto I: Planteamiento</div>
                             <h1 id="chapter-main-title" class="chapter-title">Cargando novela...</h1>
                         </div>
                     </div>
-                    
+
                     <div class="meta-row">
                         <span id="meta-pov" class="meta-item">👁️ POV: Protagonista Principal</span>
                         <span id="meta-location" class="meta-item">📍 Ubicación Inicial</span>
                         <span id="meta-readtime" class="meta-item">⏱️ 5 min</span>
                         <span id="meta-pages" class="meta-item">📄 ~2.5 páginas</span>
-                        <button id="btn-listen-chapter" class="audiobook-quick-listen-btn" title="Escuchar este capítulo en la sección Audiolibro">
+                        <button id="btn-listen-chapter" class="audiobook-quick-listen-btn"
+                            title="Escuchar este capítulo en la sección Audiolibro">
                             <span>🎧</span> Escuchar Audiolibro
                         </button>
                     </div>
@@ -167,10 +203,14 @@
                 </nav>
 
                 <!-- Sello de Última Actualización Visible al Final del Capítulo -->
-                <div class="reader-build-stamp" style="text-align: center; margin: 2.5rem 0 1.5rem 0; padding: 1rem; border-top: 1px solid var(--border-color, rgba(255,255,255,0.08)); font-size: 0.78rem; color: var(--text-muted, #94a3b8); font-family: 'JetBrains Mono', monospace;">
-                    <span>⚡ <em>La Canción del Silencio</em> &bull; Última compilación sincronizada: <strong id="reader-last-updated" style="color: #38bdf8;">-</strong></span>
+                <div class="reader-build-stamp"
+                    style="text-align: center; margin: 2.5rem 0 1.5rem 0; padding: 1rem; border-top: 1px solid var(--border-color, rgba(255,255,255,0.08)); font-size: 0.78rem; color: var(--text-muted, #94a3b8); font-family: 'JetBrains Mono', monospace;">
+                    <span>⚡ <em>La Canción del Silencio</em> &bull; Última compilación sincronizada: <strong
+                            id="reader-last-updated" style="color: #38bdf8;">-</strong></span>
                     <div style="margin-top: 8px;">
-                        <button id="btn-footer-refresh" class="btn-mini-refresh" style="padding: 5px 14px; font-size: 0.75rem;" title="Recargar última versión">🔄 Forzar recarga de texto fresco</button>
+                        <button id="btn-footer-refresh" class="btn-mini-refresh"
+                            style="padding: 5px 14px; font-size: 0.75rem;" title="Recargar última versión">🔄 Forzar
+                            recarga de texto fresco</button>
                     </div>
                 </div>
             </div>
@@ -285,7 +325,8 @@
             </div>
             <div class="modal-body">
                 <div class="search-input-wrapper">
-                    <input type="text" id="global-search-input" placeholder="Escribe un personaje, concepto o palabra clave...">
+                    <input type="text" id="global-search-input"
+                        placeholder="Escribe un personaje, concepto o palabra clave...">
                 </div>
                 <div id="search-results-list" class="search-results-list">
                     <p class="search-placeholder">Introduce al menos 2 caracteres para comenzar a buscar.</p>
@@ -304,7 +345,7 @@
                 </div>
                 <button class="close-btn" onclick="closeModal('modal-audiobook')">&times;</button>
             </div>
-            
+
             <div class="modal-body audiobook-body-grid">
                 <!-- Columna Izquierda: Reproductor Principal y Controles -->
                 <div class="audiobook-player-card">
@@ -343,7 +384,8 @@
                             <span id="ab-current-time">Párrafo 1 / --</span>
                             <span id="ab-status-text">Listo para reproducir</span>
                         </div>
-                        <div id="ab-progress-container" class="ab-progress-container" title="Progreso de lectura del texto">
+                        <div id="ab-progress-container" class="ab-progress-container"
+                            title="Progreso de lectura del texto">
                             <div id="ab-progress-bar" class="ab-progress-bar"></div>
                         </div>
                     </div>
@@ -364,7 +406,8 @@
                         <div class="ab-setting-item">
                             <label for="ab-source-mode">Origen del Audio / Motor:</label>
                             <select id="ab-source-mode" class="ab-select-input">
-                                <option value="auto" selected>🎙️ Audio MP3 Estudio (con Fallback a Narrador IA)</option>
+                                <option value="auto" selected>🎙️ Audio MP3 Estudio (con Fallback a Narrador IA)
+                                </option>
                                 <option value="tts">🤖 Narrador IA con Efectos Dramáticos FX</option>
                             </select>
                         </div>
@@ -417,7 +460,9 @@
                         </div>
 
                         <div class="ab-upload-hint-card">
-                            <span>💡 <strong>Audio Profesional MP3:</strong> Coloca tus archivos de voz en <code>audio/capitulo_1.mp3</code> para reproducir narraciones grabadas o de ElevenLabs.</span>
+                            <span>💡 <strong>Audio Profesional MP3:</strong> Coloca tus archivos de voz en
+                                <code>audio/capitulo_1.mp3</code> para reproducir narraciones grabadas o de
+                                ElevenLabs.</span>
                         </div>
                     </div>
                 </div>
@@ -441,7 +486,8 @@
         <div class="modal-box modal-large glass">
             <div class="modal-header">
                 <h3>🎬 Génesis y Dirección del Proyecto</h3>
-                <button id="btn-close-genesis" class="close-btn" onclick="closeModal('modal-genesis')" aria-label="Cerrar">&times;</button>
+                <button id="btn-close-genesis" class="close-btn" onclick="closeModal('modal-genesis')"
+                    aria-label="Cerrar">&times;</button>
             </div>
             <div class="modal-body">
                 <div id="genesis-content" class="markdown-rendered">
@@ -452,7 +498,8 @@
     </div>
 
     <!-- Cargar Datos y Lógica de la App (con control de versión para forzar actualización en móviles) -->
-    <script src="chapters-data.js?v=1793864195273"></script>
-    <script src="app.js?v=1793864195273"></script>
+    <script src="chapters-data.js?v=1793899661985"></script>
+    <script src="app.js?v=1793899661985"></script>
 </body>
+
 </html>

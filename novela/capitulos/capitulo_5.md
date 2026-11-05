@@ -1,6 +1,6 @@
-# Capítulo 5: El Ancla Humana
+# Capítulo 5: El Adiós
 
-### 📍 I. El Almuerzo del Silencio
+### I. Último Almuerzo
 *Millennium Hilton New York One UN Plaza, 13:25 EDT*
 
 El comedor reservado de la planta baja del hotel olía a café recién molido, pan tostado y lirios frescos, una burbuja de elegancia neutra y climatizada que parecía suspendida en otra dimensión temporal. 
@@ -45,7 +45,7 @@ Wright y Sarah asintieron al unísono. La realidad inmediata, la humana y cotidi
 
 ---
 
-### 📍 II. Las Voces al Otro Lado del Hilo
+### II. Despedidas
 *Millennium Hilton New York One UN Plaza, 14:25 EDT*
 
 Las tres suites ocupaban un ala reservada de la planta veintiocho, con vistas privilegiadas sobre el cauce gris plateado del East River y la silueta rectilínea del edificio de la Asamblea General. Cada uno se retiró a su respectiva habitación. El silencio en los dormitorios era espeso, quebrado únicamente por el leve susurro de la climatización y el zumbido de las líneas telefónicas internacionales cifradas que el equipo de transmisiones de la ONU acababa de habilitar.
@@ -164,7 +164,7 @@ Consultó su reloj: eran las 15:45. La tregua había terminado.
 
 ---
 
-### 📍 III. El Retorno al Búnker
+### III. La Puerta
 *Plaza de las Naciones Unidas, 15:52 EDT*
 
 El ascensor de alta velocidad depositó a los tres científicos en el vestíbulo del Millennium Hilton casi al mismo tiempo.

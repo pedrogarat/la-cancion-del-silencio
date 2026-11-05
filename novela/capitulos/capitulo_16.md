@@ -1,6 +1,6 @@
-# Capítulo 16: El Umbral de Ceniza
+# Capítulo 16: Ceniza
 
-### 15 de mayo de 2027, 23:15:00 CEST
+### I. El Lago
 **T + 175 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 67 días*  
 *Ubicación: Chalet de los Girard, Versoix (Cantón de Ginebra, Suiza)*
@@ -33,7 +33,7 @@ Eran las dos de la madrugada. Quedaban menos de cuatro horas de oscuridad.
 
 ***
 
-### 16 de mayo de 2027, 02:40:00 CEST
+### II. Refugiados
 **T + 175 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 67 días*  
 *Ubicación: Chalet de los Girard, Versoix*
@@ -72,7 +72,7 @@ El hombre asintió con desesperación, sujetando a la mujer por la cintura para 
 
 ***
 
-### 16 de mayo de 2027, 04:10:00 CEST
+### III. El Miedo
 **T + 175 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 67 días*  
 *Ubicación: Cocina del chalet de los Girard, Versoix*
@@ -181,7 +181,7 @@ Se apoyó contra la puerta cerrada, resbalando hasta el suelo con el pecho agita
 
 ***
 
-### 16 de mayo de 2027, 08:30:00 CEST
+### IV. El Disparo
 **T + 176 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 66 días*  
 *Ubicación: Refugio interior del chalet de los Girard, Versoix*
@@ -214,7 +214,7 @@ Habían sobrevivido a la noche. El bastión de Versoix seguía en pie.
 
 ***
 
-### 16 de mayo de 2027, 14:00:00 EDT / 20:00:00 CEST
+### V. La Cicatriz
 **T + 176 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 66 días*  
 *Ubicación: Sala de Crisis B-4, Sede de las Naciones Unidas, Nueva York*

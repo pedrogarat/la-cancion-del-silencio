@@ -1,11 +1,11 @@
-# Capítulo 20: El Salmo de la Falsa Victoria
+# Capítulo 20: Falsa Victoria
 
 > *«La luz viaja a trescientos mil kilómetros por segundo, pero la mentira de un dios siempre llega antes que la verdad de los hombres.»*  
 > — Dr. Jean-Luc Girard, *Cuaderno de bitácora del búnker de mando*
 
 ---
 
-### I. La Espera del Grafito
+### I. Cuarenta Minutos
 
 Alexei Voronov aprendió en los páramos de Baikonur que el vacío no perdona a los impacientes.
 
@@ -31,7 +31,7 @@ El tiempo en el vacío no corría; goteaba como brea fría.
 
 ---
 
-### II. La Vigilia Bajo el Desierto
+### II. Consolas Mudas
 
 A millón y medio de kilómetros de allí, en las entrañas de hormigón del búnker de mando subterráneo de Nellis —adonde Girard se había trasladado desde Manhattan tras el lanzamiento para reunirse con Wright, Lin y Ramos—, la humedad del aire acondicionado olía a café rancio y a fatiga biológica terminal.
 
@@ -63,7 +63,7 @@ Girard clavó los ojos en el cristal de la brújula marina.
 
 ---
 
-### III. El Rayo Blanco
+### III. Quench
 
 En L1, el reloj de Voronov marcaba las **12:47:12**.
 
@@ -111,7 +111,7 @@ Nadie respondió. La euforia en la sala se transformó en un silencio helado. To
 
 ---
 
-### IV. El Fantasma de Titanio
+### IV. El Rescate
 
 En la órbita de Halo, Alexei Voronov no rezaba. Pilotaba.
 
@@ -154,7 +154,7 @@ Bajo los pies de Voronov resonó el golpe más hermoso de la historia de la cosm
 
 ---
 
-### V. El Abrazo del Vacío y la Voz del Salvador
+### V. Regreso
 
 Voronov no esperó a que la secuencia automática completara el ciclo de verificación de estanqueidad.
 
@@ -216,7 +216,7 @@ Voronov aferró la palanca de gobierno digital del MRD y alineó las toberas hac
 
 ---
 
-### VI. La Custodia del Relicario (La Falsa Victoria)
+### VI. La Arcilla
 
 Veintiún días después, la atmósfera de la Tierra se encendió como una antorcha de bienvenida.
 
@@ -287,6 +287,12 @@ MacElroy cambió de expresión en una fracción de segundo, componiendo una sonr
 —A la orden, almirante. Ya vamos.
 
 El coronel y la astrofísica se alejaron hacia la multitud de reflectores y uniformes de gala sin mirar atrás.
+
+Sin embargo, antes de alcanzar el estrado de las autoridades, MacElroy se desvió con paso firme hacia la compuerta de embarque exterior, donde Jean-Luc Girard recogía su maletín de cuero junto a los oficiales de enlace, ansioso por subir al transporte militar que lo llevaría de vuelta a Europa con Marie y sus hijos. MacElroy se detuvo frente a él y lo apartó con un apretón de manos formal frente a los oficiales del general Vance. Al soltarle la diestra, con un juego de dedos rápido y quirúrgico, el piloto deslizó discretamente en el bolsillo de la chaqueta del físico una pluma estilográfica Parker de acero macizo.
+
+—Guarda esto, Jean-Luc —le murmuró MacElroy al oído, con una mirada tan penetrante que heló la sangre del suizo—. Desenrosca el cuerpo de la pluma cuando estés a solas en tu laboratorio. Examina el borde de fractura del berilio bajo luz polarizada. Algo no encaja en la física de ese disparo. Algo no responde a las leyes de la termodinámica que nos vendió Pleh.
+
+Girard se quedó de piedra, palpando el cilindro de acero frío a través de la tela del abrigo, desconcertado ante lo que sonaba a desvarío de un hombre exhausto. Pero cuando levantó la vista para exigir una explicación, MacElroy ya se cuadraba con marcialidad impecable ante los flashes de los periodistas.
 
 En el rincón en penumbra del hangar, Thomas Wright y Sarah Lin se quedaron a solas. Thomas sostenía la caja de titanio contra su pecho, aún desconcertado por las palabras de MacElroy. Sarah contempló el metal pulido con el ceño fruncido, sintiendo una ligera sombra de extrañeza, aunque en el fondo atribuían la solemnidad del piloto al agotamiento atroz y al impacto indeleble de haber rozado la muerte en las profundidades del espacio.
 

@@ -1,6 +1,6 @@
-# Capítulo 6: La Cámara del Silencio
+# Capítulo 6: El Consejo
 
-### 📍 I. El Tablero de las Quince Voces
+### I. Las Quince Voces
 *Cámara del Consejo de Seguridad de las Naciones Unidas, Nueva York — 24 de septiembre de 2026, 19:48 EDT*
 *Cuenta atrás: Faltan 58 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
 
@@ -30,7 +30,7 @@ El bullicio de la sala se extinguió en seco, como si una cuchilla invisible hub
 
 ---
 
-### 📍 II. La Apertura del Abismo
+### II. El Abismo
 *Cámara del Consejo de Seguridad, Nueva York — 24 de septiembre de 2026, 20:01 EDT*
 *Cuenta atrás: Faltan 58 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
 
@@ -122,7 +122,7 @@ El silencio que siguió a esas palabras fue absoluto. Ni un papel se movió. Los
 
 ---
 
-### 📍 III. El Cronómetro de la Extinción
+### III. El Cronómetro
 *Cámara del Consejo de Seguridad, Nueva York — 24 de septiembre de 2026, 20:28 EDT*
 *Cuenta atrás: Faltan 58 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
 
@@ -164,7 +164,7 @@ Un silencio glacial cayó sobre el hemiciclo. La fecha del 21 de julio de 2027 g
 
 ---
 
-### 📍 IV. El Muro de Lorentz y el Desafío Analógico
+### IV. Muro de Lorentz
 *Cámara del Consejo de Seguridad, Nueva York — 24 de septiembre de 2026, 20:45 EDT*
 *Cuenta atrás: Faltan 58 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
 

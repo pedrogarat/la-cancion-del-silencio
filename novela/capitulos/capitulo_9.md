@@ -1,6 +1,6 @@
-# Capítulo 9: La Fractura del Orden
+# Capítulo 9: La Fractura
 
-### 📍 I. El Bastión de Versoix
+### I. Versoix
 *Residencia de la familia Girard, Versoix (Cantón de Ginebra) — 11 de octubre de 2026, 21:15 CEST*  
 *Cuenta atrás: Faltan 41 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC)*
 
@@ -88,7 +88,7 @@ Marie abrazó a sus tres hijos en el centro del salón oscuro. Afuera, en la cue
 
 ---
 
-### 📍 II. La Ruta hacia el Este
+### II. La Fuga
 *Carretera A14, tramo entre Newmarket y Bury St Edmunds (Suffolk, Reino Unido) — 12 de octubre de 2026, 14:30 BST*  
 *Cuenta atrás: Faltan 40 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC)*
 
@@ -150,7 +150,7 @@ Miró las llamas vivas reflejándose en los cristales trancados de la sala. Sab�
 
 ---
 
-### 📍 III. La Batalla de Market Street
+### III. Market Street
 *Apartamento 4-B, bloque residencial en Market Street, San Francisco — 12 de octubre de 2026, 22:45 PDT*  
 *Cuenta atrás: Faltan 40 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC)*
 
@@ -245,7 +245,7 @@ Maya cerró los ojos, sintiendo el latido regular del corazón de su hijo contra
 
 ---
 
-### 📍 IV. El Pulso de la Costumbre
+### IV. Normalidad
 *Sede de la ONU (Manhattan), Versoix, Suffolk y San Francisco — 14 y 15 de octubre de 2026*  
 *Cuenta atrás: Faltan 37 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC)*
 

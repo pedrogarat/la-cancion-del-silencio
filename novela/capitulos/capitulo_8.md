@@ -1,6 +1,6 @@
-# Capítulo 8: La Gran Mentira
+# Capítulo 8: Carrington
 
-### 📍 I. La Transgresión del Relojero
+### I. La Advertencia
 *Cabina de comunicaciones seguras C-12, Subsuelo B-4, Sede de la ONU — 10 de octubre de 2026, 09:00 EDT*  
 *Cuenta atrás: Faltan 42 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC)*
 
@@ -62,7 +62,7 @@ Y comprendió, con una náusea amarga que le subió desde el estómago, que en m
 
 ---
 
-### 📍 II. El Falso Evento Carrington
+### II. Cadena Mundial
 *Sala de Prensa de la Asamblea General, Sede de la ONU, Manhattan — 10 de octubre de 2026, 11:00 EDT*  
 *Cuenta atrás: Faltan 41 días y 22 horas para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC)*
 
@@ -127,7 +127,7 @@ Vassily Ramos no se detuvo. Sin conceder una sola mirada ni mover un músculo fa
 
 ---
 
-### 📍 III. El Peso de la Corona
+### III. Soledad
 *Pasillos de seguridad blindados hacia el Subsuelo B-4 — 10 de octubre de 2026, 11:45 EDT*  
 *Cuenta atrás: Faltan 41 días y 21 horas para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC)*
 
@@ -177,7 +177,7 @@ Ramos asintió lentamente, contemplando la enorme puerta acorazada que custodiab
 
 ---
 
-### 📍 IV. El Eco de las Familias
+### IV. El Éxodo
 *Camarotes de descanso y zona técnica, Búnker B-4 — 10 de octubre de 2026, 14:00 EDT*  
 *Cuenta atrás: Faltan 41 días y 19 horas para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC)*
 
@@ -269,7 +269,7 @@ Thomas colgó el auricular con una lentitud infinita. Se quedó mirando la pared
 
 ---
 
-### 📍 V. La Fractura y el Consuelo
+### V. El Beso
 *Sala auxiliar de servidores cuánticos y criogenia secundaria, Búnker B-4 — 10 de octubre de 2026, 15:30 EDT*  
 *Cuenta atrás: Faltan 41 días y 17 horas para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC)*
 
@@ -359,7 +359,7 @@ Sarah asintió en silencio, cerrando los ojos para aspirar el aroma a jabón lim
 
 ---
 
-### 📍 VI. El Preludio del Caos
+### VI. Fe y Razón
 *Sala Táctica Central B-4 — 10 de octubre de 2026, 17:00 EDT*  
 *Cuenta atrás: Faltan 41 días y 16 horas para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026, 05:30 UTC)*
 

@@ -1,6 +1,6 @@
-# CAPÍTULO 18: LA RAMPA DEL JUICIO FINAL
+# Capítulo 18: La Rampa
 
-### 21 de julio de 2027 | T+242 días
+*21 de julio de 2027 | T+242 días*
 **Fase 5: Cierre de la Ventana Operativa Industrial (Límite Absoluto)**  
 **Cuenta atrás para el despegue: T — 6 horas a T + 45 minutos**  
 **Puntos de Vista:** Dr. Thomas Wright / Dra. Sarah Lin / Coronel James MacElroy / Comandante Chen Mei / Secretario General Vassily Ramos  
@@ -8,7 +8,7 @@
 
 ---
 
-### I. Las Luces de la Madrugada
+### I. La Torre
 
 El desierto de Mojave no dormía bajo la noche, sino bajo un sudario de luz verde y viscosa. A ochenta kilómetros al norte de Las Vegas, donde las pistas de Nellis solían perderse en el espejismo del polvo, el *airglow* atmosférico teñía las colinas de pedernal con la fosforescencia mortecina de un fondo marino. Hacía doscientos cuarenta y dos días que el escudo magnético del planeta se había disuelto en el vacío; arriba, el cielo no ofrecía consuelo de constelaciones, solo ese oleaje espectral de átomos de oxígeno excitados por el viento solar.
 
@@ -52,7 +52,7 @@ El tiempo de la ingeniería teórica había expirado.
 
 ---
 
-### II. El Relicario de la Tierra Viva
+### II. El Relicario
 
 El vestíbulo del Nivel Subterráneo 3 conservaba el aire espeso y filtrado de los búnkeres de mando de la Guerra Fría. Los fluorescentes zumbaban sobre el suelo de hormigón pulido, donde se alineaban los tres astronautas titulares, enfundados en sus trajes de presión para el despegue interplanetario.
 
@@ -100,7 +100,7 @@ Ramos se acercó a cada uno de ellos. No hubo saludos marciales. El viejo diplom
 
 ---
 
-### III. La Pasarela de la Esperanza
+### III. La Pasarela
 
 El elevador exterior de la torre de servicio ascendió con un traqueteo metálico constante, desgranando los niveles de la estructura hasta detenerse en la plataforma de embarque superior, a ochenta metros sobre el desierto.
 
@@ -164,7 +164,7 @@ Se tomaron de la mano, entrelazando los dedos con fuerza, y caminaron juntos hac
 
 ---
 
-### IV. La Sala de la Vigilia
+### IV. La Despedida
 
 El Búnker de Control de Tiro de Nellis estaba excavado a cuarenta metros bajo la roca caliza, a tres kilómetros al este de la rampa de lanzamiento. A diferencia de las instalaciones civiles de antaño, la sala operaba dentro de una jaula de Faraday de triple blindaje con tendidos de fibra óptica subterránea y consolas de cálculo digital militar de última generación.
 
@@ -204,7 +204,7 @@ Vassily Ramos miró a Vance. El almirante asintió y bajó la palanca de enclava
 
 ---
 
-### V. El Trueno Nuclear
+### V. El Despegue
 
 En el interior de la cabina de mando del Módulo de Retorno Digital, la atmósfera era templada y limpia. El zumbido constante de los ventiladores de soporte vital de ciclo cerrado se mezclaba con el murmullo casi inaudible de los bancos de procesamiento digital.
 
@@ -269,7 +269,7 @@ La nave quebró la barrera del sonido a doce mil metros de altitud con un estamp
 
 ---
 
-### VI. La Soledad del Vigía
+### VI. Rumbo a L1
 
 A los cinco minutos y cuarenta segundos del despegue, las computadoras de a bordo ejecutaron el corte de inyección digital.
 

@@ -1,6 +1,6 @@
-# CAPÍTULO 17: EL PÁRAMO DE MEDIODÍA
+# Capítulo 17: El Páramo
 
-### 8 y 9 de julio de 2027 | T+229 a T+230 días
+*8 y 9 de julio de 2027 | T+229 a T+230 días*
 **Fase 4: Esterilización Ultravioleta y Colapso Trófico**  
 **Cuenta atrás para el Cierre de la Ventana Industrial (Fase 5): 13 días**  
 **Puntos de Vista:** Dr. David Wright / Claire Wright  
@@ -8,7 +8,7 @@
 
 ---
 
-### I. La Medida del Hambre
+### I. Hambre
 
 El polvo se asentaba sobre el suelo de la cocina con una parsimonia mineral, ajeno al crujido de las vigas que se dilataban bajo el sofoco del tejado. En la penumbra verdosa que filtraban las mantas térmicas clavadas a las contraventanas, el único sonido era el raspado metálico de una cuchara de postre contra el fondo de vidrio de un frasco de mermelada.
 
@@ -44,7 +44,7 @@ David extendió la mano y cubrió los dedos fríos de su mujer. Los apretó con 
 
 ---
 
-### II. El Acecho de los Ciegos
+### II. El Mastín
 
 La noche de Suffolk no era oscura. Estaba bañada por una fosforescencia esmeralda fantasmal, densa y lechosa, ese brillo espectral que flotaba en las capas altas del cielo desde el colapso del escudo magnético. Arriba no se veían estrellas: solo una bóveda verdosa que proyectaba sombras alargadas sobre los campos de trigo muerto.
 
@@ -98,7 +98,7 @@ Llegó a la puerta trasera de la granja a las cuatro de la madrugada. Cuando Cla
 
 ---
 
-### III. El Teorema del Sol
+### III. El Blindaje
 
 David permaneció sentado junto a la mesa mientras la penumbra tras las mantas de las ventanas mutaba en una claridad blancuzca y cortante.
 
@@ -138,7 +138,7 @@ Miró el reloj de pared: pasaban unos minutos de las seis.
 
 ---
 
-### IV. La Forja del Capullo
+### IV. El Traje
 
 Durante cuatro horas, el garaje de la granja se convirtió en un taller minucioso. David no dejó nada al azar: sabía que la radiación rebotaba en el polvo y en el suelo seco, y que un solo milímetro de piel al aire se convertiría en una quemadura atroz en cuestión de minutos.
 
@@ -190,7 +190,7 @@ La luz blanca del mediodía cayó sobre el coche como un golpe seco.
 
 ---
 
-### V. La Travesía del Fuego Blanco
+### V. Fuego Blanco
 
 Eran las doce y doce minutos del 9 de julio de 2027. El termómetro exterior marcaba treinta y ocho grados; en el cielo despejado, el Sol brillaba con una ferocidad enceguecedora.
 
@@ -224,7 +224,7 @@ A las doce y cincuenta divisó por fin los silos y las naves de chapa blanca de 
 
 ---
 
-### VI. El Santuario de Hojalata
+### VI. El Almacén
 
 El complejo logístico ocupaba una gran explanada junto a las vías muertas del tren. El silencio era imponente. Decenas de remolques de camión permanecían estacionados en los muelles de carga, con las ruedas deshinchadas por el abandono y el calor.
 
@@ -290,7 +290,7 @@ La rueda estaba totalmente deshinchada sobre las piedras calientes.
 
 ---
 
-### VII. La Carrera contra la Sombra
+### VII. La Emboscada
 
 Cambiar la rueda de un coche cargado con seiscientos kilos bajo el sol implacable fue una auténtica pesadilla.
 
@@ -362,7 +362,7 @@ Volvió a arrancar despacio y tomó el camino de tierra que llevaba a la granja 
 
 ---
 
-### VIII. El Sabor de la Promesa
+### VIII. El Melocotón
 
 Eran cerca de las doce de la noche cuando el Land Rover entró por el portón trasero de la granja de Suffolk.
 

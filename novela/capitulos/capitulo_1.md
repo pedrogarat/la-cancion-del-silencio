@@ -1,6 +1,6 @@
-# Capítulo 1: El Amanecer de Alamogordo
+# Capítulo 1: Alamogordo
 
-### 📍 I. La Torre bajo la Tormenta
+### I. La Torre
 *02:35 AM — 16 de julio de 1945*  
 *Paraje de Jornada del Muerto, Desierto de Alamogordo, Nuevo México*
 
@@ -36,7 +36,7 @@ Estaban a tres horas de encender un sol en la corteza de la Tierra.
 
 ---
 
-### 📍 II. El Humo de la Duda en el Búnker S-10.000
+### II. El Búnker
 *04:20 AM*
 
 A diez mil yardas al sur del Punto Cero —unos nueve kilómetros de distancia—, el búnker de control S-10.000 olía a sudor rancio, café recalentado en latas de conserva y humo denso de tabaco Lucky Strike. Las paredes de hormigón armado y tablones de madera de pino estaban reforzadas con toneladas de tierra del desierto para resistir un cataclismo teórico.
@@ -81,7 +81,7 @@ Groves miró su reloj de bolsillo de oro y asintió secamente hacia Allison.
 
 ---
 
-### 📍 III. El Sol de Medianoche
+### III. El Destello
 *05:29:45 AM*
 
 Afuera, en las zanjas abiertas en la tierra a nueve kilómetros de la torre, los hombres se tumbaron boca abajo en el barro, con los pies apuntando hacia el Punto Cero y las cabezas pegadas al suelo. Miller sostenía un trozo de vidrio oscuro de soldador número diez apretado contra las cuencas de los ojos, sintiendo las pulsaciones de su corazón retumbar en el esternón como un tambor de guerra.
@@ -132,7 +132,7 @@ Nadie imaginaba que la verdadera detonación no se había quedado en la arena de
 
 ---
 
-### 📍 IV. El Despertar en la Nube de Oort
+### IV. Oort
 *05:30:00 AM — En los confines silenciosos del Sistema Solar*
 
 La atmósfera de la Tierra retuvo la onda expansiva del aire y las cenizas de la arena triturada. Pero las leyes de la física electromagnética no conocen fronteras planetarias.

@@ -1,6 +1,6 @@
-# Capítulo 13: El Toque de Alba
+# Capítulo 13: Toque de Alba
 
-### 31 de diciembre de 2026, 23:50:00 EST
+### I. Año Nuevo
 **T + 40 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 202 días*  
 *Ubicación: Sede de las Naciones Unidas, Nueva York — Azotea del Nivel 38 y Búnker B-4*
@@ -57,7 +57,7 @@ Vassily Ramos, en pie ante los teletipos junto al almirante Vance, contempló el
 
 ***
 
-### 5 de enero de 2027, 06:45:00 PST
+### II. Inversión Circadiana
 **T + 45 días tras el Silencio Magnético**  
 *Entrada en vigor de la Directiva de Inversión Circadiana*  
 *Ubicación: Calle Market, San Francisco (EE.UU.)*
@@ -92,7 +92,7 @@ Encendió una linterna de manivela y le puso al pequeño un plato de avena fría
 
 ***
 
-### 8 de enero de 2027, 14:00:00 CET
+### III. Pájaros Ciegos
 **T + 48 días tras el Silencio Magnético**  
 *Ubicación: Versoix (Ginebra) y Granja de Suffolk (Reino Unido)*
 
@@ -122,7 +122,7 @@ Julien cerró la trampilla con cerrojo de hierro y miró hacia los Alpes en la o
 
 ***
 
-### 12 de enero de 2027, 22:30:00 PST
+### IV. Horno H-1
 **T + 52 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre industrial: 190 días*  
 *Ubicación: Base Aérea de Nellis, Nevada — Cámara de Vacío Hipobárico H-1*
@@ -163,7 +163,7 @@ De pronto, un sonido seco, como el chasquido de un látigo sobre porcelana, reso
 
 ***
 
-### 12 de enero de 2027, 23:45:00 PST
+### V. La Soldadura
 **La Grieta y el Veredicto**  
 *Ubicación: Foso de Control de Nellis AFB*
 

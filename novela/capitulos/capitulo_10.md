@@ -1,6 +1,7 @@
 # Capítulo 10: T=0
 
-### 21 de noviembre de 2026, 05:25:00 UTC (00:25 EST)
+### I. Cuenta Atrás
+*21 de noviembre de 2026, 05:25:00 UTC (00:25 EST)*
 **Sala de Crisis y Mando Táctico B-4, Subsuelo de la Sede de las Naciones Unidas, Nueva York**  
 *Cuenta atrás para Fase 1: Faltan 5 minutos para el Silencio Magnético.*  
 *Faltan 242 días para el Cierre de la Ventana Operativa Industrial.*
@@ -49,7 +50,8 @@ Jean-Luc estiró un dedo tembloroso, rozó el cristal del instrumento y luego le
 
 ***
 
-### 21 de noviembre de 2026, 06:20:00 UTC (T + 50 minutos)
+### II. Cielo Verde
+*21 de noviembre de 2026, 06:20:00 UTC (T + 50 minutos)*
 **La Bóveda Esmeralda y el Primer Freno**
 
 El impacto inmediato no destruyó ciudades ni derribó puentes, pero transformó el aspecto de la noche en todo el globo terráqueo.
@@ -78,7 +80,8 @@ Un pitido agudo interrumpió la explicación desde la consola de vigilancia aero
 
 ***
 
-### 21 de noviembre de 2026, 18:45:00 UTC (T + 13 horas)
+### III. La Órbita
+*21 de noviembre de 2026, 18:45:00 UTC (T + 13 horas)*
 **El Enigma de la Noche y la Rueda Orbital**
 
 A las dieciocho horas UTC, la mitad del planeta se encontraba sumergida en la noche. Las pantallas de la Sala B-4 mostraban un mapa de calor táctico donde parpadeaban docenas de trazas rojas en descenso acelerado. 
@@ -124,7 +127,8 @@ Sarah exhaló el aire retenido en sus pulmones y miró a Thomas. Él le apretó 
 
 ***
 
-### 22 de noviembre de 2026, 17:30:00 UTC (T + 36 horas)
+### IV. Asimetría
+*22 de noviembre de 2026, 17:30:00 UTC (T + 36 horas)*
 **La Asimetría Estacional y el Escudo de Aire**
 
 Al cumplirse el día y medio del colapso magnético, el suelo de la Sala B-4 acumulaba informes impresos y tazas desechadas. En la pantalla táctica, Jean-Luc Girard analizaba un gráfico de barras comparativo que mostraba una anomalía persistente:
@@ -180,7 +184,8 @@ Ramos se persignó discretamente bajo la mesa, abrumado por la arquitectura mate
 
 ***
 
-### 23 de noviembre de 2026, 23:10:00 UTC (T + 65 horas)
+### V. Lluvia de Fuego
+*23 de noviembre de 2026, 23:10:00 UTC (T + 65 horas)*
 **El Asedio de Nellis**
 
 La fase más violenta de la lluvia de chatarra cósmica se desató durante la noche del segundo día.
@@ -302,7 +307,8 @@ La nave de la humanidad seguía viva.
 
 ***
 
-### 24 de noviembre de 2026, 12:00:00 UTC (T + 78 horas)
+### VI. La Máscara
+*24 de noviembre de 2026, 12:00:00 UTC (T + 78 horas)*
 **El Silencio del Vacío**
 
 Al mediodía del 24 de noviembre, la lluvia de chatarra espacial cesó por completo.
@@ -401,7 +407,7 @@ Thomas Wright miró a Sarah, apretó su mano con fuerza y asintió hacia la pant
 
 ***
 
-### Epílogo: La Falsa Tregua y la Noche Esmeralda
+### VII. Noche Esmeralda
 
 Al caer la tarde del 24 de noviembre y durante las primeras horas del día 25, la pesada losa del confinamiento comenzó a resquebrajarse en la superficie del planeta. 
 

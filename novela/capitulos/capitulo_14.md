@@ -1,6 +1,6 @@
-# Capítulo 14: El Pan y la Pólvora
+# Capítulo 14: Hambre y Fuego
 
-### 22 de abril de 2027, 12:15:00 EST
+### I. Campos Negros
 **T + 152 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 90 días*  
 *Ubicación: Sede de las Naciones Unidas, Nueva York — Sala de Crisis B-4 y Nivel B-5*
@@ -29,7 +29,7 @@ En el extremo superior del panel táctico, el indicador digital de la cuenta atr
 
 ***
 
-### 23 de abril de 2027, 02:15:00 EST
+### II. Ciberguerra
 **T + 153 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 89 días*  
 *Ubicación: Centro de Enlace Cuántico y Cifrado, Nivel B-4 de la ONU*
@@ -84,7 +84,7 @@ Vance permaneció en silencio, con la mandíbula apretada y una expresión que o
 
 ***
 
-### 23 de abril de 2027, 23:40:00 PST
+### III. El Terremoto
 **T + 153 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 89 días*  
 *Ubicación: Semisótano en Market Street, San Francisco*
@@ -125,7 +125,7 @@ A tres metros de su cabeza, la fachada del inmueble contiguo sufrió un colapso 
 
 ***
 
-### 24 de abril de 2027, 03:20:00 EST
+### IV. Fractura
 **T + 154 días tras el Silencio Magnético**  
 *Cuenta atrás para el cierre de la ventana industrial: 88 días*  
 *Ubicación: Sala de Crisis B-4 y pasillo técnico del Nivel B-5, Sede de la ONU*

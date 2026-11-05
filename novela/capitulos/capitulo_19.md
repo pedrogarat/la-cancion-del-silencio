@@ -1,11 +1,11 @@
-# Capítulo 19: La Travesía a Ciegas y el Velo de Sombra
+# Capítulo 19: Muro de Lorentz
 
 > *«El abismo no se mide en leguas ni en segundos luz, sino en la lentitud con la que los latidos de un hombre se acostumbran al silencio absoluto.»*  
 > — Coronel James MacElroy, *Cuaderno de a bordo del MRD*
 
 ---
 
-### I. El Abismo Silencioso
+### I. El Abismo
 
 Durante la primera semana, el mundo fue todavía una presencia física.
 
@@ -37,7 +37,7 @@ El silencio volvió a adueñarse de la cabina. Era una pedagogía que no necesit
 
 ---
 
-### II. La Voz Sin Retardo
+### II. La Voz
 
 La pérdida progresiva de la Tierra no era solo visual; era, sobre todo, acústica.
 
@@ -93,7 +93,7 @@ El canal no se cerró con un chasquido. Simplemente, la presencia se desvaneció
 
 ---
 
-### III. El Umbral de los Doce Mil Kilómetros
+### III. El Umbral
 
 Al vigésimo primer día, el espacio dejó de parecer vacío.
 
@@ -129,7 +129,7 @@ MacElroy desabrochó sus cinturones. Flotó libre en la cabina, girando su cuerp
 
 ---
 
-### IV. El Pacto en la Esclusa
+### IV. La Esclusa
 
 El traspaso de módulos no admitía prisas ni descuidos.
 
@@ -161,7 +161,7 @@ Quedaban aislados.
 
 ---
 
-### V. El Despertar del Titanio
+### V. El MAA
 
 El silencio dentro del MAA era de una naturaleza completamente distinta.
 
@@ -191,7 +191,7 @@ El MAA estaba libre. Una cápsula ciega de quince toneladas de metal desnudo, fl
 
 ---
 
-### VI. El Muro de Lorentz y el Gran Silencio
+### VI. Muro de Lorentz
 
 MacElroy apoyó la bota contra el estribo de guiado mecánico y sujetó con ambas manos la empuñadura de gas para la primera corrección de rumbo hacia el corazón de L1.
 

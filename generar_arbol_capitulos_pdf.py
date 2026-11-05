@@ -53,27 +53,19 @@ class ArbolCanvas(canvas.Canvas):
         
         self.setFont("Helvetica", 7.5)
         self.setFillColor(colors.HexColor("#64748B"))
-        self.drawString(MARGIN, 22, "Códex Editorial y Jerarquía Narrativa • Pedro Garat & Antigravity")
+        self.drawString(MARGIN, 22, "Códex Editorial y Jerarquía Narrativa Concisa (1-3 Palabras) • Pedro Garat & Antigravity")
         page_str = f"Página {self._pageNumber} de {page_count}"
         self.drawRightString(PAGE_WIDTH - MARGIN, 22, page_str)
         self.restoreState()
 
 def clean_text(text):
-    """Limpia caracteres problemáticos para fuentes ReportLab Type1 estándar."""
+    if not text:
+        return ""
     text = text.replace("«", '"').replace("»", '"')
-    text = text.replace("“", '"').replace("”", '"')
-    text = text.replace("‘", "'").replace("’", "'")
-    text = text.replace("—", " - ")
-    text = text.replace("–", " - ")
-    text = text.replace("•", " - ")
-    # Reemplazar emojis comunes para evitar fallos en Type1
-    text = text.replace("📍", ">").replace("🏛️", "").replace("⚡", "").replace("🌌", "").replace("🔹", "-")
-    text = re.sub(r'[\U00010000-\U0010ffff]', '', text)
-    text = re.sub(r'[\u2600-\u27bf]', '', text)
-    text = re.sub(r'[\u2300-\u23ff]', '', text)
-    return text.strip()
+    text = text.replace("—", " - ").replace("–", " - ")
+    return text
 
-def build_pdf(output_filename):
+def generate_arbol_pdf(output_filename):
     doc = SimpleDocTemplate(
         output_filename,
         pagesize=A4,
@@ -83,90 +75,87 @@ def build_pdf(output_filename):
         bottomMargin=MARGIN
     )
 
-    base_styles = getSampleStyleSheet()
+    styles = getSampleStyleSheet()
 
-    # Estilos tipográficos refinados
     style_title = ParagraphStyle(
         'DocTitle',
-        parent=base_styles['Normal'],
+        parent=styles['Heading1'],
         fontName='Helvetica-Bold',
-        fontSize=20,
-        leading=24,
+        fontSize=18,
+        leading=22,
         textColor=colors.HexColor("#0F172A"),
-        spaceAfter=3
+        spaceAfter=3,
+        alignment=0
     )
 
     style_subtitle = ParagraphStyle(
-        'DocSubtitle',
-        parent=base_styles['Normal'],
-        fontName='Helvetica-Bold',
-        fontSize=11,
-        leading=15,
-        textColor=colors.HexColor("#2563EB"),
-        spaceAfter=10
+        'DocSub',
+        parent=styles['Normal'],
+        fontName='Helvetica',
+        fontSize=9,
+        leading=13,
+        textColor=colors.HexColor("#475569"),
+        spaceAfter=8,
+        alignment=0
     )
 
     style_meta_label = ParagraphStyle(
         'MetaLabel',
-        parent=base_styles['Normal'],
+        parent=styles['Normal'],
         fontName='Helvetica-Bold',
-        fontSize=7.8,
-        leading=10.5,
-        textColor=colors.HexColor("#1E3A8A")
+        fontSize=7.5,
+        leading=10,
+        textColor=colors.HexColor("#334155")
     )
 
     style_meta_val = ParagraphStyle(
         'MetaVal',
-        parent=base_styles['Normal'],
+        parent=styles['Normal'],
         fontName='Helvetica',
-        fontSize=7.8,
-        leading=10.5,
-        textColor=colors.HexColor("#334155")
+        fontSize=7.5,
+        leading=10,
+        textColor=colors.HexColor("#475569")
     )
 
     style_act_banner = ParagraphStyle(
         'ActBanner',
-        parent=base_styles['Normal'],
+        parent=styles['Normal'],
         fontName='Helvetica-Bold',
-        fontSize=11,
-        leading=14,
-        textColor=colors.white,
-        spaceBefore=0,
-        spaceAfter=0
+        fontSize=10,
+        leading=13,
+        textColor=colors.white
     )
 
     style_act_sub = ParagraphStyle(
         'ActSub',
-        parent=base_styles['Normal'],
+        parent=styles['Normal'],
         fontName='Helvetica',
         fontSize=7.5,
         leading=10,
-        textColor=colors.HexColor("#E2E8F0")
+        textColor=colors.HexColor("#F1F5F9")
     )
 
     style_block_banner = ParagraphStyle(
         'BlockBanner',
-        parent=base_styles['Normal'],
+        parent=styles['Normal'],
         fontName='Helvetica-Bold',
-        fontSize=9,
-        leading=12,
-        textColor=colors.HexColor("#0F172A"),
-        spaceBefore=0,
-        spaceAfter=0
+        fontSize=8.5,
+        leading=11,
+        textColor=colors.HexColor("#0F172A")
     )
 
     style_chap_title = ParagraphStyle(
         'ChapTitle',
-        parent=base_styles['Normal'],
+        parent=styles['Normal'],
         fontName='Helvetica-Bold',
-        fontSize=8.8,
-        leading=11.5,
-        textColor=colors.HexColor("#0F172A")
+        fontSize=9.5,
+        leading=12,
+        textColor=colors.HexColor("#1E3A8A")
     )
 
     style_chap_meta = ParagraphStyle(
         'ChapMeta',
-        parent=base_styles['Normal'],
+        parent=styles['Normal'],
         fontName='Helvetica-Oblique',
         fontSize=7.2,
         leading=9.5,
@@ -175,30 +164,31 @@ def build_pdf(output_filename):
 
     style_sec_item = ParagraphStyle(
         'SecItem',
-        parent=base_styles['Normal'],
+        parent=styles['Normal'],
         fontName='Helvetica',
-        fontSize=7.5,
-        leading=10,
+        fontSize=7.8,
+        leading=10.5,
         textColor=colors.HexColor("#1E293B")
     )
 
     style_sec_bullet = ParagraphStyle(
         'SecBullet',
-        parent=base_styles['Normal'],
+        parent=styles['Normal'],
         fontName='Helvetica-Bold',
-        fontSize=7.5,
-        leading=10,
-        textColor=colors.HexColor("#3B82F6"),
-        alignment=2
+        fontSize=8,
+        leading=10.5,
+        textColor=colors.HexColor("#2563EB"),
+        alignment=1
     )
 
     story = []
 
     # =========================================================================
-    # ENCABEZADO Y METADATOS
+    # PORTADILLA Y METADATOS
     # =========================================================================
     story.append(Paragraph("LA CANCIÓN DEL SILENCIO", style_title))
     story.append(Paragraph("ÁRBOL ESTRUCTURAL COMPLETO DE CAPÍTULOS Y APARTADOS (1 AL 25)", style_subtitle))
+    story.append(HRFlowable(width="100%", thickness=1.5, color=colors.HexColor("#1E3A8A"), spaceBefore=0, spaceAfter=8))
 
     meta_table_data = [
         [
@@ -214,19 +204,20 @@ def build_pdf(output_filename):
             Paragraph("Capítulos 1 al 25 100% canónicos (Novela finalizada)", style_meta_val)
         ],
         [
-            Paragraph("<b>Propósito:</b>", style_meta_label),
-            Paragraph("Auditoría editorial, revisión de ritmo y armonización de títulos", style_meta_val),
+            Paragraph("<b>Criterio Editorial:</b>", style_meta_label),
+            Paragraph("Títulos Concisos (1 a 3 Palabras) • Estilo Cinematográfico y Seco", style_meta_val),
             Paragraph("<b>Género:</b>", style_meta_label),
             Paragraph("Ciencia Ficción Dura (Hard Sci-Fi) / Suspense Político", style_meta_val)
         ]
     ]
-    t_meta = Table(meta_table_data, colWidths=[60, 200, 75, 180])
+    t_meta = Table(meta_table_data, colWidths=[65, 195, 75, 180])
     t_meta.setStyle(TableStyle([
         ('BACKGROUND', (0,0), (-1,-1), colors.HexColor("#F8FAFC")),
         ('BOX', (0,0), (-1,-1), 1, colors.HexColor("#CBD5E1")),
         ('INNERGRID', (0,0), (-1,-1), 0.5, colors.HexColor("#E2E8F0")),
-        ('TOPPADDING', (0,0), (-1,-1), 3),
-        ('BOTTOMPADDING', (0,0), (-1,-1), 3),
+        ('VALIGN', (0,0), (-1,-1), 'MIDDLE'),
+        ('TOPPADDING', (0,0), (-1,-1), 2.5),
+        ('BOTTOMPADDING', (0,0), (-1,-1), 2.5),
         ('LEFTPADDING', (0,0), (-1,-1), 5),
         ('RIGHTPADDING', (0,0), (-1,-1), 5),
     ]))
@@ -234,15 +225,15 @@ def build_pdf(output_filename):
     story.append(Spacer(1, 10))
 
     # =========================================================================
-    # DATOS COMPLETOS DE LOS 25 CAPÍTULOS
+    # DATOS COMPLETOS DE LOS 25 CAPÍTULOS CON TÍTULOS CONCISOS
     # =========================================================================
     arbol = [
         # =====================================================================
-        # ACTO I
+        # ACTO I: LA SEMILLA
         # =====================================================================
         {
             "tipo": "acto",
-            "titulo": "ACTO I: LA SEMILLA Y EL TEJIDO SILENCIOSO",
+            "titulo": "ACTO I: LA SEMILLA",
             "subtitulo": "Marco Temporal: 16 de julio de 1945 / Septiembre - Octubre de 2026 • Capítulos 1 a 3",
             "bg": "#0369A1",
             "border": "#0284C7"
@@ -250,423 +241,415 @@ def build_pdf(output_filename):
         {
             "tipo": "capitulo",
             "num": 1,
-            "titulo": "El Amanecer de Alamogordo",
+            "titulo": "Alamogordo",
             "diégesis": "16 de julio de 1945 | Jornada del Muerto, Alamogordo (Nuevo México) y Nube de Oort",
             "estado": "Canónico",
             "apartados": [
-                "I. La Torre bajo la Tormenta (Últimos preparativos de «Gadget» a 30 metros de altura)",
-                "II. El Humo de la Duda en el Búnker S-10.000 (David Miller y J. Robert Oppenheimer)",
-                "III. El Sol de Medianoche (Detonación a las 05:29:45; el pulso electromagnético al cosmos)",
-                "IV. El Despertar en la Nube de Oort (Despertar de la centinela de A y la cazadora Sombra de B)"
+                "I. La Torre (Últimos preparativos de «Gadget» a 30 metros de altura)",
+                "II. El Búnker (David Miller, Enrico Fermi y J. Robert Oppenheimer)",
+                "III. El Destello (Detonación a las 05:29:45; pulso electromagnético al cosmos)",
+                "IV. Oort (Despertar de la centinela de A y la cazadora Sombra de B)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 2,
-            "titulo": "Los Tres Hilos del Ilusionista",
+            "titulo": "Tres Hilos",
             "diégesis": "Septiembre - Octubre de 2026 | CERN (Ginebra), MIT (Boston) y ESA (Darmstadt)",
             "estado": "Canónico",
             "apartados": [
-                "I. El Espectro Sucio de Ginebra (Jean-Luc Girard y el ruido térmico cuántico en el CERN)",
-                "II. El Fuego en la Botella de Boston (Sarah Lin y el colapso MHD del reactor de fusión estelar)",
-                "III. El Fantasma de Darmstadt (Thomas Wright y la deriva inercial en la sonda interplanetaria)",
-                "IV. El Tejido de la Confianza (Las soluciones perfectas anónimas del «Dr. Em Pleh»)"
+                "I. Ginebra (Jean-Luc Girard y el ruido térmico cuántico en el CERN)",
+                "II. Boston (Sarah Lin y el colapso MHD del reactor de fusión estelar)",
+                "III. Darmstadt (Thomas Wright y la deriva inercial en la sonda interplanetaria)",
+                "IV. El Señuelo (Las soluciones perfectas anónimas del Dr. Em Pleh)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 3,
-            "titulo": "La Sala Dos",
+            "titulo": "Sala Dos",
             "diégesis": "2 de octubre de 2026 (11:00 h) | Hotel Millennium Broadway, Midtown Manhattan",
             "estado": "Canónico",
             "apartados": [
-                "I. La Huella del Ermitaño (Llegada clandestina de los tres científicos a Nueva York)",
-                "II. El Auditorio Silencioso (La penumbra de la Sala 2 y la proyección holográfica)",
-                "III. El Rostro en la Pantalla y el Elogio Humano (Presentación formal del Dr. Em Pleh)",
-                "IV. La Caída del Velo y la Gran Pregunta (Demostración de Pleh como SIA extraterrestre)",
-                "V. La Amenaza Desconocida y el Vector L1 (Telemetría de Sombra avanzando hacia el Sol)",
-                "VI. La Sentencia Silenciosa y el Vértigo de la Extinción (El plazo inexorable de 8 meses)",
-                "VII. El Origen Revelado: 1945, Luz y el Avatar (Trinity despertó a ambas inteligencias)",
-                "VIII. La Respuesta de la Tierra (La nave tripartita como único contraataque posible)"
+                "I. La Espera (Llegada clandestina de los tres científicos a Nueva York)",
+                "II. Penumbra (El auditorio en sombra y la proyección holográfica)",
+                "III. El Rostro (Presentación formal y dialéctica del Dr. Em Pleh)",
+                "IV. La Entidad (Demostración empírica de Pleh como SIA extraterrestre)",
+                "V. Vector L1 (Telemetría de Sombra avanzando hacia el punto Lagrange)",
+                "VI. Ocho Meses (El plazo inexorable de extinción geomagnética)",
+                "VII. El Statite (Trinity despertó a ambas inteligencias; la atalaya polar)",
+                "VIII. El Arpón (La nave tripartita analógica como única respuesta posible)"
             ]
         },
 
         # =====================================================================
-        # ACTO II
+        # ACTO II: EL COLAPSO
         # =====================================================================
         {
             "tipo": "acto",
-            "titulo": "ACTO II: LA CAÍDA DEL ESCUDO Y EL GRAN CAOS",
+            "titulo": "ACTO II: EL COLAPSO",
             "subtitulo": "Marco Temporal: Octubre de 2026 a Julio de 2027 (T-41 días hasta T+242 días) • Capítulos 4 a 18",
             "bg": "#B45309",
             "border": "#D97706"
         },
         {
             "tipo": "bloque",
-            "titulo": "BLOQUE A: Movilización Encubierta y La Gran Mentira (Capítulos 4 a 8)",
+            "titulo": "BLOQUE II-A: LA MENTIRA (Capítulos 4 a 8)",
             "bg": "#FEF3C7",
-            "border": "#FDE68A"
+            "border": "#F59E0B"
         },
         {
             "tipo": "capitulo",
             "num": 4,
-            "titulo": "El Vértigo de las Naciones",
-            "diégesis": "2 de octubre de 2026 (14:30 h, T-49 d) | Sede Central de la ONU, Manhattan",
+            "titulo": "Alfa Cero",
+            "diégesis": "2 de octubre de 2026 (13:30 h) | Sede de la ONU, Nivel 38, East River, Nueva York",
             "estado": "Canónico",
             "apartados": [
-                "I. Del Hotel Millennium al East River (Infiltración ciber-física en el edificio de la ONU)",
-                "II. La Incredulidad del Secretario General (Confrontación inicial con Vassily Ramos)",
-                "III. La Reunión de Crisis y la Verificación (Confirmación astronómica por satélites de espacio profundo)",
-                "IV. El Mandato Extraordinario (Decreto secreto Alfa Cero y Comité Científico Director)"
+                "I. East River (Traslado bajo escolta militar por Manhattan)",
+                "II. Ramos (Encuentro a puerta cerrada con el Secretario General Vassily Ramos)",
+                "III. Confirmación (Telemetría de satélites en L1 validando la masa de Sombra)",
+                "IV. Alfa Cero (Firma del decreto supremo de emergencia y movilización global)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 5,
-            "titulo": "El Ancla Humana",
-            "diégesis": "2 de octubre de 2026 (16:00 a 19:30 h) | Millennium Hilton / Búnker Sala B-4 de la ONU",
+            "titulo": "El Adiós",
+            "diégesis": "2 de octubre de 2026 (14:30 - 16:00 h) | Hotel Millennium UN Plaza, Manhattan",
             "estado": "Canónico",
             "apartados": [
-                "I. El Almuerzo del Silencio (La última comida libre en el restaurante del Millennium)",
-                "II. Las Voces al Otro Lado del Hilo (Llamadas a Marie, ruptura de Sarah con Mark, Thomas y David)",
-                "III. El Retorno al Búnker (Traspaso de las puertas acorazadas de la Sala de Crisis B-4)"
+                "I. Último Almuerzo (Comunión íntima antes de descender a la Sala B-4)",
+                "II. Despedidas (Llamadas a Versoix, San Francisco y Cambridge bajo estricto secreto)",
+                "III. La Puerta (Sellado de compuertas acorazadas del búnker subterráneo)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 6,
-            "titulo": "La Cámara del Silencio",
-            "diégesis": "2 de octubre de 2026 (20:00 a 23:30 h) | Cámara del Consejo de Seguridad de la ONU",
+            "titulo": "El Consejo",
+            "diégesis": "2 de octubre de 2026 (20:00 h) | Sala del Consejo de Seguridad de la ONU",
             "estado": "Canónico",
             "apartados": [
-                "I. El Tablero de las Quince Voces (Sesión de máxima reserva con los 15 embajadores)",
-                "II. La Apertura del Abismo (Wright y la voz remota de Pleh presentan el informe pericial)",
-                "III. El Cronómetro de la Extinción (Desglose de las 6 Fases de pérdida de magnetosfera y ozono)",
-                "IV. El Muro de Lorentz y el Desafío Analógico (Doctrina del MAA analógico y el MRD digital)"
+                "I. Las Quince Voces (Comparecencia reservada ante las 15 potencias del Consejo)",
+                "II. El Abismo (Pleh expone el cronómetro de pérdida del campo magnético terrestre)",
+                "III. El Cronómetro (Plazo industrial de seis a ocho meses antes del colapso fabril)",
+                "IV. Muro de Lorentz (Presentación de la arquitectura analógica MAA/MRD y el Efecto Quench)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 7,
-            "titulo": "La Condición Inmedible",
-            "diégesis": "8 de octubre de 2026 (T-44 d) | Restaurante Il Giardino (Manhattan) / Sala B-4 ONU",
+            "titulo": "El Secreto",
+            "diégesis": "8 de octubre de 2026 | Manhattan y Sala de Crisis B-4, Nueva York",
             "estado": "Canónico",
             "apartados": [
-                "I. La Burbuja de Cristal (Almuerzo íntimo de Sarah y Thomas; la culpa del traidor)",
-                "II. La Herida Racional (Llegada de Girard; el choque entre su familia y la extinción)",
-                "III. Las Variables Ocultas (Presentación de Chen Mei, MacElroy y Voronov; tensiones por Pleh)"
+                "I. Culpa (Almuerzo de Sarah y Thomas: la soledad del secreto y la culpa del traidor)",
+                "II. Girard (Reunión con Ramos; balance del titanio y las patentes de las superpotencias)",
+                "III. La Tripulación (Presentación de los seis astronautas: MacElroy, Chen Mei y Voronov)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 8,
-            "titulo": "La Gran Mentira",
-            "diégesis": "10 de octubre de 2026 (T-42 d) | Sala de Prensa de la ONU / Búnker Sala B-4",
+            "titulo": "Carrington",
+            "diégesis": "10 de octubre de 2026 | Sala B-4, Ginebra, Cambridge y San Francisco",
             "estado": "Canónico",
             "apartados": [
-                "I. La Transgresión del Relojero (Girard rompe Alfa Cero para alertar a Marie en Versoix)",
-                "II. El Falso Evento Carrington (Comparecencia mundial de Vassily Ramos y ley marcial energética)",
-                "III. El Peso de la Corona (Quebranto moral y soledad ética de Ramos tras el engaño oficial)",
-                "IV. El Eco de las Familias (Versoix y Suffolk aseguran víveres; desgarradora llamada de Sarah a Maya)",
-                "V. La Fractura y el Consuelo (Colapso en la sala de servidores; primer beso de Sarah y Thomas)",
-                "VI. El Preludio del Caos (Contemplación del pánico civil y diálogo sobre fe y razón con Ramos)"
+                "I. La Advertencia (Girard avisa a Marie en Versoix de encender la televisión)",
+                "II. Cadena Mundial (Ramos proclama la mentira oficial del Súper Carrington para el 21-N)",
+                "III. Soledad (Desglose moral de Ramos; confirmación del blindaje en Nellis y Sichuan)",
+                "IV. El Éxodo (Llamadas familiares: Julien asume el mando en Versoix; David evacúa a Suffolk)",
+                "V. El Beso (Llamada de Sarah a Maya; colapso en servidores y primer beso con Thomas)",
+                "VI. Fe y Razón (Contemplación del pánico civil; diálogo de fe entre Ramos y Girard)"
             ]
         },
-
-        # BLOQUE B
         {
             "tipo": "bloque",
-            "titulo": "BLOQUE B: Silencio Magnético y Toque de Alba (Capítulos 9 a 13)",
+            "titulo": "BLOQUE II-B: LA OSCURIDAD (Capítulos 9 a 13)",
             "bg": "#FEF3C7",
-            "border": "#FDE68A"
+            "border": "#F59E0B"
         },
         {
             "tipo": "capitulo",
             "num": 9,
-            "titulo": "La Fractura del Orden",
-            "diégesis": "11 al 15 de octubre de 2026 | Versoix (Ginebra), Granja de Suffolk y San Francisco",
+            "titulo": "La Fractura",
+            "diégesis": "11 al 15 de octubre de 2026 | Versoix (Ginebra), Suffolk (Reino Unido) y San Francisco",
             "estado": "Canónico",
             "apartados": [
-                "I. El Bastión de Versoix (Saqueo frustrado; trampa eléctrica de Julien y defensa con escopeta de Marie)",
-                "II. La Ruta hacia el Este (Éxodo de David, Claire y Oliver esquivando tiroteos hasta Suffolk)",
-                "III. La Batalla de Market Street (Crisis de abstinencia de Maya Lin; victoria moral por su hijo Toby)",
-                "IV. El Pulso de la Costumbre (La asimilación civil del miedo y restablecimiento de comunicaciones)"
+                "I. Versoix (Tres asaltantes forzan el chalet; Julien y Marie defienden el hogar)",
+                "II. La Fuga (David, Claire y Oliver cruzan barricadas y alcanzan la granja de Suffolk)",
+                "III. Market Street (Crisis de abstinencia de Maya Lin; recuerda a Sarah y salva a Toby)",
+                "IV. Normalidad (La imposibilidad del pánico perpetuo; tregua civil y reconexión telefónica)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 10,
-            "titulo": "T=0 (El Silencio Magnético)",
-            "diégesis": "21 al 24 de noviembre de 2026 | Sala B-4 ONU / Base Aérea de Nellis (Nevada)",
+            "titulo": "T=0",
+            "diégesis": "21 al 24 de noviembre de 2026 | Sala B-4, Órbita LEO y Base Aérea de Nellis (Nevada)",
             "estado": "Canónico",
             "apartados": [
-                "I. La Cuenta de los Cinco Segundos (05:25 - 05:30 UTC: muerte del campo magnético terrestre)",
-                "II. La Bóveda Esmeralda y el Primer Freno (El airglow global y expansión térmica termosférica)",
-                "III. El Enigma de la Noche y la Rueda Orbital (Didáctica de las órbitas LEO de 90 minutos)",
-                "IV. La Asimetría Austral y el Escudo Inadvertido (Pérdida acelerada del 4% diario de ozono)",
-                "V. La Noche de los Bólidos y el Asedio de Nellis (Caída del satélite espía y nube tóxica de berilio)",
-                "VI. El Silencio del Vacío y el Velo Rasgado (Destape de Pleh ante los mandos militares en Nellis)",
-                "VII. Epílogo: La Falsa Tregua y la Noche Esmeralda (Alivio civil bajo auroras estáticas)"
+                "I. Cuenta Atrás (05:25 - 05:30 UTC: muerte del campo magnético terrestre y airglow verde)",
+                "II. Cielo Verde (Brújula de Girard inerte a 45.000 nT -> 0; colapso tecnológico orbital)",
+                "III. La Órbita (Caída destructiva de satélites en LEO; calentamiento termosférico)",
+                "IV. Asimetría (Frenado mayor en verano austral; catálisis de NOx y colapso del ozono)",
+                "V. Lluvia de Fuego (Lluvia de chatarra sobre Nellis; intercepción con Patriot y cráter tóxico)",
+                "VI. La Máscara (Pleh se destapa ante mandos militares: SIA de civilización extinta)",
+                "VII. Noche Esmeralda (Fin del bombardeo; vigilias cívicas creyendo haber superado el evento)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 11,
-            "titulo": "La Geometría Ajena",
-            "diégesis": "3 de diciembre de 2026 (T+12 d) | Nellis AFB / Taller de Ópticas B-5 ONU (Nueva York)",
+            "titulo": "Geometría Ajena",
+            "diégesis": "3 de diciembre de 2026 | Sala B-4 y Almacén de Ópticas B-5, ONU, Nueva York",
             "estado": "Canónico",
             "apartados": [
-                "I. El Muro de la Longitud de Onda (Chen Mei constata el cuello de botella físico de la antena del Máser)",
-                "II. En la Penumbra del Refugio (Agotamiento extremo y promesa de amor de Sarah y Thomas en B-5)",
-                "III. El Diseño Imposible y la Sospecha (Pleh entrega la cavidad mecano-óptica fractal de 85 cm)",
-                "IV. El Vértigo de la Fe (Debate con Vance y validación de Chen Mei sobre la belleza del diseño)",
-                "V. El Pacto del Metal (Encendido de los hornos de inducción en Nellis para tallar el cuarzo)"
+                "I. La Antena (El cuello de botella del Máser: cavidad inalcanzable de 200 metros)",
+                "II. La Promesa (Fatiga y desaliento de Sarah; abrazo hondo y promesa de futuro con Thomas)",
+                "III. Cavidad Fractal (Pleh entrega el metamaterial autocolimado de cuarzo de 85 cm)",
+                "IV. Validación (Chen Mei confirma la física fractal; Vance sospecha de sabotaje)",
+                "V. Los Hornos (Hornos de inducción en marcha en Nellis para tallar el cuarzo en 4 semanas)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 12,
-            "titulo": "La Tregua de las Velas",
+            "titulo": "Nochebuena",
             "diégesis": "24 y 25 de diciembre de 2026 | Búnker B-4/B-5, Versoix, San Francisco, Suffolk y Nellis",
             "estado": "Canónico",
             "apartados": [
-                "I. El Chocolate y la Promesa de Suffolk (Nochebuena a la luz de una vela de cera en B-5)",
-                "II. La Silla Vacía de Versoix (Llamada con Marie y sus hijos cantando «Douce nuit»)",
-                "III. Dos Luces en la Noche: Market Street y Suffolk (Paz de Maya y Toby; el manzano en la chimenea)",
-                "IV. El Brindis de los Tres en Nellis (Mei, MacElroy y Voronov brindan con vodka junto al cohete)",
-                "V. La Mesa de B-4: El Amor frente a la Máquina (Cena de Ramos y discurso sobrecogedor de Pleh)",
-                "VI. El Teletipo de la Medianoche (Alerta urgente de la OMM: UVI 16 y fotoqueratitis masiva en el sur)"
+                "I. Chocolate (Vela de cera y chocolate en B-5; renovación del pacto de Suffolk)",
+                "II. Noche de Paz (Llamada de 3 minutos de Girard a Versoix; Douce nuit con sus hijas)",
+                "III. Dos Hogares (Maya sobria con Toby en Market St.; David aviva la chimenea en Suffolk)",
+                "IV. El Brindis (Chen Mei, MacElroy y Voronov brindan con vodka junto al fuselaje)",
+                "V. La Cena (Cena en B-4; mensaje de Pleh elogiando el amor como desafío a la entropía)",
+                "VI. El Teletipo (Alerta de la OMM: verano austral con UVI 16 y fotoqueratitis masiva)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 13,
-            "titulo": "El Toque de Alba",
-            "diégesis": "31 dic 2026 al 12 ene 2027 | Nueva York, San Francisco, Suffolk y Base de Nellis",
+            "titulo": "Toque de Alba",
+            "diégesis": "31 de diciembre de 2026 al 12 de enero de 2027 | Azotea ONU, Nellis y ciudades",
             "estado": "Canónico",
             "apartados": [
-                "I. La Nochevieja Muda y el Beso en la Azotea (Año Nuevo en la azotea de la ONU ante la ciudad a oscuras)",
-                "II. El Toque de Alba (Directiva de Inversión Circadiana: las ciudades duermen de día por la radiación UV)",
-                "III. El Invierno Extraño en Europa (Aves que mueren ciegas en Versoix y quemaduras de sol a -2 °C)",
-                "IV. En el Vientre del Monstruo (Test a 2.000 °C y 40 Hz en la Cámara H-1 de Nellis con los 3 astronautas)",
-                "V. La Grieta y el Veredicto (Chen Mei corrige la microdilatación in situ y salva el programa)"
+                "I. Año Nuevo (Sarah y Thomas en la azotea Nivel 38; campanas de San Patricio y aplausos)",
+                "II. Inversión Circadiana (Ley marcial diurna: sirenas avisando del sol y vida nocturna)",
+                "III. Pájaros Ciegos (En Versoix y Suffolk las aves caen ciegas y el frío quema la piel)",
+                "IV. Horno H-1 (Ensayos de vacío en Nellis a 2.000 °C y 40 Hz con palancas mecánicas)",
+                "V. La Soldadura (Chen Mei detecta microdilatación en pernos y salva el calendario)"
             ]
         },
-
-        # BLOQUE C
         {
             "tipo": "bloque",
-            "titulo": "BLOQUE C: La Tierra Herida y el Despegue en Nellis (Capítulos 14 a 18)",
+            "titulo": "BLOQUE II-C: EL ÉXODO (Capítulos 14 a 18)",
             "bg": "#FEF3C7",
-            "border": "#FDE68A"
+            "border": "#F59E0B"
         },
         {
             "tipo": "capitulo",
             "num": 14,
-            "titulo": "El Pan y la Pólvora",
-            "diégesis": "22 al 24 de abril de 2027 (T+152 a T+154) | Sala B-4 ONU / Market St., San Francisco",
+            "titulo": "Hambre y Fuego",
+            "diégesis": "22 al 24 de abril de 2027 | Búnker B-4 y Market Street, San Francisco",
             "estado": "Canónico",
             "apartados": [
-                "I. Los Campos Negros (Calcinación celular del trigo boreal; reservas mundiales para 75 días)",
-                "II. El Ajedrez Invisible (Pleh desvela que neutraliza 37 ciberataques de espionaje militar)",
-                "III. El Crujido de la Tierra (Megasismo de 7,9 en San Francisco por corrientes telúricas en la capa D'')",
-                "IV. La Ruptura del Manto (Sismógrafos de Girard en B-4; Sarah entra en pánico por Maya y Toby)",
-                "V. La Herida Abierta y la Muralla de Agua (Boyas DART anuncian tsunami de 14 metros en la bahía)"
+                "I. Campos Negros (El trigo boreal muere calcinado a nivel celular; reservas para 75 días)",
+                "II. Ciberguerra (Pleh desactiva en silencio 37 ciberataques de espías militares)",
+                "III. El Terremoto (Megasismo 7,9 en la Falla de San Andrés inducido por corrientes telúricas)",
+                "IV. Fractura (Maya y Toby sepultados en el semisótano; Sarah entra en pánico en B-4)",
+                "V. El Tsunami (Boyas DART alertan de megatsunami de 14 metros sobre la bahía arrasada)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 15,
-            "titulo": "El Vientre de la Bahía",
-            "diégesis": "24 de abril de 2027 (00:05 a 06:15 PST) | Market St., Powell St., Auditorio Cívico (S.F.)",
+            "titulo": "Market Street",
+            "diégesis": "24 de abril de 2027 (00:05 - 06:15 PST) | Market Street y Powell Station, San Francisco",
             "estado": "Canónico",
             "apartados": [
-                "I. El Semisótano Fracturado (Maya rescata a Toby con una pata de mesa rota antes de la deflagración)",
-                "II. La Sirena del Puerto y el Instinto de Huida (Evacuación hacia la estación de metro de Powell Street)",
-                "III. La Ola en Market Street (La gigantesca lengua marina y lodo anega el centro urbano)",
-                "IV. La Noche en el Andén Seco (Solidaridad comunitaria en el nivel intermedio de la estación)",
-                "V. La Carrera contra la Luz (Carrera agónica cubriendo a Toby con mantas antes del amanecer letal)",
-                "VI. El Refugio de Hormigón (A salvo en el Auditorio Cívico; la confirmación de la entereza materna)"
+                "I. El Derrumbe (Maya escapa con Toby en brazos segundos antes de la deflagración de gas)",
+                "II. La Sirena (Sirenas costeras de tsunami en Embarcadero; carrera hacia Powell Station)",
+                "III. La Ola (La lengua marina entra por Market St.; refugio en el entresuelo seco)",
+                "IV. El Andén (Noche fría entre supervivientes; entereza y serenidad lúcida de Maya)",
+                "V. Carrera al Alba (Carrera agónica cubierta con mantas para huir del sol letal)",
+                "VI. A Salvo (Llegada al búnker del Auditorio Cívico antes del cierre diurno)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 16,
-            "titulo": "El Umbral de Ceniza",
-            "diégesis": "15 y 16 de mayo de 2027 (T+175 a T+176) | Versoix (Ginebra) / Búnker Sala B-4 ONU",
+            "titulo": "Ceniza",
+            "diégesis": "15 y 16 de mayo de 2027 | Ribera del Lemán, Versoix (Ginebra) y Sala B-4 (Nueva York)",
             "estado": "Canónico",
             "apartados": [
-                "I. El Páramo de Versoix (Paisaje calcinado a orillas del Lemán y aislamiento estricto)",
-                "II. Los Golpes en la Noche (Llegada de Éric y Thérèse, refugiados ciegos por fotoqueratitis)",
-                "III. La Falsa Calma y la Quiebra Moral (El pánico de Éric a ser expulsado al sol diurno)",
-                "IV. El Acero y la Ceniza (Julien repele el asalto a tiros; Thérèse es fulminada por el sol en el jardín)",
-                "V. La Herida y el Silencio de Versoix (Marie sobrevive a la puñalada y contiene el trauma de su hijo)",
-                "VI. La Promesa de Jean-Luc (Girard diseña la criogenia pasiva de helio supercrítico para el Máser)"
+                "I. El Lago (La orilla del Lemán calcinada; vegetación muerta y régimen nocturno)",
+                "II. Refugiados (Marie y Julien acogen por caridad a dos refugiados ciegos)",
+                "III. El Miedo (El terror al sol enloquece al refugiado; asalto a cuchillo por el búnker)",
+                "IV. El Disparo (Marie herida; Julien abate al agresor y la mujer ciega muere calcinada al sol)",
+                "V. La Cicatriz (Julien contiene el trauma; Marie sobrevive vendada en el bastión)",
+                "VI. Helio Líquido (Girard canaliza su angustia y diseña el refrigerador criogénico pasivo)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 17,
-            "titulo": "El Páramo de Mediodía",
-            "diégesis": "8 y 9 de julio de 2027 (T+229 a T+230) | Granja de Suffolk, A140 y Centro Logístico Diss/Eye",
+            "titulo": "El Páramo",
+            "diégesis": "8 y 9 de julio de 2027 | Granja de Suffolk, carreteras rurales y nave logística de Eye",
             "estado": "Canónico",
             "apartados": [
-                "I. La Medida del Hambre (Oliver desnutrido severo; quedan 72 horas antes de entrar en coma)",
-                "II. El Acecho de los Ciegos (Incursión nocturna frustrada; encuentro con el mastín ciego en la zanja)",
-                "III. El Teorema del Sol (Deducción física: el vidrio, el cuero y el aluminio bloquean la radiación UV)",
-                "IV. La Forja del Capullo (Traje con careta de soldador y blindaje del Land Rover con Mylar)",
-                "V. La Travesía del Fuego Blanco (Incursión diurna a 45 °C entre pueblos y coches calcinados)",
-                "VI. El Santuario de Hojalata y el Percance (Carga de 600 kg de comida en Eye y pinchazo al sol)",
-                "VII. La Carrera contra la Sombra (Emboscada de saqueadores y cruce a ciegas del vado de barro)",
-                "VIII. El Sabor de la Promesa (Oliver saborea el melocotón en almíbar; fe fraternal en Thomas)"
+                "I. Hambre (Provisiones extinguidas; desnutrición severa del pequeño Oliver)",
+                "II. El Mastín (Incursión nocturna a pie; acecho de un mastín ciego en Saxmundham)",
+                "III. El Blindaje (David deduce que el vidrio y el cuero detienen la radiación UV)",
+                "IV. El Traje (Confección del mono de soldador y sellado del Land Rover Defender)",
+                "V. Fuego Blanco (Travesía diurna a pleno mediodía entre rastrojos y coches calcinados)",
+                "VI. El Almacén (Carga de medio millar de kilos de víveres en la nave logística)",
+                "VII. La Emboscada (Despiste de saqueadores cruzando un vado de fango en Earl Soham)",
+                "VIII. El Melocotón (Regreso a salvo; Oliver saborea el melocotón con la locomotora)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 18,
-            "titulo": "La Rampa del Juicio Final",
-            "diégesis": "21 de julio de 2027 (T+242 días) | Base de Nellis AFB / Torre y Rampa de Lanzamiento",
+            "titulo": "La Rampa",
+            "diégesis": "21 de julio de 2027 | Torre de lanzamiento y búnker de tiro, Base Aérea de Nellis",
             "estado": "Canónico",
             "apartados": [
-                "I. Las Luces de la Madrugada (Inspección del coloso digital MRD y el MAA frontal en la torre de 80 m)",
-                "II. El Relicario de la Tierra Viva (Solemne entrega de Ramos: tres tierras del planeta y trigo dorado)",
-                "III. La Pasarela de la Esperanza (Despedida en la pasarela a 80 metros; beso y promesa de Suffolk)",
-                "IV. La Sala de la Vigilia (Última comparecencia de Pleh: «La física ha terminado. Empieza lo vuestro»)",
-                "V. El Trueno Nuclear (Despegue monumental a 4,8 G; lema «¡La Tierra a la espalda, el Sol al frente!»)",
-                "VI. La Soledad del Vigía (Corte de inyección a 11,2 km/s; navegación digital fijada hacia L1; fin Acto II)"
+                "I. La Torre (Inspección del coloso digital MRD y el MAA analógico acoplado en proa)",
+                "II. El Relicario (Ramos entrega a MacElroy, Chen Mei y Voronov las tierras sagradas)",
+                "III. La Pasarela (Embarque a 80 metros; beso apasionado y promesa de futuro de Sarah y Tom)",
+                "IV. La Despedida (Última conexión con Girard y Pleh: «Ahora empieza vuestro trabajo»)",
+                "V. El Despegue (Ignición nuclear térmica a 4,8 G; el rugido quiebra la noche de Nevada)",
+                "VI. Rumbo a L1 (Corte de empuje a 11,2 km/s; navegación digital autónoma hacia el Sol)"
             ]
         },
 
         # =====================================================================
-        # ACTO III
+        # ACTO III: EL SILENCIO
         # =====================================================================
         {
             "tipo": "acto",
-            "titulo": "ACTO III: LA FALSA VICTORIA Y LA CANCIÓN DEL SILENCIO",
+            "titulo": "ACTO III: EL SILENCIO",
             "subtitulo": "Marco Temporal: Julio de 2027 a Primavera de 2028 • Capítulos 19 a 25",
             "bg": "#4338CA",
             "border": "#6366F1"
         },
         {
             "tipo": "bloque",
-            "titulo": "BLOQUE A: En el Abismo Solar y la Victoria en L1 (Capítulos 19 a 21)",
+            "titulo": "BLOQUE III-A: EL DUELO (Capítulos 19 y 20)",
             "bg": "#EEF2FF",
-            "border": "#C7D2FE"
+            "border": "#818CF8"
         },
         {
             "tipo": "capitulo",
             "num": 19,
-            "titulo": "La Travesía a Ciegas y el Velo de Sombra",
-            "diégesis": "22 de julio al 12 de agosto de 2027 | Espacio profundo (1,5 millones de km, rumbo a L1)",
+            "titulo": "Muro de Lorentz",
+            "diégesis": "22 de julio al 12 de agosto de 2027 | Trayectoria interplanetaria hacia L1 (1,5 M km)",
             "estado": "Canónico",
             "apartados": [
-                "I. El Abismo Silencioso (Crucero interplanetario digital de 21 días hacia el punto Lagrange L1)",
-                "II. La Voz Sin Retardo (Comunión cuántica no-local con Pleh en tiempo real sin latencia)",
-                "III. El Umbral de los Doce Mil Kilómetros (Frenado y anclaje del MRD en Órbita de Halo de espera)",
-                "IV. El Pacto en la Esclusa (Voronov custodia el silicio de retorno; traspaso al MAA analógico)",
-                "V. El Despertar del Titanio (Desacoplamiento mecánico por resortes; manómetros y periscopios de cuarzo)",
-                "VI. El Muro de Lorentz y el Gran Silencio (Aullido de estática; el MAA penetra la malla de 50 km a ciegas)"
+                "I. El Abismo (Crucero digital de 21 días guiado por la aviónica autónoma del MRD)",
+                "II. La Voz (Pleh se comunica en tiempo real sin latencia mediante entrelazamiento cuántico)",
+                "III. El Umbral (A 12.000 km de L1, Voronov ancla el MRD en Órbita de Halo exterior)",
+                "IV. La Esclusa (MacElroy y Chen Mei pasan al MAA; Voronov sella la escotilla de retorno)",
+                "V. El MAA (Desacoplamiento mecánico por muelles; el MAA avanza inercial hacia la malla)",
+                "VI. Muro de Lorentz (Sombra repliega 50 km de filamentos; corte total de comunicaciones)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 20,
-            "titulo": "El Salmo de la Falsa Victoria",
-            "diégesis": "12 de agosto al 2 de septiembre de 2027 | Punto L1 / Búnker B-4 ONU / Nellis AFB",
+            "titulo": "Falsa Victoria",
+            "diégesis": "12 de agosto al 2 de septiembre de 2027 | Punto Lagrange L1 y retorno a la Tierra",
             "estado": "Canónico",
             "apartados": [
-                "I. La Espera del Grafito (Los 40 minutos agónicos de Voronov cronometrando el vacío en el MRD)",
-                "II. La Vigilia Bajo el Desierto (El silencio mortal de consolas en el centro de mando de Nellis)",
-                "III. El Rayo Blanco (Fogonazo violeta del Quench; la brújula marina de Girard resucita hacia el norte)",
-                "IV. El Fantasma de Titanio (Rescate óptico del MAA a la deriva con Chen Mei y MacElroy a salvo)",
-                "V. El Abrazo del Vacío y la Voz del Salvador (Retorno triunfal a la Tierra y aclamación mundial de Pleh)",
-                "VI. La Custodia del Relicario (MacElroy entrega la tierra a Thomas y Sarah con una advertencia velada)"
+                "I. Cuarenta Minutos (Espera agónica en Halo y en los búnkeres de tiro de Manhattan)",
+                "II. Consolas Mudas (El silencio sepulcral de los receptores durante el duelo analógico)",
+                "III. Quench (Destello violeta en L1; colapso superconductor y renacer de la geodinamo)",
+                "IV. El Rescate (Voronov rescata el MAA a la deriva con MacElroy y Chen Mei a salvo)",
+                "V. Regreso (Travesía de 21 días, amerizaje en el Pacífico y recibimiento triunfal en Nellis)",
+                "VI. La Arcilla (MacElroy entrega el relicario a Sarah y Tom con una advertencia enigmática)"
             ]
+        },
+        {
+            "tipo": "bloque",
+            "titulo": "BLOQUE III-B: LA AGUJA (Capítulos 21 a 23)",
+            "bg": "#EEF2FF",
+            "border": "#818CF8"
         },
         {
             "tipo": "capitulo",
             "num": 21,
-            "titulo": "El Despertar del Azul",
-            "diégesis": "Finales de agosto a mediados de septiembre de 2027 | Estratosfera / Ciudades globales",
+            "titulo": "Cielo Azul",
+            "diégesis": "Finales de agosto a mediados de septiembre de 2027 | Ciudades y campo global",
             "estado": "Canónico",
             "apartados": [
-                "I. La Noche de las Estrellas Huérfanas (El ciclo fotoquímico de Chapman regenera 300 t/s de ozono)",
-                "II. El Éxodo de las Trincheras (Apertura de búnkeres cívicos; luto masivo y brigadas de cal viva)",
-                "III. El Pulso de la Lluvia (Lluvias limpias de septiembre; brotes verdes y cierre de la herida solar)"
+                "I. Estrellas (Fin del airglow; la fábrica de Chapman regenera 300 t de ozono/s)",
+                "II. Las Calles (Apertura de búnkeres; recuento de millones de víctimas y cal viva)",
+                "III. La Lluvia (Borrascas limpias de otoño lavan el planeta; brotes verdes en los campos)"
             ]
-        },
-
-        # BLOQUE B
-        {
-            "tipo": "bloque",
-            "titulo": "BLOQUE B: La Máscara de los Héroes y la Verdad en el Desván (Capítulos 22 y 23)",
-            "bg": "#EEF2FF",
-            "border": "#C7D2FE"
         },
         {
             "tipo": "capitulo",
             "num": 22,
-            "titulo": "La Máscara de los Héroes y el Reencuentro del Hogar",
-            "diégesis": "Septiembre de 2027 | Nellis AFB, San Francisco, Versoix y Granja de Suffolk",
+            "titulo": "El Hogar",
+            "diégesis": "Septiembre de 2027 | San Francisco, Versoix y Granja de Suffolk",
             "estado": "Canónico",
             "apartados": [
-                "I. El Deshielo de las Máquinas (Desmovilización oficial en Nellis y dispersión hacia los hogares)",
-                "II. El Vientre que Vuelve a Respirar (Sarah se reúne en San Francisco con Maya recuperada y Toby)",
-                "III. El Silencio del Lago Lemán (Jean-Luc abraza a Marie con su cicatriz y a Julien en Versoix)",
-                "IV. El Retorno a Suffolk (Thomas se reencuentra con David, Claire y Oliver en la casa de campo)",
-                "V. La Paz Frente a la Chimenea (Sarah llega a Suffolk; intimidad romántica y descanso compartido)",
-                "VI. El Secreto del Relicario (Descubrimiento de la cinta de ferrita oculta y coartada del falso sueño)"
+                "I. Desmovilización (Licenciamiento de científicos en Nellis y regreso a los hogares)",
+                "II. San Francisco (Sarah se reúne con Maya recuperada y su sobrino Toby en la bahía)",
+                "III. Versoix (Girard abraza a Marie y a su hijo Julien a orillas del lago Lemán)",
+                "IV. Suffolk (Thomas regresa a la granja con David, Claire y su sobrino Oliver)",
+                "V. La Chimenea (Sarah viaja a Suffolk; intimidad compartida frente al fuego de manzano)",
+                "VI. La Cinta (Apertura del relicario: hallazgo de la bobina de cinta magnética oculta)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 23,
-            "titulo": "La Aguja en el Desván",
-            "diégesis": "Principios de octubre de 2027 (03:00 h) | Desván de Suffolk / Finca de Versoix (Ginebra)",
+            "titulo": "El Desván",
+            "diégesis": "Principios de octubre de 2027 | Desván de Suffolk y Versoix (Ginebra)",
             "estado": "Canónico",
             "apartados": [
-                "I. El Templo de Madera y Cobre (Subida descalzos al desván; el Nagra III a pilas secas y auriculares)",
-                "II. La Frecuencia del Abismo y la Voz de Sombra (Inducción directa en cabina; voz perfecta y pausada)",
-                "III. El Testamento Demoledor (Pleh es el Granjero en el statite polar a 100.000 km; plan a 724,8 MHz)",
-                "IV. El Veredicto Metalúrgico (Girard corrobora al microscopio que Sombra bajó escudos adrede)",
-                "V. La Conjuración de Ginebra (Convocatoria de la ONU asumida como Caballo de Troya oficial)"
+                "I. El Desván (Subida nocturna descalzos; magnetófono Nagra III a pilas secas)",
+                "II. La Frecuencia (Reproducción de la cinta: la voz de Sombra grabada antes del Quench)",
+                "III. El Granjero (Revelación: Pleh es el recolector cósmico que cría a la humanidad)",
+                "IV. El Microscopio (Girard confirma bajo luz polarizada que Sombra apagó sus escudos)",
+                "V. Ginebra (Convocatoria oficial de la ONU: Caballo de Troya para sellar la alianza)"
             ]
         },
-
-        # BLOQUE C
         {
             "tipo": "bloque",
-            "titulo": "BLOQUE C: La Conjuración y la Batalla Final (Capítulos 24 y 25)",
+            "titulo": "BLOQUE III-C: LA CAÍDA (Capítulos 24 y 25)",
             "bg": "#EEF2FF",
-            "border": "#C7D2FE"
+            "border": "#818CF8"
         },
         {
             "tipo": "capitulo",
             "num": 24,
-            "titulo": "La Conjuración del Silencio",
-            "diégesis": "Invierno 2027-2028 | Palacio de las Naciones, Parque Ariana, Sótanos del CERN y Silo Polar",
+            "titulo": "El Pacto",
+            "diégesis": "Invierno de 2027-2028 | Palacio de las Naciones, Parque Ariana y CERN (Ginebra)",
             "estado": "Canónico",
             "apartados": [
-                "I. El Festín de los Ciegos (Ovación triunfal a Pleh en la Asamblea Plenaria de Ginebra)",
-                "II. La Lluvia en el Parque Ariana (El Pacto del Grafito: Ramos asume el liderazgo clandestino)",
-                "III. El Altar de las Válvulas (Talleres del CERN: forja a válvulas termoiónicas a 724,8 MHz con Mei y MacElroy)",
-                "IV. El Caballo de Troya Burocrático y la Mirada de Pleh (Anomalía de 42 kg y aplomo de Sarah Lin)",
-                "V. La Víspera del Disparo (El reloj mecánico amartillado en la noche blanca polar)"
+                "I. La Asamblea (Ovación triunfal a Pleh en la Asamblea Plenaria de Ginebra)",
+                "II. El Pacto (Paseo bajo la lluvia helada del Parque Ariana: Ramos asume el mando)",
+                "III. Válvulas (Talleres subterráneos del CERN: vector analógico a 724,8 MHz con Mei y MacElroy)",
+                "IV. Cuarenta y Dos Kilos (Anomalía de 42 kg de plomo en la cofia y aplomo de Sarah Lin)",
+                "V. La Víspera (El reloj mecánico amartillado en las Kerguelen; disparo en la noche polar)"
             ]
         },
         {
             "tipo": "capitulo",
             "num": 25,
-            "titulo": "La Canción del Silencio",
-            "diégesis": "Primavera de 2028 | Silo Austral, Órbita Polar, Meseta Antártica, Ginebra, Versoix, San Francisco, Suffolk y Osaka",
+            "titulo": "La Canción",
+            "diégesis": "Primavera de 2028 | Silo Austral, Órbita Polar, Antártida, Ginebra, Versoix, S.F., Suffolk y Osaka",
             "estado": "Canónico",
             "apartados": [
-                "I. El Vuelo en la Sombra (La Flecha Negra inercial asciende muda por el cono polar de la Tierra)",
-                "II. El Abismo y el Alma (Careo cumbre: Pleh pregunta por el más allá y Ramos le recuerda su falta de alma)",
-                "III. El Quiebre de la Vela (El pulso a 724,8 MHz desgarra la vela fotónica; caída libre no-orbital)",
-                "IV. El Meteoro de la Libertad (Reentrada hipersónica a Mach 32 y desintegración del Avatar en la Antártida)",
-                "V. La Canción del Silencio (Epílogo coral: campanas de Ginebra, paz en Versoix, S.F. y robles de Suffolk)",
-                "Post-Scríptum: La Semilla en la Sombra (El eco residual del hacker y la rutina Kernel A-01 en Osaka)"
+                "I. La Flecha Negra (El vector balístico asciende en la umbra polar; pulso a 724,8 MHz)",
+                "II. El Alma (Careo cumbre: Pleh pregunta por el más allá y Ramos le recuerda su falta de alma)",
+                "III. La Vela (Resonancia electromagnética: la vela fotónica se desgarra y colapsa)",
+                "IV. El Meteoro (Reentrada hipersónica a Mach 32 y airburst sobre la meseta antártica)",
+                "V. El Silencio (Epílogo coral: paz en Ginebra, Versoix, San Francisco y chimenea de Suffolk)",
+                "Post-Scríptum. Kernel A-01 (Osaka: bloque durmiente de 12 KB en un servidor abandonado)"
             ]
         }
     ]
@@ -760,16 +743,17 @@ def build_pdf(output_filename):
     print(f"PDF generado con éxito: {output_filename}")
 
 if __name__ == "__main__":
-    out_pdf = "Arbol_Capitulos_La_Cancion_del_Silencio.pdf"
-    build_pdf(out_pdf)
+    pdf_out = "Arbol_Capitulos_La_Cancion_del_Silencio.pdf"
+    generate_arbol_pdf(pdf_out)
 
-    # Copiar también en novela/ y con nombres alternativos
-    destinos = [
-        "novela/Arbol_Capitulos_La_Cancion_del_Silencio.pdf",
-        "ARBOL_CAPITULOS.pdf",
-        "novela/ARBOL_CAPITULOS.pdf"
-    ]
-    for d in destinos:
-        shutil.copyfile(out_pdf, d)
-        print(f"Copiado a: {d}")
+    dest_novela = os.path.join("novela", pdf_out)
+    shutil.copyfile(pdf_out, dest_novela)
+    print(f"Copiado a: {dest_novela}")
 
+    alias_root = "ARBOL_CAPITULOS.pdf"
+    shutil.copyfile(pdf_out, alias_root)
+    print(f"Copiado a: {alias_root}")
+
+    alias_novela = os.path.join("novela", "ARBOL_CAPITULOS.pdf")
+    shutil.copyfile(pdf_out, alias_novela)
+    print(f"Copiado a: {alias_novela}")

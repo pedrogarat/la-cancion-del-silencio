@@ -1,11 +1,11 @@
-# Capítulo 21: El Despertar del Azul
+# Capítulo 21: Cielo Azul
 
 > *«La Tierra no guarda rencor al sol cuando regresa; simplemente vuelve a florecer sobre sus propias cenizas.»*  
 > — Vassily Ramos, *Alocución de reapertura en la Asamblea de la ONU*
 
 ---
 
-### I. La Noche de las Estrellas Huérfanas
+### I. Estrellas
 
 El primer síntoma de que el enemigo había muerto no fue un sonido, sino una ausencia.
 
@@ -25,7 +25,7 @@ El sol había dejado de morder. El verdugo cósmico se había retirado.
 
 ---
 
-### II. El Éxodo de las Trincheras
+### II. Las Calles
 
 La desescalada no fue una fiesta; fue un funeral a escala planetaria.
 
@@ -45,7 +45,7 @@ En los campos boreales, el espectáculo era el de una pira funeraria vegetal. Mi
 
 ---
 
-### III. El Pulso de la Lluvia
+### III. La Lluvia
 
 Y sin embargo, bajo el barro y las cenizas, la biosfera demostró esa terquedad furiosa que la ha mantenido con vida a través de cinco extinciones masivas.
 

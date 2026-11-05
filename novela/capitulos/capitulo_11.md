@@ -1,6 +1,7 @@
-# Capítulo 11: La Geometría Ajena
+# Capítulo 11: Geometría Ajena
 
-### 3 de diciembre de 2026, 14:15:00 UTC (09:15 hora de Nueva York)
+### I. La Antena
+*3 de diciembre de 2026, 14:15:00 UTC (09:15 hora de Nueva York)*
 **Sala de Crisis B-4, Subsuelo de la Sede de las Naciones Unidas, Nueva York**  
 *Faltan 18 días para la Fase 3 (Catálisis de NOx y destrucción del 4% diario de la capa de ozono).*  
 *Faltan 230 días para el Cierre de la Ventana Operativa Industrial.*
@@ -40,7 +41,8 @@ El almirante Vance apretó la mandíbula:
 
 ***
 
-### 3 de diciembre de 2026, 17:40:00 UTC (12:40 hora de Nueva York)
+### II. La Promesa
+*3 de diciembre de 2026, 17:40:00 UTC (12:40 hora de Nueva York)*
 **Galería de Filtros Secundarios y Reserva Óptica, Nivel B-5**
 
 La pausa técnica decretada por Vassily Ramos para consultar con los laboratorios de Los Álamos dejó una hora de tregua en la sala de mando.
@@ -91,7 +93,8 @@ Sarah respiró hondo, se alisó el pelo con un gesto rápido y miró a Thomas co
 
 ***
 
-### 3 de diciembre de 2026, 18:15:00 UTC (13:15 hora de Nueva York)
+### III. Cavidad Fractal
+*3 de diciembre de 2026, 18:15:00 UTC (13:15 hora de Nueva York)*
 **Sala de Crisis B-4**
 
 Cuando regresaron a la sala de mandos, el ambiente era de una expectación casi eléctrica.
@@ -153,7 +156,8 @@ El general Korolyov asintió con gravedad militar, colocándose hombro con hombr
 
 ***
 
-### 3 de diciembre de 2026, 18:35:00 UTC
+### IV. Validación
+*3 de diciembre de 2026, 18:35:00 UTC*
 **El Vértigo de la Fe**
 
 El silencio en la Sala B-4 se volvió irrespirable. En Nevada, ajenos a la naturaleza cósmica de Pleh pero conscientes de la gravedad del pulso, los operarios de los tornos contuvieron el aliento frente a los monitores de grafito.
@@ -174,7 +178,8 @@ Pleh dirigió la mirada hacia las coordenadas de Nevada:
 
 ***
 
-### 3 de diciembre de 2026, 18:55:00 UTC
+### V. Los Hornos
+*3 de diciembre de 2026, 18:55:00 UTC*
 **El Pacto del Metal**
 
 En el hangar subterráneo de Nellis, Chen Mei no apartó los ojos de las líneas de código que fluían en la terminal.

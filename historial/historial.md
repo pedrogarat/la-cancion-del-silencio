@@ -2,8 +2,8 @@
 ## *La Canción del Silencio / Antigravity*
 
 > **Agente Responsable:** **Memo** (Cronista y Archivero Mayor)
-> **Última actualización:** 2026-11-02 09:20:00 UTC
-> **Total de sesiones recopiladas:** 57
+> **Última actualización:** 2026-11-05 09:07:00 UTC
+> **Total de sesiones recopiladas:** 57 (Novela Completa 1 al 25 + Auditoría de Títulos)
 
 Este documento recopila la transcripción íntegra y ordenada de las conversaciones, instrucciones, acuerdos técnicos, debates de trama y decisiones editoriales entre el Autor y Antigravity.
 
@@ -12165,3 +12165,152 @@ Escreibe el capituo 25 y remata la novela
    - Recompilada la base de datos web con `node build-novel-data.js` actualizando `chapters-data.js` y `version.json` con los 25 capítulos canónicos.
    - Actualizados y regenerados los PDFs de Sinopsis (`generar_sinopsis_pdf.py` -> `SINOPSIS.pdf` / `Sinopsis_La_Cancion_del_Silencio.pdf`) y de Árbol de Capítulos (`generar_arbol_capitulos_pdf.py` -> `Arbol_Capitulos_La_Cancion_del_Silencio.pdf` / `ARBOL_CAPITULOS.pdf`), reflejando el canon 100% completo de la novela.
    - Sincronizados `novela/recapitulacion.md` y `novela/sinopsis.md`.
+
+
+### 👤 Autor *(2026-11-05 09:02:14 UTC)*
+
+NO me convencen los títulos de los actos, capítulos ni de los apartados.
+Haz una propuesta de cambio:
+- Quiero que sean muy cortos, si puede ser una palabra clave, como mucho 3.
+- Haz un PDF con una tabla con el nombre actual y una columna con tu propuesta
+
+### 🤖 Miguel, Alfred, Bill & Capitán Memo *(2026-11-05 09:07:00 UTC)*
+
+**Propuesta Editorial de Títulos Concisos (1 a 3 Palabras) y Generación de PDF:**
+1. **Criterio de Nomenclatura Literaria:**
+   - Supresión de frases explicativas barrocas o anticipatorias ("show, don't tell").
+   - Adopción de términos secos, afilados, evocadores y de alta pegada cinematográfica (estilo Nolan / Denis Villeneuve / Ted Chiang).
+   - Máximo de 1 a 3 palabras por título en los 3 niveles: Actos, Capítulos (1 al 25) y la totalidad de los 123 apartados/escenas.
+2. **Desarrollo del Script y Generación del Documento (`generar_propuesta_titulos_pdf.py`):**
+   - Documento estructurado en ReportLab con `TitulosCanvas` de dos pasadas (4 páginas A4).
+   - Incluye 3 tablas completas comparativas (*Nivel / Nombre Actual / Propuesta Concisa / Concepto Clave*):
+     - Tabla 1: Los 3 Actos y los 6 Bloques temáticos (`LA SEMILLA`, `EL COLAPSO`, `EL SILENCIO`, etc.).
+     - Tabla 2: Los 25 Capítulos (`Alamogordo`, `Tres Hilos`, `Sala Dos`, `Alfa Cero`, `El Ancla`, `El Consejo`, `T=0`, `Carrington`, `El Páramo`, `El Desván`, `El Pacto`, `La Canción`, etc.).
+     - Tabla 3: Los 123 Apartados organizados correlativamente capítulo a capítulo.
+3. **Distribución y Sincronización:**
+   - PDF generado: `Propuesta_Titulos_Cortos_La_Cancion_del_Silencio.pdf` (4 páginas).
+   - Réplicas sincronizadas en:
+     - `PROPUESTA_TITULOS_CORTOS.pdf` (raíz)
+     - `novela/Propuesta_Titulos_Cortos_La_Cancion_del_Silencio.pdf`
+     - `novela/PROPUESTA_TITULOS_CORTOS.pdf`
+
+
+### 👤 Autor *(2026-11-05 09:09:06 UTC)*
+
+Me convence. No saques PDF, con md me llega para revisar
+
+### 🤖 Miguel, Bill & Capitán Memo *(2026-11-05 09:10:30 UTC)*
+
+**Generación del Códex de Títulos en Formato Markdown:**
+1. **Generación del Documento de Revisión:**
+   - Creado [`PROPUESTA_TITULOS_CORTOS.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/PROPUESTA_TITULOS_CORTOS.md) (y réplica en [`novela/propuesta_titulos_cortos.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/propuesta_titulos_cortos.md)).
+   - Contiene la totalidad de la arquitectura de la novela:
+     - Tabla de los 3 Actos y 6 Bloques temáticos.
+     - Tabla comparativa de los 25 Capítulos.
+     - 25 tablas desglosadas con la totalidad de los 123 Apartados / Escenas (*Nombre Actual vs. Propuesta Concisa de 1 a 3 palabras*).
+2. **Criterio de Entrega:**
+   - Documento ágil, limpio y 100% editable en Markdown para revisión directa en el editor de código antes de la propagación a los capítulos.
+
+
+### 👤 Autor *(2026-11-05 09:29:44 UTC)*
+
+- Cambiar EL ARPONAZO por LA CAÍDA (L21)
+- EL ADIOS (L33)
+- No me convence INMEDIBLE, propón otro y justifícalo (L35)
+
+### 🤖 Miguel, Alfred & Capitán Memo *(2026-11-05 09:31:00 UTC)*
+
+**Ajustes de Nomenclatura y Propuestas Justificadas para Capítulo 7:**
+1. **Aplicado Bloque III-C:** Sustituido `EL ARPONAZO` por `LA CAÍDA`.
+2. **Aplicado Capítulo 5:** Sustituido `El Ancla` por `El Adiós`.
+3. **Propuestas Justificadas para Capítulo 7:**
+   - Opción 1: **La Culpa** (El núcleo emocional: Sarah con Mark y Maya, Girard destrozado por mentir a su hijo Julien).
+   - Opción 2: **La Grieta** (La fractura moral y vital irreversible entre salvar la Tierra y engañar a las familias).
+   - Opción 3: **La Paradoja** (Inspirado en la frase de Girard sobre la contradicción insoportable de la condición humana).
+   - Opción 4: **El Secreto** (El aislamiento físico y moral que los separa del mundo exterior en Il Giardino).
+
+
+### 👤 Autor *(2026-11-05 09:33:14 UTC)*
+
+El secreto está bien
+
+### 🤖 Miguel, Bill & Capitán Memo *(2026-11-05 09:34:00 UTC)*
+
+**Consolidación del Capítulo 7:**
+- Actualizado el título propuesto para el Capítulo 7 a **`El Secreto`** en [`PROPUESTA_TITULOS_CORTOS.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/PROPUESTA_TITULOS_CORTOS.md) y [`novela/propuesta_titulos_cortos.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/propuesta_titulos_cortos.md).
+- El códex de títulos cortos queda 100% alineado con las directrices del Autor.
+
+
+### 👤 Autor *(2026-11-05 09:35:23 UTC)*
+
+UNa pregunta ¿En qué parte MacElroy o Mei le dan la esquirla de MAA a Girard?
+
+### 🤖 Alfred & Miguel *(2026-11-05 09:36:00 UTC)*
+
+Aclaración de continuidad: la escena de entrega de la esquirla de berilio dentro de la pluma Parker se revelaba originalmente en el Capítulo 23 mediante un recuerdo de Girard en Versoix. Se propone sincronizarla y hacerla explícita en el propio Capítulo 20.
+
+### 👤 Autor *(2026-11-05 10:01:06 UTC)*
+
+Si, casi mejor ponerlo también en el capítulo 20 también
+
+### 🤖 Miguel, Alfred, Bill & Capitán Memo *(2026-11-05 10:02:30 UTC)*
+
+**Inserción Canónica de la Entrega de la Esquirla en el Capítulo 20:**
+1. **Redacción en el Capítulo 20 (`novela/capitulos/capitulo_20.md`, Sección VI):**
+   - Tras entregar el relicario a Thomas y Sarah, MacElroy se desvía antes del estrado de autoridades e intercepta a Jean-Luc Girard junto al transporte de la delegación suiza.
+   - Le estrecha la diestra formalmente y le desliza con discreción la pluma estilográfica Parker de acero macizo con el fragmento de berilio del escudo térmico del MAA, susurrándole la advertencia de examinarla bajo luz polarizada en su laboratorio de Versoix.
+   - Girard queda desconcertado y extrañado, guardando el objeto en su abrigo.
+2. **Sincronización:**
+   - Actualizado [`novela/capitulos/capitulo_20_desglose.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_20_desglose.md).
+   - Recompilado el visor web con `node build-novel-data.js` para los 25 capítulos.
+
+### 👤 Autor *(2026-11-05 10:05:00 UTC)*
+
+Por cierto no te repondí a esto:
+«¿Deseas que procedamos a propagar estos nuevos títulos directamente en los archivos .md de los 25 capítulos, sus desgloses y en la web?»
+
+Si, procede
+
+### 🤖 Bill, Miguel & Capitán Memo *(2026-11-05 10:08:00 UTC)*
+
+**Propagación Integral de Títulos Cortos Canónicos (1 a 3 palabras) en Toda la Obra:**
+1. **Capítulos 1 a 25 (`novela/capitulos/capitulo_1.md` al `capitulo_25.md`):**
+   - Actualizados todos los encabezados H1 (`# Capítulo X: [Título Corto]`).
+   - Actualizados todos los encabezados de apartados H3 (`### I. [Título Corto]`) según la codificación aprobada de 1 a 3 palabras.
+   - En los capítulos de la cuenta atrás (10 a 16), se mantuvieron las fechas y marcas horarias bajo el título del apartado en cursiva.
+2. **Desgloses de Capítulos (`novela/capitulos/capitulo_*_desglose.md`):**
+   - Sincronizados todos los títulos de capítulos y secciones en los 25 archivos de desglose.
+3. **Metadatos y Sinopsis:**
+   - [`novela/meta.json`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/meta.json): Sincronizados los títulos de los 25 capítulos y los nombres de los Actos (*Acto I: La Semilla*, *Acto II: El Colapso*, *Acto III: El Silencio*).
+   - [`novela/sinopsis.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/sinopsis.md): Actualizados todos los títulos de Actos, Bloques y Capítulos (incluyendo *Bloque III-C: La Caída*, *Cap. 5: El Adiós*, *Cap. 7: El Secreto*, *Cap. 25: La Canción - Canónico*).
+   - [`novela/recapitulacion.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/recapitulacion.md): Actualizados los subtítulos de la tabla maestra de control cronológico.
+4. **Despliegue y Visor Web:**
+   - Ejecutado `node build-novel-data.js` con éxito (`chapters-data.js` y `version.json` actualizados, cache-busting en `index.html`).
+   - Los 25 capítulos se visualizan de inmediato en la aplicación web con la nueva nomenclatura limpia y directa.
+
+
+
+### 👤 Autor *(2026-11-05 17:18:49 UTC)*
+
+Genera todos los PDFS con los nuevos títulos de capítulos y apartados.
+
+### 📜 Bill & Capitán Memo *(2026-11-05 17:30:00 UTC)*
+
+**Regeneración Tipográfica Integral de Todos los PDFs de la Novela con Nomenclatura Concisa:**
+1. **Árbol de Capítulos (`generar_arbol_capitulos_pdf.py`):**
+   - Actualizado el Códex con la jerarquía completa: 3 Actos concisos (*LA SEMILLA*, *EL COLAPSO*, *EL SILENCIO*), los 6 Bloques temáticos (*LA MENTIRA*, *LA OSCURIDAD*, *EL ÉXODO*, *EL DUELO*, *LA AGUJA*, *LA CAÍDA*), los 25 capítulos con títulos de 1 a 3 palabras y los 123 apartados/escenas canónicos.
+   - Estado de canon 100% canónico para los 25 capítulos.
+   - Generados: `Arbol_Capitulos_La_Cancion_del_Silencio.pdf` y `ARBOL_CAPITULOS.pdf` (raíz y `novela/`).
+2. **Sinopsis General de la Novela (`generar_sinopsis_pdf.py`):**
+   - Sincronizada la tabla matriz de 25 capítulos y todas las tarjetas de desglose argumental con los nuevos títulos concisos y nombres de Actos.
+   - Generados: `Sinopsis_La_Cancion_del_Silencio.pdf` y `SINOPSIS.pdf` (raíz y `novela/`).
+3. **Propuesta de Títulos Cortos (`generar_propuesta_titulos_pdf.py`):**
+   - Regenerados `PROPUESTA_TITULOS_CORTOS.pdf` y `Propuesta_Titulos_Cortos_La_Cancion_del_Silencio.pdf` (raíz y `novela/`).
+4. **Compilación Integral de los 25 Capítulos Individuales (`generar_todos_capitulos_pdf.py`):**
+   - Desarrollado y ejecutado el generador maestro con canvas de dos pasadas (`DynamicBookCanvas`), encabezados de Acto (`ACTO I: LA SEMILLA`, `ACTO II: EL COLAPSO`, `ACTO III: EL SILENCIO`) y pie de página con el título conciso (`Capítulo X: [Título]`) y numeración correlativa.
+   - Parser markdown robusto capaz de gestionar diálogos, citas en bloque, teletipos, separadores y jerarquía tipográfica.
+   - Generados los 25 PDFs con nueva denominación concisa (`Capitulo_1_Alamogordo.pdf` a `Capitulo_25_La_Cancion.pdf`) y sincronizados los PDFs de denominación tradicional para retrocompatibilidad total, con duplicados en `novela/`.
+   - Actualizados todos los scripts individuales `generar_capitulo1_pdf.py` a `generar_capitulo25_pdf.py`.
+5. **Documentación y Visor Web:**
+   - Sincronizados `novela/sinopsis.md`, `novela/recapitulacion.md` y `novela/meta.json`.
+   - Recompilada la base de datos web con `node build-novel-data.js` actualizando `chapters-data.js` y `version.json` (build 1793899661985).

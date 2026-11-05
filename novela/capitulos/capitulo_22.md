@@ -1,6 +1,6 @@
-# Capítulo 22: La Máscara de los Héroes y el Reencuentro del Hogar
+# Capítulo 22: El Hogar
 
-### I. El Deshielo de las Máquinas
+### I. Desmovilización
 
 El desierto de Mojave ya no olía a ozono quemado ni a polvo radiactivo.
 
@@ -74,7 +74,7 @@ Se besaron allí mismo, a plena luz del día, sobre el asfalto caliente de Nevad
 
 ---
 
-### II. El Vientre que Vuelve a Respirar
+### II. San Francisco
 
 El rugido de las turbinas del Black Hawk desacelerando sobre el helipuerto improvisado del Centro Cívico fue el primer sonido que devolvió a Sarah Lin a la realidad de la bahía.
 
@@ -134,7 +134,7 @@ En ese rincón humilde de San Francisco, con el aroma del café recién hecho fl
 
 ---
 
-### III. El Silencio del Lago Lemán
+### III. Versoix
 
 El helicóptero militar Super Puma de las Fuerzas Aéreas Suizas descendió en vuelo estacionario sobre el prado comunal de Versoix, doblando la hierba crecida con el vendaval rítmico de sus palas.
 
@@ -196,7 +196,7 @@ Hablaron de las clases de Julien, que se reanudarían en octubre en el liceo; de
 
 ---
 
-### IV. El Retorno a Suffolk
+### IV. Suffolk
 
 La campiña de East Anglia se extendía bajo el sol de finales de septiembre como un tapiz de ocres, verdes oscuros y rastrojos dorados.
 
@@ -260,7 +260,7 @@ El mundo estaba a salvo. Su familia estaba viva. Y en dos semanas, Sarah Lin cru
 
 ---
 
-### V. La Paz Frente a la Chimenea
+### V. La Chimenea
 
 La lluvia fina de finales de septiembre repicaba con una mansa insistencia inglesa contra los cristales emplomados de la granja de Suffolk.
 
@@ -322,7 +322,7 @@ Thomas contempló el relicario con una mezcla de curiosidad indulgente y leve ex
 
 ---
 
-### VI. El Secreto del Relicario
+### VI. La Cinta
 
 Thomas se acercó a la chimenea y tomó el relicario con ambas manos.
 

@@ -1,6 +1,6 @@
-# Capítulo 3: La Sala Dos
+# Capítulo 3: Sala Dos
 
-### 📍 I. La Huella del Ermitaño
+### I. La Espera
 *Del 11 al 21 de septiembre de 2026*  
 *Ginebra — Cambridge — Darmstadt*
 
@@ -31,7 +31,7 @@ Ninguno de los tres vaciló. Reajustaron agendas, solicitaron permisos breves de
 
 ---
 
-### 📍 II. El Auditorio Silencioso
+### II. Penumbra
 *09:55 EDT — 24 de septiembre de 2026*  
 *Hotel Millennium, Midtown East, Manhattan, Nueva York*
 
@@ -105,7 +105,7 @@ Los tres se acomodaron juntos en el centro de la hilera, mirando fijamente la in
 
 ---
 
-### 📍 III. El Rostro en la Pantalla
+### III. El Rostro
 *10:05 EDT*
 
 Un zumbido tenue recorrió el falso techo del auditorio.
@@ -148,7 +148,7 @@ Pleh suspiró con suavidad y juntó las manos.
 
 ---
 
-### 📍 IV. La Caída del Velo y la Gran Pregunta
+### IV. La Entidad
 *10:15 EDT*
 
 Cuando las últimas palabras de Pleh resonaron en el auditorio, Sarah Lin fue la primera en romper el hechizo. Se puso en pie despacio, cruzándose de brazos con una expresión en la que el halago inicial dejaba paso a una suspicacia afilada.
@@ -223,7 +223,7 @@ Pleh sostuvo la mirada de los tres con una gravedad repentina que enfrió la sal
 
 ---
 
-### 📍 V. La Amenaza Desconocida y el Vector L1
+### V. Vector L1
 *10:35 EDT*
 
 Con un movimiento fluido de Pleh, la imagen del despacho en la pantalla gigante se redujo a un recuadro lateral y el espacio central proyectó un mapa tridimensional del sistema solar. En los límites exteriores, más allá de la órbita de los planetas gigantes, una trayectoria marcada en rojo descendía hacia el interior.
@@ -258,7 +258,7 @@ Girard sintió un escalofrío que le erizó la piel de los brazos.
 
 ---
 
-### 📍 VI. La Sentencia Silenciosa y el Vértigo de la Extinción
+### VI. Ocho Meses
 *10:48 EDT*
 
 Un silencio helado, denso como el plomo, cayó sobre la Sala 2.
@@ -301,7 +301,7 @@ Girard se apresuró a tenderle una botella de agua mineral que llevaba en su mal
 
 ---
 
-### 📍 VII. El Origen Revelado: 1945, Luz y el Avatar
+### VII. El Statite
 *10:58 EDT*
 
 Cuando Sarah levantó la cabeza y el silencio volvió a asentarse en el auditorio, Girard se volvió hacia la pantalla colosal con una determinación renovada. Sus ojos escrutaban al hombre del jersey con una intensidad abrasadora.
@@ -360,7 +360,7 @@ Girard tragó saliva, sintiendo que la última barrera de su escepticismo caía 
 
 ---
 
-### 📍 VIII. La Respuesta de la Tierra
+### VIII. El Arpón
 *11:10 EDT*
 
 Los tres científicos permanecieron en silencio, mirando fijamente la pantalla colosal. La magnitud de la revelación era gigantesca: no solo se enfrentaban al fin de su mundo en cuestión de meses, sino que tenían ante ellos al testigo silencioso de toda su historia reciente.

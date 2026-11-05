@@ -1,6 +1,6 @@
-# Capítulo 7: La Condición Immedible
+# Capítulo 7: El Secreto
 
-### 📍 I. La Burbuja de Cristal
+### I. Culpa
 *Restaurante Il Giardino, Calle 44 Este, Manhattan — 8 de octubre de 2026, 13:20 EDT*
 *Cuenta atrás: Faltan 44 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
 
@@ -48,7 +48,7 @@ Thomas suspiró lentamente, dejando que la mirada se le perdiera en el trasiego 
 
 ---
 
-### 📍 II. La Herida Racional
+### II. Girard
 *Restaurante Il Giardino, Manhattan — 8 de octubre de 2026, 14:05 EDT*
 *Cuenta atrás: Faltan 44 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
 
@@ -98,7 +98,7 @@ Al cruzar la puerta del restaurante, el bullicio de Nueva York los golpeó en el
 
 ---
 
-### 📍 III. Las Variables Ocultas
+### III. La Tripulación
 *Sala de Crisis B-4, Subsuelo del Complejo de la ONU — 8 de octubre de 2026, 15:35 EDT*
 *Cuenta atrás: Faltan 44 días para Fase 1 (T = 0, Silencio Magnético — 21 de noviembre de 2026)*
 
