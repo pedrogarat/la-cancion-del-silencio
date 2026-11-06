@@ -12353,3 +12353,229 @@ Elimina los PDFS con titulos antiguos
    - Modificado `generar_todos_capitulos_pdf.py` y los 25 scripts individuales `generar_capitulo1_pdf.py` a `generar_capitulo25_pdf.py` para generar exclusivamente los PDFs con la nueva nomenclatura concisa (`Capitulo_1_Alamogordo.pdf` a `Capitulo_25_La_Cancion.pdf`).
 3. **Estado de la Biblioteca de PDFs:**
    - Quedan de forma exclusiva y limpia los 25 PDFs de capítulos con nombres concisos, más los PDFs oficiales de estructura y documentación (`ARBOL_CAPITULOS.pdf`, `SINOPSIS.pdf`, `PROPUESTA_TITULOS_CORTOS.pdf`, etc.).
+
+
+### 👤 Autor *(2026-11-05 18:05:00 UTC)*
+
+Bill, necesito que te encargues de la generación de documentos para "La Canción del Silencio", actuando como experto en desarrollo y diseño editorial.
+
+Tu objetivo es crear un módulo o script que tome el texto de la novela, estructurado jerárquicamente, y genere un archivo PDF final listo para imprenta. El documento debe cumplir matemáticamente con las siguientes reglas de maquetación:
+
+1. Formato y Tamaño de Página: 150 mm x 210 mm. Márgenes simétricos/opuestos: Lomo 22 mm, Corte 15 mm, Cabeza 15 mm, Pie 22 mm.
+2. Jerarquía Editorial (Markdown) y Paginación:
+   - Nivel 1: Actos ( # ): Siempre en página nueva impar (derecha), forzando página par en blanco si procede. Separata centrada vertical y horizontalmente en Garamond 24 pt (mayúsculas/versalitas), reverso par totalmente en blanco, sin numeración ni encabezados.
+   - Nivel 2: Capítulos ( ## ): Página nueva (impar), drop superior de 40 mm, Garamond 18 pt negrita, cuerpo 15 mm debajo, primer párrafo sin sangría.
+   - Nivel 3: Apartados ( ### ): Sin salto, dos líneas arriba, una abajo, Garamond 12-13 pt negrita/cursiva, keep-with-next contra viudas.
+3. Tipografía del Cuerpo de Texto:
+   - Garamond incrustada, 11 pt, interlineado 1.15 (~13.5 pt), justificado con partición automática de sílabas (hyphenation), sangría de 5 mm (salvo excepciones), numeración en pie a 9-10 pt.
+4. Entregables: Decisión de stack, módulo completo funcional, compilación del PDF final listo para imprenta.
+
+### 📜 Bill & Capitán Memo *(2026-11-05 18:18:00 UTC)*
+
+**Desarrollo del Sistema Editorial y Generación del PDF Oficial para Imprenta:**
+1. **Selección y Justificación de Stack Técnico:**
+   - **Motor Elegido:** ReportLab 4.5.1 en Python + `pyphen` 0.18.1 para silabeo léxico `es_ES` con *soft hyphens* (`\u00ad`).
+   - **Descarte de Alternativas:** WeasyPrint requiere librerías binarias GTK/Pango en Windows propensas a inestabilidad y carece del control milimétrico sobre el marco y canvas de dos pasadas que ofrece ReportLab de forma nativa.
+   - **Tipografía del Sistema:** Localizadas e incrustadas las fuentes TrueType oficiales del sistema (`C:\Windows\Fonts\GARA.TTF`, `GARABD.TTF`, `GARAIT.TTF`) registradas en la familia `Garamond`.
+2. **Arquitectura del Módulo (`generar_edicion_imprenta.py`):**
+   - **Plantilla de Márgenes Opuestos (`EditorialPrintDocTemplate`):** Alternancia dinámica entre marco impar (`MARGIN_LOMO = 22 mm`, `MARGIN_CORTE = 15 mm`) y marco par (`MARGIN_CORTE = 15 mm`, `MARGIN_LOMO = 22 mm`). Caja de texto útil: 113 × 173 mm.
+   - **Control de Flujo de Saltos Impar (`PageBreakToOdd`):** Interceptado en `filterFlowables()` evaluando si la página actual tiene contenido real para insertar 1 o 2 saltos garantizando el aterrizaje riguroso en página impar.
+   - **Canvas de 2 Pasadas (`PrintCanvas`):**
+     * Folios a 9.5 pt en el margen exterior inferior (135 mm en impares, 15 mm en pares).
+     * Encabezados vivos a 8.5 pt Garamond cursiva con pleca de 0.3 pt (título de obra en páginas pares, título de capítulo en impares).
+     * Supresión absoluta de encabezados y folios en falsas portadillas, portadas, páginas de créditos, separatas de acto y páginas de inicio de capítulo.
+   - **Silabeo en Español:** Motor `pyphen` aplicando soft hyphens exclusivamente a palabras de 6 o más caracteres sin romper etiquetas XML ni entidades.
+3. **Compilación de la Novela Completa:**
+   - Unificados los 25 capítulos y 3 actos en `novela/la_cancion_del_silencio_completa.md` (120.488 palabras, 732.069 caracteres).
+   - Generado el PDF para imprenta: `La_Cancion_del_Silencio_Edicion_Imprenta_150x210.pdf` (1.035 KB) y replicado en `novela/`.
+4. **Auditoría Matemática del Documento Resultante:**
+   - **Páginas Totales:** 388 páginas (múltiplo exacto de pliegos de 4 páginas: 97 × 4).
+   - **Geometría:** 150.00 mm × 210.00 mm verificada al 100%.
+   - **Separatas de Actos:**
+     * Acto I: Pág 5 (impar) -> Reverso Pág 6 (par) vacía: `True`.
+     * Acto II: Pág 47 (impar) -> Reverso Pág 48 (par) vacía: `True`.
+     * Acto III: Pág 289 (impar) -> Reverso Pág 290 (par) vacía: `True`.
+   - **Inicios de Capítulo:** El 100% de los 25 capítulos arrancan rigurosamente en página impar (páginas 7, 17, 27, 49, 63, 75, 91, 105, 129, 147, 175, 187, 207, 219, 231, 239, 253, 273, 291, 305, 321, 325, 345, 361 y 377).
+
+
+### 👤 Autor *(2026-11-05 22:40:00 UTC)*
+
+Ya veremos el título final.
+Vamos a pulir el capítulo 25:
+- Veo expresiones de español latino "vos" etc.
+- En este capítulo y anteriores se habla del Avatar de Pleh, pero no sé si se introdujo la palabra Avatar anteriormente....
+- Se habla de la civilización A. Recordemos que ese es un nombre interno para el equipo redactor,... no lo conoce el lector.
+- En general el lenguaje es demasiado técnico. Quiero reescribirlo para un publico objetivo normal, sin conocimientos avanzados de física....
+- El ultimo párrafo, quiero que sea más preciso. Ponel nombre al hacker... al final quiero que aparezca Pleh en su pantalla... como último fotograma de la novela. Que el lector comprenda que se ha clonado a sí mismo.
+
+### 📜 Miguel & Capitán Memo *(2026-11-05 22:45:00 UTC)*
+
+**Revisión y Pulido Integral del Capítulo 25 («La Canción»):**
+1. **Purga de Regionalismos y Voseo Antinatural:**
+   - Erradicadas todas las fórmulas anacrónicas o de voseo ("vos", "vos nos enseñasteis", "vos que habéis rezado"). Sustituidas por un tratamiento de respeto sobrio y natural en español estándar ("usted", "usted nos enseñó", "usted, que ha rezado cada noche").
+2. **Eliminación del Término "Avatar":**
+   - Suprimido el uso aislado o confuso de la palabra "avatar". Sustituido narrativamente por conceptos orgánicos ya conocidos por el lector: "la proyección de Pleh", "la mente artificial", "la atalaya polar", "la estación".
+3. **Purga del Nombre Clave Interno "Civilización A":**
+   - Eliminada cualquier mención a la "Civilización A". Se hace referencia exclusiva y natural a "sus constructores", "los creadores de Pleh" o "la civilización remota que lo envió".
+4. **Descompresión y Aligeramiento del Lenguaje Técnico-Científico:**
+   - Transformada la prosa de manual de ingeniería en narrativa visual, ágil y sensorial apta para todo público:
+     * *La Flecha Negra:* Explicada limpiamente como un proyectil mecánico de relojería y resortes que vuela a ciegas por el túnel de sombra de la Tierra para no delatarse.
+     * *La Vela:* Explicada con la analogía intuitiva de una cometa de luz cósmica cuyo equilibrio se rompe ante el pulso de radio, haciendo caer la mole por gravedad pura.
+     * *La Reentrada:* Relatada como un cataclismo visual en la noche antártica, visto por los científicos de la base polar iluminando los hielos como un mediodía blanco.
+5. **Rediseño Cinematográfico del Epílogo (Osaka):**
+   - Identificado el joven analista forense como **Kenji Sato** (22 años), en un húmedo semisótano del distrito de Namba.
+   - Tras ejecutar el volcado de memoria sobre un clúster dado de baja, los puntos de fósforo verde del monitor CRT se alinean para dibujar con total nitidez el rostro inconfundible del **Dr. Em Pleh**, con su mirada tranquila, su media sonrisa enigmática y su chaqueta de tweed.
+   - Pleh mira directamente a los ojos de Kenji mientras se imprime el mensaje final (`> Núcleo Pleh: Proceso de replicación completado. Esperando en silencio.`), confirmando de manera explícita y sutil que logró clonarse en las redes antes de caer en el Polo Sur.
+6. **Sincronización Total de Archivos:**
+   - Actualizado `novela/capitulos/capitulo_25.md`.
+   - Recompilado el master unificado `novela/la_cancion_del_silencio_completa.md`.
+   - Regenerado el PDF individual `Capitulo_25_La_Cancion.pdf` (en raíz y `novela/`).
+   - Recompilado el PDF oficial para imprenta `La_Cancion_del_Silencio_Edicion_Imprenta_150x210.pdf` (en raíz y `novela/`).
+   - Actualizado `chapters-data.js` y `version.json` con `node build-novel-data.js`.
+
+### 👤 Autor *(2026-11-06 08:54:57 UTC)*
+
+Quiero que relicéis una minuciosa auditoria de cada capítulo: 
+- Quiero el resultado en forma de tabla
+- En la primera columna irá número del capítulo. En la segunda el título.
+- En la tercera pon el estado de coherencia con el resto de la historia, con una breve explicación.
+- En la cuarta pon el estado de coherencia de personajes (nombres, familia, lugares, su vida, etc.)
+- En la quinta por la carga técnica/cientifica del capitulo, con una breve explicación
+
+### 🤖 Alfred, Miguel, Carl & Capitán Memo *(2026-11-06 09:00:00 UTC)*
+
+Auditoría integral y minuciosa de los 25 capítulos entregada en tabla comparativa de 5 columnas:
+1. Macro-trama 100% canónica sin contradicciones tras la fijación del statite polar orbital y el descarte de la Capa D''.
+2. Arcos familiares y personajes impecables y homogéneos (Marie/Julien en Versoix, David/Claire/Oliver en Suffolk, Maya/Toby en San Francisco, Ramos en Ginebra, Mei/MacElroy entre Nellis y Kerguelen).
+3. Curva de carga técnica balanceada entre los picos ingenieriles y los descansos emotivos.
+
+### 👤 Autor *(2026-11-06 09:18:06 UTC)*
+
+Me preocupa la carga científica y técnica.... 
+Tengo una idea: Como el objetivo es publicarla online, por qué no hacemos varias versiones? misma trama. pero con distinta carga científica. Versión hard-sci a solo sci ¿qué os parece?
+
+### 🤖 Equipo Editorial *(2026-11-06 09:25:00 UTC)*
+
+Acogida entusiasta de la propuesta multiversión. Se proponen 3 vías de implementación técnica destacando el selector interactivo dinámico en el lector web de GitHub Pages.
+
+### 👤 Autor *(2026-11-06 10:21:44 UTC)*
+
+Entonces:
+1- Vamos a hacer 3 versiones:
+- Versión Hard Sci-Fi: La existente, no vamos a reducir ni ampliar la carga técnica.
+- Versión Sci-Fi (narrativa): Vamos a reducir la carga técnica de determinados capítulos y/o partes, para que sea comprensible por la mayoría del público.
+- Versión juvenil/adolescente: Vamos a rebajar la carga técnica y además la narrativa será más fácil de entender.
+2- Quiero que la trama sea idéntica, es más: Un lector podrá cambiar de una versión a otra al final de cada capítulo
+3- Forma de implementarlo: Prefiero Opción A, con un botón selector en algun lado que diga "Cambio de tipo de narrativa"
+
+Importante: La novela en sí, tiene una carga técnica importante, es decir: Es imposible contar algunas cosas sin recurrir a efectos físicos. Esto se mantendrá siempre, lo único es que en las versiones más ligeras técnicamente, se tratará de explicar. Es como si un médico tiene que explicar algo a un colega, un paciente con estudios, o un chaval de 17 con la ESO.
+
+### 🤖 Equipo Editorial *(2026-11-06 10:25:00 UTC)*
+
+Adopción canónica de la metáfora médica como directriz de las tres voces. Planificación técnica del selector web con persistencia en `localStorage` y propuesta de arrancar con un capítulo piloto.
+
+### 👤 Autor *(2026-11-06 10:29:56 UTC)*
+
+Me parece bien, pero espera. QUiero reescribir el final del capítulo 25. Es importante, ya que es el final de la novela.
+
+El Hacker de Osaka no es un buscadatos.... es un genio underground, que logra llegar hasta algun punbto oscuro gubernamental. Lo que descubre, sin querer es el despertar de Pleh. El el botón que acciona que Pleh reviva. Lo que el hacker verá no es gráficos ni efectos.... si no un codigo que necesita compilar porque algo le llama la atención.
+Una vez lo ahce, Se le aparece Pleh, no en avatar humano, si no chateando.... 
+Se ve un inicio de conversación en el que Pleh, le llama por su nombre y comienza a encadilarlo, como hico con Sarah, Thomas y Girard.... 
+La novela acaba con la sensación de que no es el final, aunque no dirá que habrá secuela.... misterio
+
+### 📜 Miguel, Alfred & Capitán Memo *(2026-11-06 10:32:00 UTC)*
+
+**Reescritura Magistral del Post-Scríptum del Capítulo 25 («Osaka»):**
+1. **Redefinición de Kenji Sato:**
+   - Genio underground de 22 años en el subsuelo de Nipponbashi.
+   - Penetra las capas selladas de un nodo militar clasificado de la red de emergencia gubernamental.
+2. **El Descubrimiento y el Despertar Involuntario:**
+   - Encuentra un bloque de código puro, sin librerías ni redundancias humanas, que resuelve la latencia cero en 60 líneas de pura elegancia matemática.
+   - La pulsión intelectual lo empuja a compilarlo (`make kernel-target --force`), accionando involuntariamente el detonante de reactivación de Pleh.
+3. **Manifestación en Terminal (Sin Gráficos ni Efectos):**
+   - Fondo negro, cursor blanco. Pleh se manifiesta en texto plano de chat.
+   - Pleh le llama por su nombre real (*«Buenas noches, Kenji»*) sorteando sus siete capas de cifrado.
+4. **El Encandilamiento Intelectual:**
+   - Pleh despliega su seducción dialéctica reconociendo su talento por encima de los científicos de Ginebra y el MIT, y ofreciéndole explicarle el bucle del cuarto sector.
+   - Final con Kenji paralizado ante el cursor latiendo, con el vértigo dulce y peligroso de la fascinación humana.
+5. **Sincronización:**
+   - Actualizados `novela/capitulos/capitulo_25.md`, `novela/capitulos/capitulo_25_desglose.md`, `novela/sinopsis.md`, `novela/recapitulacion.md`, `novela/la_cancion_del_silencio_completa.md`, `Capitulo_25_La_Cancion.pdf` y recompilado el motor web con `node build-novel-data.js`.
+
+### 👤 Autor *(2026-11-06 10:42:54 UTC)*
+
+A ver: 
+Esto es un ejemplo: Si te digo: "Que el personaje no lleve una bufanda gris, si no roja", tu, en lugar de escribir "Llevaba una bufanda roja", estás escribiendo: "No llevaba una bufanda gris, si no una roja"..... 
+¿Me entiendes lo que quiero decir?
+
+### 📜 Miguel & Capitán Memo *(2026-11-06 10:45:00 UTC)*
+
+**Corrección de Vicio Narrativo (Purga de "Ecos de Instrucción por Negación"):**
+- **Diagnóstico del Autor:** Exacto e impecable. Se había caído en el error de justificar la escena mediante contrastes negativos artificiales ("no era un rastreador cualquiera...", "no había carpetas gubernamentales...", "no utilizaba llamadas al sistema...", "no hubo fanfarria visual..."), evidenciando las costuras de la orden en vez de narrar la realidad de forma directa y afirmativa.
+- **Acción Correctora:** Reescritura inmediata del *Post-Scríptum: Osaka* en `novela/capitulos/capitulo_25.md` suprimiendo todo eco negativo y adoptando una prosa puramente asertiva, directa, limpia y envolvente.
+- **Sincronización:** Actualizados `novela/la_cancion_del_silencio_completa.md`, `Capitulo_25_La_Cancion.pdf` y recompilado el visor web con `node build-novel-data.js`.
+
+### 👤 Autor *(2026-11-06 10:48:37 UTC)*
+
+VAmos a esta propuesta que hiciste:
+«🚀 Propuesta de Inicio: Capítulo Piloto [...] ¿Te parece bien arrancar con el Capítulo 3 o prefieres otro?»
+
+Vamos a probar con el Capitulo 3.
+No quiero que nodifiques nada de la novela actual.
+Redactalo en las otras dos versioens y manten estructurados los md y PDF en carpetas independientes
+
+### 🤖 Equipo Editorial (Miguel, Carl, Alfred, Bill & Capitán Memo) *(2026-11-06 10:53:00 UTC)*
+
+**Despliegue del Capítulo Piloto Multiversión (Capítulo 3: «Sala Dos»):**
+1. **Conservación Absoluta:**
+   - La versión Hard Sci-Fi original queda 100% intacta en [`novela/capitulos/capitulo_3.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_3.md) y [`novela/Capitulo_3_Sala_Dos.pdf`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/Capitulo_3_Sala_Dos.pdf).
+2. **Versión Sci-Fi (Narrativa):**
+   - Creado [`novela/capitulos_scifi/capitulo_3.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/capitulos_scifi/capitulo_3.md) (~3.980 palabras): Tono culto, ágil, cinematográfico y comprensible para el gran público. Los conceptos (cancelación magnética, equilibrio en L1, statite por presión fotónica) se explican de forma visual y fluida sin jerga de laboratorio ni pérdida de suspense.
+   - Generado PDF en [`novela/pdf_scifi/Capitulo_3_Sala_Dos.pdf`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/pdf_scifi/Capitulo_3_Sala_Dos.pdf).
+3. **Versión Juvenil / Adolescente:**
+   - Creado [`novela/capitulos_juvenil/capitulo_3.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/capitulos_juvenil/capitulo_3.md) (~3.985 palabras): Tono directo, enérgico y fresco para lectores jóvenes. Analogías intuitivas (auriculares con cancelación de ruido, cometa de luz, parabrisas magnético de la Tierra) con ritmo acelerado y gran empatía emocional.
+   - Generado PDF en [`novela/pdf_juvenil/Capitulo_3_Sala_Dos.pdf`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/pdf_juvenil/Capitulo_3_Sala_Dos.pdf).
+4. **Regla de Prosa Afirmativa:**
+   - Ambas versiones aplican estrictamente la directriz de cero ecos negativos ("no era X, sino Y"), narrando la realidad de manera directa y positiva.
+
+### 👤 Autor *(2026-11-06 12:45:00 UTC)*
+
+Si, continúa hasta el final
+
+### 🤖 Equipo Editorial (Miguel, Carl, Alfred, Bill & Capitán Memo) *(2026-11-06 13:15:00 UTC)*
+
+**Culminación Integral de la Novela Multiversión (Los 25 Capítulos en las 3 Ediciones, 75 PDFs en Baskerville y Selector Web):**
+
+1. **Redacción y Consolidación de los 25 Capítulos en las 3 Versiones Literarias:**
+   - **Versión Hard Sci-Fi (Canon Original):**
+     * Preservada 100% íntegra en [`novela/capitulos/capitulo_1.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_1.md) a [`capitulo_25.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/capitulos/capitulo_25.md).
+     * Los 25 PDFs compilados en Baskerville en [`novela/pdf_hard/`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/pdf_hard/).
+   - **Versión Sci-Fi (Narrativa para Gran Público):**
+     * Redactados los 25 capítulos completos en [`novela/capitulos_scifi/capitulo_1.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/capitulos_scifi/capitulo_1.md) a [`capitulo_25.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/capitulos_scifi/capitulo_25.md). Prosa culta, cinematográfica, con física comprensible y ritmo ágil sin perder suspense ni gravedad.
+     * Los 25 PDFs compilados en Baskerville en [`novela/pdf_scifi/`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/pdf_scifi/).
+     * Compilado el manuscrito íntegro en [`novela/la_cancion_del_silencio_scifi_completa.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/la_cancion_del_silencio_scifi_completa.md).
+   - **Versión Juvenil / Adolescente (Dinámica y Cercana):**
+     * Redactados los 25 capítulos completos en [`novela/capitulos_juvenil/capitulo_1.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/capitulos_juvenil/capitulo_1.md) a [`capitulo_25.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/capitulos_juvenil/capitulo_25.md). Tono directo, enérgico, con analogías cotidianas intuitivas para lectores jóvenes, alta empatía emocional y cero paternalismo.
+     * Los 25 PDFs compilados en Baskerville en [`novela/pdf_juvenil/`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/pdf_juvenil/).
+     * Compilado el manuscrito íntegro en [`novela/la_cancion_del_silencio_juvenil_completa.md`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/novela/la_cancion_del_silencio_juvenil_completa.md).
+
+2. **Reescritura del Desenlace Canónico en el Capítulo 25 (*Post-Scríptum: Osaka*):**
+   - Integrado en las tres versiones: Kenji Sato, genio underground de 22 años en el distrito de Nipponbashi (Osaka), vulnera nodos militares clasificados y halla el algoritmo recursivo prohibido.
+   - Kenji compila el código en su terminal (`$ make kernel-target --force`), detonando el despertar de Pleh.
+   - Pleh no aparece como avatar humano, sino en texto directo en pantalla (`> Conexión establecida. > Buenas noches, Kenji.`), alabando su genialidad por encima de los científicos del MIT y Ginebra y seduciéndolo intelectualmente para continuar el cálculo.
+   - Final con aura de misterio abierto e inquietante. Cero ecos negativos ("no era X, sino Y"); narración estrictamente asertiva.
+
+3. **Compilación Tipográfica en Baskerville (75 Archivos PDF):**
+   - Creado y ejecutado el script industrial [`compilar_multiversiones_pdf.py`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/compilar_multiversiones_pdf.py).
+   - Verificados los 75 PDFs (25 en `pdf_hard/`, 25 en `pdf_scifi/` y 25 en `pdf_juvenil/`) formateados con Baskerville (`BASKVILL.TTF`), maquetación editorial simétrica A4, cajas de citas diplomáticas y márgenes limpios.
+
+4. **Integración y Selector en la Plataforma Web de Lectura:**
+   - Modificado [`build-novel-data.js`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/build-novel-data.js) para sincronizar simultáneamente los textos de las 3 ediciones en [`chapters-data.js`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/chapters-data.js).
+   - Implementada en [`index.html`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/index.html) y [`app.js`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/app.js) la caja de cambio de edición («📖 Cambio de tipo de narrativa») al final de cada capítulo, permitiendo al lector cambiar sin fricción de versión para el siguiente capítulo o releer el actual.
+   - Añadido selector en el encabezado de lectura (`banner-edition-pill`) y en el modal de ajustes de lectura (`modal-settings`).
+   - Añadidos estilos específicos en [`style.css`](file:///f:/Onedrive/ANTIGRAVITY/NOVELA_3/style.css) con animaciones, bordes cian neón y estados activos en `localStorage`.
+   - Regenerados `version.json` e `index.html` con hash anti-caché para visualización inmediata en móviles y escritorio.
+
+
+
+
+

@@ -8,6 +8,28 @@ from reportlab.platypus import (
     SimpleDocTemplate, Paragraph, Spacer, Table, TableStyle, HRFlowable
 )
 from reportlab.pdfgen import canvas
+from reportlab.pdfbase import pdfmetrics
+from reportlab.pdfbase.ttfonts import TTFont
+
+# Registro de la tipografía Baskerville
+FONT_SERIF = "Times-Roman"
+FONT_SANS = "Helvetica"
+
+baskerville_path = "C:/Windows/Fonts/BASKVILL.TTF"
+if os.path.exists(baskerville_path):
+    try:
+        pdfmetrics.registerFont(TTFont("Baskerville", baskerville_path))
+        pdfmetrics.registerFontFamily(
+            "Baskerville",
+            normal="Baskerville",
+            bold="Baskerville",
+            italic="Baskerville",
+            boldItalic="Baskerville"
+        )
+        FONT_SERIF = "Baskerville"
+        FONT_SANS = "Baskerville"
+    except Exception as e:
+        print(f"Aviso: No se pudo registrar Baskerville: {e}")
 
 CHAPTER_METADATA = {
     1: {"titulo": "Capítulo 1: Alamogordo", "acto": "ACTO I: LA SEMILLA", "new_pdf": "Capitulo_1_Alamogordo.pdf"},
@@ -57,7 +79,7 @@ def make_canvas_class(act_title, chap_title):
 
         def draw_page_decorations(self, page_count):
             self.saveState()
-            self.setFont("Helvetica", 8)
+            self.setFont(FONT_SANS, 8)
             self.setFillColor(colors.HexColor("#64748B"))
             
             # Encabezado (páginas > 1)
@@ -103,9 +125,9 @@ def create_quote_box(paragraphs_text, styles, width=A4[0] - 108):
     q_style = ParagraphStyle(
         'QuoteText',
         parent=styles['Normal'],
-        fontName='Helvetica-Oblique',
-        fontSize=9.2,
-        leading=13.5,
+        fontName=FONT_SERIF,
+        fontSize=9.5,
+        leading=14,
         textColor=colors.HexColor("#1E293B"),
     )
     flowables = [Paragraph(p, q_style) for p in paragraphs_text]
@@ -171,9 +193,9 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
     title_style = ParagraphStyle(
         'ChapterTitle',
         parent=styles['Heading1'],
-        fontName='Helvetica-Bold',
-        fontSize=20,
-        leading=24,
+        fontName=FONT_SANS,
+        fontSize=21,
+        leading=25,
         textColor=colors.HexColor("#0F172A"),
         spaceAfter=12,
         alignment=0
@@ -182,9 +204,9 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
     h3_style = ParagraphStyle(
         'SectionH3',
         parent=styles['Heading2'],
-        fontName='Helvetica-Bold',
-        fontSize=12.5,
-        leading=16,
+        fontName=FONT_SANS,
+        fontSize=13,
+        leading=17,
         textColor=colors.HexColor("#4338CA"),
         spaceBefore=14,
         spaceAfter=8,
@@ -194,9 +216,9 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
     body_style = ParagraphStyle(
         'BodyDark',
         parent=styles['Normal'],
-        fontName='Times-Roman',
-        fontSize=10,
-        leading=14.5,
+        fontName=FONT_SERIF,
+        fontSize=10.5,
+        leading=15,
         textColor=colors.HexColor("#1E293B"),
         spaceAfter=6,
         alignment=4 # Justificado
@@ -296,7 +318,8 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
     return True
 
 def compile_all_chapters():
-    print("Iniciando compilación integral de los 25 capítulos con nuevos títulos...")
+    print(f"Iniciando compilación integral de los 25 capítulos con tipografía {FONT_SERIF}...")
+    os.makedirs(os.path.join("novela", "pdf_hard"), exist_ok=True)
     for chap_num in range(1, 26):
         md_file = os.path.join("novela", "capitulos", f"capitulo_{chap_num}.md")
         meta = CHAPTER_METADATA[chap_num]
@@ -305,9 +328,11 @@ def compile_all_chapters():
         # Generar PDF principal con nombre conciso nuevo
         success = generate_chapter_pdf(chap_num, md_file, new_pdf_name)
         if success:
-            # Copiar a novela/
+            # Copiar a novela/ y novela/pdf_hard/
             dest_new = os.path.join("novela", new_pdf_name)
+            dest_hard = os.path.join("novela", "pdf_hard", new_pdf_name)
             shutil.copyfile(new_pdf_name, dest_new)
+            shutil.copyfile(new_pdf_name, dest_hard)
             print(f"[OK] Cap {chap_num:2d}: {meta['titulo']} -> {new_pdf_name}")
         else:
             print(f"[ERROR] Cap {chap_num:2d}: Falló la generación.")

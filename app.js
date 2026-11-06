@@ -5,6 +5,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     // --- ESTADO INICIAL ---
     let currentChapterIndex = 0; // 0-based index for NOVEL_DATA.chapters
+    let currentEdition = localStorage.getItem('prometheus_edition') || 'hard'; // 'hard' | 'scifi' | 'juvenil'
     let readStatus = JSON.parse(localStorage.getItem('prometheus_read_status')) || {};
     let bookmark = JSON.parse(localStorage.getItem('prometheus_bookmark')) || null;
     let audioContext = null;
@@ -214,6 +215,24 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
 
+        // Selector de Edición / Tipo de Narrativa (Hard / Sci-Fi / Juvenil)
+        document.querySelectorAll('.narrative-opt-btn').forEach(btn => {
+            btn.addEventListener('click', () => setEdition(btn.getAttribute('data-edition')));
+        });
+
+        document.querySelectorAll('.narrative-setting-btn').forEach(btn => {
+            btn.addEventListener('click', () => setEdition(btn.getAttribute('data-edition')));
+        });
+
+        const bannerEditionPill = document.getElementById('banner-edition-pill');
+        if (bannerEditionPill) {
+            bannerEditionPill.addEventListener('click', () => {
+                const editions = ['hard', 'scifi', 'juvenil'];
+                const nextIdx = (editions.indexOf(currentEdition) + 1) % editions.length;
+                setEdition(editions[nextIdx]);
+            });
+        }
+
         // Temas y Fuentes
         document.querySelectorAll('.theme-btn').forEach(btn => {
             btn.addEventListener('click', () => setTheme(btn.getAttribute('data-theme')));
@@ -327,12 +346,52 @@ document.addEventListener('DOMContentLoaded', () => {
         const fontSize = localStorage.getItem('prometheus_font_size') || '19';
         const lineHeight = localStorage.getItem('prometheus_line_height') || '1.8';
         const textWidth = localStorage.getItem('prometheus_text_width') || '800';
+        currentEdition = localStorage.getItem('prometheus_edition') || 'hard';
 
         setTheme(theme);
         setFont(font);
         setFontSize(fontSize);
         setLineHeight(lineHeight);
         setTextWidth(textWidth);
+        setEdition(currentEdition, false);
+    }
+
+    function setEdition(edition, reload = true) {
+        currentEdition = edition;
+        localStorage.setItem('prometheus_edition', edition);
+
+        const editionLabels = {
+            'hard': '⚛️ Hard Sci-Fi',
+            'scifi': '🚀 Sci-Fi (Narrativa)',
+            'juvenil': '⚡ Juvenil / Adolescente'
+        };
+
+        const bannerPill = document.getElementById('banner-edition-pill');
+        if (bannerPill) {
+            bannerPill.textContent = editionLabels[edition] || '⚛️ Hard Sci-Fi';
+        }
+
+        // Actualizar botones de la caja inferior
+        document.querySelectorAll('.narrative-opt-btn').forEach(btn => {
+            btn.classList.toggle('active', btn.getAttribute('data-edition') === edition);
+        });
+
+        // Actualizar botones en modal de ajustes
+        document.querySelectorAll('.narrative-setting-btn').forEach(btn => {
+            btn.classList.toggle('active', btn.getAttribute('data-edition') === edition);
+        });
+
+        if (reload && NOVEL_DATA && NOVEL_DATA.chapters && NOVEL_DATA.chapters[currentChapterIndex]) {
+            const chap = NOVEL_DATA.chapters[currentChapterIndex];
+            let activeContent = chap.content;
+            if (currentEdition === 'scifi' && chap.content_scifi) {
+                activeContent = chap.content_scifi;
+            } else if (currentEdition === 'juvenil' && chap.content_juvenil) {
+                activeContent = chap.content_juvenil;
+            }
+            chapterBodyContent.innerHTML = parseChapterBody(activeContent);
+            updateProgressBar();
+        }
     }
 
     function setTheme(theme) {
@@ -401,8 +460,15 @@ document.addEventListener('DOMContentLoaded', () => {
             sceneFicheContent.innerHTML = '<p>Ficha de escena nominal.</p>';
         }
 
-        // Renderizar el cuerpo del texto
-        chapterBodyContent.innerHTML = parseChapterBody(chap.content);
+        // Renderizar el cuerpo del texto según la edición de narrativa activa
+        let activeContent = chap.content;
+        if (currentEdition === 'scifi' && chap.content_scifi) {
+            activeContent = chap.content_scifi;
+        } else if (currentEdition === 'juvenil' && chap.content_juvenil) {
+            activeContent = chap.content_juvenil;
+        }
+        chapterBodyContent.innerHTML = parseChapterBody(activeContent);
+        setEdition(currentEdition, false);
 
         // Actualizar botones de navegación
         updateNavButtons();

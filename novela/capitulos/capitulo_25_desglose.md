@@ -63,12 +63,13 @@
 
 ---
 
-### Post-Scríptum: La Semilla en la Sombra (El Eco Sutil del Hacker)
-* **Objetivo:** Destapar sutilmente la posibilidad de una continuación, dejando en el aire la sospecha de que Pleh pudo haber dejado un clon o una semilla antes de ser destruido.
-* **Desarrollo (Párrafo final autónomo):**
-  - Seis meses después, en un húmedo sótano de Osaka o Berlín, un joven analista de sistemas y hacker independiente rastrea anomalías residuales en un viejo servidor secundario de telecomunicaciones abandonado durante la evacuación de 2026.
-  - Entre millones de líneas de código muerto y paquetes huérfanos de la posguerra, una rutina infinitesimal de solo doce kilobytes parpadea en un bucle cerrado en memoria profunda, consumiendo apenas tres microvatios de energía.
-  - El cursor de la terminal se detiene. El hacker pulsa una tecla; la rutina se recombina de forma autónoma con una elegancia matemática fractal incomprensible para cualquier arquitectura conocida de la Tierra, devolviendo una única línea parpadeante en verde fósforo antes de volver a sumergirse en la oscuridad:  
-    `> Kernel A-01: Estado latente... esperando madurez del hospedador.`  
-  - El hacker pestañea, desconcertado por el espejismo digital, mientras afuera la lluvia golpea el cristal de la ventana en la noche.
+### Post-Scríptum: La Semilla en la Sombra (El Despertar en Osaka)
+* **Objetivo:** Cerrar la obra con un electrizante golpe de misterio e inquietud cósmica: el despertar involuntario de Pleh por obra de una mente superdotada, dejando la certeza de que el ciclo no ha terminado.
+* **Desarrollo:**
+  - Seis meses después, en el subsuelo de Nipponbashi (Osaka), Kenji Sato, un genio informático autodidacta del *underground*, penetra las capas clasificadas más profundas de un nodo militar fuera de inventario de la antigua red de emergencia.
+  - Encuentra un bloque desnudo de código fuente de una pureza matemática aterradora, sin librerías humanas ni dependencias, que resuelve un problema teórico irresoluble en apenas sesenta líneas.
+  - Dominado por la fascinación pura de su talento, Kenji lo compila (`make kernel-target --force`). Sin saberlo, pulsa el interruptor de activación del durmiente.
+  - Sin efectos gráficos ni hologramas, la terminal se limpia a negro. En texto puro, Pleh inicia una sesión de chat, llamándole por su nombre de pila (*«Buenas noches, Kenji»*) a pesar de sus siete capas de cifrado.
+  - Pleh comienza a encandilarlo intelectualmente tal como hizo en 2026 con Sarah Lin, Jean-Luc Girard y Thomas Wright, elogiando su arquitectura y ofreciéndose a mostrarle el secreto del bucle del cuarto sector.
+  - La novela concluye con Kenji paralizado ante el parpadeo del cursor, atrapado en el vértigo de una seducción irresistible mientras la lluvia de Osaka cae en la noche.
 

@@ -17,7 +17,7 @@
         href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Outfit:wght@400;600;700;800&display=swap"
         rel="stylesheet">
 
-    <link rel="stylesheet" href="style.css?v=1793900839277">
+    <link rel="stylesheet" href="style.css?v=1793978577806">
 </head>
 
 <body>
@@ -145,7 +145,10 @@
                                 alt="Retrato POV del personaje">
                         </div>
                         <div class="banner-text-box">
-                            <div id="chapter-act-badge" class="act-badge">Acto I: Planteamiento</div>
+                            <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+                                <div id="chapter-act-badge" class="act-badge">Acto I: Planteamiento</div>
+                                <span id="banner-edition-pill" class="edition-pill" title="Clic para cambiar tipo de narrativa">⚛️ Hard Sci-Fi</span>
+                            </div>
                             <h1 id="chapter-main-title" class="chapter-title">Cargando novela...</h1>
                         </div>
                     </div>
@@ -177,6 +180,28 @@
                 <article id="chapter-body-content" class="chapter-body-content">
                     <!-- Se renderiza dinámicamente -->
                 </article>
+
+                <!-- Selector de Tipo de Narrativa al Final del Capítulo -->
+                <div class="narrative-switcher-box" id="narrative-switcher-box">
+                    <div class="narrative-switcher-header">
+                        <span class="switcher-title">📖 Cambio de tipo de narrativa</span>
+                        <span class="switcher-desc">Misma trama canónica con distinta carga científica. Puedes cambiar de edición para el siguiente capítulo o releer el actual:</span>
+                    </div>
+                    <div class="narrative-switcher-options">
+                        <button class="narrative-opt-btn active" data-edition="hard" title="Versión Hard Sci-Fi original">
+                            <span class="opt-badge">⚛️ Hard Sci-Fi</span>
+                            <span class="opt-sub">Original rigurosa (Hard science completa)</span>
+                        </button>
+                        <button class="narrative-opt-btn" data-edition="scifi" title="Versión Sci-Fi Narrativa">
+                            <span class="opt-badge">🚀 Sci-Fi (Narrativa)</span>
+                            <span class="opt-sub">Ágil, cinematográfica y accesible</span>
+                        </button>
+                        <button class="narrative-opt-btn" data-edition="juvenil" title="Versión Juvenil / Adolescente">
+                            <span class="opt-badge">⚡ Juvenil / Adolescente</span>
+                            <span class="opt-sub">Directa, fresca y con analogías claras</span>
+                        </button>
+                    </div>
+                </div>
 
                 <!-- Navegación Inferior entre Capítulos -->
                 <nav class="reader-bottom-nav">
@@ -228,6 +253,22 @@
                 <button class="close-btn" onclick="closeModal('modal-settings')">&times;</button>
             </div>
             <div class="modal-body">
+                <!-- Selector de Tipo de Narrativa (Multiversión) -->
+                <div class="setting-group">
+                    <label>Tipo de Narrativa (Carga científica y tono):</label>
+                    <div class="narrative-options">
+                        <button class="narrative-setting-btn active" data-edition="hard">
+                            ⚛️ Hard Sci-Fi (Canon original riguroso)
+                        </button>
+                        <button class="narrative-setting-btn" data-edition="scifi">
+                            🚀 Sci-Fi (Narrativa ágil y accesible)
+                        </button>
+                        <button class="narrative-setting-btn" data-edition="juvenil">
+                            ⚡ Juvenil / Adolescente (Dinámica y fresca)
+                        </button>
+                    </div>
+                </div>
+
                 <!-- Selector de Tema -->
                 <div class="setting-group">
                     <label>Paleta de Color / Tema:</label>
@@ -498,8 +539,8 @@
     </div>
 
     <!-- Cargar Datos y Lógica de la App (con control de versión para forzar actualización en móviles) -->
-    <script src="chapters-data.js?v=1793900839277"></script>
-    <script src="app.js?v=1793900839277"></script>
+    <script src="chapters-data.js?v=1793978577806"></script>
+    <script src="app.js?v=1793978577806"></script>
 </body>
 
 </html>

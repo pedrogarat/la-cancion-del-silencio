@@ -53,6 +53,11 @@ if (fs.existsSync(capitulosDir)) {
     const content = fs.readFileSync(filePath, 'utf-8');
     const desglose = fs.existsSync(desglosePath) ? fs.readFileSync(desglosePath, 'utf-8') : '';
 
+    const scifiPath = path.join(novelaDir, 'capitulos_scifi', `capitulo_${num}.md`);
+    const juvenilPath = path.join(novelaDir, 'capitulos_juvenil', `capitulo_${num}.md`);
+    const scifiContent = fs.existsSync(scifiPath) ? fs.readFileSync(scifiPath, 'utf-8') : '';
+    const juvenilContent = fs.existsSync(juvenilPath) ? fs.readFileSync(juvenilPath, 'utf-8') : '';
+
     // Extraer título de la primera línea si existe
     const firstLineMatch = content.match(/^#\s+(.+)$/m);
     const chapterTitle = firstLineMatch ? firstLineMatch[1].trim() : `Capítulo ${num}`;
@@ -79,6 +84,8 @@ if (fs.existsSync(capitulosDir)) {
       words: wordCount,
       pages: pagesEst,
       content: content,
+      content_scifi: scifiContent,
+      content_juvenil: juvenilContent,
       desglose: desglose
     });
   });

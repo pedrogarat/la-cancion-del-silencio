@@ -1529,3 +1529,138 @@ body.focus-mode .reader-container { padding-top: 2rem; }
     }
 }
 
+/* ==========================================================================
+   SELECTOR DE TIPO DE NARRATIVA (MULTIVERSIÓN HARD / SCI-FI / JUVENIL)
+   ========================================================================== */
+.narrative-switcher-box {
+    margin: 3rem 0 2rem 0;
+    padding: 1.5rem 1.8rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 14px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(8px);
+}
+
+.narrative-switcher-header {
+    margin-bottom: 1.2rem;
+}
+
+.narrative-switcher-header .switcher-title {
+    display: block;
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: var(--accent-cyan);
+    margin-bottom: 0.35rem;
+    font-family: var(--font-ui);
+}
+
+.narrative-switcher-header .switcher-desc {
+    display: block;
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    line-height: 1.45;
+}
+
+.narrative-switcher-options {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 12px;
+}
+
+.narrative-opt-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: left;
+    padding: 12px 16px;
+    background: rgba(15, 23, 42, 0.7);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+}
+
+.narrative-opt-btn:hover {
+    border-color: var(--accent-cyan);
+    background: rgba(0, 240, 255, 0.08);
+    transform: translateY(-2px);
+}
+
+.narrative-opt-btn.active {
+    border-color: var(--accent-cyan);
+    background: rgba(0, 240, 255, 0.16);
+    box-shadow: 0 0 15px rgba(0, 240, 255, 0.25);
+}
+
+.narrative-opt-btn .opt-badge {
+    font-weight: 700;
+    font-size: 0.92rem;
+    color: var(--text-heading);
+    margin-bottom: 4px;
+}
+
+.narrative-opt-btn .opt-sub {
+    font-size: 0.76rem;
+    color: var(--text-secondary);
+    line-height: 1.35;
+}
+
+.narrative-opt-btn.active .opt-badge {
+    color: var(--accent-cyan);
+}
+
+/* Selector en Modal de Ajustes */
+.narrative-options {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 6px;
+}
+
+.narrative-setting-btn {
+    padding: 10px 14px;
+    background: var(--bg-card);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+    border-radius: 8px;
+    color: var(--text-primary);
+    font-size: 0.88rem;
+    font-weight: 600;
+    cursor: pointer;
+    text-align: left;
+    transition: all var(--transition-fast);
+}
+
+.narrative-setting-btn:hover {
+    border-color: var(--accent-cyan);
+    background: rgba(0, 240, 255, 0.08);
+}
+
+.narrative-setting-btn.active {
+    border-color: var(--accent-cyan);
+    background: rgba(0, 240, 255, 0.18);
+    color: var(--accent-cyan);
+    box-shadow: 0 0 12px rgba(0, 240, 255, 0.2);
+}
+
+/* Indicador de Edición en Banner */
+.edition-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 3px 10px;
+    border-radius: 9999px;
+    background: rgba(0, 240, 255, 0.12);
+    border: 1px solid var(--border-color);
+    font-size: 0.75rem;
+    color: var(--accent-cyan);
+    font-weight: 600;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+}
+
+.edition-pill:hover {
+    background: rgba(0, 240, 255, 0.22);
+}
+
+
