@@ -17,7 +17,7 @@
         href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Outfit:wght@400;600;700;800&display=swap"
         rel="stylesheet">
 
-    <link rel="stylesheet" href="style.css?v=1793982959117">
+    <link rel="stylesheet" href="style.css?v=1793983755109">
 </head>
 
 <body>
@@ -38,7 +38,7 @@
                         <path d="M3 12h18M3 6h18M3 18h18" />
                     </svg>
                 </button>
-                <div class="brand" id="brand-home-link" style="cursor: pointer;" title="Ir a la Portada y Selector de Ediciones">
+                <div class="brand" id="brand-home-link" onclick="showCoverLanding()" style="cursor: pointer;" title="Ir a la Portada y Selector de Ediciones">
                     <span class="brand-logo">⚡</span>
                     <div class="brand-text">
                         <span class="brand-title">LA CANCIÓN DEL SILENCIO</span>
@@ -120,7 +120,7 @@
                     <button id="btn-sidebar-refresh" class="btn-mini-refresh"
                         style="margin-top: 8px; padding: 5px 10px; font-size: 0.72rem; width: 100%; justify-content: center;"
                         title="Forzar recarga del texto más reciente">🔄 Forzar recarga de versión</button>
-                    <button id="btn-sidebar-cover" class="btn-mini-refresh"
+                    <button id="btn-sidebar-cover" class="btn-mini-refresh" onclick="showCoverLanding()"
                         style="margin-top: 6px; padding: 6px 10px; font-size: 0.72rem; width: 100%; justify-content: center; background: rgba(56, 189, 248, 0.12); border: 1px solid #38bdf8; color: #38bdf8;"
                         title="Ver portada y seleccionar edición">🖼️ Portada y Selector de Edición</button>
                 </div>
@@ -172,17 +172,21 @@
                     <div class="cover-editions-wrapper">
                         <div class="cover-editions-header">
                             <h2 class="editions-section-title">Elige tu experiencia de lectura</h2>
-                            <p class="editions-section-desc">Misma trama canónica, tres niveles de aproximación científica y estilo narrativo. Puedes cambiar de edición en cualquier momento:</p>
+                            <p class="editions-section-desc">Misma trama canónica, tres niveles de aproximación
+                                científica y estilo narrativo. Puedes cambiar de edición en cualquier momento:</p>
                         </div>
 
                         <div class="cover-editions-grid">
                             <!-- Botón Versión 1: Hard Sci-Fi -->
-                            <button class="edition-card-btn" data-edition="hard" title="Comenzar a leer en edición Hard Sci-Fi">
+                            <button class="edition-card-btn" data-edition="hard" onclick="selectNovelEditionAndStart('hard')"
+                                title="Comenzar a leer en edición Hard Sci-Fi">
                                 <div class="edition-icon-wrap hard">⚛️</div>
                                 <div class="edition-card-body">
                                     <span class="edition-label-badge hard">CANON ORIGINAL</span>
                                     <h3 class="edition-card-title">Hard Sci-Fi</h3>
-                                    <p class="edition-card-desc">Rigor científico total. Astrodinámica real, física cuántica, magnetohidrodinámica y tecnología analógica de vanguardia explicada al milímetro.</p>
+                                    <p class="edition-card-desc">Rigor científico total. Astrodinámica real, física
+                                        cuántica, magnetohidrodinámica y tecnología analógica de vanguardia explicada al
+                                        milímetro.</p>
                                 </div>
                                 <div class="edition-card-cta">
                                     <span>Leer Versión Hard Sci-Fi</span>
@@ -191,12 +195,15 @@
                             </button>
 
                             <!-- Botón Versión 2: Sci-Fi (Narrativa) -->
-                            <button class="edition-card-btn featured" data-edition="scifi" title="Comenzar a leer en edición Sci-Fi Narrativa">
+                            <button class="edition-card-btn featured" data-edition="scifi" onclick="selectNovelEditionAndStart('scifi')"
+                                title="Comenzar a leer en edición Sci-Fi Narrativa">
                                 <div class="edition-icon-wrap scifi">🚀</div>
                                 <div class="edition-card-body">
                                     <span class="edition-label-badge scifi">GRAN PÚBLICO &bull; RECOMENDADA</span>
                                     <h3 class="edition-card-title">Sci-Fi (Narrativa)</h3>
-                                    <p class="edition-card-desc">Prosa ágil, cinematográfica y accesible. La ciencia explicada con metáforas visuales claras, ritmo trepidante y alta tensión dramática.</p>
+                                    <p class="edition-card-desc">Prosa ágil, cinematográfica y accesible. La ciencia
+                                        explicada con metáforas visuales claras, ritmo trepidante y alta tensión
+                                        dramática.</p>
                                 </div>
                                 <div class="edition-card-cta">
                                     <span>Leer Versión Sci-Fi</span>
@@ -205,12 +212,15 @@
                             </button>
 
                             <!-- Botón Versión 3: Juvenil / Adolescente -->
-                            <button class="edition-card-btn" data-edition="juvenil" title="Comenzar a leer en edición Juvenil">
+                            <button class="edition-card-btn" data-edition="juvenil" onclick="selectNovelEditionAndStart('juvenil')"
+                                title="Comenzar a leer en edición Juvenil">
                                 <div class="edition-icon-wrap juvenil">⚡</div>
                                 <div class="edition-card-body">
                                     <span class="edition-label-badge juvenil">DINÁMICA Y CERCANA</span>
                                     <h3 class="edition-card-title">Juvenil / Adolescente</h3>
-                                    <p class="edition-card-desc">Lectura fresca, directa y apasionante. Analogías cotidianas e intuitivas, gran empatía emocional y ritmo dinámico sin rodeos técnicos.</p>
+                                    <p class="edition-card-desc">Lectura fresca, directa y apasionante. Analogías
+                                        cotidianas e intuitivas, gran empatía emocional y ritmo dinámico sin rodeos
+                                        técnicos.</p>
                                 </div>
                                 <div class="edition-card-cta">
                                     <span>Leer Versión Juvenil</span>
@@ -221,9 +231,11 @@
 
                         <!-- Botón de Continuar Lectura si existe progreso -->
                         <div id="cover-resume-box" class="cover-resume-box" style="display: none;">
-                            <button id="btn-cover-resume" class="btn-cover-resume-cta">
+                            <button id="btn-cover-resume" class="btn-cover-resume-cta" onclick="resumeSavedReading()">
                                 <span class="resume-icon">🔖</span>
-                                <span class="resume-main-text">Continuar lectura guardada: <strong id="cover-resume-chap-title">Capítulo 1</strong> (<span id="cover-resume-edition-name">Hard Sci-Fi</span>)</span>
+                                <span class="resume-main-text">Continuar lectura guardada: <strong
+                                        id="cover-resume-chap-title">Capítulo 1</strong> (<span
+                                        id="cover-resume-edition-name">Hard Sci-Fi</span>)</span>
                                 <span class="resume-arrow-icon">→</span>
                             </button>
                         </div>
@@ -243,7 +255,8 @@
                         <div class="banner-text-box">
                             <div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
                                 <div id="chapter-act-badge" class="act-badge">Acto I: Planteamiento</div>
-                                <span id="banner-edition-pill" class="edition-pill" title="Clic para cambiar tipo de narrativa">⚛️ Hard Sci-Fi</span>
+                                <span id="banner-edition-pill" class="edition-pill"
+                                    title="Clic para cambiar tipo de narrativa">⚛️ Hard Sci-Fi</span>
                             </div>
                             <h1 id="chapter-main-title" class="chapter-title">Cargando novela...</h1>
                         </div>
@@ -281,10 +294,12 @@
                 <div class="narrative-switcher-box" id="narrative-switcher-box">
                     <div class="narrative-switcher-header">
                         <span class="switcher-title">📖 Cambio de tipo de narrativa</span>
-                        <span class="switcher-desc">Misma trama canónica con distinta carga científica. Puedes cambiar de edición para el siguiente capítulo o releer el actual:</span>
+                        <span class="switcher-desc">Misma trama canónica con distinta carga científica. Puedes cambiar
+                            de edición para el siguiente capítulo o releer el actual:</span>
                     </div>
                     <div class="narrative-switcher-options">
-                        <button class="narrative-opt-btn active" data-edition="hard" title="Versión Hard Sci-Fi original">
+                        <button class="narrative-opt-btn active" data-edition="hard"
+                            title="Versión Hard Sci-Fi original">
                             <span class="opt-badge">⚛️ Hard Sci-Fi</span>
                             <span class="opt-sub">Original rigurosa (Hard science completa)</span>
                         </button>
@@ -635,8 +650,8 @@
     </div>
 
     <!-- Cargar Datos y Lógica de la App (con control de versión para forzar actualización en móviles) -->
-    <script src="chapters-data.js?v=1793982959117"></script>
-    <script src="app.js?v=1793982959117"></script>
+    <script src="chapters-data.js?v=1793983755109"></script>
+    <script src="app.js?v=1793983755109"></script>
 </body>
 
 </html>

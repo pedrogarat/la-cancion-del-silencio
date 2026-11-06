@@ -31,6 +31,14 @@ def run_cmd(cmd, cwd=None):
         raise RuntimeError(f"Command failed with code {res.returncode}: {cmd}")
     return res.stdout
 
+def handle_remove_readonly(func, path, exc):
+    import stat
+    try:
+        os.chmod(path, stat.S_IWRITE)
+        func(path)
+    except Exception:
+        pass
+
 def main():
     print("=" * 70)
     print("SINCRONIZACIÓN DE NOVELA MULTIVERSIÓN HACIA GITHUB")
@@ -41,13 +49,6 @@ def main():
     # 1. Limpiar directorio temporal previo si existe
     if os.path.exists(TEMP_SYNC_DIR):
         print(f"Limpiando directorio temporal previo: {TEMP_SYNC_DIR}...")
-        import stat
-        def handle_remove_readonly(func, path, exc):
-            try:
-                os.chmod(path, stat.S_IWRITE)
-                func(path)
-            except Exception:
-                pass
         shutil.rmtree(TEMP_SYNC_DIR, onerror=handle_remove_readonly)
         if os.path.exists(TEMP_SYNC_DIR):
             import subprocess
@@ -88,7 +89,7 @@ def main():
     print("\nAñadiendo archivos al índice de Git...")
     run_cmd("git add -A", cwd=TEMP_SYNC_DIR)
 
-    commit_msg = "fix(cover): corregir sinopsis de portada eliminando spoilers de trama"
+    commit_msg = "fix(cover): corregir listeners de botones de edicion y salvaguardar elementos nulos"
     print(f"\nCreando commit: '{commit_msg}'...")
     try:
         run_cmd(f'git commit -m "{commit_msg}"', cwd=TEMP_SYNC_DIR)

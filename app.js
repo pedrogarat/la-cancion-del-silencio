@@ -204,19 +204,17 @@ document.addEventListener('DOMContentLoaded', () => {
         sidebarFilter.addEventListener('input', renderSidebarList);
 
         // Modales
-        btnOpenSettings.addEventListener('click', () => openModal('modal-settings'));
-        btnOpenCodex.addEventListener('click', () => openModal('modal-codex'));
-        btnOpenEscaleta.addEventListener('click', () => openModal('modal-escaleta'));
-        if (btnOpenGenesis) {
-            btnOpenGenesis.addEventListener('click', () => openModal('modal-genesis'));
+        if (btnOpenSettings) btnOpenSettings.addEventListener('click', () => openModal('modal-settings'));
+        if (btnOpenCodex) btnOpenCodex.addEventListener('click', () => openModal('modal-codex'));
+        if (btnOpenEscaleta) btnOpenEscaleta.addEventListener('click', () => openModal('modal-escaleta'));
+        if (btnOpenGenesis) btnOpenGenesis.addEventListener('click', () => openModal('modal-genesis'));
+        if (btnCloseGenesis) btnCloseGenesis.addEventListener('click', () => closeModal('modal-genesis'));
+        if (btnOpenSearch) {
+            btnOpenSearch.addEventListener('click', () => {
+                openModal('modal-search');
+                if (globalSearchInput) globalSearchInput.focus();
+            });
         }
-        if (btnCloseGenesis) {
-            btnCloseGenesis.addEventListener('click', () => closeModal('modal-genesis'));
-        }
-        btnOpenSearch.addEventListener('click', () => {
-            openModal('modal-search');
-            globalSearchInput.focus();
-        });
         if (btnOpenAudiobook) {
             btnOpenAudiobook.addEventListener('click', () => openAudiobookModal('chapter', currentChapterIndex));
         }
@@ -240,18 +238,34 @@ document.addEventListener('DOMContentLoaded', () => {
 
         // Eventos de la Pantalla de Portada (Tres Versiones)
         document.querySelectorAll('.edition-card-btn').forEach(btn => {
-            btn.addEventListener('click', () => {
-                const ed = btn.getAttribute('data-edition');
-                setEdition(ed, false);
-                const targetChapter = (bookmark && bookmark.chapterIndex !== undefined) ? bookmark.chapterIndex : 0;
-                showReaderView(targetChapter, bookmark ? bookmark.scrollTop : 0);
+            btn.addEventListener('click', (e) => {
+                e.preventDefault();
+                const ed = btn.getAttribute('data-edition') || 'hard';
+                selectNovelEditionAndStart(ed);
             });
         });
 
+        // Delegación de eventos para tarjetas de edición y reanudación
+        document.addEventListener('click', (e) => {
+            const cardBtn = e.target.closest('.edition-card-btn');
+            if (cardBtn) {
+                e.preventDefault();
+                const ed = cardBtn.getAttribute('data-edition') || 'hard';
+                selectNovelEditionAndStart(ed);
+                return;
+            }
+            const resumeBtn = e.target.closest('#btn-cover-resume');
+            if (resumeBtn) {
+                e.preventDefault();
+                resumeSavedReading();
+                return;
+            }
+        });
+
         if (btnCoverResume) {
-            btnCoverResume.addEventListener('click', () => {
-                const targetChapter = (bookmark && bookmark.chapterIndex !== undefined) ? bookmark.chapterIndex : 0;
-                showReaderView(targetChapter, bookmark ? bookmark.scrollTop : 0);
+            btnCoverResume.addEventListener('click', (e) => {
+                e.preventDefault();
+                resumeSavedReading();
             });
         }
 
@@ -298,22 +312,22 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         // Sliders
-        sliderFontSize.addEventListener('input', (e) => setFontSize(e.target.value));
-        sliderLineHeight.addEventListener('input', (e) => setLineHeight(e.target.value));
-        sliderTextWidth.addEventListener('input', (e) => setTextWidth(e.target.value));
+        if (sliderFontSize) sliderFontSize.addEventListener('input', (e) => setFontSize(e.target.value));
+        if (sliderLineHeight) sliderLineHeight.addEventListener('input', (e) => setLineHeight(e.target.value));
+        if (sliderTextWidth) sliderTextWidth.addEventListener('input', (e) => setTextWidth(e.target.value));
 
         // Enfoque y Audio
-        btnToggleFocus.addEventListener('click', toggleFocusMode);
-        btnToggleAudio.addEventListener('click', toggleAmbientSound);
+        if (btnToggleFocus) btnToggleFocus.addEventListener('click', toggleFocusMode);
+        if (btnToggleAudio) btnToggleAudio.addEventListener('click', toggleAmbientSound);
 
         // Marcador y Scroll Top
-        btnBookmark.addEventListener('click', saveBookmark);
-        btnScrollTop.addEventListener('click', () => {
+        if (btnBookmark) btnBookmark.addEventListener('click', saveBookmark);
+        if (btnScrollTop) btnScrollTop.addEventListener('click', () => {
             window.scrollTo({ top: 0, behavior: 'smooth' });
         });
 
         // Buscador
-        globalSearchInput.addEventListener('input', handleGlobalSearch);
+        if (globalSearchInput) globalSearchInput.addEventListener('input', handleGlobalSearch);
 
         // Scroll y Redimensionamiento
         window.addEventListener('scroll', updateProgressBar, { passive: true });
@@ -499,6 +513,28 @@ document.addEventListener('DOMContentLoaded', () => {
             default: return 'Hard Sci-Fi';
         }
     }
+
+    function selectNovelEditionAndStart(ed) {
+        if (!ed) ed = 'hard';
+        setEdition(ed, false);
+        const targetChapter = (bookmark && typeof bookmark.chapterIndex === 'number' && bookmark.chapterIndex >= 0 && bookmark.chapterIndex < NOVEL_DATA.chapters.length) 
+            ? bookmark.chapterIndex 
+            : 0;
+        const targetScroll = (bookmark && bookmark.chapterIndex === targetChapter) ? (bookmark.scrollTop || 0) : 0;
+        showReaderView(targetChapter, targetScroll);
+    }
+
+    function resumeSavedReading() {
+        const targetChapter = (bookmark && typeof bookmark.chapterIndex === 'number' && bookmark.chapterIndex >= 0 && bookmark.chapterIndex < NOVEL_DATA.chapters.length) 
+            ? bookmark.chapterIndex 
+            : 0;
+        const targetScroll = (bookmark && bookmark.chapterIndex === targetChapter) ? (bookmark.scrollTop || 0) : 0;
+        showReaderView(targetChapter, targetScroll);
+    }
+
+    window.selectNovelEditionAndStart = selectNovelEditionAndStart;
+    window.resumeSavedReading = resumeSavedReading;
+    window.showCoverLanding = showCoverView;
 
     function showCoverView() {
         if (coverLandingView) coverLandingView.style.display = 'block';

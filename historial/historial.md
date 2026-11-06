@@ -12634,3 +12634,28 @@ Quiero que al entrar en la web, se vea la portada de la novela y abajo tres boto
    - Sincronizados y desplegados todos los cambios en el repositorio GitHub con commit `f3e9591` (*«feat(cover): agregar portada y selector de 3 versiones en el inicio de la web»*).
    - Verificado el repositorio en la rama `origin/main` y disponible en:
      `https://pedrogarat.github.io/la-cancion-del-silencio/`
+
+
+
+### 👤 Autor *(2026-11-06 16:34:00 UTC)*
+
+En la web haces un spoiler de puta madre.... "Año 2026. La Tierra pierde su magnetosfera ante una entidad alienígena apostada en el punto de Lagrange L1. En una carrera desesperada contra el colapso biológico y el silencio cósmico, la humanidad libra una guerra analógica para recuperar su destino."
+Inténtalo de nuevo
+
+### 🛠️ Bill & Capitán Memo *(2026-11-06 16:37:00 UTC)*
+
+**Corrección Inmediata y Erradicación Total de Spoilers en la Portada Web:**
+
+1. **Diagnóstico del Error Editorial:**
+   - La sinopsis provisional de la tarjeta de bienvenida revelaba prematuramente elementos capitales del nudo y desenlace (anulación de la magnetosfera, entidad alienígena, posición exacta en Lagrange L1 y guerra tecnológica analógica), arruinando el suspense del primer tercio de la novela.
+
+2. **Reescritura de la Sinopsis de Contraportada / Landing:**
+   - Se sustituyó el texto por un blurb de suspense científico puro, atmosférico y 100% libre de spoilers:
+     > *«Una perturbación invisible empieza a alterar los instrumentos más sensibles de la Tierra. Tres científicos de vanguardia, en distintos rincones del planeta, reciben respuestas teóricas a problemas imposibles de un colaborador anónimo. Mientras los cielos ofrecen señales desconcertantes y una silenciosa cuenta atrás se pone en marcha, la humanidad se adentra en una carrera contra el tiempo donde cada hallazgo desafía todo lo que creíamos saber sobre el cosmos... y sobre nosotros mismos.»*
+
+3. **Verificación de Ausencia de Términos Comprometidos:**
+   - Comprobación automatizada en [`index.html`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/index.html) y [`app.js`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/app.js): cero menciones a *alienígena*, *extraterrestre*, *Lagrange*, *L1*, *guerra analógica*, *Sombra* o *magnetosfera*.
+
+4. **Compilación y Despliegue en GitHub Pages:**
+   - Regenerados tokens de caché con `node build-novel-data.js` (`v=1793982959117`).
+   - Sincronizado a GitHub mediante `sync_multiversion_to_github.py` bajo el commit `78fe30a` (*«fix(cover): corregir sinopsis de portada eliminando spoilers de trama»*).
