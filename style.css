@@ -1664,3 +1664,360 @@ body.focus-mode .reader-container { padding-top: 2rem; }
 }
 
 
+
+
+/* ==========================================================================
+   PANTALLA DE PORTADA Y SELECTOR DE VERSIONES DE ENTRADA
+   ========================================================================== */
+.cover-landing-view {
+    display: block;
+    max-width: 1040px;
+    margin: 0 auto;
+    padding: 1.5rem 1rem 4rem 1rem;
+    animation: fadeIn 0.4s ease-out;
+}
+
+.cover-landing-container {
+    display: flex;
+    flex-direction: column;
+    gap: 2.5rem;
+}
+
+/* Tarjeta Heroica Superior */
+.cover-hero-card {
+    display: flex;
+    align-items: center;
+    gap: 2.5rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 20px;
+    padding: 2.2rem;
+    box-shadow: 0 10px 35px rgba(0, 0, 0, 0.35);
+    backdrop-filter: blur(12px);
+    position: relative;
+    overflow: hidden;
+}
+
+.cover-hero-card::before {
+    content: '';
+    position: absolute;
+    top: -50px;
+    right: -50px;
+    width: 250px;
+    height: 250px;
+    background: radial-gradient(circle, rgba(0, 240, 255, 0.08) 0%, transparent 70%);
+    pointer-events: none;
+}
+
+/* Caja de Imagen de Portada */
+.cover-image-box {
+    position: relative;
+    flex-shrink: 0;
+    width: 260px;
+    max-width: 100%;
+}
+
+.cover-hero-img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 12px;
+    box-shadow: 0 16px 36px rgba(0, 0, 0, 0.65), 0 0 25px rgba(0, 240, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.35s ease;
+}
+
+.cover-image-box:hover .cover-hero-img {
+    transform: translateY(-4px) scale(1.02);
+    box-shadow: 0 22px 48px rgba(0, 0, 0, 0.8), 0 0 35px rgba(0, 240, 255, 0.35);
+}
+
+/* Información de Portada */
+.cover-hero-info {
+    flex: 1;
+}
+
+.cover-kicker {
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    color: var(--accent-cyan);
+    margin-bottom: 0.6rem;
+    font-family: var(--font-code);
+}
+
+.cover-hero-title {
+    font-size: 2.2rem;
+    font-weight: 800;
+    line-height: 1.15;
+    color: var(--text-heading);
+    margin: 0 0 0.5rem 0;
+    letter-spacing: -0.02em;
+    font-family: var(--font-ui);
+}
+
+.cover-hero-author {
+    font-size: 1.05rem;
+    color: var(--text-secondary);
+    margin: 0 0 1.2rem 0;
+}
+
+.cover-hero-divider {
+    height: 1px;
+    background: linear-gradient(90deg, var(--border-color) 0%, transparent 80%);
+    margin-bottom: 1.2rem;
+}
+
+.cover-hero-summary {
+    font-size: 0.96rem;
+    line-height: 1.65;
+    color: var(--text-primary);
+    margin-bottom: 1.4rem;
+}
+
+.cover-hero-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.meta-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 5px 12px;
+    border-radius: 9999px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    font-size: 0.8rem;
+    color: var(--text-secondary);
+    font-family: var(--font-ui);
+}
+
+.meta-pill.highlight {
+    background: rgba(0, 240, 255, 0.1);
+    border-color: rgba(0, 240, 255, 0.3);
+    color: var(--accent-cyan);
+    font-weight: 600;
+}
+
+/* Sección de las Tres Versiones */
+.cover-editions-wrapper {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: 20px;
+    padding: 2.2rem;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(10px);
+}
+
+.cover-editions-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.editions-section-title {
+    font-size: 1.5rem;
+    font-weight: 800;
+    color: var(--text-heading);
+    margin: 0 0 0.5rem 0;
+    font-family: var(--font-ui);
+}
+
+.editions-section-desc {
+    font-size: 0.95rem;
+    color: var(--text-secondary);
+    max-width: 650px;
+    margin: 0 auto;
+    line-height: 1.55;
+}
+
+/* Grilla de Tres Tarjetas */
+.cover-editions-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.4rem;
+}
+
+/* Botón Tarjeta */
+.edition-card-btn {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background: rgba(15, 20, 35, 0.7);
+    border: 1px solid var(--border-color);
+    border-radius: 16px;
+    padding: 1.6rem;
+    cursor: pointer;
+    text-align: left;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    overflow: hidden;
+}
+
+.edition-card-btn:hover {
+    transform: translateY(-6px);
+    border-color: var(--accent-cyan);
+    box-shadow: 0 12px 30px rgba(0, 240, 255, 0.22);
+    background: rgba(20, 28, 50, 0.85);
+}
+
+.edition-card-btn.selected {
+    border-color: var(--accent-cyan);
+    box-shadow: 0 0 20px rgba(0, 240, 255, 0.25);
+    background: rgba(0, 240, 255, 0.08);
+}
+
+.edition-card-btn.featured {
+    border-color: rgba(0, 240, 255, 0.4);
+    background: linear-gradient(160deg, rgba(22, 30, 56, 0.85), rgba(14, 22, 42, 0.95));
+}
+
+.edition-card-btn.featured:hover {
+    border-color: var(--accent-cyan);
+    box-shadow: 0 14px 35px rgba(0, 240, 255, 0.3);
+}
+
+.edition-icon-wrap {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    display: inline-block;
+}
+
+.edition-card-body {
+    flex: 1;
+}
+
+.edition-label-badge {
+    display: inline-block;
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    padding: 3px 8px;
+    border-radius: 4px;
+    margin-bottom: 0.6rem;
+    font-family: var(--font-code);
+}
+
+.edition-label-badge.hard {
+    background: rgba(59, 130, 246, 0.15);
+    color: #60a5fa;
+    border: 1px solid rgba(59, 130, 246, 0.3);
+}
+
+.edition-label-badge.scifi {
+    background: rgba(0, 240, 255, 0.18);
+    color: var(--accent-cyan);
+    border: 1px solid rgba(0, 240, 255, 0.4);
+}
+
+.edition-label-badge.juvenil {
+    background: rgba(245, 158, 11, 0.15);
+    color: #fbbf24;
+    border: 1px solid rgba(245, 158, 11, 0.3);
+}
+
+.edition-card-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--text-heading);
+    margin: 0 0 0.65rem 0;
+    font-family: var(--font-ui);
+}
+
+.edition-card-desc {
+    font-size: 0.88rem;
+    line-height: 1.55;
+    color: var(--text-secondary);
+    margin: 0 0 1.5rem 0;
+}
+
+.edition-card-cta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--accent-cyan);
+    padding-top: 1rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.edition-card-cta .cta-arrow {
+    font-size: 1.1rem;
+    transition: transform var(--transition-fast);
+}
+
+.edition-card-btn:hover .cta-arrow {
+    transform: translateX(5px);
+}
+
+/* Botón Reanudar Lectura */
+.cover-resume-box {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.btn-cover-resume-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: rgba(56, 189, 248, 0.12);
+    border: 1px solid rgba(56, 189, 248, 0.4);
+    color: #38bdf8;
+    padding: 0.85rem 1.8rem;
+    border-radius: 9999px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+}
+
+.btn-cover-resume-cta:hover {
+    background: rgba(56, 189, 248, 0.22);
+    border-color: #38bdf8;
+    transform: translateY(-2px);
+    box-shadow: 0 0 20px rgba(56, 189, 248, 0.35);
+}
+
+.btn-cover-resume-cta .resume-arrow-icon {
+    font-size: 1.1rem;
+    transition: transform var(--transition-fast);
+}
+
+.btn-cover-resume-cta:hover .resume-arrow-icon {
+    transform: translateX(4px);
+}
+
+/* Responsividad para móviles y tablets */
+@media (max-width: 860px) {
+    .cover-hero-card {
+        flex-direction: column;
+        text-align: center;
+        padding: 1.8rem 1.4rem;
+        gap: 1.8rem;
+    }
+
+    .cover-image-box {
+        width: 200px;
+        margin: 0 auto;
+    }
+
+    .cover-hero-title {
+        font-size: 1.7rem;
+    }
+
+    .cover-hero-meta {
+        justify-content: center;
+    }
+
+    .cover-hero-divider {
+        margin: 1rem auto;
+    }
+
+    .cover-editions-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+}

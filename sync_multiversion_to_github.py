@@ -41,7 +41,17 @@ def main():
     # 1. Limpiar directorio temporal previo si existe
     if os.path.exists(TEMP_SYNC_DIR):
         print(f"Limpiando directorio temporal previo: {TEMP_SYNC_DIR}...")
-        shutil.rmtree(TEMP_SYNC_DIR, ignore_errors=True)
+        import stat
+        def handle_remove_readonly(func, path, exc):
+            try:
+                os.chmod(path, stat.S_IWRITE)
+                func(path)
+            except Exception:
+                pass
+        shutil.rmtree(TEMP_SYNC_DIR, onerror=handle_remove_readonly)
+        if os.path.exists(TEMP_SYNC_DIR):
+            import subprocess
+            subprocess.run(f'cmd /c rmdir /s /q "{TEMP_SYNC_DIR}"', shell=True)
 
     # 2. Clonar el repositorio oficial desde GitHub
     print("\nClonando repositorio desde GitHub...")
@@ -78,7 +88,7 @@ def main():
     print("\nAñadiendo archivos al índice de Git...")
     run_cmd("git add -A", cwd=TEMP_SYNC_DIR)
 
-    commit_msg = "feat(multiversion): desplegar novela en 3 ediciones (Hard Sci-Fi, Sci-Fi, Juvenil), 75 PDFs en Baskerville y selector web"
+    commit_msg = "feat(cover): agregar portada y selector de 3 versiones en el inicio de la web"
     print(f"\nCreando commit: '{commit_msg}'...")
     try:
         run_cmd(f'git commit -m "{commit_msg}"', cwd=TEMP_SYNC_DIR)
@@ -95,7 +105,9 @@ def main():
 
     # 6. Limpieza final
     print(f"Limpiando {TEMP_SYNC_DIR}...")
-    shutil.rmtree(TEMP_SYNC_DIR, ignore_errors=True)
+    shutil.rmtree(TEMP_SYNC_DIR, onerror=handle_remove_readonly)
+    if os.path.exists(TEMP_SYNC_DIR):
+        subprocess.run(f'cmd /c rmdir /s /q "{TEMP_SYNC_DIR}"', shell=True)
 
 if __name__ == "__main__":
     main()

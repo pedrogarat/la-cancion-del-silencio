@@ -17,7 +17,7 @@
         href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Outfit:wght@400;600;700;800&display=swap"
         rel="stylesheet">
 
-    <link rel="stylesheet" href="style.css?v=1793978577806">
+    <link rel="stylesheet" href="style.css?v=1793980524596">
 </head>
 
 <body>
@@ -38,7 +38,7 @@
                         <path d="M3 12h18M3 6h18M3 18h18" />
                     </svg>
                 </button>
-                <div class="brand">
+                <div class="brand" id="brand-home-link" style="cursor: pointer;" title="Ir a la Portada y Selector de Ediciones">
                     <span class="brand-logo">⚡</span>
                     <div class="brand-text">
                         <span class="brand-title">LA CANCIÓN DEL SILENCIO</span>
@@ -106,7 +106,7 @@
         <!-- Sidebar / Cajón del Índice de Capítulos -->
         <aside id="sidebar" class="sidebar">
             <div class="sidebar-header">
-                <div class="sidebar-cover">
+                <div class="sidebar-cover" id="sidebar-cover-link" style="cursor: pointer;" title="Ir a la Portada">
                     <img src="cover.png" alt="Portada de la Novela" class="sidebar-cover-img">
                 </div>
                 <div class="sidebar-info">
@@ -120,6 +120,9 @@
                     <button id="btn-sidebar-refresh" class="btn-mini-refresh"
                         style="margin-top: 8px; padding: 5px 10px; font-size: 0.72rem; width: 100%; justify-content: center;"
                         title="Forzar recarga del texto más reciente">🔄 Forzar recarga de versión</button>
+                    <button id="btn-sidebar-cover" class="btn-mini-refresh"
+                        style="margin-top: 6px; padding: 6px 10px; font-size: 0.72rem; width: 100%; justify-content: center; background: rgba(56, 189, 248, 0.12); border: 1px solid #38bdf8; color: #38bdf8;"
+                        title="Ver portada y seleccionar edición">🖼️ Portada y Selector de Edición</button>
                 </div>
                 <button id="btn-close-sidebar" class="close-btn" aria-label="Cerrar">&times;</button>
             </div>
@@ -136,7 +139,100 @@
 
         <!-- Área Principal de Lectura -->
         <main class="reader-container">
-            <div id="reader-canvas" class="reader-canvas">
+
+            <!-- PANTALLA PRINCIPAL: PORTADA DE LA NOVELA Y SELECTOR DE VERSIONES -->
+            <section id="cover-landing-view" class="cover-landing-view">
+                <div class="cover-landing-container">
+
+                    <!-- Tarjeta Heroica: Portada e Información de la Obra -->
+                    <div class="cover-hero-card">
+                        <div class="cover-image-box">
+                            <img src="cover.png" alt="Portada de La Canción del Silencio" class="cover-hero-img">
+                            <div class="cover-glow-ambient"></div>
+                        </div>
+
+                        <div class="cover-hero-info">
+                            <div class="cover-kicker">NOVELA DE CIENCIA FICCIÓN &bull; 25 CAPÍTULOS</div>
+                            <h1 class="cover-hero-title">LA CANCIÓN DEL SILENCIO</h1>
+                            <p class="cover-hero-author">Pedro Garat &bull; Antigravity</p>
+                            <div class="cover-hero-divider"></div>
+                            <p class="cover-hero-summary">
+                                Año 2026. La Tierra pierde su magnetosfera ante una entidad alienígena apostada en el punto de Lagrange L1. En una carrera desesperada contra el colapso biológico y el silencio cósmico, la humanidad libra una guerra analógica para recuperar su destino.
+                            </p>
+                            <div class="cover-hero-meta">
+                                <span class="meta-pill">📚 25 Capítulos</span>
+                                <span class="meta-pill">📄 388 Páginas</span>
+                                <span class="meta-pill">⏱️ ~120.000 Palabras</span>
+                                <span class="meta-pill highlight">✨ 3 Ediciones Literarias</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Sección de Selección de las Tres Versiones -->
+                    <div class="cover-editions-wrapper">
+                        <div class="cover-editions-header">
+                            <h2 class="editions-section-title">Elige tu experiencia de lectura</h2>
+                            <p class="editions-section-desc">Misma trama canónica, tres niveles de aproximación científica y estilo narrativo. Puedes cambiar de edición en cualquier momento:</p>
+                        </div>
+
+                        <div class="cover-editions-grid">
+                            <!-- Botón Versión 1: Hard Sci-Fi -->
+                            <button class="edition-card-btn" data-edition="hard" title="Comenzar a leer en edición Hard Sci-Fi">
+                                <div class="edition-icon-wrap hard">⚛️</div>
+                                <div class="edition-card-body">
+                                    <span class="edition-label-badge hard">CANON ORIGINAL</span>
+                                    <h3 class="edition-card-title">Hard Sci-Fi</h3>
+                                    <p class="edition-card-desc">Rigor científico total. Astrodinámica real, física cuántica, magnetohidrodinámica y tecnología analógica de vanguardia explicada al milímetro.</p>
+                                </div>
+                                <div class="edition-card-cta">
+                                    <span>Leer Versión Hard Sci-Fi</span>
+                                    <span class="cta-arrow">→</span>
+                                </div>
+                            </button>
+
+                            <!-- Botón Versión 2: Sci-Fi (Narrativa) -->
+                            <button class="edition-card-btn featured" data-edition="scifi" title="Comenzar a leer en edición Sci-Fi Narrativa">
+                                <div class="edition-icon-wrap scifi">🚀</div>
+                                <div class="edition-card-body">
+                                    <span class="edition-label-badge scifi">GRAN PÚBLICO &bull; RECOMENDADA</span>
+                                    <h3 class="edition-card-title">Sci-Fi (Narrativa)</h3>
+                                    <p class="edition-card-desc">Prosa ágil, cinematográfica y accesible. La ciencia explicada con metáforas visuales claras, ritmo trepidante y alta tensión dramática.</p>
+                                </div>
+                                <div class="edition-card-cta">
+                                    <span>Leer Versión Sci-Fi</span>
+                                    <span class="cta-arrow">→</span>
+                                </div>
+                            </button>
+
+                            <!-- Botón Versión 3: Juvenil / Adolescente -->
+                            <button class="edition-card-btn" data-edition="juvenil" title="Comenzar a leer en edición Juvenil">
+                                <div class="edition-icon-wrap juvenil">⚡</div>
+                                <div class="edition-card-body">
+                                    <span class="edition-label-badge juvenil">DINÁMICA Y CERCANA</span>
+                                    <h3 class="edition-card-title">Juvenil / Adolescente</h3>
+                                    <p class="edition-card-desc">Lectura fresca, directa y apasionante. Analogías cotidianas e intuitivas, gran empatía emocional y ritmo dinámico sin rodeos técnicos.</p>
+                                </div>
+                                <div class="edition-card-cta">
+                                    <span>Leer Versión Juvenil</span>
+                                    <span class="cta-arrow">→</span>
+                                </div>
+                            </button>
+                        </div>
+
+                        <!-- Botón de Continuar Lectura si existe progreso -->
+                        <div id="cover-resume-box" class="cover-resume-box" style="display: none;">
+                            <button id="btn-cover-resume" class="btn-cover-resume-cta">
+                                <span class="resume-icon">🔖</span>
+                                <span class="resume-main-text">Continuar lectura guardada: <strong id="cover-resume-chap-title">Capítulo 1</strong> (<span id="cover-resume-edition-name">Hard Sci-Fi</span>)</span>
+                                <span class="resume-arrow-icon">→</span>
+                            </button>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+
+            <div id="reader-canvas" class="reader-canvas" style="display: none;">
                 <!-- Encabezado dinámico del Capítulo -->
                 <div id="chapter-banner" class="chapter-banner">
                     <div class="banner-header-grid">
@@ -539,8 +635,8 @@
     </div>
 
     <!-- Cargar Datos y Lógica de la App (con control de versión para forzar actualización en móviles) -->
-    <script src="chapters-data.js?v=1793978577806"></script>
-    <script src="app.js?v=1793978577806"></script>
+    <script src="chapters-data.js?v=1793980524596"></script>
+    <script src="app.js?v=1793980524596"></script>
 </body>
 
 </html>

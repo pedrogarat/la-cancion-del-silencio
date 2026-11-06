@@ -34,6 +34,17 @@ document.addEventListener('DOMContentLoaded', () => {
     const sceneFicheContent = document.getElementById('scene-fiche-content');
     const chapterBodyContent = document.getElementById('chapter-body-content');
 
+    // Pantalla de Portada y Selector
+    const coverLandingView = document.getElementById('cover-landing-view');
+    const readerCanvas = document.getElementById('reader-canvas');
+    const coverResumeBox = document.getElementById('cover-resume-box');
+    const btnCoverResume = document.getElementById('btn-cover-resume');
+    const coverResumeChapTitle = document.getElementById('cover-resume-chap-title');
+    const coverResumeEditionName = document.getElementById('cover-resume-edition-name');
+    const brandHomeLink = document.getElementById('brand-home-link');
+    const sidebarCoverLink = document.getElementById('sidebar-cover-link');
+    const btnSidebarCover = document.getElementById('btn-sidebar-cover');
+
     // Botones de Navegación
     const btnPrevChapter = document.getElementById('btn-prev-chapter');
     const btnNextChapter = document.getElementById('btn-next-chapter');
@@ -151,15 +162,22 @@ document.addEventListener('DOMContentLoaded', () => {
         try { renderCodexAndEscaleta(); } catch(e) { console.error('Error in renderCodexAndEscaleta:', e); }
         try { initAudiobook(); } catch(e) { console.error('Error in initAudiobook:', e); }
 
-        // Cargar marcador o capítulo 0
+        // Inicializar capítulo en memoria
         try {
             if (bookmark && bookmark.chapterIndex !== undefined && bookmark.chapterIndex >= 0 && bookmark.chapterIndex < NOVEL_DATA.chapters.length) {
-                loadChapter(bookmark.chapterIndex, bookmark.scrollTop);
+                currentChapterIndex = bookmark.chapterIndex;
             } else {
-                loadChapter(0);
+                currentChapterIndex = 0;
             }
         } catch(e) {
-            console.error('Error loading chapter, falling back to chapter 0:', e);
+            currentChapterIndex = 0;
+        }
+
+        // Al entrar en la web, mostrar siempre la Portada y las tres versiones
+        try {
+            showCoverView();
+        } catch(e) {
+            console.error('Error showing cover view, falling back to chapter 0:', e);
             loadChapter(0);
         }
 
@@ -219,6 +237,43 @@ document.addEventListener('DOMContentLoaded', () => {
         document.querySelectorAll('.narrative-opt-btn').forEach(btn => {
             btn.addEventListener('click', () => setEdition(btn.getAttribute('data-edition')));
         });
+
+        // Eventos de la Pantalla de Portada (Tres Versiones)
+        document.querySelectorAll('.edition-card-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const ed = btn.getAttribute('data-edition');
+                setEdition(ed, false);
+                const targetChapter = (bookmark && bookmark.chapterIndex !== undefined) ? bookmark.chapterIndex : 0;
+                showReaderView(targetChapter, bookmark ? bookmark.scrollTop : 0);
+            });
+        });
+
+        if (btnCoverResume) {
+            btnCoverResume.addEventListener('click', () => {
+                const targetChapter = (bookmark && bookmark.chapterIndex !== undefined) ? bookmark.chapterIndex : 0;
+                showReaderView(targetChapter, bookmark ? bookmark.scrollTop : 0);
+            });
+        }
+
+        // Navegación hacia la Portada desde Header y Sidebar
+        if (brandHomeLink) {
+            brandHomeLink.addEventListener('click', (e) => {
+                if (e.target.closest('#btn-header-refresh') || e.target.id === 'brand-last-updated') return;
+                showCoverView();
+            });
+        }
+        if (sidebarCoverLink) {
+            sidebarCoverLink.addEventListener('click', () => {
+                closeSidebar();
+                showCoverView();
+            });
+        }
+        if (btnSidebarCover) {
+            btnSidebarCover.addEventListener('click', () => {
+                closeSidebar();
+                showCoverView();
+            });
+        }
 
         document.querySelectorAll('.narrative-setting-btn').forEach(btn => {
             btn.addEventListener('click', () => setEdition(btn.getAttribute('data-edition')));
@@ -381,6 +436,11 @@ document.addEventListener('DOMContentLoaded', () => {
             btn.classList.toggle('active', btn.getAttribute('data-edition') === edition);
         });
 
+        // Actualizar botones en pantalla de portada
+        document.querySelectorAll('.edition-card-btn').forEach(btn => {
+            btn.classList.toggle('selected', btn.getAttribute('data-edition') === edition);
+        });
+
         if (reload && NOVEL_DATA && NOVEL_DATA.chapters && NOVEL_DATA.chapters[currentChapterIndex]) {
             const chap = NOVEL_DATA.chapters[currentChapterIndex];
             let activeContent = chap.content;
@@ -431,9 +491,55 @@ document.addEventListener('DOMContentLoaded', () => {
         localStorage.setItem('prometheus_text_width', width);
     }
 
+    // --- CONTROL DE PANTALLA DE PORTADA Y SELECTOR DE VERSIONES ---
+    function getEditionDisplayName(ed) {
+        switch (ed) {
+            case 'scifi': return 'Sci-Fi (Narrativa)';
+            case 'juvenil': return 'Juvenil / Adolescente';
+            default: return 'Hard Sci-Fi';
+        }
+    }
+
+    function showCoverView() {
+        if (coverLandingView) coverLandingView.style.display = 'block';
+        if (readerCanvas) readerCanvas.style.display = 'none';
+        if (headerChapterIndicator) headerChapterIndicator.textContent = 'Portada • 3 Ediciones';
+        if (progressBar) progressBar.style.width = '0%';
+
+        // Mostrar u ocultar la opción de reanudar lectura si hay marcador
+        if (coverResumeBox) {
+            if (bookmark && bookmark.chapterIndex !== undefined && bookmark.chapterIndex >= 0 && bookmark.chapterIndex < NOVEL_DATA.chapters.length) {
+                const chap = NOVEL_DATA.chapters[bookmark.chapterIndex];
+                if (coverResumeChapTitle) coverResumeChapTitle.textContent = chap.title || `Capítulo ${bookmark.chapterIndex + 1}`;
+                if (coverResumeEditionName) coverResumeEditionName.textContent = getEditionDisplayName(currentEdition);
+                coverResumeBox.style.display = 'flex';
+            } else {
+                coverResumeBox.style.display = 'none';
+            }
+        }
+
+        // Marcar la tarjeta seleccionada
+        document.querySelectorAll('.edition-card-btn').forEach(btn => {
+            btn.classList.toggle('selected', btn.getAttribute('data-edition') === currentEdition);
+        });
+
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
+    function showReaderView(chapterIdx, scrollPos) {
+        if (coverLandingView) coverLandingView.style.display = 'none';
+        if (readerCanvas) readerCanvas.style.display = 'block';
+        const targetIdx = (chapterIdx !== undefined && chapterIdx >= 0) ? chapterIdx : currentChapterIndex;
+        loadChapter(targetIdx, scrollPos || 0);
+    }
+
     // --- CARGAR Y RENDERIZAR CAPÍTULO ---
     function loadChapter(index, scrollToPosition = 0) {
         if (index < 0 || index >= NOVEL_DATA.chapters.length) return;
+
+        // Asegurar que el canvas de lectura esté visible y la portada oculta
+        if (coverLandingView) coverLandingView.style.display = 'none';
+        if (readerCanvas) readerCanvas.style.display = 'block';
 
         currentChapterIndex = index;
         const chap = NOVEL_DATA.chapters[index];
@@ -704,6 +810,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function updateProgressBar() {
         if (isProgressBarUpdating) return;
+        if (coverLandingView && coverLandingView.style.display !== 'none') {
+            if (progressBar) progressBar.style.width = '0%';
+            return;
+        }
         isProgressBarUpdating = true;
 
         window.requestAnimationFrame(() => {

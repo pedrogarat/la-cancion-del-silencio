@@ -12579,3 +12579,25 @@ Si, continúa hasta el final
 
 
 
+
+
+### 👤 Autor *(2026-11-06 15:19:00 UTC)*
+
+quiero que compruebes que la novela multiversión esté operativa en Github
+
+### 🛠️ Bill & Capitán Memo *(2026-11-06 15:26:00 UTC)*
+
+**Auditoría, Despliegue y Verificación en Vivo de la Novela Multiversión en GitHub:**
+1. **Diagnóstico Inicial:**
+   - La rama `origin/main` en GitHub se encontraba en el commit `55e920b` (build del 05/11/2026), por lo que las tres versiones literarias y los 75 PDFs generados en la sesión de hoy aún no estaban subidos ni activos en GitHub Pages.
+2. **Superación del Bloqueo de ReparsePoints de OneDrive y Despliegue:**
+   - Se ejecutó el pipeline de sincronización segura mediante un workspace temporal (`sync_multiversion_to_github.py`).
+   - Se sincronizaron todas las carpetas del proyecto (`novela/capitulos_scifi/`, `novela/capitulos_juvenil/`, `novela/pdf_hard/`, `novela/pdf_scifi/`, `novela/pdf_juvenil/`, personalizaciones en `.agents/`, `index.html`, `style.css`, `app.js`, `chapters-data.js` y `version.json`).
+   - Generado y enviado a `origin/main` el commit `cea2062`: *«feat(multiversion): desplegar novela en 3 ediciones (Hard Sci-Fi, Sci-Fi, Juvenil), 75 PDFs en Baskerville y selector web»*.
+3. **Verificación en Vivo en GitHub Pages (`https://pedrogarat.github.io/la-cancion-del-silencio/`):**
+   - **`version.json`:** Activo en `buildId: 1793978577806` (fecha de despliegue: `06/11/2026, 16:22:57`).
+   - **Interfaz de lectura (`index.html`):** Verificada la presencia del selector en cabecera (`banner-edition-pill`) y del panel de cambio al pie de los capítulos (`Cambio de tipo de narrativa`) con opciones *Hard Sci-Fi*, *Sci-Fi* y *Juvenil*.
+   - **Descarga de PDFs:** Verificada respuesta `HTTP 200` y disponibilidad de descarga directa para las tres colecciones:
+     * `novela/pdf_hard/Capitulo_1_Alamogordo.pdf` (HTTP 200, 40.951 bytes).
+     * `novela/pdf_scifi/Capitulo_1_Alamogordo.pdf` (HTTP 200, 32.728 bytes).
+     * `novela/pdf_juvenil/Capitulo_1_Alamogordo.pdf` (HTTP 200, 32.494 bytes).
