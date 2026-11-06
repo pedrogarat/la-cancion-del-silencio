@@ -12601,3 +12601,36 @@ quiero que compruebes que la novela multiversión esté operativa en Github
      * `novela/pdf_hard/Capitulo_1_Alamogordo.pdf` (HTTP 200, 40.951 bytes).
      * `novela/pdf_scifi/Capitulo_1_Alamogordo.pdf` (HTTP 200, 32.728 bytes).
      * `novela/pdf_juvenil/Capitulo_1_Alamogordo.pdf` (HTTP 200, 32.494 bytes).
+
+
+
+### 👤 Autor *(2026-11-06 15:45:00 UTC)*
+
+Perfecto.
+Quiero que al entrar en la web, se vea la portada de la novela y abajo tres botones con las tres versiones
+
+### 🛠️ Bill & Capitán Memo *(2026-11-06 15:58:00 UTC)*
+
+**Diseño, Implementación y Despliegue de la Pantalla de Portada y Selector de 3 Versiones:**
+
+1. **Pantalla de Bienvenida con Portada (`#cover-landing-view`):**
+   - Configurada para mostrarse por defecto en la carga inicial de la web ([`index.html`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/index.html)), manteniendo el lienzo de lectura oculto hasta que el lector seleccione su experiencia.
+   - Presenta la ilustración oficial de portada (`cover.png`) con efecto tridimensional, sombras de profundidad y resplandor cian sutil, acompañada de la ficha técnica de la obra (título, subtítulo, autor Pedro Garat, badges editoriales de 25 capítulos, 119.000 palabras y 3 ediciones simultáneas, además de una sinopsis de bienvenida).
+
+2. **Cuadrícula de Selección con los 3 Botones de Edición:**
+   - Inmediatamente debajo de la portada se diseñó una botonera prominente y adaptativa (3 columnas en escritorio, 1 columna en móviles) con tarjetas interactivas:
+     * ⚛️ **Hard Sci-Fi**: «Canon original con rigor físico estricto, cálculos y jerga científica formal».
+     * 🚀 **Sci-Fi (Narrativa)**: «Versión cinematográfica y ágil para el gran público, sin tecnicismos pesados».
+     * ⚡ **Juvenil / Adolescente**: «Narrativa fresca, directa y dinámica con metáforas visuales e intuitivas».
+   - Cada botón incluye llamada a la acción clara (*«Empezar a leer en Hard Sci-Fi →»*, etc.) y guarda la preferencia elegida en memoria local (`localStorage`).
+   - Si el lector ya tenía un marcapáginas previo, se muestra además un botón secundario flotante para reanudar directamente su última lectura guardada.
+
+3. **Navegación Fluida y Retorno a la Portada:**
+   - Al pulsar cualquiera de los tres botones, la portada realiza una transición suave hacia el modo de lectura ([`app.js`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/app.js)) abriendo el Capítulo 1 en la versión escogida.
+   - Para volver a la pantalla de portada en cualquier momento, el usuario solo debe hacer clic en el logotipo de la cabecera («La Canción del Silencio») o seleccionar el botón dedicado en el menú lateral: *«🖼️ Portada y Selector de Edición»*.
+
+4. **Compilación y Despliegue en GitHub Pages:**
+   - Recompilados metadatos con `node build-novel-data.js` (hash anti-caché `v=1793980524596`).
+   - Sincronizados y desplegados todos los cambios en el repositorio GitHub con commit `f3e9591` (*«feat(cover): agregar portada y selector de 3 versiones en el inicio de la web»*).
+   - Verificado el repositorio en la rama `origin/main` y disponible en:
+     `https://pedrogarat.github.io/la-cancion-del-silencio/`
