@@ -12829,3 +12829,25 @@ No veo encabezados en los PDFs. Si los vas a modificar, indica arriba a la derec
 3. **Recompilación y Despliegue de los 75 PDFs:**
    - Recompilados todos los archivos PDF en las tres carpetas (`novela/pdf_hard/`, `novela/pdf_scifi/` y `novela/pdf_juvenil/`).
    - Detectado el cambio de nombre del repositorio en GitHub (`silencio-magnetico.git`), actualizando el script `sync_multiversion_to_github.py` y completando el push exitosamente.
+
+
+### 👤 Autor *(2026-11-07 10:58:00 UTC)*
+
+Los PDFs que hay en la carpeta raíz están duplicados dentro de pdf_hard , si es así, elimina los de la carpeta raiz.
+
+### 🛠️ Bill & Capitán Memo *(2026-11-07 11:00:00 UTC)*
+
+**Depuración y Limpieza de Duplicados en el Directorio Raíz:**
+
+1. **Verificación de Duplicidad:**
+   - Se confirmó que los 25 PDFs de capítulos (`Capitulo_1_*.pdf` hasta `Capitulo_25_*.pdf`) presentes en la raíz eran réplicas idénticas de los generados en `novela/pdf_hard/`.
+2. **Eliminación Segura de Duplicados:**
+   - Se eliminaron los 25 archivos `Capitulo_*.pdf` del directorio raíz y de `novela/`.
+   - La colección canónica de capítulos queda organizada de forma única y estructurada en:
+     * `novela/pdf_hard/` (25 capítulos de la edición Hard Sci-Fi).
+     * `novela/pdf_scifi/` (25 capítulos de la edición Sci-Fi Divulgativa).
+     * `novela/pdf_juvenil/` (25 capítulos de la edición Juvenil / Adolescente).
+3. **Ajuste de los Compiladores:**
+   - Modificados `compilar_multiversiones_pdf.py` y `generar_todos_capitulos_pdf.py` para generar directamente en `novela/pdf_hard/` sin volver a duplicar archivos en la raíz ni en `novela/`.
+4. **Sincronización:**
+   - Sincronizado y actualizado el repositorio GitHub `pedrogarat/silencio-magnetico.git`.

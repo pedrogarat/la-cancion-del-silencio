@@ -2,7 +2,7 @@ import os
 import shutil
 from generar_todos_capitulos_pdf import CHAPTER_METADATA, generate_chapter_pdf, FONT_BODY
 
-def compile_edition(edition_name, md_folder, pdf_folder, edition_label="EDICIÓN HARD SCI-FI", copy_to_root_novela=False):
+def compile_edition(edition_name, md_folder, pdf_folder, edition_label="EDICIÓN HARD SCI-FI"):
     print(f"\n=======================================================")
     print(f"Compilando edición: {edition_name} [{edition_label}] con {FONT_BODY} (Sans-Serif Inter)")
     print(f"Directorio origen: {md_folder}")
@@ -21,8 +21,6 @@ def compile_edition(edition_name, md_folder, pdf_folder, edition_label="EDICIÓN
         ok = generate_chapter_pdf(chap_num, md_file, temp_pdf, edition_label=edition_label)
         if ok and os.path.exists(temp_pdf):
             shutil.move(temp_pdf, dest_pdf)
-            if copy_to_root_novela:
-                shutil.copyfile(dest_pdf, os.path.join("novela", pdf_name))
             print(f"[OK] Cap {chap_num:2d}: {meta['titulo']} -> {pdf_name}")
             success_count += 1
         else:
@@ -33,7 +31,7 @@ def compile_edition(edition_name, md_folder, pdf_folder, edition_label="EDICIÓN
 
 if __name__ == "__main__":
     print("Compilación integral de las 3 ediciones oficiales de SILENCIO MAGNÉTICO con encabezados activos en todas las páginas...")
-    c1 = compile_edition("Hard Sci-Fi (Canon Original)", os.path.join("novela", "capitulos"), os.path.join("novela", "pdf_hard"), edition_label="EDICIÓN HARD SCI-FI", copy_to_root_novela=True)
+    c1 = compile_edition("Hard Sci-Fi (Canon Original)", os.path.join("novela", "capitulos"), os.path.join("novela", "pdf_hard"), edition_label="EDICIÓN HARD SCI-FI")
     c2 = compile_edition("Sci-Fi (Divulgativa / Narrativa)", os.path.join("novela", "capitulos_scifi"), os.path.join("novela", "pdf_scifi"), edition_label="EDICIÓN SCI-FI (NARRATIVA)")
     c3 = compile_edition("Juvenil / Adolescente", os.path.join("novela", "capitulos_juvenil"), os.path.join("novela", "pdf_juvenil"), edition_label="EDICIÓN JUVENIL")
     print(f"TOTAL: {c1 + c2 + c3}/75 PDFs generados con éxito con encabezados en todas las páginas e indicación de edición literaria.")

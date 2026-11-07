@@ -423,20 +423,19 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename, edition_label
 
 def compile_all_chapters():
     print(f"Iniciando compilación integral de los 25 capítulos con tipografía {FONT_BODY} (Sans-Serif Inter)...")
-    os.makedirs(os.path.join("novela", "pdf_hard"), exist_ok=True)
+    dest_dir = os.path.join("novela", "pdf_hard")
+    os.makedirs(dest_dir, exist_ok=True)
     for chap_num in range(1, 26):
         md_file = os.path.join("novela", "capitulos", f"capitulo_{chap_num}.md")
         meta = CHAPTER_METADATA[chap_num]
         new_pdf_name = meta["new_pdf"]
+        temp_pdf = f"temp_{chap_num}.pdf"
+        dest_hard = os.path.join(dest_dir, new_pdf_name)
 
-        # Generar PDF principal
-        success = generate_chapter_pdf(chap_num, md_file, new_pdf_name)
-        if success:
-            dest_new = os.path.join("novela", new_pdf_name)
-            dest_hard = os.path.join("novela", "pdf_hard", new_pdf_name)
-            shutil.copyfile(new_pdf_name, dest_new)
-            shutil.copyfile(new_pdf_name, dest_hard)
-            print(f"[OK] Cap {chap_num:2d}: {meta['titulo']} -> {new_pdf_name}")
+        success = generate_chapter_pdf(chap_num, md_file, temp_pdf, edition_label="EDICIÓN HARD SCI-FI")
+        if success and os.path.exists(temp_pdf):
+            shutil.move(temp_pdf, dest_hard)
+            print(f"[OK] Cap {chap_num:2d}: {meta['titulo']} -> {dest_hard}")
         else:
             print(f"[ERROR] Cap {chap_num:2d}: Falló la generación.")
 
