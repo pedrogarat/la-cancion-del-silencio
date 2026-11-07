@@ -78,7 +78,7 @@ CHAPTER_METADATA = {
     25: {"titulo": "Capítulo 25: La Canción", "acto": "ACTO III: EL SILENCIO", "new_pdf": "Capitulo_25_La_Cancion.pdf"}
 }
 
-def make_canvas_class(act_title, chap_title):
+def make_canvas_class(act_title, chap_title, edition_label="EDICIÓN HARD SCI-FI"):
     class DynamicBookCanvas(canvas.Canvas):
         def __init__(self, *args, **kwargs):
             super().__init__(*args, **kwargs)
@@ -101,13 +101,13 @@ def make_canvas_class(act_title, chap_title):
             self.setFont(FONT_BODY, 8)
             self.setFillColor(colors.HexColor("#64748B"))
             
-            # Encabezado (páginas > 1)
-            if self._pageNumber > 1:
-                self.drawString(54, A4[1] - 36, "SILENCIO MAGNÉTICO • NOVELA DE CIENCIA FICCIÓN")
-                self.drawRightString(A4[0] - 54, A4[1] - 36, act_title)
-                self.setStrokeColor(colors.HexColor("#CBD5E1"))
-                self.setLineWidth(0.5)
-                self.line(54, A4[1] - 42, A4[0] - 54, A4[1] - 42)
+            # Encabezado (en TODAS las páginas, incluida la página 1)
+            right_header = f"{act_title} • {edition_label}" if act_title else edition_label
+            self.drawString(54, A4[1] - 36, "SILENCIO MAGNÉTICO")
+            self.drawRightString(A4[0] - 54, A4[1] - 36, right_header)
+            self.setStrokeColor(colors.HexColor("#CBD5E1"))
+            self.setLineWidth(0.5)
+            self.line(54, A4[1] - 42, A4[0] - 54, A4[1] - 42)
             
             # Pie de página
             self.setStrokeColor(colors.HexColor("#E2E8F0"))
@@ -226,7 +226,7 @@ def is_metadata_line(s):
     is_italic = (s.startswith('*') and '*' in s[1:]) or (s.startswith('_') and '_' in s[1:])
     return (has_meta_keywords or is_wrapped or is_italic) and len(s) < 260
 
-def generate_chapter_pdf(chap_num, input_md_path, output_filename):
+def generate_chapter_pdf(chap_num, input_md_path, output_filename, edition_label="EDICIÓN HARD SCI-FI"):
     if not os.path.exists(input_md_path):
         print(f"Error: No se encuentra {input_md_path}")
         return False
@@ -246,7 +246,7 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
         pagesize=A4,
         leftMargin=54,
         rightMargin=54,
-        topMargin=54,
+        topMargin=58,
         bottomMargin=54
     )
 
@@ -417,7 +417,7 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
         story.append(create_code_box(code_lines, styles))
         story.append(Spacer(1, 6))
 
-    canvas_class = make_canvas_class(meta["acto"], meta["titulo"])
+    canvas_class = make_canvas_class(meta["acto"], meta["titulo"], edition_label)
     doc.build(story, canvasmaker=canvas_class)
     return True
 

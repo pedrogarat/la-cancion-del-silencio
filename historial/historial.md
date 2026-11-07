@@ -12758,3 +12758,52 @@ Quiero que crees un apartado en la WEB de personajes, con una descripción de ca
    - Actualizado [`build-novel-data.js`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/build-novel-data.js) para compilar `personajesSinSpoilersRaw`.
    - Recompilado todo el paquete web con hash `v=1794043745566`.
    - Sincronizado y subido al repositorio GitHub en la rama `main`.
+
+
+### 👤 Autor *(2026-11-07 10:35:00 UTC)*
+
+1. La ventana de personajes sale con barras de desplazamiento (ver imagen 1).
+2. No quiero que aparezca la nota "sin spoilers".
+3. Quiero que sólo aparezcan los siguientes personajes, y por este orden:
+   - Sarah
+   - Thomas
+   - Jean-Luc
+   - Pleh
+   - Vassily Ramos
+   - Dra. Chen Mei, Cnel. James «Mace» MacElroy y Cnel. Alexei Voronov (juntos)
+4. Quiero que revises cuántas veces se menciona el olor a Ozono, y dejes sólo una de ellas. Cambia el resto por otra cosa (en las 3 versiones).
+5. Quiero que actualices todos los PDFs para:
+   - El título aparezca: SILENCIO MAGNÉTICO, así como en los encabezados.
+   - El tipo de fuente prefiero Sans-Serif (inter), al mismo tamaño que está ahora.
+   - Quiero que los detalles del título apartado aparezcan diferenciados de alguna manera (ver imagen 2).
+6. Por otro lado, quiero cambiar el título también en la dirección web, dime cómo hacerlo: https://pedrogarat.github.io/silencio-magnetico/
+
+### 🛠️ Bill & Capitán Memo *(2026-11-07 10:46:00 UTC)*
+
+**Auditoría Olfativa Canónica, Reestructuración de Personajes, Nueva Maquetación PDF con Inter y Guía de Cambio de Dominio:**
+
+1. **Corrección Integral del Modal de Personajes:**
+   - **Eliminación de barras de desplazamiento:** Se suprimió el contenedor de pestañas superior horizontal que provocaba el desbordamiento visual y se forzó `overflow-x: hidden` tanto en el modal como en la rejilla.
+   - **Retirada del distintivo "Sin Spoilers":** Se eliminó dicha etiqueta del encabezado y de cualquier texto del lector.
+   - **Filtrado estricto al elenco nuclear ordenado (6 tarjetas):**
+     1. *Dra. Sarah Lin* (con fotografía oficial).
+     2. *Dr. Thomas Wright* (con fotografía oficial).
+     3. *Dr. Jean-Luc Girard* (con fotografía oficial).
+     4. *Dr. Em Pleh* (con fotografía oficial).
+     5. *Vassily Ramos* (Secretario General de la ONU).
+     6. *Tripulación de Espacio Profundo* (tarjeta unificada con Dra. Chen Mei, Cnel. James «Mace» MacElroy y Cnel. Alexei Voronov).
+
+2. **Auditoría del "Olor a Ozono" en las 3 Versiones:**
+   - Se analizaron todas las menciones olfativas de ozono en las tres ediciones (Hard Sci-Fi, Divulgativa y Juvenil).
+   - Se preservó como **única mención sensorial en toda la novela** la escena inicial del Capítulo 16 (*Ceniza* / páramo calcinado de Versoix junto al lago Lemán).
+   - Se reformularon todas las demás apariciones olfativas por alternativas ricas y precisas (*«aire ionizado filtrado por turbinas»*, *«estática de alta tensión»*, *«aire sulfurado»*, *«chispazo metálico de soldadura»*, *«sequedad eléctrica»*, etc.).
+
+3. **Renovación Editorial de los 75 PDFs con ReportLab:**
+   - **Tipografía Sans-Serif (Inter):** Descargada e integrada la familia tipográfica oficial Inter (Regular, Bold, Italic, BoldItalic) en `./fonts/`. Se configuró el cuerpo del texto a 10.5 pt con interlineado óptico de 15.5 pt.
+   - **Título Canónico en Cabeceras:** Modificado el encabezado superior a `SILENCIO MAGNÉTICO • NOVELA DE CIENCIA FICCIÓN`.
+   - **Diferenciación Visual de Metadatos de Apartado:** Implementada la función `create_meta_box()` que detecta las líneas de ubicación, fecha/hora y cuenta atrás bajo cada subtítulo `###`, encerrándolas en una caja técnica de diseño limpio (fondo `#F8FAFC`, borde izquierdo `#3B82F6`, tipografía compacta Inter 8.5 pt color grafito `#334155`).
+   - Compilados y validados los **75 PDFs** correspondientes a las tres ediciones oficiales en `novela/pdf_hard/`, `novela/pdf_scifi/` y `novela/pdf_juvenil/`.
+
+4. **Despliegue y Sincronización:**
+   - Reconstruido el paquete de datos web con `node build-novel-data.js` (`v=1794048336879`).
+   - Subidos todos los cambios y nuevos PDFs al repositorio remoto en GitHub.
