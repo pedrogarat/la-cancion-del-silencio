@@ -12851,3 +12851,24 @@ Los PDFs que hay en la carpeta raíz están duplicados dentro de pdf_hard , si e
    - Modificados `compilar_multiversiones_pdf.py` y `generar_todos_capitulos_pdf.py` para generar directamente en `novela/pdf_hard/` sin volver a duplicar archivos en la raíz ni en `novela/`.
 4. **Sincronización:**
    - Sincronizado y actualizado el repositorio GitHub `pedrogarat/silencio-magnetico.git`.
+
+
+### 👤 Autor *(2026-11-07 13:52:00 UTC)*
+
+Listas las fotos de los personajes que faltan. Actualiza la web.
+
+### 🛠️ Bill & Capitán Memo *(2026-11-07 13:54:00 UTC)*
+
+**Integración de Nuevas Ilustraciones Fotorrealistas y Actualización Web:**
+
+1. **Detección y Optimización Web:**
+   - Detectados los nuevos archivos en `portada_imagenes/`: `Ramos.jpg` (3,26 MB) y `tripulacion.jpg` (3,59 MB).
+   - Generadas copias web optimizadas en alta fidelidad y peso ligero dentro de `img/personajes/`:
+     * `img/personajes/ramos.jpg` (273 KB, 1600 × 893 px).
+     * `img/personajes/tripulacion.jpg` (338 KB, 1600 × 893 px).
+2. **Actualización del Catálogo Web de Personajes:**
+   - Actualizadas las fichas 5 y 6 en `#modal-characters` de `index.html` vinculando sus correspondientes fotografías cinematográficas y distintivo oficial de imagen fotorrealista.
+   - El catálogo cuenta ahora con el 100% de las 6 fichas ilustradas con fotorrealismo oficial (Sarah, Thomas, Jean-Luc, Pleh, Ramos y la Tripulación Espacial).
+3. **Compilación y Despliegue:**
+   - Reconstruido el paquete de datos web con `node build-novel-data.js` (`v=1794059595396`).
+   - Sincronizado y subido al repositorio GitHub en `pedrogarat/silencio-magnetico.git`.
