@@ -83,7 +83,7 @@ La pantalla volvió al reposo. Girard se reclinó en el sillón contemplando la 
 *23:40 EDT — 7 de septiembre de 2026*  
 *Plasma Science and Fusion Center, MIT, Cambridge, Massachusetts*
 
-El aire en la galería olía a metal frío y al ozono seco de las altas tensiones.
+El aire en la galería olía a metal frío y a la sequedad eléctrica de las altas tensiones.
 
 La doctora Sarah Lin contemplaba a través del visor blindado el corazón del reactor experimental: un anillo masivo de acero y electroimanes diseñado para reproducir en la Tierra el fuego de las estrellas.
 

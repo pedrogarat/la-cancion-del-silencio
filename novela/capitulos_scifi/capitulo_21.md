@@ -30,7 +30,7 @@ La normalización urbana trajo consigo una dura toma de contacto con la realidad
 
 Cuando las sirenas de defensa civil emitieron la señal de tres tonos prolongados anunciando el final del confinamiento diurno, las compuertas de hormigón de los refugios se abrieron sobre sus guías. En las grandes ciudades de Europa, América y Asia, la población comenzó a salir al exterior tras meses de aislamiento forzado.
 
-El aire presentaba una temperatura normal y limpia, desprovisto del olor acre a ozono y materiales calcinados.
+El aire presentaba una temperatura normal y limpia, desprovisto del acre sabor metálico y materiales calcinados.
 
 El impacto de la crisis quedaba a la vista en toda su crudeza. En las avenidas principales, donde las primeras fases del apagón habían sorprendido a la población sin resguardo, la calzada conservaba las huellas del desastre. Vehículos militares de apoyo escoltaban a brigadas de sanitarios, bomberos y equipos civiles de ayuda provistos de mascarillas y batas de protección.
 

@@ -2,7 +2,7 @@
 
 ### I. Desmovilización
 
-El desierto de Mojave ya no olía a ozono quemado ni a polvo radiactivo.
+El desierto de Mojave ya no olía a aire calcinado ni a polvo radiactivo.
 
 A mediados de septiembre de 2027, el aire que descendía de las estribaciones de la cordillera Spring era limpio, tibio y transparente. En la pista principal de la Base Aérea de Nellis, donde durante meses rugieron los transportes pesados y los convoyes blindados bajo el toque de queda, una hilera de gorriones del desierto picoteaba las junturas de asfalto sin temor a la luz del mediodía.
 

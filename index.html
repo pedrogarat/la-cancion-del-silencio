@@ -17,7 +17,7 @@
         href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Outfit:wght@400;600;700;800&display=swap"
         rel="stylesheet">
 
-    <link rel="stylesheet" href="style.css?v=1794043745566">
+    <link rel="stylesheet" href="style.css?v=1794048336879">
 </head>
 
 <body>
@@ -138,7 +138,7 @@
                         title="Leer el prólogo sobre el método de co-creación con IA">📖 Prólogo: IA y Literatura</button>
                     <button id="btn-sidebar-characters" class="btn-mini-refresh" onclick="openModal('modal-characters')"
                         style="margin-top: 6px; padding: 6px 10px; font-size: 0.72rem; width: 100%; justify-content: center; background: rgba(16, 185, 129, 0.12); border: 1px solid #10b981; color: #10b981;"
-                        title="Ver la galería y fichas sin spoilers de los personajes">👥 Personajes de la Novela</button>
+                        title="Ver la galería y fichas oficiales de los personajes">👥 Personajes de la Novela</button>
                 </div>
                 <button id="btn-close-sidebar" class="close-btn" aria-label="Cerrar">&times;</button>
             </div>
@@ -192,7 +192,7 @@
                                 </button>
                                 <button id="btn-open-characters-cover" class="btn-prologue-cta" onclick="openModal('modal-characters')"
                                     style="display: inline-flex; align-items: center; gap: 8px; padding: 0.65rem 1.25rem; background: rgba(16, 185, 129, 0.08); border: 1px solid rgba(16, 185, 129, 0.4); border-radius: 10px; color: #10b981; font-size: 0.88rem; font-weight: 500; cursor: pointer; transition: all 0.25s ease;"
-                                    title="Ver la galería y fichas sin spoilers de los personajes de la novela">
+                                    title="Ver la galería y fichas oficiales de los personajes de la novela">
                                     <span>👥</span>
                                     <span>Guía de Personajes <strong>(Fichas &amp; Galería)</strong></span>
                                     <span>→</span>
@@ -521,20 +521,10 @@
         <div class="modal-box modal-extra-large glass">
             <div class="modal-header">
                 <div>
-                    <h3 style="display: flex; align-items: center; gap: 8px;">👥 Guía Oficial de Personajes <span style="font-size: 0.72rem; background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.4); padding: 2px 8px; border-radius: 999px;">Sin Spoilers</span></h3>
+                    <h3 style="display: flex; align-items: center; gap: 8px;">👥 Guía Oficial de Personajes</h3>
                     <p style="font-size: 0.8rem; color: var(--text-muted, #94a3b8); margin: 3px 0 0 0;">Fichas canónicas de identidad, especialidad y psicología del elenco de <em>Silencio Magnético</em></p>
                 </div>
                 <button class="close-btn" onclick="closeModal('modal-characters')">&times;</button>
-            </div>
-
-            <!-- Selector de Categorías -->
-            <div class="char-tabs-container">
-                <button class="char-tab-btn active" data-category="all" onclick="filterCharacterCards('all')">Todos (16)</button>
-                <button class="char-tab-btn" data-category="cientificos" onclick="filterCharacterCards('cientificos')">⚛️ Científicos &amp; Enigma (4)</button>
-                <button class="char-tab-btn" data-category="mando" onclick="filterCharacterCards('mando')">🌐 Mando &amp; Defensa (4)</button>
-                <button class="char-tab-btn" data-category="tripulacion" onclick="filterCharacterCards('tripulacion')">👨‍🚀 Tripulación Espacial (3)</button>
-                <button class="char-tab-btn" data-category="familias" onclick="filterCharacterCards('familias')">🏡 Frente Civil &amp; Familias (3)</button>
-                <button class="char-tab-btn" data-category="historico" onclick="filterCharacterCards('historico')">⏳ Prólogo 1945 (2)</button>
             </div>
 
             <div class="modal-body" style="padding: 0; overflow-y: auto;">
@@ -636,223 +626,24 @@
                         </div>
                     </div>
 
-                    <!-- 6. Almirante Marcus Vance -->
-                    <div class="char-card" data-category="mando">
-                        <div class="char-card-media">
-                            <div class="char-avatar-placeholder">
-                                ⚓
-                                <span>Defensa Aeroespacial</span>
-                            </div>
-                        </div>
-                        <div class="char-card-body">
-                            <div class="char-card-header">
-                                <div>
-                                    <div class="char-card-role">Coordinador Militar Táctico</div>
-                                    <h4 class="char-card-title">Almirante Marcus Vance</h4>
-                                </div>
-                            </div>
-                            <div class="char-card-affiliation">📍 NORAD / Nellis AFB (Nevada)</div>
-                            <p class="char-card-desc">58 años. Curtido oficial al mando de las instalaciones subterráneas de Nellis. Realista y protector con su tropa, comprende de inmediato que las doctrinas bélicas convencionales son inútiles ante una anomalía física sin precedentes.</p>
-                        </div>
-                    </div>
-
-                    <!-- 7. Generales Korolyov & Chen Wei -->
-                    <div class="char-card" data-category="mando">
-                        <div class="char-card-media">
-                            <div class="char-avatar-placeholder">
-                                🪖
-                                <span>Fuerzas Aliadas</span>
-                            </div>
-                        </div>
-                        <div class="char-card-body">
-                            <div class="char-card-header">
-                                <div>
-                                    <div class="char-card-role">Altos Mandos de Coalición</div>
-                                    <h4 class="char-card-title">Gen. Korolyov &amp; Gen. Chen Wei</h4>
-                                </div>
-                            </div>
-                            <div class="char-card-affiliation">📍 Fuerzas Espaciales (Rusia / China)</div>
-                            <p class="char-card-desc">Altos mandos de las fuerzas espaciales rusa y china que personifican la superación histórica de las rivalidades geopolíticas en favor de una movilización industrial y logística planetaria sin fisuras.</p>
-                        </div>
-                    </div>
-
-                    <!-- 8. Dra. Elena Arispe -->
-                    <div class="char-card" data-category="mando">
-                        <div class="char-card-media">
-                            <div class="char-avatar-placeholder">
-                                🔭
-                                <span>Vigilancia Astronómica</span>
-                            </div>
-                        </div>
-                        <div class="char-card-body">
-                            <div class="char-card-header">
-                                <div>
-                                    <div class="char-card-role">Astrofísica de Espacio Profundo</div>
-                                    <h4 class="char-card-title">Dra. Elena Arispe</h4>
-                                </div>
-                            </div>
-                            <div class="char-card-affiliation">📍 Red de Espacio Profundo / Atacama (Chile)</div>
-                            <p class="char-card-desc">Astrofísica de vanguardia encargada de procesar las señales de telemetría más sensibles del hemisferio sur, confirmando con datos de campo la validez de los modelos matemáticos de la crisis.</p>
-                        </div>
-                    </div>
-
-                    <!-- 9. Dra. Chen Mei -->
+                    <!-- 6. Dra. Chen Mei, Cnel. James «Mace» MacElroy y Cnel. Alexei Voronov -->
                     <div class="char-card" data-category="tripulacion">
                         <div class="char-card-media">
-                            <div class="char-avatar-placeholder">
-                                👩‍🔬
-                                <span>Comandante de Misión</span>
+                            <div class="char-avatar-placeholder" style="gap: 12px; font-size: 1.8rem;">
+                                <span>👩‍🔬 👨‍✈️ 👨‍🚀</span>
+                                <span style="font-size: 0.82rem; letter-spacing: 0.5px; text-transform: uppercase; color: #38bdf8;">Tripulación de Espacio Profundo</span>
                             </div>
                         </div>
                         <div class="char-card-body">
                             <div class="char-card-header">
                                 <div>
-                                    <div class="char-card-role">Comandante de Vuelo &bull; Astrofísica</div>
-                                    <h4 class="char-card-title">Dra. Chen Mei</h4>
+                                    <div class="char-card-role">Misión Ícaro &bull; Confinamiento Orbital en Punto L1</div>
+                                    <h4 class="char-card-title">Dra. Chen Mei, Cnel. James «Mace» MacElroy y Cnel. Alexei Voronov</h4>
                                 </div>
                             </div>
-                            <div class="char-card-affiliation">📍 Programa Espacial Chino / Nellis AFB</div>
-                            <p class="char-card-desc">38 años. Astrofísica y astronauta de élite. Determinada, atlética y con temple de acero, su destreza técnica manual la convierte en la líder natural designada para pilotar la nave de contraataque sin asistencia de ordenadores digitales.</p>
-                        </div>
-                    </div>
-
-                    <!-- 10. Coronel James «Mace» MacElroy -->
-                    <div class="char-card" data-category="tripulacion">
-                        <div class="char-card-media">
-                            <div class="char-avatar-placeholder">
-                                👨‍✈️
-                                <span>Piloto Principal</span>
-                            </div>
-                        </div>
-                        <div class="char-card-body">
-                            <div class="char-card-header">
-                                <div>
-                                    <div class="char-card-role">Piloto de Pruebas &bull; Navegación Manual</div>
-                                    <h4 class="char-card-title">Cnel. James «Mace» MacElroy</h4>
-                                </div>
-                            </div>
-                            <div class="char-card-affiliation">📍 Fuerza Aérea de los Estados Unidos</div>
-                            <p class="char-card-desc">44 años. Ex-piloto militar legendario, habituado a volar al límite estructural guiándose únicamente por los instrumentos mecánicos, la presión de la palanca y la memoria muscular de vuelo.</p>
-                        </div>
-                    </div>
-
-                    <!-- 11. Coronel Alexei Voronov -->
-                    <div class="char-card" data-category="tripulacion">
-                        <div class="char-card-media">
-                            <div class="char-avatar-placeholder">
-                                👨‍🚀
-                                <span>Sistemas de Vuelo</span>
-                            </div>
-                        </div>
-                        <div class="char-card-body">
-                            <div class="char-card-header">
-                                <div>
-                                    <div class="char-card-role">Ingeniero de Sistemas Orbitales</div>
-                                    <h4 class="char-card-title">Cnel. Alexei Voronov</h4>
-                                </div>
-                            </div>
-                            <div class="char-card-affiliation">📍 Roscosmos (Rusia)</div>
-                            <p class="char-card-desc">46 años. Ingeniero veterano con cientos de horas en gravedad cero, especialista en sellados neumáticos, sistemas de soporte vital analógicos y maniobras de atraque en entornos de alta radiación.</p>
-                        </div>
-                    </div>
-
-                    <!-- 12. Maya Lin y Toby -->
-                    <div class="char-card" data-category="familias">
-                        <div class="char-card-media">
-                            <div class="char-avatar-placeholder">
-                                🇺🇸
-                                <span>San Francisco</span>
-                            </div>
-                        </div>
-                        <div class="char-card-body">
-                            <div class="char-card-header">
-                                <div>
-                                    <div class="char-card-role">El Frente Civil de la Costa Oeste</div>
-                                    <h4 class="char-card-title">Maya Lin y Toby (4 años)</h4>
-                                </div>
-                            </div>
-                            <div class="char-card-affiliation">📍 Market Street, San Francisco (EE.UU.)</div>
-                            <p class="char-card-desc">Hermana menor y sobrino de Sarah Lin. Maya, tras años de lucha personal por salir adelante, enfrenta las crecientes anomalías atmosféricas con una valentía protectora feroz, convirtiéndose en el ancla emocional que impulsa a Sarah a no rendirse.</p>
-                        </div>
-                    </div>
-
-                    <!-- 13. David & Claire Wright -->
-                    <div class="char-card" data-category="familias">
-                        <div class="char-card-media">
-                            <div class="char-avatar-placeholder">
-                                🇬🇧
-                                <span>Suffolk</span>
-                            </div>
-                        </div>
-                        <div class="char-card-body">
-                            <div class="char-card-header">
-                                <div>
-                                    <div class="char-card-role">El Refugio Rural en Inglaterra</div>
-                                    <h4 class="char-card-title">David Wright, Claire y Oliver</h4>
-                                </div>
-                            </div>
-                            <div class="char-card-affiliation">📍 Granja familiar en Suffolk (Inglaterra)</div>
-                            <p class="char-card-desc">Hermano menor, cuñada y sobrino de Thomas Wright. David, físico experimental en Cambridge, y Claire, enfermera, organizan en la casa familiar de campo un bastión de supervivencia con pozo de agua artesiana y radio analógica.</p>
-                        </div>
-                    </div>
-
-                    <!-- 14. Marie & Julien Girard -->
-                    <div class="char-card" data-category="familias">
-                        <div class="char-card-media">
-                            <div class="char-avatar-placeholder">
-                                🇨🇭
-                                <span>Versoix</span>
-                            </div>
-                        </div>
-                        <div class="char-card-body">
-                            <div class="char-card-header">
-                                <div>
-                                    <div class="char-card-role">El Bastión Suizo de Versoix</div>
-                                    <h4 class="char-card-title">Marie Girard y Julien (17 años)</h4>
-                                </div>
-                            </div>
-                            <div class="char-card-affiliation">📍 Chalet en Versoix, Lago Lemán (Suiza)</div>
-                            <p class="char-card-desc">Familia de Jean-Luc Girard. Mientras Marie conserva la serenidad y la cohesión familiar, el joven Julien, heredero del talento técnico de su padre, asume el liderazgo práctico para fortificar el hogar ante el desabastecimiento.</p>
-                        </div>
-                    </div>
-
-                    <!-- 15. Dr. David Miller -->
-                    <div class="char-card" data-category="historico">
-                        <div class="char-card-media">
-                            <div class="char-avatar-placeholder">
-                                ⚛️
-                                <span>Trinity 1945</span>
-                            </div>
-                        </div>
-                        <div class="char-card-body">
-                            <div class="char-card-header">
-                                <div>
-                                    <div class="char-card-role">Físico Teórico &bull; Proyecto Manhattan</div>
-                                    <h4 class="char-card-title">Dr. David Miller</h4>
-                                </div>
-                            </div>
-                            <div class="char-card-affiliation">📍 Jornada del Muerto, Alamogordo (1945)</div>
-                            <p class="char-card-desc">Testigo científico en la madrugada del 16 de julio de 1945 durante la prueba Trinity, intuyendo que el destello atómico no solo alteraría la geopolítica humana, sino que enviaría un eco silencioso e irreversible al cosmos.</p>
-                        </div>
-                    </div>
-
-                    <!-- 16. J. Robert Oppenheimer -->
-                    <div class="char-card" data-category="historico">
-                        <div class="char-card-media">
-                            <div class="char-avatar-placeholder">
-                                🎩
-                                <span>Los Álamos 1945</span>
-                            </div>
-                        </div>
-                        <div class="char-card-body">
-                            <div class="char-card-header">
-                                <div>
-                                    <div class="char-card-role">Director Científico del Proyecto Manhattan</div>
-                                    <h4 class="char-card-title">J. Robert Oppenheimer</h4>
-                                </div>
-                            </div>
-                            <div class="char-card-affiliation">📍 Laboratorio Nacional de Los Álamos (1945)</div>
-                            <p class="char-card-desc">Figura histórica que cargó con el peso moral y filosófico del nacimiento de la era nuclear, presenciando el fulgor de mil soles que dio inicio a la cadena invisible de acontecimientos de la novela.</p>
+                            <div class="char-card-affiliation">📍 Coalición Internacional &bull; Base Aérea de Nellis &bull; Misión L1</div>
+                            <div class="char-card-quote">«Sin ordenadores de vuelo ni telemetría terrestre. Volamos a ciegas gobernando a pulso y memoria.»</div>
+                            <p class="char-card-desc">El trío de élite seleccionado para la misión más arriesgada de la historia de la humanidad. La <strong>Dra. Chen Mei</strong> (38 años, comandante de vuelo y astrofísica china de serenidad absoluta), el <strong>Cnel. James «Mace» MacElroy</strong> (44 años, legendario piloto de pruebas estadounidense habituado al vuelo manual límite) y el <strong>Cnel. Alexei Voronov</strong> (46 años, veterano ingeniero orbital ruso especialista en gravedad cero y sistemas neumáticos analógicos). Juntos asumen la responsabilidad crítica de guiar la nave experimental hacia el punto Lagrange L1 para desplegar el escudo magnético.</p>
                         </div>
                     </div>
 
@@ -1043,8 +834,8 @@
     </div>
 
     <!-- Cargar Datos y Lógica de la App (con control de versión para forzar actualización en móviles) -->
-    <script src="chapters-data.js?v=1794043745566"></script>
-    <script src="app.js?v=1794043745566"></script>
+    <script src="chapters-data.js?v=1794048336879"></script>
+    <script src="app.js?v=1794048336879"></script>
 </body>
 
 </html>

@@ -44,7 +44,7 @@ Sarah contempló la silueta del conjunto y soltó una exhalación lenta:
 
 —Estable al noventa y nueve coma cuatro por ciento —sonrió Sarah con orgullo genuino—. Cuarenta y dos litros de helio supercrítico sellados por capilaridad en el sinterizado de berilio del MAA. Mientras la nave vuele acoplada hacia L1, el helio no se moverá. No requiere bombas eléctricas ni sensores que puedan quemarse al cruzar la frontera magnética. Girard nos dio una solución eterna: termodinámica pura.
 
-Una ráfaga de aire caliente, cargada del olor químico del hidrógeno venteado y el ozono, barrió la rampa. Desde los altavoces de la torre, una bocina neumática emitió tres toques breves.
+Una ráfaga de aire caliente, cargada del olor químico del hidrógeno venteado y la estática de alta tensión, barrió la rampa. Desde los altavoces de la torre, una bocina neumática emitió tres toques breves.
 
 *T menos tres horas.*
 

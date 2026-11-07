@@ -11,25 +11,44 @@ from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 
-# Registro de la tipografía Baskerville
-FONT_SERIF = "Times-Roman"
-FONT_SANS = "Helvetica"
+# Registro de la tipografía Sans-Serif Inter
+FONT_BODY = "Helvetica"
+FONT_BOLD = "Helvetica-Bold"
+FONT_ITALIC = "Helvetica-Oblique"
+FONT_BOLD_ITALIC = "Helvetica-BoldOblique"
 
-baskerville_path = "C:/Windows/Fonts/BASKVILL.TTF"
-if os.path.exists(baskerville_path):
+inter_regular = "fonts/Inter-Regular.ttf"
+inter_bold = "fonts/Inter-Bold.ttf"
+inter_italic = "fonts/Inter-Italic.ttf"
+inter_bold_italic = "fonts/Inter-BoldItalic.ttf"
+
+if os.path.exists(inter_regular) and os.path.exists(inter_bold):
     try:
-        pdfmetrics.registerFont(TTFont("Baskerville", baskerville_path))
+        pdfmetrics.registerFont(TTFont("Inter", inter_regular))
+        pdfmetrics.registerFont(TTFont("Inter-Bold", inter_bold))
+        if os.path.exists(inter_italic):
+            pdfmetrics.registerFont(TTFont("Inter-Italic", inter_italic))
+        else:
+            pdfmetrics.registerFont(TTFont("Inter-Italic", inter_regular))
+            
+        if os.path.exists(inter_bold_italic):
+            pdfmetrics.registerFont(TTFont("Inter-BoldItalic", inter_bold_italic))
+        else:
+            pdfmetrics.registerFont(TTFont("Inter-BoldItalic", inter_bold))
+
         pdfmetrics.registerFontFamily(
-            "Baskerville",
-            normal="Baskerville",
-            bold="Baskerville",
-            italic="Baskerville",
-            boldItalic="Baskerville"
+            "Inter",
+            normal="Inter",
+            bold="Inter-Bold",
+            italic="Inter-Italic",
+            boldItalic="Inter-BoldItalic"
         )
-        FONT_SERIF = "Baskerville"
-        FONT_SANS = "Baskerville"
+        FONT_BODY = "Inter"
+        FONT_BOLD = "Inter-Bold"
+        FONT_ITALIC = "Inter-Italic"
+        FONT_BOLD_ITALIC = "Inter-BoldItalic"
     except Exception as e:
-        print(f"Aviso: No se pudo registrar Baskerville: {e}")
+        print(f"Aviso: No se pudo registrar Inter: {e}")
 
 CHAPTER_METADATA = {
     1: {"titulo": "Capítulo 1: Alamogordo", "acto": "ACTO I: LA SEMILLA", "new_pdf": "Capitulo_1_Alamogordo.pdf"},
@@ -79,12 +98,12 @@ def make_canvas_class(act_title, chap_title):
 
         def draw_page_decorations(self, page_count):
             self.saveState()
-            self.setFont(FONT_SANS, 8)
+            self.setFont(FONT_BODY, 8)
             self.setFillColor(colors.HexColor("#64748B"))
             
             # Encabezado (páginas > 1)
             if self._pageNumber > 1:
-                self.drawString(54, A4[1] - 36, "LA CANCIÓN DEL SILENCIO • NOVELA DE CIENCIA FICCIÓN")
+                self.drawString(54, A4[1] - 36, "SILENCIO MAGNÉTICO • NOVELA DE CIENCIA FICCIÓN")
                 self.drawRightString(A4[0] - 54, A4[1] - 36, act_title)
                 self.setStrokeColor(colors.HexColor("#CBD5E1"))
                 self.setLineWidth(0.5)
@@ -125,7 +144,7 @@ def create_quote_box(paragraphs_text, styles, width=A4[0] - 108):
     q_style = ParagraphStyle(
         'QuoteText',
         parent=styles['Normal'],
-        fontName=FONT_SERIF,
+        fontName=FONT_ITALIC,
         fontSize=9.5,
         leading=14,
         textColor=colors.HexColor("#1E293B"),
@@ -139,6 +158,37 @@ def create_quote_box(paragraphs_text, styles, width=A4[0] - 108):
         ('TOPPADDING', (0,0), (-1,-1), 8),
         ('BOTTOMPADDING', (0,0), (-1,-1), 8),
         ('LINELEFT', (0,0), (0,0), 3.5, colors.HexColor("#4338CA")),
+    ]))
+    return t
+
+def create_meta_box(meta_lines, styles, width=A4[0] - 108):
+    """
+    Caja visual diferenciada para los detalles del apartado
+    (Ubicación, fecha/hora, cuenta atrás hacia Fase 1 o T=0)
+    """
+    m_style = ParagraphStyle(
+        'MetaBoxText',
+        parent=styles['Normal'],
+        fontName=FONT_BODY,
+        fontSize=8.5,
+        leading=13,
+        textColor=colors.HexColor("#334155"),
+    )
+    formatted_items = []
+    for line in meta_lines:
+        clean = format_markdown_inline(line)
+        formatted_items.append(clean)
+    formatted = "<br/>".join(formatted_items)
+    flowables = [Paragraph(formatted, m_style)]
+    t = Table([[flowables]], colWidths=[width])
+    t.setStyle(TableStyle([
+        ('BACKGROUND', (0,0), (-1,-1), colors.HexColor("#F8FAFC")),
+        ('LEFTPADDING', (0,0), (-1,-1), 12),
+        ('RIGHTPADDING', (0,0), (-1,-1), 12),
+        ('TOPPADDING', (0,0), (-1,-1), 7),
+        ('BOTTOMPADDING', (0,0), (-1,-1), 7),
+        ('LINELEFT', (0,0), (0,0), 3.5, colors.HexColor("#3B82F6")),
+        ('BOX', (0,0), (-1,-1), 0.5, colors.HexColor("#E2E8F0")),
     ]))
     return t
 
@@ -164,6 +214,18 @@ def create_code_box(code_lines, styles, width=A4[0] - 108):
     ]))
     return t
 
+def is_metadata_line(s):
+    if not s or s.startswith('#') or s.startswith('```') or s.startswith('>') or s.startswith('---'):
+        return False
+    has_meta_keywords = any(k in s for k in [
+        'Cuenta atrás', 'Faltan ', 'T =', 'T=', 'T +', 'T+', 'Fase ',
+        'Ubicación:', 'Fecha:', 'Sede de la ONU', 'Subsuelo', 'Búnker',
+        'EDT', 'EST', 'UTC', 'CEST', 'BST', 'PDT', 'AM', 'PM'
+    ])
+    is_wrapped = (s.startswith('*') and s.endswith('*')) or (s.startswith('**') and s.endswith('**'))
+    is_italic = (s.startswith('*') and '*' in s[1:]) or (s.startswith('_') and '_' in s[1:])
+    return (has_meta_keywords or is_wrapped or is_italic) and len(s) < 260
+
 def generate_chapter_pdf(chap_num, input_md_path, output_filename):
     if not os.path.exists(input_md_path):
         print(f"Error: No se encuentra {input_md_path}")
@@ -171,7 +233,7 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
 
     meta = CHAPTER_METADATA.get(chap_num, {
         "titulo": f"Capítulo {chap_num}",
-        "acto": "LA CANCIÓN DEL SILENCIO",
+        "acto": "SILENCIO MAGNÉTICO",
         "new_pdf": f"Capitulo_{chap_num}.pdf",
         "legacy_pdf": f"Capitulo_{chap_num}.pdf"
     })
@@ -193,7 +255,7 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
     title_style = ParagraphStyle(
         'ChapterTitle',
         parent=styles['Heading1'],
-        fontName=FONT_SANS,
+        fontName=FONT_BOLD,
         fontSize=21,
         leading=25,
         textColor=colors.HexColor("#0F172A"),
@@ -204,10 +266,10 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
     h3_style = ParagraphStyle(
         'SectionH3',
         parent=styles['Heading2'],
-        fontName=FONT_SANS,
-        fontSize=13,
-        leading=17,
-        textColor=colors.HexColor("#4338CA"),
+        fontName=FONT_BOLD,
+        fontSize=12.5,
+        leading=16.5,
+        textColor=colors.HexColor("#1E3A8A"), # Navy elegante
         spaceBefore=14,
         spaceAfter=8,
         keepWithNext=True
@@ -216,9 +278,9 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
     body_style = ParagraphStyle(
         'BodyDark',
         parent=styles['Normal'],
-        fontName=FONT_SERIF,
+        fontName=FONT_BODY,
         fontSize=10.5,
-        leading=15,
+        leading=15.5,
         textColor=colors.HexColor("#1E293B"),
         spaceAfter=6,
         alignment=4 # Justificado
@@ -233,11 +295,19 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
     in_code = False
     code_lines = []
 
+    in_section_header = False
+    meta_lines = []
+
     for line in lines:
         stripped = line.strip()
 
         # Bloques de código preformateado
         if stripped.startswith('```'):
+            if in_section_header and meta_lines:
+                story.append(create_meta_box(meta_lines, styles))
+                story.append(Spacer(1, 8))
+                in_section_header = False
+                meta_lines = []
             if not in_code:
                 in_code = True
                 code_lines = []
@@ -252,8 +322,13 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
             code_lines.append(stripped)
             continue
 
-        # Título principal del capítulo
+        # Título principal del capítulo (# )
         if stripped.startswith('# '):
+            if in_section_header and meta_lines:
+                story.append(create_meta_box(meta_lines, styles))
+                story.append(Spacer(1, 8))
+                in_section_header = False
+                meta_lines = []
             if in_quote:
                 story.append(create_quote_box(quote_lines, styles))
                 story.append(Spacer(1, 6))
@@ -262,11 +337,15 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
             title_text = stripped.lstrip('# ').strip()
             title_text = title_text.replace("«", '"').replace("»", '"').replace("—", " - ")
             story.append(Paragraph(title_text, title_style))
-            story.append(HRFlowable(width="100%", thickness=1.5, color=colors.HexColor("#4338CA"), spaceBefore=2, spaceAfter=14))
+            story.append(HRFlowable(width="100%", thickness=1.5, color=colors.HexColor("#3B82F6"), spaceBefore=2, spaceAfter=14))
             continue
 
-        # Subtítulos de sección (###)
+        # Subtítulos de sección (### )
         if stripped.startswith('### '):
+            if in_section_header and meta_lines:
+                story.append(create_meta_box(meta_lines, styles))
+                story.append(Spacer(1, 8))
+                meta_lines = []
             if in_quote:
                 story.append(create_quote_box(quote_lines, styles))
                 story.append(Spacer(1, 6))
@@ -276,7 +355,28 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
             sec_title = sec_title.replace("«", '"').replace("»", '"').replace("—", " - ")
             story.append(Spacer(1, 4))
             story.append(Paragraph(sec_title, h3_style))
+            in_section_header = True
+            meta_lines = []
             continue
+
+        # Captura de metadatos de sección inmediatamente después de ###
+        if in_section_header:
+            if not stripped:
+                if meta_lines:
+                    story.append(create_meta_box(meta_lines, styles))
+                    story.append(Spacer(1, 8))
+                    in_section_header = False
+                    meta_lines = []
+                continue
+            if is_metadata_line(stripped):
+                meta_lines.append(stripped)
+                continue
+            else:
+                if meta_lines:
+                    story.append(create_meta_box(meta_lines, styles))
+                    story.append(Spacer(1, 8))
+                in_section_header = False
+                meta_lines = []
             
         # Citas y epígrafes
         if stripped.startswith('>'):
@@ -305,6 +405,10 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
         clean_line = format_markdown_inline(stripped)
         story.append(Paragraph(clean_line, body_style))
 
+    if in_section_header and meta_lines:
+        story.append(create_meta_box(meta_lines, styles))
+        story.append(Spacer(1, 8))
+
     if in_quote:
         story.append(create_quote_box(quote_lines, styles))
         story.append(Spacer(1, 6))
@@ -318,17 +422,16 @@ def generate_chapter_pdf(chap_num, input_md_path, output_filename):
     return True
 
 def compile_all_chapters():
-    print(f"Iniciando compilación integral de los 25 capítulos con tipografía {FONT_SERIF}...")
+    print(f"Iniciando compilación integral de los 25 capítulos con tipografía {FONT_BODY} (Sans-Serif Inter)...")
     os.makedirs(os.path.join("novela", "pdf_hard"), exist_ok=True)
     for chap_num in range(1, 26):
         md_file = os.path.join("novela", "capitulos", f"capitulo_{chap_num}.md")
         meta = CHAPTER_METADATA[chap_num]
         new_pdf_name = meta["new_pdf"]
 
-        # Generar PDF principal con nombre conciso nuevo
+        # Generar PDF principal
         success = generate_chapter_pdf(chap_num, md_file, new_pdf_name)
         if success:
-            # Copiar a novela/ y novela/pdf_hard/
             dest_new = os.path.join("novela", new_pdf_name)
             dest_hard = os.path.join("novela", "pdf_hard", new_pdf_name)
             shutil.copyfile(new_pdf_name, dest_new)

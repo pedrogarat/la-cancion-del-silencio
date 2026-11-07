@@ -31,7 +31,7 @@ La desescalada no fue una fiesta; fue un funeral a escala planetaria.
 
 Cuando los altavoces de defensa civil emitieron la señal de tres tonos largos anunciando el fin del Toque de Sol, las compuertas de hormigón de los búnkeres cívicos chirriaron sobre sus guías llenas de herrumbre. En Londres, en Pekín, en Chicago y en Buenos Aires, millones de seres humanos asomaron los rostros hacia la superficie con la mirada desorbitada y vidriosa de los topos arrancados a la negrura.
 
-Olieron el aire. No quemaba. No olía a ozono sulfuroso ni a plástico fundido; olía a polvo, a lluvia vieja y a desolación.
+Olieron el aire. No quemaba. No olía a aire sulfurado ni a plástico fundido; olía a polvo, a lluvia vieja y a desolación.
 
 El coste de la supervivencia quedó expuesto bajo una claridad implacable. En las grandes avenidas de las metrópolis, donde las compras de pánico y los cortes de energía habían sorprendido a la población civil en los primeros días del colapso, el asfalto era un museo de la agonía. Camiones militares artillados abrían paso a brigadas mixtas de sanitarios, bomberos y voluntarios civiles. Vestían monos blancos de protección y llevaban pañuelos empapados en alcanfor bajo las mascarillas para mitigar la náusea.
 

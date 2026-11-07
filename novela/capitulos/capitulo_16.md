@@ -219,7 +219,7 @@ Habían sobrevivido a la noche. El bastión de Versoix seguía en pie.
 *Cuenta atrás para el cierre de la ventana industrial: 66 días*  
 *Ubicación: Sala de Crisis B-4, Sede de las Naciones Unidas, Nueva York*
 
-Bajo tres plantas de hormigón blindado en Manhattan, el aire olía a aceite de transformador y a ozono filtrado por turbinas.
+Bajo tres plantas de hormigón blindado en Manhattan, el aire olía a aceite de transformador y a aire ionizado filtrado por turbinas.
 
 En el pasillo lateral de la sala de servidores criogénicos, apartado del zumbido de las consolas de telemetría y las discusiones del estado mayor, el Dr. Jean-Luc Girard contemplaba una pequeña fotografía en blanco y negro que acababa de extraer de su billetera de cuero gastado. En la imagen, tomada dos veranos atrás a orillas del Lemán, Marie sonreía con el viento despeinándole el cabello mientras Julien sostenía en hombros a la pequeña Émilie y Chloé saludaba a la cámara.
 

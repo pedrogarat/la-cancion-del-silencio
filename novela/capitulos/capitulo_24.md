@@ -116,7 +116,7 @@ Vassily Ramos miró hacia el Palacio de las Naciones, cuyas ventanas iluminadas 
 
 ### III. Válvulas
 
-Dos niveles por debajo de los túneles del Gran Colisionador de Hadrones, en un sector clausurado en 1984 excavado en la roca caliza entre Ginebra y la frontera francesa, el aire olía a aceite de corte caliente, a ozono de soldadura por arco y a tabaco de pipa holandés.
+Dos niveles por debajo de los túneles del Gran Colisionador de Hadrones, en un sector clausurado en 1984 excavado en la roca caliza entre Ginebra y la frontera francesa, el aire olía a aceite de corte caliente, a chispazo metálico de soldadura por arco y a tabaco de pipa holandés.
 
 No había allí pantallas táctiles, cables de fibra óptica ni servidores parpadeantes. La iluminación procedía de hileras de bombillas incandescentes de filamento de tungsteno encerradas en jaulas de alambre grueso, alimentadas por un generador diésel auxiliar de la Guerra Fría cuyos gases de escape eran filtrados a través de un lecho de grava subterráneo.
 
