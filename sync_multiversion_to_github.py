@@ -14,7 +14,7 @@ import sys
 
 WORKSPACE_DIR = os.path.abspath(os.path.dirname(__file__))
 TEMP_SYNC_DIR = os.path.join(tempfile.gettempdir(), "novela_gh_sync")
-REPO_URL = "https://github.com/pedrogarat/la-cancion-del-silencio.git"
+REPO_URL = "https://github.com/pedrogarat/silencio-magnetico.git"
 
 # Carpetas o patrones a excluir del copiado
 EXCLUDE_DIRS = {".git", "__pycache__"}

@@ -12807,3 +12807,25 @@ Quiero que crees un apartado en la WEB de personajes, con una descripción de ca
 4. **Despliegue y Sincronización:**
    - Reconstruido el paquete de datos web con `node build-novel-data.js` (`v=1794048336879`).
    - Subidos todos los cambios y nuevos PDFs al repositorio remoto en GitHub.
+
+
+### 👤 Autor *(2026-11-07 10:53:00 UTC)*
+
+No veo encabezados en los PDFs. Si los vas a modificar, indica arriba a la derecha también la edición literaria.
+
+### 🛠️ Bill & Capitán Memo *(2026-11-07 10:55:00 UTC)*
+
+**Activación de Encabezados en Todas las Páginas e Identificador de Edición Literaria:**
+
+1. **Visibilidad en Todas las Páginas (incluida la Página 1):**
+   - Se eliminó la restricción `if page > 1` para que el encabezado editorial aparezca visible desde la mismísima página inicial de cada capítulo.
+2. **Estructura del Encabezado Superior:**
+   - **Arriba a la izquierda:** `SILENCIO MAGNÉTICO`.
+   - **Arriba a la derecha:** Acto y Edición Literaria correspondiente:
+     * Hard Sci-Fi: `ACTO ... • EDICIÓN HARD SCI-FI`
+     * Sci-Fi Divulgativa: `ACTO ... • EDICIÓN SCI-FI (NARRATIVA)`
+     * Juvenil / Adolescente: `ACTO ... • EDICIÓN JUVENIL`
+   - Línea separadora tenue de 0.5 pt (`#CBD5E1`) delimitando el bloque de encabezado.
+3. **Recompilación y Despliegue de los 75 PDFs:**
+   - Recompilados todos los archivos PDF en las tres carpetas (`novela/pdf_hard/`, `novela/pdf_scifi/` y `novela/pdf_juvenil/`).
+   - Detectado el cambio de nombre del repositorio en GitHub (`silencio-magnetico.git`), actualizando el script `sync_multiversion_to_github.py` y completando el push exitosamente.
