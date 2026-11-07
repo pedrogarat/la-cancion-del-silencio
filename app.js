@@ -536,6 +536,20 @@ document.addEventListener('DOMContentLoaded', () => {
     window.resumeSavedReading = resumeSavedReading;
     window.showCoverLanding = showCoverView;
 
+    function filterCharacterCards(category) {
+        document.querySelectorAll('.char-tab-btn').forEach(btn => {
+            btn.classList.toggle('active', btn.getAttribute('data-category') === category);
+        });
+        document.querySelectorAll('.char-card').forEach(card => {
+            if (category === 'all' || card.getAttribute('data-category') === category) {
+                card.style.display = 'flex';
+            } else {
+                card.style.display = 'none';
+            }
+        });
+    }
+    window.filterCharacterCards = filterCharacterCards;
+
     function showCoverView() {
         if (coverLandingView) coverLandingView.style.display = 'block';
         if (readerCanvas) readerCanvas.style.display = 'none';

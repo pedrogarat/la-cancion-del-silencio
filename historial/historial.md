@@ -12721,3 +12721,40 @@ Necesito crear un prólogo sobre la IA y la literatura:
    - Añadido botón de acceso directo en la pantalla de portada (`#btn-open-prologue`) y en el menú lateral (`#btn-sidebar-prologue`).
    - Implementado el modal `#modal-prologue` con renderizado dinámico Markdown integrado en [`build-novel-data.js`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/build-novel-data.js) y [`app.js`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/app.js).
    - Sincronizados y desplegados todos los cambios en GitHub Pages.
+
+
+
+### 👤 Autor *(2026-11-07 09:25:00 UTC)*
+
+He colocado unas imágenes de cada uno de los tres personajes principales y PLeh.
+Quiero que crees un apartado en la WEB de personajes, con una descripción de cada uno de ellos, sin hacer spoiler de la novela. Pon a todos los personajes. Utiliza las imágenes que te puse, y pronto haré más del resto
+
+### 🛠️ Bill & Capitán Memo *(2026-11-07 09:29:00 UTC)*
+
+**Diseño, Integración de Galería Visual y Creación del Apartado Oficial de Personajes:**
+
+1. **Procesamiento de las Fichas Visuales:**
+   - Detectadas las imágenes en `portada_imagenes/`: `Sarah.jpg`, `Thomas.jpg`, `Jean-Luc.jpg` y `Pleh.jpg` (formato panorámico 2400 × 1792 px).
+   - Generadas copias web optimizadas en alta fidelidad dentro del directorio [`img/personajes/`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/img/personajes/) (`sarah.jpg`, `thomas.jpg`, `jean_luc.jpg`, `pleh.jpg`).
+
+2. **Creación de la Guía Oficial Libre de Spoilers:**
+   - Redactado el documento maestro [`novela/personajes_sin_spoilers.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/personajes_sin_spoilers.md) que engloba a los **16 personajes y figuras clave** estructurados en 5 grupos sin desvelar sorpresas argumentales:
+     * *Núcleo Científico Director & Enigma:* Dra. Sarah Lin, Dr. Thomas Wright, Dr. Jean-Luc Girard y Dr. Em Pleh.
+     * *Mando Político y Defensa:* Vassily Ramos (ONU), Almirante Marcus Vance (NORAD), Generales Korolyov y Chen Wei, Dra. Elena Arispe (Atacama).
+     * *Tripulación Espacial:* Dra. Chen Mei, Cnel. James «Mace» MacElroy, Cnel. Alexei Voronov.
+     * *Frente Civil y Familias:* Maya Lin y Toby (San Francisco), David y Claire Wright (Suffolk), Marie y Julien Girard (Versoix).
+     * *Prólogo Histórico (1945):* Dr. David Miller y J. Robert Oppenheimer.
+
+3. **Apartado y Experiencia Interactiva en la Web:**
+   - **Modal de Personajes (`#modal-characters`):** Con selector interactivo de categorías (*Todos*, *Científicos*, *Mando*, *Tripulación*, *Familias*, *Prólogo 1945*) y tarjetas informativas con citas célebres, filiación, rol y psicología.
+   - **Integración de las 4 Fichas Fotorrealistas:** Las tarjetas de Sarah, Thomas, Jean-Luc y Pleh muestran sus imágenes cinemáticas oficiales en alta definición. El resto de personajes presentan placeholders estilizados esperando las futuras ilustraciones del Autor.
+   - **Puntos de Acceso:**
+     * En el menú superior de cabecera: botón directo «👥 Personajes».
+     * En la pantalla de bienvenida / portada: botón destacado «👥 Guía de Personajes (Fichas & Galería) →».
+     * En la barra lateral: botón directo «👥 Personajes de la Novela».
+   - Añadida función reactiva de filtrado `filterCharacterCards(cat)` en [`app.js`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/app.js) y estilos en [`style.css`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/style.css).
+
+4. **Compilación y Despliegue:**
+   - Actualizado [`build-novel-data.js`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/build-novel-data.js) para compilar `personajesSinSpoilersRaw`.
+   - Recompilado todo el paquete web con hash `v=1794043745566`.
+   - Sincronizado y subido al repositorio GitHub en la rama `main`.

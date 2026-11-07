@@ -1788,6 +1788,183 @@ body.focus-mode .reader-container { padding-top: 2rem; }
     box-shadow: 0 4px 15px rgba(56, 189, 248, 0.25);
 }
 
+/* ==========================================================================
+   GALERÍA Y FICHAS DE PERSONAJES
+   ========================================================================== */
+.modal-extra-large {
+    max-width: 1100px;
+    width: 95%;
+    max-height: 90vh;
+}
+
+.char-tabs-container {
+    display: flex;
+    gap: 8px;
+    padding: 0.8rem 1.5rem;
+    background: rgba(0, 0, 0, 0.25);
+    border-bottom: 1px solid var(--border-color, rgba(255, 255, 255, 0.08));
+    overflow-x: auto;
+    scrollbar-width: thin;
+}
+
+.char-tab-btn {
+    padding: 6px 14px;
+    border-radius: 9999px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--text-secondary, #94a3b8);
+    font-size: 0.82rem;
+    font-weight: 500;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: all 0.2s ease;
+}
+
+.char-tab-btn:hover {
+    background: rgba(56, 189, 248, 0.12);
+    color: #38bdf8;
+    border-color: rgba(56, 189, 248, 0.3);
+}
+
+.char-tab-btn.active {
+    background: rgba(56, 189, 248, 0.2);
+    color: #38bdf8;
+    border-color: #38bdf8;
+    box-shadow: 0 0 10px rgba(56, 189, 248, 0.25);
+}
+
+.characters-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 1.5rem;
+    padding: 1.5rem;
+}
+
+.char-card {
+    background: rgba(15, 23, 42, 0.7);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 14px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+}
+
+.char-card:hover {
+    transform: translateY(-3px);
+    border-color: rgba(56, 189, 248, 0.4);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4), 0 0 15px rgba(56, 189, 248, 0.1);
+}
+
+.char-card-media {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 10;
+    background: #0b0f19;
+    overflow: hidden;
+}
+
+.char-card-media img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top center;
+    transition: transform 0.3s ease;
+}
+
+.char-card:hover .char-card-media img {
+    transform: scale(1.03);
+}
+
+.char-badge-visual {
+    position: absolute;
+    bottom: 8px;
+    right: 8px;
+    background: rgba(0, 0, 0, 0.75);
+    backdrop-filter: blur(8px);
+    padding: 3px 8px;
+    border-radius: 6px;
+    font-size: 0.7rem;
+    color: #38bdf8;
+    border: 1px solid rgba(56, 189, 248, 0.3);
+}
+
+.char-card-body {
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    gap: 0.6rem;
+}
+
+.char-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.char-card-title {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #f8fafc;
+    margin: 0;
+}
+
+.char-card-role {
+    font-size: 0.78rem;
+    color: #38bdf8;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+
+.char-card-affiliation {
+    font-size: 0.8rem;
+    color: var(--text-muted, #94a3b8);
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.char-card-quote {
+    font-style: italic;
+    font-size: 0.82rem;
+    color: #cbd5e1;
+    border-left: 2px solid #38bdf8;
+    padding-left: 8px;
+    margin: 4px 0;
+    line-height: 1.4;
+}
+
+.char-card-desc {
+    font-size: 0.85rem;
+    color: #94a3b8;
+    line-height: 1.5;
+    margin: 0;
+    flex: 1;
+}
+
+.char-avatar-placeholder {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, rgba(30, 41, 59, 0.8), rgba(15, 23, 42, 0.9));
+    color: var(--text-muted, #94a3b8);
+    font-size: 2.5rem;
+    gap: 8px;
+    padding: 2rem 1rem;
+}
+
+.char-avatar-placeholder span {
+    font-size: 0.75rem;
+    color: #64748b;
+    font-weight: 500;
+}
+
 .meta-pill {
     display: inline-flex;
     align-items: center;

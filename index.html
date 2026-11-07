@@ -17,7 +17,7 @@
         href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Outfit:wght@400;600;700;800&display=swap"
         rel="stylesheet">
 
-    <link rel="stylesheet" href="style.css?v=1794039209342">
+    <link rel="stylesheet" href="style.css?v=1794043745566">
 </head>
 
 <body>
@@ -61,6 +61,16 @@
             </div>
 
             <div class="header-right">
+                <button id="btn-open-characters" class="icon-btn" onclick="openModal('modal-characters')" title="Galería y Fichas de Personajes">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2" />
+                        <circle cx="9" cy="7" r="4" />
+                        <path d="M23 21v-2a4 4 0 0 0-3-3.87" />
+                        <path d="M16 3.13a4 4 0 0 1 0 7.75" />
+                    </svg>
+                    <span class="btn-label">Personajes</span>
+                </button>
+
                 <button id="btn-open-search" class="icon-btn" title="Buscar en la novela (Ctrl+F)">
                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                         <circle cx="11" cy="11" r="8" />
@@ -126,6 +136,9 @@
                     <button id="btn-sidebar-prologue" class="btn-mini-refresh" onclick="openModal('modal-prologue')"
                         style="margin-top: 6px; padding: 6px 10px; font-size: 0.72rem; width: 100%; justify-content: center; background: rgba(168, 85, 247, 0.12); border: 1px solid #c084fc; color: #c084fc;"
                         title="Leer el prólogo sobre el método de co-creación con IA">📖 Prólogo: IA y Literatura</button>
+                    <button id="btn-sidebar-characters" class="btn-mini-refresh" onclick="openModal('modal-characters')"
+                        style="margin-top: 6px; padding: 6px 10px; font-size: 0.72rem; width: 100%; justify-content: center; background: rgba(16, 185, 129, 0.12); border: 1px solid #10b981; color: #10b981;"
+                        title="Ver la galería y fichas sin spoilers de los personajes">👥 Personajes de la Novela</button>
                 </div>
                 <button id="btn-close-sidebar" class="close-btn" aria-label="Cerrar">&times;</button>
             </div>
@@ -169,12 +182,19 @@
                                 <span class="meta-pill highlight">✨ 3 Ediciones Literarias</span>
                             </div>
 
-                            <div class="cover-prologue-action" style="margin-top: 1.25rem;">
+                            <div class="cover-prologue-action" style="margin-top: 1.25rem; display: flex; flex-wrap: wrap; gap: 10px;">
                                 <button id="btn-open-prologue" class="btn-prologue-cta" onclick="openModal('modal-prologue')"
                                     style="display: inline-flex; align-items: center; gap: 8px; padding: 0.65rem 1.25rem; background: rgba(56, 189, 248, 0.08); border: 1px solid rgba(56, 189, 248, 0.4); border-radius: 10px; color: #38bdf8; font-size: 0.88rem; font-weight: 500; cursor: pointer; transition: all 0.25s ease;"
                                     title="Leer el prólogo del autor sobre el papel de la IA y la dirección literaria">
                                     <span>📖</span>
-                                    <span>Prólogo del Director: <strong>La IA y la Literatura</strong> (Pedro Garat)</span>
+                                    <span>Prólogo del Director: <strong>La IA y la Literatura</strong></span>
+                                    <span>→</span>
+                                </button>
+                                <button id="btn-open-characters-cover" class="btn-prologue-cta" onclick="openModal('modal-characters')"
+                                    style="display: inline-flex; align-items: center; gap: 8px; padding: 0.65rem 1.25rem; background: rgba(16, 185, 129, 0.08); border: 1px solid rgba(16, 185, 129, 0.4); border-radius: 10px; color: #10b981; font-size: 0.88rem; font-weight: 500; cursor: pointer; transition: all 0.25s ease;"
+                                    title="Ver la galería y fichas sin spoilers de los personajes de la novela">
+                                    <span>👥</span>
+                                    <span>Guía de Personajes <strong>(Fichas &amp; Galería)</strong></span>
                                     <span>→</span>
                                 </button>
                             </div>
@@ -496,6 +516,351 @@
         </div>
     </div>
 
+    <!-- MODAL PERSONAJES: Guía y Galería Visual Oficial -->
+    <div id="modal-characters" class="modal-overlay hidden">
+        <div class="modal-box modal-extra-large glass">
+            <div class="modal-header">
+                <div>
+                    <h3 style="display: flex; align-items: center; gap: 8px;">👥 Guía Oficial de Personajes <span style="font-size: 0.72rem; background: rgba(16, 185, 129, 0.2); color: #10b981; border: 1px solid rgba(16, 185, 129, 0.4); padding: 2px 8px; border-radius: 999px;">Sin Spoilers</span></h3>
+                    <p style="font-size: 0.8rem; color: var(--text-muted, #94a3b8); margin: 3px 0 0 0;">Fichas canónicas de identidad, especialidad y psicología del elenco de <em>Silencio Magnético</em></p>
+                </div>
+                <button class="close-btn" onclick="closeModal('modal-characters')">&times;</button>
+            </div>
+
+            <!-- Selector de Categorías -->
+            <div class="char-tabs-container">
+                <button class="char-tab-btn active" data-category="all" onclick="filterCharacterCards('all')">Todos (16)</button>
+                <button class="char-tab-btn" data-category="cientificos" onclick="filterCharacterCards('cientificos')">⚛️ Científicos &amp; Enigma (4)</button>
+                <button class="char-tab-btn" data-category="mando" onclick="filterCharacterCards('mando')">🌐 Mando &amp; Defensa (4)</button>
+                <button class="char-tab-btn" data-category="tripulacion" onclick="filterCharacterCards('tripulacion')">👨‍🚀 Tripulación Espacial (3)</button>
+                <button class="char-tab-btn" data-category="familias" onclick="filterCharacterCards('familias')">🏡 Frente Civil &amp; Familias (3)</button>
+                <button class="char-tab-btn" data-category="historico" onclick="filterCharacterCards('historico')">⏳ Prólogo 1945 (2)</button>
+            </div>
+
+            <div class="modal-body" style="padding: 0; overflow-y: auto;">
+                <div class="characters-grid">
+
+                    <!-- 1. Sarah Lin -->
+                    <div class="char-card" data-category="cientificos">
+                        <div class="char-card-media">
+                            <img src="img/personajes/sarah.jpg" alt="Ficha visual de la Dra. Sarah Lin" loading="lazy">
+                            <span class="char-badge-visual">📸 Ficha Fotorrealista Oficial</span>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">Física de Plasma &bull; Fusión Nuclear</div>
+                                    <h4 class="char-card-title">Dra. Sarah Lin</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 MIT — Plasma Science &amp; Fusion Center (Boston)</div>
+                            <div class="char-card-quote">«El confinamiento magnético no es una cuestión de fuerza bruta, sino de geometría.»</div>
+                            <p class="char-card-desc">34 años, asiático-americana. Brillante, ferozmente competitiva, intuitiva y directa. Acostumbrada a pelear por presupuestos contra reloj en el tokamak de fusión, Sarah no tolera rodeos retóricos. Su coraza de autosuficiencia oculta una profunda lealtad y una enorme vulnerabilidad: la necesidad de proteger a su hermana Maya y a su sobrino Toby en San Francisco ante la amenaza de extinción.</p>
+                        </div>
+                    </div>
+
+                    <!-- 2. Thomas Wright -->
+                    <div class="char-card" data-category="cientificos">
+                        <div class="char-card-media">
+                            <img src="img/personajes/thomas.jpg" alt="Ficha visual del Dr. Thomas Wright" loading="lazy">
+                            <span class="char-badge-visual">📸 Ficha Fotorrealista Oficial</span>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">Ingeniero Jefe de Astrodinámica</div>
+                                    <h4 class="char-card-title">Dr. Thomas Wright</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 ESA — Centro Europeo de Operaciones (Darmstadt)</div>
+                            <div class="char-card-quote">«Si la electrónica nos traiciona, la gravedad y la mecánica de Newton seguirán funcionando con puntualidad británica.»</div>
+                            <p class="char-card-desc">52 años, británico de Suffolk. De fisonomía atractiva y madura, sienes plateadas y calma inmutable. Es el pegamento moral y humano del grupo: posee una serenidad táctica que templa el ardor de Sarah y el escepticismo de Girard. En plena crisis existencial, su prioridad es calcular trayectorias balísticas seguras hacia el punto L1 mediante navegación analógica real.</p>
+                        </div>
+                    </div>
+
+                    <!-- 3. Jean-Luc Girard -->
+                    <div class="char-card" data-category="cientificos">
+                        <div class="char-card-media">
+                            <img src="img/personajes/jean_luc.jpg" alt="Ficha visual del Dr. Jean-Luc Girard" loading="lazy">
+                            <span class="char-badge-visual">📸 Ficha Fotorrealista Oficial</span>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">Detección Cuántica &bull; Criogenia</div>
+                                    <h4 class="char-card-title">Dr. Jean-Luc Girard</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 CERN — Experimento CMS (Ginebra / Versoix)</div>
+                            <div class="char-card-quote">«No me interesan las esperanzas; me interesan las cifras reproducibles en laboratorio.»</div>
+                            <p class="char-card-desc">54 años, francés. Delgado, elegante y con gafas finas de titanio. La encarnación del racionalismo cartesiano puro: metódico y obsesionado con la pureza empírica a cinco sigmas de certeza. Sufre en silencio el dolor ético de la mentira oficial para no quebrar la moral de sus colegas ni trasladar el terror a su esposa Marie y sus tres hijos.</p>
+                        </div>
+                    </div>
+
+                    <!-- 4. Dr. Em Pleh -->
+                    <div class="char-card" data-category="cientificos">
+                        <div class="char-card-media">
+                            <img src="img/personajes/pleh.jpg" alt="Ficha visual del Dr. Em Pleh" loading="lazy">
+                            <span class="char-badge-visual">📸 Ficha Fotorrealista Oficial</span>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">Consultor Teórico Independiente</div>
+                                    <h4 class="char-card-title">Dr. Em Pleh</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 Enigma • Contacto Cifrado Global</div>
+                            <div class="char-card-quote">«La inteligencia no es una conquista biológica; es un puente contra la entropía del cosmos.»</div>
+                            <p class="char-card-desc">Una presencia de intelecto formidable que se manifiesta como un afable académico con chaqueta de tweed y pajarita. Con un dominio de la física aplicada que supera en siglos a la ciencia terrestre contemporánea, Pleh resuelve anónimamente los tres mayores cuellos de botella de la humanidad para guiar su respuesta ante la crisis.</p>
+                        </div>
+                    </div>
+
+                    <!-- 5. Vassily Ramos -->
+                    <div class="char-card" data-category="mando">
+                        <div class="char-card-media">
+                            <div class="char-avatar-placeholder">
+                                🌐
+                                <span>Mando Político Supremo</span>
+                            </div>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">Secretario General de la ONU</div>
+                                    <h4 class="char-card-title">Vassily Ramos</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 Sede de las Naciones Unidas (Nueva York)</div>
+                            <p class="char-card-desc">62 años. Diplomático de carrera intachable y voz solemne. Hombre de honor que debe tomar la decisión más desgarradora de la historia: decretar el secreto de Estado supremo (Alfa Cero) para evitar el pánico destructivo de la sociedad civil mientras se organiza la respuesta científica.</p>
+                        </div>
+                    </div>
+
+                    <!-- 6. Almirante Marcus Vance -->
+                    <div class="char-card" data-category="mando">
+                        <div class="char-card-media">
+                            <div class="char-avatar-placeholder">
+                                ⚓
+                                <span>Defensa Aeroespacial</span>
+                            </div>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">Coordinador Militar Táctico</div>
+                                    <h4 class="char-card-title">Almirante Marcus Vance</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 NORAD / Nellis AFB (Nevada)</div>
+                            <p class="char-card-desc">58 años. Curtido oficial al mando de las instalaciones subterráneas de Nellis. Realista y protector con su tropa, comprende de inmediato que las doctrinas bélicas convencionales son inútiles ante una anomalía física sin precedentes.</p>
+                        </div>
+                    </div>
+
+                    <!-- 7. Generales Korolyov & Chen Wei -->
+                    <div class="char-card" data-category="mando">
+                        <div class="char-card-media">
+                            <div class="char-avatar-placeholder">
+                                🪖
+                                <span>Fuerzas Aliadas</span>
+                            </div>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">Altos Mandos de Coalición</div>
+                                    <h4 class="char-card-title">Gen. Korolyov &amp; Gen. Chen Wei</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 Fuerzas Espaciales (Rusia / China)</div>
+                            <p class="char-card-desc">Altos mandos de las fuerzas espaciales rusa y china que personifican la superación histórica de las rivalidades geopolíticas en favor de una movilización industrial y logística planetaria sin fisuras.</p>
+                        </div>
+                    </div>
+
+                    <!-- 8. Dra. Elena Arispe -->
+                    <div class="char-card" data-category="mando">
+                        <div class="char-card-media">
+                            <div class="char-avatar-placeholder">
+                                🔭
+                                <span>Vigilancia Astronómica</span>
+                            </div>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">Astrofísica de Espacio Profundo</div>
+                                    <h4 class="char-card-title">Dra. Elena Arispe</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 Red de Espacio Profundo / Atacama (Chile)</div>
+                            <p class="char-card-desc">Astrofísica de vanguardia encargada de procesar las señales de telemetría más sensibles del hemisferio sur, confirmando con datos de campo la validez de los modelos matemáticos de la crisis.</p>
+                        </div>
+                    </div>
+
+                    <!-- 9. Dra. Chen Mei -->
+                    <div class="char-card" data-category="tripulacion">
+                        <div class="char-card-media">
+                            <div class="char-avatar-placeholder">
+                                👩‍🔬
+                                <span>Comandante de Misión</span>
+                            </div>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">Comandante de Vuelo &bull; Astrofísica</div>
+                                    <h4 class="char-card-title">Dra. Chen Mei</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 Programa Espacial Chino / Nellis AFB</div>
+                            <p class="char-card-desc">38 años. Astrofísica y astronauta de élite. Determinada, atlética y con temple de acero, su destreza técnica manual la convierte en la líder natural designada para pilotar la nave de contraataque sin asistencia de ordenadores digitales.</p>
+                        </div>
+                    </div>
+
+                    <!-- 10. Coronel James «Mace» MacElroy -->
+                    <div class="char-card" data-category="tripulacion">
+                        <div class="char-card-media">
+                            <div class="char-avatar-placeholder">
+                                👨‍✈️
+                                <span>Piloto Principal</span>
+                            </div>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">Piloto de Pruebas &bull; Navegación Manual</div>
+                                    <h4 class="char-card-title">Cnel. James «Mace» MacElroy</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 Fuerza Aérea de los Estados Unidos</div>
+                            <p class="char-card-desc">44 años. Ex-piloto militar legendario, habituado a volar al límite estructural guiándose únicamente por los instrumentos mecánicos, la presión de la palanca y la memoria muscular de vuelo.</p>
+                        </div>
+                    </div>
+
+                    <!-- 11. Coronel Alexei Voronov -->
+                    <div class="char-card" data-category="tripulacion">
+                        <div class="char-card-media">
+                            <div class="char-avatar-placeholder">
+                                👨‍🚀
+                                <span>Sistemas de Vuelo</span>
+                            </div>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">Ingeniero de Sistemas Orbitales</div>
+                                    <h4 class="char-card-title">Cnel. Alexei Voronov</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 Roscosmos (Rusia)</div>
+                            <p class="char-card-desc">46 años. Ingeniero veterano con cientos de horas en gravedad cero, especialista en sellados neumáticos, sistemas de soporte vital analógicos y maniobras de atraque en entornos de alta radiación.</p>
+                        </div>
+                    </div>
+
+                    <!-- 12. Maya Lin y Toby -->
+                    <div class="char-card" data-category="familias">
+                        <div class="char-card-media">
+                            <div class="char-avatar-placeholder">
+                                🇺🇸
+                                <span>San Francisco</span>
+                            </div>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">El Frente Civil de la Costa Oeste</div>
+                                    <h4 class="char-card-title">Maya Lin y Toby (4 años)</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 Market Street, San Francisco (EE.UU.)</div>
+                            <p class="char-card-desc">Hermana menor y sobrino de Sarah Lin. Maya, tras años de lucha personal por salir adelante, enfrenta las crecientes anomalías atmosféricas con una valentía protectora feroz, convirtiéndose en el ancla emocional que impulsa a Sarah a no rendirse.</p>
+                        </div>
+                    </div>
+
+                    <!-- 13. David & Claire Wright -->
+                    <div class="char-card" data-category="familias">
+                        <div class="char-card-media">
+                            <div class="char-avatar-placeholder">
+                                🇬🇧
+                                <span>Suffolk</span>
+                            </div>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">El Refugio Rural en Inglaterra</div>
+                                    <h4 class="char-card-title">David Wright, Claire y Oliver</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 Granja familiar en Suffolk (Inglaterra)</div>
+                            <p class="char-card-desc">Hermano menor, cuñada y sobrino de Thomas Wright. David, físico experimental en Cambridge, y Claire, enfermera, organizan en la casa familiar de campo un bastión de supervivencia con pozo de agua artesiana y radio analógica.</p>
+                        </div>
+                    </div>
+
+                    <!-- 14. Marie & Julien Girard -->
+                    <div class="char-card" data-category="familias">
+                        <div class="char-card-media">
+                            <div class="char-avatar-placeholder">
+                                🇨🇭
+                                <span>Versoix</span>
+                            </div>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">El Bastión Suizo de Versoix</div>
+                                    <h4 class="char-card-title">Marie Girard y Julien (17 años)</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 Chalet en Versoix, Lago Lemán (Suiza)</div>
+                            <p class="char-card-desc">Familia de Jean-Luc Girard. Mientras Marie conserva la serenidad y la cohesión familiar, el joven Julien, heredero del talento técnico de su padre, asume el liderazgo práctico para fortificar el hogar ante el desabastecimiento.</p>
+                        </div>
+                    </div>
+
+                    <!-- 15. Dr. David Miller -->
+                    <div class="char-card" data-category="historico">
+                        <div class="char-card-media">
+                            <div class="char-avatar-placeholder">
+                                ⚛️
+                                <span>Trinity 1945</span>
+                            </div>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">Físico Teórico &bull; Proyecto Manhattan</div>
+                                    <h4 class="char-card-title">Dr. David Miller</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 Jornada del Muerto, Alamogordo (1945)</div>
+                            <p class="char-card-desc">Testigo científico en la madrugada del 16 de julio de 1945 durante la prueba Trinity, intuyendo que el destello atómico no solo alteraría la geopolítica humana, sino que enviaría un eco silencioso e irreversible al cosmos.</p>
+                        </div>
+                    </div>
+
+                    <!-- 16. J. Robert Oppenheimer -->
+                    <div class="char-card" data-category="historico">
+                        <div class="char-card-media">
+                            <div class="char-avatar-placeholder">
+                                🎩
+                                <span>Los Álamos 1945</span>
+                            </div>
+                        </div>
+                        <div class="char-card-body">
+                            <div class="char-card-header">
+                                <div>
+                                    <div class="char-card-role">Director Científico del Proyecto Manhattan</div>
+                                    <h4 class="char-card-title">J. Robert Oppenheimer</h4>
+                                </div>
+                            </div>
+                            <div class="char-card-affiliation">📍 Laboratorio Nacional de Los Álamos (1945)</div>
+                            <p class="char-card-desc">Figura histórica que cargó con el peso moral y filosófico del nacimiento de la era nuclear, presenciando el fulgor de mil soles que dio inicio a la cadena invisible de acontecimientos de la novela.</p>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- MODAL 4: Buscador Global -->
     <div id="modal-search" class="modal-overlay hidden">
         <div class="modal-box glass">
@@ -678,8 +1043,8 @@
     </div>
 
     <!-- Cargar Datos y Lógica de la App (con control de versión para forzar actualización en móviles) -->
-    <script src="chapters-data.js?v=1794039209342"></script>
-    <script src="app.js?v=1794039209342"></script>
+    <script src="chapters-data.js?v=1794043745566"></script>
+    <script src="app.js?v=1794043745566"></script>
 </body>
 
 </html>

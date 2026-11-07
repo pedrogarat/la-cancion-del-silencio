@@ -109,3 +109,4 @@ Te invito a sumergirte en las páginas que siguen. El silencio del cosmos está 
 
 **Pedro Garat**  
 *Director y Coordinador Creativo de «Silencio Magnético»*
+
