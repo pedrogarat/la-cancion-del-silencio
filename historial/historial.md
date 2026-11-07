@@ -12659,3 +12659,65 @@ Inténtalo de nuevo
 4. **Compilación y Despliegue en GitHub Pages:**
    - Regenerados tokens de caché con `node build-novel-data.js` (`v=1793982959117`).
    - Sincronizado a GitHub mediante `sync_multiversion_to_github.py` bajo el commit `78fe30a` (*«fix(cover): corregir sinopsis de portada eliminando spoilers de trama»*).
+
+
+
+### 👤 Autor *(2026-11-06 16:43:00 UTC)*
+
+Los botones de cada edición no funcionan
+
+### 🛠️ Bill & Capitán Memo *(2026-11-06 16:49:00 UTC)*
+
+**Diagnóstico y Reparación Integral de los Botones de Edición y Eventos en la Portada:**
+
+1. **Causa Raíz Identificada:**
+   - En [`app.js`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/app.js), dentro de la rutina de inicio `setupEventListeners()`, se intentaba vincular listeners a botones heredados de modales retirados (`btn-open-codex` y `btn-open-escaleta`) que no existían en el DOM de [`index.html`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/index.html).
+   - Al no contar con salvaguardas de nulidad, JavaScript arrojaba un `TypeError: Cannot read properties of null (reading 'addEventListener')`, lo que detenía prematuramente la ejecución de la función e impedía registrar los eventos de clic de los botones de edición (`.edition-card-btn`), el botón de reanudar y los atajos de portada.
+
+2. **Solución y Blindaje en Tres Capas (Triple Redundancia):**
+   - **Capa 1 (Salvaguardas de nulidad):** Se agregaron comprobaciones estrictas `if (element)` para todos los modales, deslizadores y controles del DOM en `setupEventListeners()`.
+   - **Capa 2 (Controladores globales y delegación):** Se definieron y expusieron en el ámbito global `window.selectNovelEditionAndStart(ed)`, `window.resumeSavedReading()` y `window.showCoverLanding()`. Se añadió además un listener por delegación en `document` para capturar cualquier clic en `.edition-card-btn` o sus elementos hijos.
+   - **Capa 3 (Invocación inline en el HTML):** Se añadieron atributos directos `onclick="selectNovelEditionAndStart('hard')"`, `onclick="selectNovelEditionAndStart('scifi')"` y `onclick="selectNovelEditionAndStart('juvenil')"` en los botones de [`index.html`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/index.html), garantizando su activación inmediata incluso si ocurriera cualquier retardo de script.
+
+3. **Compilación y Despliegue:**
+   - Sintaxis verificada con `node -c app.js` (cero errores).
+   - Datos recompilados con `node build-novel-data.js` (hash `v=1793983755109`).
+   - Sincronizado y subido a GitHub en el commit `72f5a72` (*«fix(cover): corregir listeners de botones de edicion y salvaguardar elementos nulos»*).
+
+
+
+### 👤 Autor *(2026-11-07 08:08:00 UTC)*
+
+Genial. 
+Meti la imagen de la portada portada_imagenes\PORTADA FINAL.jpg
+El título final es Silencio Magnético
+/bill Actualiza la web con esta portada
+Necesito crear un prólogo sobre la IA y la literatura:
+- Quiero dejar claro que mi papel en esta novela no es literario, si no de dirección y coordinación. Haz un texto de cuál ha sido mi papel y cuál el de antigravity. Quiero que hables de los agentes, de cómo se fraguó la novela y qué medios técnicos se utilizaron. Se minucioso.
+
+### 🛠️ Bill & Capitán Memo *(2026-11-07 08:14:00 UTC)*
+
+**Actualización Integral de Marca, Portada Final y Redacción del Prólogo Oficial:**
+
+1. **Integración de la Portada Final (`PORTADA FINAL.jpg`):**
+   - Procesada la imagen en alta definición (1792 x 2400 px, proporción 3:4).
+   - Generada versión web ultra-optimizada en JPEG (`cover.jpg` y `img/cover.jpg`, ~870 KB para carga instantánea) y conservada versión PNG (`cover.png` y `img/cover.png`).
+   - Actualizadas todas las referencias en [`index.html`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/index.html) (hero de bienvenida, barra lateral y carátula del reproductor de audiolibro).
+
+2. **Adopción Oficial del Título Definitivo: «SILENCIO MAGNÉTICO»:**
+   - Modificados títulos y metadatos en [`novela/meta.json`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/meta.json), cabecera, barra lateral, tarjetas editoriales y sellos de sincronización en [`index.html`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/index.html).
+   - Ajustada la mención de autoría en la portada: *«Dirección & Coordinación: Pedro Garat • Realización Literaria: Antigravity (IA)»*.
+
+3. **Redacción Exhaustiva del Prólogo Oficial:**
+   - Creado el documento canónico [`novela/prologo_ia_y_literatura.md`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/novela/prologo_ia_y_literatura.md): *«La Inteligencia Artificial y la Dirección Literaria: La Creación de Silencio Magnético y el Nuevo Paradigma de Co-Creación Humano-Máquina»*.
+   - Se desglosa con máxima precisión técnica y conceptual:
+     * El rol del Autor como Director Creativo, Showrunner y Arquitecto Conceptual (concepción de la premisa, escaleta en 3 actos, arcos de personajes, tono, verosimilitud y veto final).
+     * El rol de Antigravity como estudio de producción digital asistido por agentes.
+     * La arquitectura de agentes especializados: **Miguel** (prosa y estilo cervantino), **Carl** (rigor científico y astrofísica hard sci-fi), **Alfred** (curva dramática, suspense y economía del misterio), **Bill** (ingeniería de sistemas, compilación multiversión y despliegue) y **Capitán Memo** (oficial de bitácora y memoria continua).
+     * La génesis dramática desde el pulso atómico de Trinity (1945), la convergencia matemática del Dr. Em Pleh (2026), la anulación de la magnetosfera (T=0) y la resistencia analógica.
+     * Los medios técnicos aplicados: la triple redacción simultánea (Hard Sci-Fi, Sci-Fi Narrativa y Juvenil), la plataforma web interactiva en GitHub Pages con Web Audio API FX, y la maquetación en Baskerville para los 75 PDFs editoriales.
+
+4. **Integración Web del Prólogo:**
+   - Añadido botón de acceso directo en la pantalla de portada (`#btn-open-prologue`) y en el menú lateral (`#btn-sidebar-prologue`).
+   - Implementado el modal `#modal-prologue` con renderizado dinámico Markdown integrado en [`build-novel-data.js`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/build-novel-data.js) y [`app.js`](file:///g:/OneDrive/ANTIGRAVITY/NOVELA_3/app.js).
+   - Sincronizados y desplegados todos los cambios en GitHub Pages.

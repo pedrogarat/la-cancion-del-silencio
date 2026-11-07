@@ -89,7 +89,7 @@ def main():
     print("\nAñadiendo archivos al índice de Git...")
     run_cmd("git add -A", cwd=TEMP_SYNC_DIR)
 
-    commit_msg = "fix(cover): corregir listeners de botones de edicion y salvaguardar elementos nulos"
+    commit_msg = "feat(portada): actualizar portada final, nuevo titulo Silencio Magnetico y prologo sobre IA y direccion literaria"
     print(f"\nCreando commit: '{commit_msg}'...")
     try:
         run_cmd(f'git commit -m "{commit_msg}"', cwd=TEMP_SYNC_DIR)

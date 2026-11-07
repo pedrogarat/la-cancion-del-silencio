@@ -1781,6 +1781,13 @@ body.focus-mode .reader-container { padding-top: 2rem; }
     gap: 8px;
 }
 
+.btn-prologue-cta:hover {
+    background: rgba(56, 189, 248, 0.18) !important;
+    border-color: #38bdf8 !important;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(56, 189, 248, 0.25);
+}
+
 .meta-pill {
     display: inline-flex;
     align-items: center;

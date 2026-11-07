@@ -813,10 +813,14 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     function renderCodexAndEscaleta() {
-        codexContentRendered.innerHTML = renderMarkdown(NOVEL_DATA.personajesRaw);
-        escaletaContentRendered.innerHTML = renderMarkdown(NOVEL_DATA.escaletaRaw);
+        if (codexContentRendered) codexContentRendered.innerHTML = renderMarkdown(NOVEL_DATA.personajesRaw);
+        if (escaletaContentRendered) escaletaContentRendered.innerHTML = renderMarkdown(NOVEL_DATA.escaletaRaw);
         if (genesisContentRendered && NOVEL_DATA.genesisRaw) {
             genesisContentRendered.innerHTML = renderMarkdown(NOVEL_DATA.genesisRaw);
+        }
+        const prologueContentRendered = document.getElementById('prologue-content-rendered');
+        if (prologueContentRendered && NOVEL_DATA.prologoRaw) {
+            prologueContentRendered.innerHTML = renderMarkdown(NOVEL_DATA.prologoRaw);
         }
     }
 

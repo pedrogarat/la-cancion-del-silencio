@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LA CANCIÓN DEL SILENCIO | Novela Interactiva</title>
-    <meta name="description" content="Lector oficial de la novela La Canción del Silencio.">
+    <title>SILENCIO MAGNÉTICO | Novela Multiversión</title>
+    <meta name="description" content="Lector oficial de la novela Silencio Magnético. Dirección: Pedro Garat. Realización: Antigravity AI.">
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta http-equiv="Pragma" content="no-cache">
     <meta http-equiv="Expires" content="0">
@@ -17,7 +17,7 @@
         href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Outfit:wght@400;600;700;800&display=swap"
         rel="stylesheet">
 
-    <link rel="stylesheet" href="style.css?v=1793983755109">
+    <link rel="stylesheet" href="style.css?v=1794039209342">
 </head>
 
 <body>
@@ -41,7 +41,7 @@
                 <div class="brand" id="brand-home-link" onclick="showCoverLanding()" style="cursor: pointer;" title="Ir a la Portada y Selector de Ediciones">
                     <span class="brand-logo">⚡</span>
                     <div class="brand-text">
-                        <span class="brand-title">LA CANCIÓN DEL SILENCIO</span>
+                        <span class="brand-title">SILENCIO MAGNÉTICO</span>
                         <div class="brand-version-container"
                             style="display: flex; align-items: center; gap: 6px; margin-top: 2px;">
                             <span id="brand-last-updated" class="brand-last-updated"
@@ -107,11 +107,11 @@
         <aside id="sidebar" class="sidebar">
             <div class="sidebar-header">
                 <div class="sidebar-cover" id="sidebar-cover-link" style="cursor: pointer;" title="Ir a la Portada">
-                    <img src="cover.png" alt="Portada de la Novela" class="sidebar-cover-img">
+                    <img src="cover.jpg" alt="Portada de Silencio Magnético" class="sidebar-cover-img">
                 </div>
                 <div class="sidebar-info">
-                    <h3>LA CANCIÓN DEL SILENCIO</h3>
-                    <p class="sidebar-author">Autor: <strong>Pedro Garat + Antigravity</strong></p>
+                    <h3>SILENCIO MAGNÉTICO</h3>
+                    <p class="sidebar-author">Dirección: <strong>Pedro Garat</strong> &bull; IA: <strong>Antigravity</strong></p>
                     <p class="sidebar-stats" id="sidebar-stats-text">25 Capítulos &bull; ~360 Páginas &bull; ~122.000
                         Palabras</p>
                     <p class="sidebar-build-info"
@@ -123,6 +123,9 @@
                     <button id="btn-sidebar-cover" class="btn-mini-refresh" onclick="showCoverLanding()"
                         style="margin-top: 6px; padding: 6px 10px; font-size: 0.72rem; width: 100%; justify-content: center; background: rgba(56, 189, 248, 0.12); border: 1px solid #38bdf8; color: #38bdf8;"
                         title="Ver portada y seleccionar edición">🖼️ Portada y Selector de Edición</button>
+                    <button id="btn-sidebar-prologue" class="btn-mini-refresh" onclick="openModal('modal-prologue')"
+                        style="margin-top: 6px; padding: 6px 10px; font-size: 0.72rem; width: 100%; justify-content: center; background: rgba(168, 85, 247, 0.12); border: 1px solid #c084fc; color: #c084fc;"
+                        title="Leer el prólogo sobre el método de co-creación con IA">📖 Prólogo: IA y Literatura</button>
                 </div>
                 <button id="btn-close-sidebar" class="close-btn" aria-label="Cerrar">&times;</button>
             </div>
@@ -147,14 +150,14 @@
                     <!-- Tarjeta Heroica: Portada e Información de la Obra -->
                     <div class="cover-hero-card">
                         <div class="cover-image-box">
-                            <img src="cover.png" alt="Portada de La Canción del Silencio" class="cover-hero-img">
+                            <img src="cover.jpg" alt="Portada de Silencio Magnético" class="cover-hero-img">
                             <div class="cover-glow-ambient"></div>
                         </div>
 
                         <div class="cover-hero-info">
                             <div class="cover-kicker">NOVELA DE CIENCIA FICCIÓN &bull; 25 CAPÍTULOS</div>
-                            <h1 class="cover-hero-title">LA CANCIÓN DEL SILENCIO</h1>
-                            <p class="cover-hero-author">Pedro Garat &bull; Antigravity</p>
+                            <h1 class="cover-hero-title">SILENCIO MAGNÉTICO</h1>
+                            <p class="cover-hero-author">Dirección &amp; Coordinación: <strong>Pedro Garat</strong> &bull; Realización Literaria: <strong>Antigravity (IA)</strong></p>
                             <div class="cover-hero-divider"></div>
                             <p class="cover-hero-summary">
                                 Una perturbación invisible empieza a alterar los instrumentos más sensibles de la Tierra. Tres científicos de vanguardia, en distintos rincones del planeta, reciben respuestas teóricas a problemas imposibles de un colaborador anónimo. Mientras los cielos ofrecen señales desconcertantes y una silenciosa cuenta atrás se pone en marcha, la humanidad se adentra en una carrera contra el tiempo donde cada hallazgo desafía todo lo que creíamos saber sobre el cosmos... y sobre nosotros mismos.
@@ -164,6 +167,16 @@
                                 <span class="meta-pill">📄 388 Páginas</span>
                                 <span class="meta-pill">⏱️ ~120.000 Palabras</span>
                                 <span class="meta-pill highlight">✨ 3 Ediciones Literarias</span>
+                            </div>
+
+                            <div class="cover-prologue-action" style="margin-top: 1.25rem;">
+                                <button id="btn-open-prologue" class="btn-prologue-cta" onclick="openModal('modal-prologue')"
+                                    style="display: inline-flex; align-items: center; gap: 8px; padding: 0.65rem 1.25rem; background: rgba(56, 189, 248, 0.08); border: 1px solid rgba(56, 189, 248, 0.4); border-radius: 10px; color: #38bdf8; font-size: 0.88rem; font-weight: 500; cursor: pointer; transition: all 0.25s ease;"
+                                    title="Leer el prólogo del autor sobre el papel de la IA y la dirección literaria">
+                                    <span>📖</span>
+                                    <span>Prólogo del Director: <strong>La IA y la Literatura</strong> (Pedro Garat)</span>
+                                    <span>→</span>
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -341,7 +354,7 @@
                 <!-- Sello de Última Actualización Visible al Final del Capítulo -->
                 <div class="reader-build-stamp"
                     style="text-align: center; margin: 2.5rem 0 1.5rem 0; padding: 1rem; border-top: 1px solid var(--border-color, rgba(255,255,255,0.08)); font-size: 0.78rem; color: var(--text-muted, #94a3b8); font-family: 'JetBrains Mono', monospace;">
-                    <span>⚡ <em>La Canción del Silencio</em> &bull; Última compilación sincronizada: <strong
+                    <span>⚡ <em>Silencio Magnético</em> &bull; Última compilación sincronizada: <strong
                             id="reader-last-updated" style="color: #38bdf8;">-</strong></span>
                     <div style="margin-top: 8px;">
                         <button id="btn-footer-refresh" class="btn-mini-refresh"
@@ -468,6 +481,21 @@
         </div>
     </div>
 
+    <!-- MODAL PRÓLOGO: La IA y la Dirección Literaria -->
+    <div id="modal-prologue" class="modal-overlay hidden">
+        <div class="modal-box modal-large glass" style="max-width: 900px; max-height: 88vh;">
+            <div class="modal-header">
+                <h3>📖 Prólogo: La IA y la Dirección Literaria</h3>
+                <button class="close-btn" onclick="closeModal('modal-prologue')">&times;</button>
+            </div>
+            <div class="modal-body" style="padding: 1.5rem 2rem;">
+                <div id="prologue-content-rendered" class="markdown-rendered" style="line-height: 1.8; font-size: 1.02rem;">
+                    <!-- Se puebla dinámicamente desde prologo_ia_y_literatura.md -->
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- MODAL 4: Buscador Global -->
     <div id="modal-search" class="modal-overlay hidden">
         <div class="modal-box glass">
@@ -502,7 +530,7 @@
                 <!-- Columna Izquierda: Reproductor Principal y Controles -->
                 <div class="audiobook-player-card">
                     <div class="audiobook-cover-container">
-                        <img id="ab-cover-img" src="cover.png" alt="Carátula Audiolibro" class="ab-cover-img">
+                        <img id="ab-cover-img" src="cover.jpg" alt="Carátula Audiolibro Silencio Magnético" class="ab-cover-img">
                         <div id="ab-equalizer" class="ab-equalizer hidden">
                             <div class="eq-bar"></div>
                             <div class="eq-bar"></div>
@@ -650,8 +678,8 @@
     </div>
 
     <!-- Cargar Datos y Lógica de la App (con control de versión para forzar actualización en móviles) -->
-    <script src="chapters-data.js?v=1793983755109"></script>
-    <script src="app.js?v=1793983755109"></script>
+    <script src="chapters-data.js?v=1794039209342"></script>
+    <script src="app.js?v=1794039209342"></script>
 </body>
 
 </html>
